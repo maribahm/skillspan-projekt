@@ -1,0 +1,46 @@
+{
+  "train": {
+    "saetze_roh": 4800,
+    "bio_reparaturen": 0,
+    "geteilte_lange_saetze": 77,
+    "saetze_verarbeitet": 4913,
+    "skill_spans": 2221,
+    "knowledge_spans": 2969,
+    "saetze_ohne_span": 3283,
+    "quellen": {
+      "tech": 3226,
+      "house": 1687
+    },
+    "max_woerter_pro_satz": 100
+  },
+  "dev": {
+    "saetze_roh": 3174,
+    "bio_reparaturen": 0,
+    "saetze_verarbeitet": 3174,
+    "skill_spans": 1070,
+    "knowledge_spans": 1093,
+    "saetze_ohne_span": 2260,
+    "quellen": {
+      "tech": 2156,
+      "house": 1018
+    },
+    "max_woerter_pro_satz": 80,
+    "identisch_mit_train": 659,
+    "identisch_mit_train_mit_span": 13
+  },
+  "test": {
+    "saetze_roh": 3569,
+    "bio_reparaturen": 1,
+    "saetze_verarbeitet": 3569,
+    "skill_spans": 1091,
+    "knowledge_spans": 1174,
+    "saetze_ohne_span": 2595,
+    "quellen": {
+      "tech": 2286,
+      "house": 1283
+    },
+    "max_woerter_pro_satz": 149,
+    "identisch_mit_train": 812,
+    "identisch_mit_train_mit_span": 52
+  }
+}

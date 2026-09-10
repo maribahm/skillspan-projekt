@@ -1,0 +1,12 @@
+{
+  "skill": [
+    "O",
+    "B-SKILL",
+    "I-SKILL"
+  ],
+  "knowledge": [
+    "O",
+    "B-KNOWLEDGE",
+    "I-KNOWLEDGE"
+  ]
+}
