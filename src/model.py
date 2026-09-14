@@ -40,7 +40,7 @@ def compact(emissions, mask, tags=None):
     """
     batch, _, num_tags = emissions.shape
     counts = mask.sum(1)
-    width = int(counts.max().item())
+    width = max(int(counts.max().item()), 1)
     device = emissions.device
     out_em = emissions.new_zeros(batch, width, num_tags)
     out_mask = torch.zeros(batch, width, dtype=torch.bool, device=device)
@@ -49,6 +49,16 @@ def compact(emissions, mask, tags=None):
     for b in range(batch):
         idx = mask[b].nonzero(as_tuple=True)[0]
         n = idx.numel()
+        if n == 0:
+            # Satz ohne eine einzige gelabelte Position. Kommt vor, wenn ein "Satz"
+            # nur aus Steuerzeichen besteht (z. B. '\u200d') und der Tokenizer alles
+            # entfernt. Ohne diesen Fall waere die Folge leer, mask.sum()-1 = -1 und
+            # der Zugriff auf Position -1 loest auf der GPU einen device-side assert aus.
+            # Ersatz: eine Ein-Token-Folge mit Tag O.
+            out_em[b, 0] = emissions[b, 0]
+            out_mask[b, 0] = True
+            out_idx[b, 0] = 0
+            continue
         out_em[b, :n] = emissions[b, idx]
         out_mask[b, :n] = True
         out_idx[b, :n] = idx
@@ -127,7 +137,7 @@ class CRF(nn.Module):
         for i in range(1, seq_len):
             step = trans[tags[:, i - 1], tags[:, i]] + emissions[:, i].gather(1, tags[:, i:i + 1]).squeeze(1)
             score = score + step * mask[:, i]
-        last = mask.sum(1).long() - 1                      # Index des letzten echten Tokens
+        last = (mask.sum(1).long() - 1).clamp(min=0)     # Index des letzten echten Tokens
         score = score + self.end[tags.gather(1, last.unsqueeze(1)).squeeze(1)]
         return score
 

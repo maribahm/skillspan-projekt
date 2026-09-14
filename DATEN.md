@@ -64,4 +64,10 @@ Dev und Test werden nicht gekuerzt oder gefiltert, damit die Evaluation mit dem 
 5. **Steuerzeichen als Tokens:** Einige Tokens bestehen nur aus Zeichen wie `\x95`, `\x1a` oder
    `\u200d`. Tokenizer entfernen sie komplett. Alle tragen das Label O; `to_word_level()` setzt fuer
    sie O ein, es geht also kein Span verloren.
+   Sonderfall: 1 Train- und 6 Dev-Saetze bestehen *nur* aus so einem Zeichen. Nach der
+   Tokenisierung bleibt dort keine einzige gelabelte Position uebrig. Der CRF wuerde auf eine
+   leere Folge zugreifen (Index -1) und auf der GPU mit einem device-side assert abbrechen.
+   `compact()` in `src/model.py` faengt das ab und ersetzt solche Saetze durch eine
+   Ein-Token-Folge mit Tag O. Auf die Span-Metriken hat das keinen Einfluss, weil diese
+   Saetze ohnehin keine Spans enthalten.
 6. **Anonymisierung:** Firmennamen u. Ae. sind durch Platzhalter wie `<ORGANIZATION>` ersetzt.
