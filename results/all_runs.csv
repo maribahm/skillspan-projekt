@@ -3,3 +3,5 @@ bert_skill,bert-base-
 cased,crf,skill,first,3477689,18,48.8,0.5705,0.4638,0.5116,0.5073
 bert_skill,bert-base-
 cased,crf,skill,first,4213916,12,27.8,0.5678,0.4757,0.5177,0.5137
+bert_skill,bert-base-
+cased,crf,skill,first,8749520,12,30.5,0.5609,0.4519,0.5005,0.4958
