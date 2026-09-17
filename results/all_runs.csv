@@ -7,3 +7,5 @@ bert_skill,bert-base-
 cased,crf,skill,first,8749520,12,30.5,0.5609,0.4519,0.5005,0.4958
 jobbert_skill,jjzha/jobbert-base-
 cased,crf,skill,first,3477689,10,29.6,0.5852,0.538,0.5606,0.5582
+jobbert_skill,jjzha/jobbert-base-
+cased,crf,skill,first,4213916,12,29.4,0.591,0.5298,0.5587,0.5562
