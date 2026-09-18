@@ -11,3 +11,6 @@ jobbert_skill,jjzha/jobbert-base-
 cased,crf,skill,first,4213916,12,29.4,0.591,0.5298,0.5587,0.5562
 jobbert_skill,jjzha/jobbert-base-
 cased,crf,skill,first,8749520,7,28.9,0.5476,0.5115,0.5289,0.5254
+jobbert_skill_linear,jjzha/jobbert-base-cased,linear,skill,first,4213916,11,28.6,0.4991,0.5344,0.5162,0.5125
+jobbert_skill_linear,jjzha/jobbert-base-cased,linear,skill,first,3477689,6,28.3,0.4982,0.505,0.5016,0.4974
+jobbert_skill_linear,jjzha/jobbert-base-cased,linear,skill,first,8749520,9,25.8,0.4971,0.5445,0.5197,0.5162
