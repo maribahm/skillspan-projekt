@@ -1,0 +1,26 @@
+Softwareentwickler (m/w/d)
+bei
+Hamburger Pensionsverwaltung eGPersonalverwaltung
+Das Wichtigste im Überblick
+Besondere Merkmale
+In unserem Team entwickeln wir moderne Softwarelösungen, Web‑Anwendungen und digitale Services. Wir arbeiten mit einem aktuellen Technologie‑Stack und setzen auf agile Zusammenarbeit in Scrum‑Teams. Die enge Abstimmung mit unseren Fachbereichen gehört für uns zum Alltag.
+Themen wie Infrastructure as Code, Cloud‑Technologien, Clean Code, moderne Architekturen und der sinnvolle Einsatz von KI sind bei uns gelebte Praxis. Unser Technologie‑Stack umfasst u. a. Grafana Cloud, Kubernetes, AWS, Terraform, Crossplane, ArgoCD, Tilt, Atlas MongoDB sowie aktuelle Versionen von Spring Boot und Java.
+Gesucht wird eine Persönlichkeit mit Leidenschaft für Softwareentwicklung und DevOps, die gemeinsam mit uns neue Lösungen entwickelt und bestehende Systeme modernisiert. Entscheidend sind Lernbereitschaft,
+Qualitätsbewusstsein und der Wille, sich kontinuierlich weiterzuentwickeln – nicht das Beherrschen aller
+Technologien von Beginn an.
+Bei Interesse an nachhaltiger Softwareentwicklung bewirb dich bei uns als
+Softwareentwickler (m/w/d)
+Deine Aufgaben
+- Entwicklung und Betrieb einer modernen, cloudbasierten Plattform zur Digitalisierung interner Verwaltungsprozesse in enger Zusammenarbeit mit dem Team
+- Optimierung der Entwicklungs‑, Test‑ und Produktionsumgebungen sowie Sicherstellung eines stabilen, sicheren und skalierbaren Betriebs in Abstimmung mit deinem Team
+- Eigenverantwortliche Weiterentwicklung fachlicher und technischer Lösungskonzepte – von der Idee bis zur Umsetzung
+- Weiterentwicklung von CI/CD‑Pipelines sowie Verbesserung von Build‑, Test‑ und Deployment‑Workflows
+- Umsetzung neuer fachlicher Anforderungen und technischer Schnittstellen in Java‑basierten Microservices
+- Aktive Mitgestaltung der Cloud‑Architektur und digitalen Plattformen durch das Einbringen eigener Ideen
+Dein Profil
+- (Fach-)Hochschulstudium im Bereich Informatik mit gutem Abschluss oder eine vergleichbare Qualifikation
+- Sicherer Umgang mit einer objektorientierten Programmiersprache (z.B. Java)
+- Idealerweise Erfahrung mit AWS, CI/CD und modernen DevOps-Methoden. Begeisterung für Cloud-Technologien, Automatisierung und technische Herausforderungen.
+- Idealerweise erste Berührungspunkte mit künstlicher Intelligenz
+- Hohes Maß an Selbstständigkeit, Verantwortungsbewusstsein und Teamfähigkeit
+- Fließende Deutschkenntnisse in Wort und Schrift

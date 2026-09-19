@@ -1,0 +1,21 @@
+Fachinformatiker Systemintegration/ IT-Systemadmin. (m/w/d)
+bei
+Sambus GmbH
+Das Wichtigste im Überblick
+Besondere Merkmale
+Seit 1992 sind wir das IT-Systemhaus deines Vertrauens und betreuen kleinere und mittelständische Unternehmen in sämtlichen IT-Fragen. Unser Team setzt auf Kommunikation, Gemeinschaft, Empathie und Zuverlässigkeit - Werte, die bei uns gelebt werden. Unsere Expertise reicht von Microsoft-Anwendungen über Hardware, Cloud-Produkte bis hin zu innovativen Sicherheits- und Storage-Lösungen. Wenn du Lust hast, maßgeschneiderte IT-Lösungen zu entwickeln und umzusetzen, dann bist du bei uns genau richtig. Werde Teil unseres Teams und gestalte die digitale Zukunft mit uns!
+Aufgaben
+- Administration und Wartung der IT-Systeme unserer Kunden (Server, Netzwerke, Clients)
+- Installation, Konfiguration und Updates von Hardware und Software bei Kunden (Schwerpunkt: Windows Server, Hyper-V, VMware, Microsoft 365)
+- Sicherstellung der IT-Sicherheit bei Kunden durch Implementierung von Firewall-, Backup- und Recovery-Lösungen
+- Kundensupport und technische Beratung in Bezug auf IT-Projekte und alltägliche Herausforderungen
+- Planung, Beratung und Durchführung von Backup- und Wiederherstellungsprozessen
+- Kontinuierliche Anpassung von Sicherheitslösungen gegen Cyberbedrohungen
+Qualifikation
+- Abgeschlossene Ausbildung zum Fachinformatiker Systemintegration/-administration oder vergleichbare Qualifikation
+- Mindestens 3 Jahre Berufserfahrung als IT-Systemadministrator oder in einer vergleichbaren Position
+- Sehr gute Kenntnisse in Microsoft 365 sowie Erfahrung mit Active Directory und Virtualisierungstools (z.B. VMware, Hyper-V)
+- Kenntnisse in IT-Security (Firewall, VPN, Verschlüsselung) und Datenschutzrichtlinien, idealerweise im Kontext verschiedener Kundenprojekte
+- Selbstständige und strukturierte Arbeitsweise mit hohem Kundenfokus
+- Kommunikationsstärke und Freude daran, kundenorientierte IT-Lösungen zu entwickeln
+- Mindestens C1-Niveau in Deutsch

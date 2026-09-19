@@ -1,0 +1,23 @@
+Data Engineer (m/w/d)
+bei
+expertum GmbH
+Know-how erforderlich. Diese Werft verfügt über diese Kompetenzen und liefert intelligente Lösungen. Wir suchen zum nächstmöglichen Zeitpunkt einen Data Engineer (m/w/d) in Vollzeit.
+>> Die Vergütung erfolgt nach Branchenzuschlagstarif Metall & Elektro
+DIES SIND IHRE AUFGABEN:
+Sie möchten moderne Datenarchitekturen nicht nur betreiben, sondern aktiv mitgestalten? Als Data
+Engineer (m/w/d) wirken Sie an der Weiterentwicklung unserer Datenlandschaft mit und schaffen eine zuverlässige Grundlage für die datengetriebene Arbeit der Fachbereiche.
+- Sie wirken bei der Konzeption, Umsetzung und dem Betrieb unserer modernen On-Premises-Lakehouse-Architektur mit.
+- Sie entwickeln, betreiben und optimieren ETL- bzw. Datenpipelines zur Integration und Verarbeitung unterschiedlicher Datenquellen.
+- Sie unterstützen die Weiterentwicklung und Modernisierung bestehender Data-Warehouse-Strukturen, unter anderem im Snowflake-Umfeld.
+- Sie stellen eine hohe Datenqualität und Datenverfügbarkeit sicher und identifizieren Optimierungsmöglichkeiten.
+- Gemeinsam mit den Fachbereichen übersetzen Sie fachliche Anforderungen in praktikable Datenlösungen.
+- Darüber hinaus bringen Sie sich in angrenzende Entwicklungs- und DevOps-Themen ein.
+DAS BRINGEN SIE MIT:
+- Ein abgeschlossenes Studium im Bereich Informatik, Wirtschaftsinformatik, Data Science oder eine vergleichbare Qualifikation mit entsprechender Berufserfahrung
+- Berufserfahrung im Data Engineering sowie in der Entwicklung und Optimierung von ETL-Prozessen bzw. Datenpipelines
+- Sehr gute Kenntnisse in SQL und Erfahrung in der Programmierung mit Python
+- Erfahrung mit modernen Data-Warehouse- oder Lakehouse-Architekturen
+- Kenntnisse in Snowflake, Apache Iceberg, Trino, Nessie, Lakekeeper, SQLMesh oder vergleichbaren Technologien sind von Vorteil
+- Kenntnisse im Umgang mit Linux, GitLab oder Oracle sind ebenfalls willkommen
+- Eine selbstständige, strukturierte und lösungsorientierte Arbeitsweise
+- Gute Deutsch- und Englischkenntnisse sowie Freude an der Zusammenarbeit mit unterschiedlichen Fachbereichen
