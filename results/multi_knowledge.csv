@@ -1,0 +1,4 @@
+name,seed,test_p_knowledge,test_r_knowledge,test_f1_knowledge,test_f1_unseen_knowledge
+jobbert_multi,3477689,0.6492,0.7504,0.6962,0.6953
+jobbert_multi,4213916,0.6434,0.7394,0.6881,0.6877
+jobbert_multi,8749520,0.6594,0.7521,0.7027,0.7037

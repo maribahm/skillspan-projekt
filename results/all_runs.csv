@@ -17,3 +17,6 @@ jobbert_skill_linear,jjzha/jobbert-base-cased,linear,skill,first,8749520,9,25.8,
 jobbert_knowledge,jjzha/jobbert-base-cased,crf,knowledge,first,3477689,8,28.4,0.6525,0.7053,0.6779,0.6768
 jobbert_knowledge,jjzha/jobbert-base-cased,crf,knowledge,first,4213916,3,28.4,0.637,0.7325,0.6815,0.6808
 jobbert_knowledge,jjzha/jobbert-base-cased,crf,knowledge,first,8749520,11,28.3,0.6648,0.7061,0.6848,0.6843
+jobbert_multi,jjzha/jobbert-base-cased,crf,multi,first,3477689,11,,0.5694,0.5756,0.5725,0.5705
+jobbert_multi,jjzha/jobbert-base-cased,crf,multi,first,4213916,9,,0.5724,0.5289,0.5498,0.5470
+jobbert_multi,jjzha/jobbert-base-cased,crf,multi,first,8749520,11,,0.5627,0.5307,0.5462,0.5433
