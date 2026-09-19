@@ -20,3 +20,4 @@ jobbert_knowledge,jjzha/jobbert-base-cased,crf,knowledge,first,8749520,11,28.3,0
 jobbert_multi,jjzha/jobbert-base-cased,crf,multi,first,3477689,11,,0.5694,0.5756,0.5725,0.5705
 jobbert_multi,jjzha/jobbert-base-cased,crf,multi,first,4213916,9,,0.5724,0.5289,0.5498,0.5470
 jobbert_multi,jjzha/jobbert-base-cased,crf,multi,first,8749520,11,,0.5627,0.5307,0.5462,0.5433
+xlmr_skill_de,xlm-roberta-base,crf,skill,first,3477689,12,,0.2652,0.2606,0.2629,0.2629
