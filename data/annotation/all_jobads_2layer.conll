@@ -1,0 +1,8098 @@
+# doc_id = 01_performance-marketing-manager
+# sent_id = 01_performance-marketing-manager-0001-1
+# text = Performance Marketing Manager (m/w/d)
+Performance	O	O
+Marketing	O	O
+Manager	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 01_performance-marketing-manager-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 01_performance-marketing-manager-0003-1
+# text = s w personalmanagement GmbH
+s	O	O
+w	O	O
+personalmanagement	O	O
+GmbH	O	O
+
+# sent_id = 01_performance-marketing-manager-0004-1
+# text = Das wird gesucht:
+Das	O	O
+wird	O	O
+gesucht	O	O
+:	O	O
+
+# sent_id = 01_performance-marketing-manager-0005-1
+# text = Für unseren langjährigen Kunden in der Nähe von Quickborn suchen wir einen Performance Marketing Manager (m/w/d).
+Für	O	O
+unseren	O	O
+langjährigen	O	O
+Kunden	O	O
+in	O	O
+der	O	O
+Nähe	O	O
+von	O	O
+Quickborn	O	O
+suchen	O	O
+wir	O	O
+einen	O	O
+Performance	O	O
+Marketing	O	O
+Manager	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+.	O	O
+
+# sent_id = 01_performance-marketing-manager-0006-1
+# text = Welche Aufgaben erwarten Sie?
+Welche	O	O
+Aufgaben	O	O
+erwarten	O	O
+Sie	O	O
+?	O	O
+
+# sent_id = 01_performance-marketing-manager-0007-1
+# text = - Konzeption und Realisierung digitaler Maßnahmen zur Leadgenerierung und Vertriebsunterstützung im B2B-Umfeld
+-	O	O
+Konzeption	B-SKILL	O
+und	I-SKILL	O
+Realisierung	I-SKILL	O
+digitaler	I-SKILL	O
+Maßnahmen	I-SKILL	O
+zur	I-SKILL	O
+Leadgenerierung	I-SKILL	O
+und	I-SKILL	O
+Vertriebsunterstützung	I-SKILL	O
+im	I-SKILL	O
+B2B-Umfeld	I-SKILL	O
+
+# sent_id = 01_performance-marketing-manager-0008-1
+# text = - Verantwortung für Inhalte, Aktualität und Weiterentwicklung der Unternehmenswebsite
+-	O	O
+Verantwortung	B-SKILL	O
+für	I-SKILL	O
+Inhalte	I-SKILL	O
+,	I-SKILL	O
+Aktualität	I-SKILL	O
+und	I-SKILL	O
+Weiterentwicklung	I-SKILL	O
+der	I-SKILL	O
+Unternehmenswebsite	I-SKILL	O
+
+# sent_id = 01_performance-marketing-manager-0009-1
+# text = - Ausbau der Online-Sichtbarkeit durch gezielte Maßnahmen in Suchmaschinenmarketing und Suchmaschinenoptimierung
+-	O	O
+Ausbau	B-SKILL	O
+der	I-SKILL	O
+Online-Sichtbarkeit	I-SKILL	O
+durch	I-SKILL	O
+gezielte	I-SKILL	O
+Maßnahmen	I-SKILL	O
+in	I-SKILL	O
+Suchmaschinenmarketing	I-SKILL	B-KNOWLEDGE
+und	I-SKILL	O
+Suchmaschinenoptimierung	I-SKILL	B-KNOWLEDGE
+
+# sent_id = 01_performance-marketing-manager-0010-1
+# text = - Analyse und Verbesserung der Performance digitaler Kanäle und Kampagnen
+-	O	O
+Analyse	B-SKILL	O
+und	I-SKILL	O
+Verbesserung	I-SKILL	O
+der	I-SKILL	O
+Performance	I-SKILL	O
+digitaler	I-SKILL	O
+Kanäle	I-SKILL	O
+und	I-SKILL	O
+Kampagnen	I-SKILL	O
+
+# sent_id = 01_performance-marketing-manager-0011-1
+# text = - Entwicklung und Aufbereitung von Inhalten für Website, Social Media und E-Mail-Marketing
+-	O	O
+Entwicklung	B-SKILL	O
+und	I-SKILL	O
+Aufbereitung	I-SKILL	O
+von	I-SKILL	O
+Inhalten	I-SKILL	O
+für	I-SKILL	O
+Website	I-SKILL	O
+,	I-SKILL	O
+Social	I-SKILL	B-KNOWLEDGE
+Media	I-SKILL	I-KNOWLEDGE
+und	I-SKILL	O
+E-Mail-Marketing	I-SKILL	B-KNOWLEDGE
+
+# sent_id = 01_performance-marketing-manager-0012-1
+# text = - Erstellung und Abstimmung von Kommunikations- und Vertriebsunterlagen für digitale und gedruckte Formate
+-	O	O
+Erstellung	B-SKILL	O
+und	I-SKILL	O
+Abstimmung	I-SKILL	O
+von	I-SKILL	O
+Kommunikations	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Vertriebsunterlagen	I-SKILL	O
+für	O	O
+digitale	O	O
+und	O	O
+gedruckte	O	O
+Formate	O	O
+
+# sent_id = 01_performance-marketing-manager-0013-1
+# text = - Steuerung externer Partner, Agenturen und Dienstleister
+-	O	O
+Steuerung	B-SKILL	O
+externer	I-SKILL	O
+Partner	I-SKILL	O
+,	I-SKILL	O
+Agenturen	I-SKILL	O
+und	I-SKILL	O
+Dienstleister	I-SKILL	O
+
+# sent_id = 01_performance-marketing-manager-0014-1
+# text = - Enge Zusammenarbeit mit Vertrieb und weiteren internen Fachbereichen
+-	O	O
+Enge	B-SKILL	O
+Zusammenarbeit	I-SKILL	O
+mit	I-SKILL	O
+Vertrieb	I-SKILL	O
+und	I-SKILL	O
+weiteren	I-SKILL	O
+internen	I-SKILL	O
+Fachbereichen	I-SKILL	O
+
+# sent_id = 01_performance-marketing-manager-0015-1
+# text = - Begleitung der digitalen Weiterentwicklung des Marketings
+-	O	O
+Begleitung	O	O
+der	O	O
+digitalen	O	O
+Weiterentwicklung	O	O
+des	O	O
+Marketings	O	O
+
+# sent_id = 01_performance-marketing-manager-0016-1
+# text = - Unterstützung beim Aufbau eines professionellen Produktmarketings
+-	O	O
+Unterstützung	O	O
+beim	O	O
+Aufbau	B-SKILL	O
+eines	I-SKILL	O
+professionellen	I-SKILL	O
+Produktmarketings	I-SKILL	O
+
+# sent_id = 01_performance-marketing-manager-0017-1
+# text = - Mitarbeit bei Planung, Überwachung und Einhaltung des Marketingbudgets
+-	O	O
+Mitarbeit	O	O
+bei	O	O
+Planung	B-SKILL	O
+,	I-SKILL	O
+Überwachung	I-SKILL	O
+und	I-SKILL	O
+Einhaltung	I-SKILL	O
+des	I-SKILL	O
+Marketingbudgets	I-SKILL	O
+
+# sent_id = 01_performance-marketing-manager-0018-1
+# text = Was bringen Sie mit?
+Was	O	O
+bringen	O	O
+Sie	O	O
+mit	O	O
+?	O	O
+
+# sent_id = 01_performance-marketing-manager-0019-1
+# text = - Erste Berufserfahrung von mindestens zwei Jahren im digitalen Marketing, idealerweise mit B2B-Bezug
+-	O	O
+Erste	O	O
+Berufserfahrung	O	O
+von	O	O
+mindestens	O	O
+zwei	O	O
+Jahren	O	O
+im	O	O
+digitalen	O	B-KNOWLEDGE
+Marketing	O	I-KNOWLEDGE
+,	O	O
+idealerweise	O	O
+mit	O	O
+B2B-Bezug	O	O
+
+# sent_id = 01_performance-marketing-manager-0020-1
+# text = - Praxis im Einsatz gängiger Marketing- und Analyseplattformen wie Google Ads, Google Analytics, WordPress, Mailchimp oder Canva
+-	O	O
+Praxis	B-SKILL	O
+im	I-SKILL	O
+Einsatz	I-SKILL	O
+gängiger	I-SKILL	O
+Marketing	I-SKILL	B-KNOWLEDGE
+-	I-SKILL	I-KNOWLEDGE
+und	I-SKILL	I-KNOWLEDGE
+Analyseplattformen	I-SKILL	I-KNOWLEDGE
+wie	O	O
+Google	O	B-KNOWLEDGE
+Ads	O	I-KNOWLEDGE
+,	O	O
+Google	O	B-KNOWLEDGE
+Analytics	O	I-KNOWLEDGE
+,	O	O
+WordPress	O	B-KNOWLEDGE
+,	O	O
+Mailchimp	O	B-KNOWLEDGE
+oder	O	O
+Canva	O	B-KNOWLEDGE
+
+# sent_id = 01_performance-marketing-manager-0021-1
+# text = - Erfahrung in der redaktionellen Pflege von Webseiten und digitalen Inhalten
+-	O	O
+Erfahrung	O	O
+in	O	O
+der	O	O
+redaktionellen	B-SKILL	O
+Pflege	I-SKILL	O
+von	I-SKILL	O
+Webseiten	I-SKILL	O
+und	I-SKILL	O
+digitalen	I-SKILL	O
+Inhalten	I-SKILL	O
+
+# sent_id = 01_performance-marketing-manager-0022-1
+# text = - Basiswissen in der Bearbeitung von Bildern und Videos
+-	O	O
+Basiswissen	O	O
+in	O	O
+der	O	O
+Bearbeitung	B-SKILL	O
+von	I-SKILL	O
+Bildern	I-SKILL	O
+und	I-SKILL	O
+Videos	I-SKILL	O
+
+# sent_id = 01_performance-marketing-manager-0023-1
+# text = - Gespür für zielgruppengerechte Kommunikation, überzeugende Texte und kreative Inhalte
+-	O	O
+Gespür	B-SKILL	O
+für	I-SKILL	O
+zielgruppengerechte	I-SKILL	O
+Kommunikation	I-SKILL	O
+,	I-SKILL	O
+überzeugende	I-SKILL	O
+Texte	I-SKILL	O
+und	I-SKILL	O
+kreative	I-SKILL	O
+Inhalte	I-SKILL	O
+
+# sent_id = 01_performance-marketing-manager-0024-1
+# text = - Selbstständige, strukturierte und umsetzungsstarke Arbeitsweise
+-	O	O
+Selbstständige	B-SKILL	O
+,	I-SKILL	O
+strukturierte	I-SKILL	O
+und	I-SKILL	O
+umsetzungsstarke	I-SKILL	O
+Arbeitsweise	I-SKILL	O
+
+# sent_id = 01_performance-marketing-manager-0025-1
+# text = - Sehr gute Kommunikationsfähigkeit auf Deutsch und Englisch in Wort und Schrift
+-	O	O
+Sehr	O	O
+gute	O	O
+Kommunikationsfähigkeit	B-SKILL	O
+auf	I-SKILL	O
+Deutsch	I-SKILL	B-KNOWLEDGE
+und	I-SKILL	O
+Englisch	I-SKILL	B-KNOWLEDGE
+in	I-SKILL	O
+Wort	I-SKILL	O
+und	I-SKILL	O
+Schrift	I-SKILL	O
+
+# doc_id = 02_social-media-manager
+# sent_id = 02_social-media-manager-0001-1
+# text = Social Media Manager:in
+Social	O	O
+Media	O	O
+Manager	O	O
+:	O	O
+in	O	O
+
+# sent_id = 02_social-media-manager-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 02_social-media-manager-0003-1
+# text = alfatraining Bildungszentrum GmbH
+alfatraining	O	O
+Bildungszentrum	O	O
+GmbH	O	O
+
+# sent_id = 02_social-media-manager-0004-1
+# text = ertenwissen weiter und gestalten Sie die Weiterbildung der neuesten Generation!
+ertenwissen	O	O
+weiter	O	O
+und	O	O
+gestalten	O	O
+Sie	O	O
+die	O	O
+Weiterbildung	O	O
+der	O	O
+neuesten	O	O
+Generation	O	O
+!	O	O
+
+# sent_id = 02_social-media-manager-0005-1
+# text = Ihr Einsatzbereich
+Ihr	O	O
+Einsatzbereich	O	O
+
+# sent_id = 02_social-media-manager-0006-1
+# text = Sie unterrichten hochqualifizierte Personen mit abgeschlossenem Studium oder Ausbildung im Bereich Marketing, Medien, Journalismus, Betriebswirtschaft oder Geistes- und Sprachwissenschaften oder mit vergleichbarer Berufserfahrung.
+Sie	O	O
+unterrichten	O	O
+hochqualifizierte	O	O
+Personen	O	O
+mit	O	O
+abgeschlossenem	O	O
+Studium	O	O
+oder	O	O
+Ausbildung	O	O
+im	O	O
+Bereich	O	O
+Marketing	O	O
+,	O	O
+Medien	O	O
+,	O	O
+Journalismus	O	O
+,	O	O
+Betriebswirtschaft	O	O
+oder	O	O
+Geistes	O	O
+-	O	O
+und	O	O
+Sprachwissenschaften	O	O
+oder	O	O
+mit	O	O
+vergleichbarer	O	O
+Berufserfahrung	O	O
+.	O	O
+
+# sent_id = 02_social-media-manager-0007-1
+# text = Qualifizierte Vermittlung der folgenden Bereiche:
+Qualifizierte	O	O
+Vermittlung	O	O
+der	O	O
+folgenden	O	O
+Bereiche	O	O
+:	O	O
+
+# sent_id = 02_social-media-manager-0008-1
+# text = - Bildbearbeitung mit Adobe Photoshop CC
+-	O	O
+Bildbearbeitung	B-SKILL	O
+mit	I-SKILL	O
+Adobe	I-SKILL	B-KNOWLEDGE
+Photoshop	I-SKILL	I-KNOWLEDGE
+CC	I-SKILL	I-KNOWLEDGE
+
+# sent_id = 02_social-media-manager-0009-1
+# text = - Künstliche Intelligenz (KI) im Arbeitsprozess
+-	O	O
+Künstliche	O	B-KNOWLEDGE
+Intelligenz	O	I-KNOWLEDGE
+(	O	O
+KI	O	O
+)	O	O
+im	O	O
+Arbeitsprozess	O	O
+
+# sent_id = 02_social-media-manager-0010-1
+# text = - Grafikdesign mit Adobe CC
+-	O	O
+Grafikdesign	B-SKILL	O
+mit	I-SKILL	O
+Adobe	I-SKILL	B-KNOWLEDGE
+CC	I-SKILL	I-KNOWLEDGE
+
+# sent_id = 02_social-media-manager-0011-1
+# text = - Fachwissen Social Media Marketing
+-	O	O
+Fachwissen	O	O
+Social	O	B-KNOWLEDGE
+Media	O	I-KNOWLEDGE
+Marketing	O	I-KNOWLEDGE
+
+# sent_id = 02_social-media-manager-0012-1
+# text = - Fachwissen Content Marketing
+-	O	O
+Fachwissen	O	O
+Content	O	B-KNOWLEDGE
+Marketing	O	I-KNOWLEDGE
+
+# sent_id = 02_social-media-manager-0013-1
+# text = - Projektarbeit, Zertifizierungsvorbereitung und Zertifizierungsprüfung
+-	O	O
+Projektarbeit	O	B-KNOWLEDGE
+,	O	O
+Zertifizierungsvorbereitung	O	O
+und	O	O
+Zertifizierungsprüfung	O	O
+
+# sent_id = 02_social-media-manager-0014-1
+# text = Ihr Profil
+Ihr	O	O
+Profil	O	O
+
+# sent_id = 02_social-media-manager-0015-1
+# text = - Ausbildung oder Studium und praktische Expertise
+-	O	O
+Ausbildung	O	O
+oder	O	O
+Studium	O	O
+und	O	O
+praktische	O	O
+Expertise	O	O
+
+# sent_id = 02_social-media-manager-0016-1
+# text = - Erfahrung als Trainer (w/m/d) vorteilhaft
+-	O	O
+Erfahrung	O	O
+als	O	O
+Trainer	O	O
+(	O	O
+w/m/d	O	O
+)	O	O
+vorteilhaft	O	O
+
+# sent_id = 02_social-media-manager-0017-1
+# text = - Kenntnisse im Videopräsenzunterricht optional
+-	O	O
+Kenntnisse	O	O
+im	O	O
+Videopräsenzunterricht	O	B-KNOWLEDGE
+optional	O	O
+
+# doc_id = 03_e-commerce-trainer
+# sent_id = 03_e-commerce-trainer-0001-1
+# text = E-Commerce
+E-Commerce	O	O
+
+# sent_id = 03_e-commerce-trainer-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 03_e-commerce-trainer-0003-1
+# text = alfatraining Bildungszentrum GmbH
+alfatraining	O	O
+Bildungszentrum	O	O
+GmbH	O	O
+
+# sent_id = 03_e-commerce-trainer-0004-1
+# text = Geben Sie Ihr Expertenwissen weiter und gestalten Sie die Weiterbildung der neuesten Generation!
+Geben	O	O
+Sie	O	O
+Ihr	O	O
+Expertenwissen	O	O
+weiter	O	O
+und	O	O
+gestalten	O	O
+Sie	O	O
+die	O	O
+Weiterbildung	O	O
+der	O	O
+neuesten	O	O
+Generation	O	O
+!	O	O
+
+# sent_id = 03_e-commerce-trainer-0004-2
+# text = Ihr Einsatzbereich
+Ihr	O	O
+Einsatzbereich	O	O
+
+# sent_id = 03_e-commerce-trainer-0005-1
+# text = Sie unterrichten Personen, die bei der Konzipierung, Gestaltung und praktischen Umsetzung von Internet- Auftritten mit E-Commerce-Funktionen verantwortlich mitwirken und die dafür notwendigen Kenntnisse und Fähigkeiten erwerben wollen.
+Sie	O	O
+unterrichten	O	O
+Personen	O	O
+,	O	O
+die	O	O
+bei	O	O
+der	O	O
+Konzipierung	O	O
+,	O	O
+Gestaltung	O	O
+und	O	O
+praktischen	O	O
+Umsetzung	O	O
+von	O	O
+Internet	O	O
+-	O	O
+Auftritten	O	O
+mit	O	O
+E-Commerce-Funktionen	O	O
+verantwortlich	O	O
+mitwirken	O	O
+und	O	O
+die	O	O
+dafür	O	O
+notwendigen	O	O
+Kenntnisse	O	O
+und	O	O
+Fähigkeiten	O	O
+erwerben	O	O
+wollen	O	O
+.	O	O
+
+# sent_id = 03_e-commerce-trainer-0006-1
+# text = Qualifizierte Vermittlung der folgenden Bereiche:
+Qualifizierte	O	O
+Vermittlung	O	O
+der	O	O
+folgenden	O	O
+Bereiche	O	O
+:	O	O
+
+# sent_id = 03_e-commerce-trainer-0007-1
+# text = - Grundlagen des E-Commerce
+-	O	O
+Grundlagen	O	O
+des	O	O
+E-Commerce	O	B-KNOWLEDGE
+
+# sent_id = 03_e-commerce-trainer-0008-1
+# text = - Rechtliche Aspekte
+-	O	O
+Rechtliche	O	B-KNOWLEDGE
+Aspekte	O	I-KNOWLEDGE
+
+# sent_id = 03_e-commerce-trainer-0009-1
+# text = - Online-Shop-Systeme und -Gestaltung
+-	O	O
+Online-Shop-Systeme	O	B-KNOWLEDGE
+und	O	O
+-	O	O
+Gestaltung	O	O
+
+# sent_id = 03_e-commerce-trainer-0010-1
+# text = - Künstliche Intelligenz (KI) im Arbeitsprozess
+-	O	O
+Künstliche	O	B-KNOWLEDGE
+Intelligenz	O	I-KNOWLEDGE
+(	O	O
+KI	O	O
+)	O	O
+im	O	O
+Arbeitsprozess	O	O
+
+# sent_id = 03_e-commerce-trainer-0011-1
+# text = - Online-Marketing und Kundengewinnung
+-	O	O
+Online-Marketing	O	B-KNOWLEDGE
+und	O	O
+Kundengewinnung	O	B-KNOWLEDGE
+
+# sent_id = 03_e-commerce-trainer-0012-1
+# text = - Zahlungssysteme und Finanzen
+-	O	O
+Zahlungssysteme	O	B-KNOWLEDGE
+und	O	O
+Finanzen	O	B-KNOWLEDGE
+
+# sent_id = 03_e-commerce-trainer-0013-1
+# text = - Logistik und Fulfillment
+-	O	O
+Logistik	O	B-KNOWLEDGE
+und	O	O
+Fulfillment	O	B-KNOWLEDGE
+
+# sent_id = 03_e-commerce-trainer-0014-1
+# text = - Kundenservice und CRM
+-	O	O
+Kundenservice	O	B-KNOWLEDGE
+und	O	O
+CRM	O	B-KNOWLEDGE
+
+# sent_id = 03_e-commerce-trainer-0015-1
+# text = - Web-Controlling und Datenanalyse
+-	O	O
+Web-Controlling	O	B-KNOWLEDGE
+und	O	O
+Datenanalyse	O	B-KNOWLEDGE
+
+# sent_id = 03_e-commerce-trainer-0016-1
+# text = - Projektarbeit
+-	O	O
+Projektarbeit	O	B-KNOWLEDGE
+
+# sent_id = 03_e-commerce-trainer-0017-1
+# text = Ihr Profil
+Ihr	O	O
+Profil	O	O
+
+# sent_id = 03_e-commerce-trainer-0018-1
+# text = - Ausbildung oder Studium und praktische Expertise
+-	O	O
+Ausbildung	O	O
+oder	O	O
+Studium	O	O
+und	O	O
+praktische	O	O
+Expertise	O	O
+
+# sent_id = 03_e-commerce-trainer-0019-1
+# text = - Erfahrung als Trainer (w/m/d) vorteilhaft
+-	O	O
+Erfahrung	O	O
+als	O	O
+Trainer	O	O
+(	O	O
+w/m/d	O	O
+)	O	O
+vorteilhaft	O	O
+
+# sent_id = 03_e-commerce-trainer-0020-1
+# text = - Kenntnisse im Videopräsenzunterricht optional
+-	O	O
+Kenntnisse	O	O
+im	O	O
+Videopräsenzunterricht	O	B-KNOWLEDGE
+optional	O	O
+
+# doc_id = 04_produktmanager
+# sent_id = 04_produktmanager-0001-1
+# text = Produktmanager*in (m/w/d)
+Produktmanager	O	O
+*	O	O
+in	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 04_produktmanager-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 04_produktmanager-0003-1
+# text = ENQT GmbH
+ENQT	O	O
+GmbH	O	O
+
+# sent_id = 04_produktmanager-0004-1
+# text = Das Wichtigste im Überblick
+Das	O	O
+Wichtigste	O	O
+im	O	O
+Überblick	O	O
+
+# sent_id = 04_produktmanager-0005-1
+# text = Besondere Merkmale
+Besondere	O	O
+Merkmale	O	O
+
+# sent_id = 04_produktmanager-0006-1
+# text = Produktmanager*in (m/w/d) in Hamburg
+Produktmanager	O	O
+*	O	O
+in	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+in	O	O
+Hamburg	O	O
+
+# sent_id = 04_produktmanager-0007-1
+# text = Produktstrategie • technische Produktentwicklung • Portfolio & Go-to-Market
+Produktstrategie	O	B-KNOWLEDGE
+•	O	O
+technische	O	B-KNOWLEDGE
+Produktentwicklung	O	I-KNOWLEDGE
+•	O	O
+Portfolio	O	O
+&	O	O
+Go-to-Market	O	B-KNOWLEDGE
+
+# sent_id = 04_produktmanager-0008-1
+# text = Als Produktmanager:in gestaltest du die Weiterentwicklung unserer Produkte an der Schnittstelle von Markt, Kund:innen, Vertrieb, Entwicklung und Produktion.
+Als	O	O
+Produktmanager	O	O
+:	O	O
+in	O	O
+gestaltest	O	O
+du	O	O
+die	O	O
+Weiterentwicklung	O	O
+unserer	O	O
+Produkte	O	O
+an	O	O
+der	O	O
+Schnittstelle	O	O
+von	O	O
+Markt	O	O
+,	O	O
+Kund	O	O
+:	O	O
+innen	O	O
+,	O	O
+Vertrieb	O	O
+,	O	O
+Entwicklung	O	O
+und	O	O
+Produktion	O	O
+.	O	O
+
+# sent_id = 04_produktmanager-0008-2
+# text = Du übersetzt Kundenanforderungen und Marktbedarfe in klare Produktanforderungen, priorisierst Features und begleitest Produkte von der Idee bis zur erfolgreichen Umsetzung.
+Du	O	O
+übersetzt	O	O
+Kundenanforderungen	O	O
+und	O	O
+Marktbedarfe	O	O
+in	O	O
+klare	O	O
+Produktanforderungen	O	O
+,	O	O
+priorisierst	O	O
+Features	O	O
+und	O	O
+begleitest	O	O
+Produkte	O	O
+von	O	O
+der	O	O
+Idee	O	O
+bis	O	O
+zur	O	O
+erfolgreichen	O	O
+Umsetzung	O	O
+.	O	O
+
+# sent_id = 04_produktmanager-0009-1
+# text = Dein Fokus liegt auf einem zukunftsfähigen Produktportfolio, belastbaren Business Cases und einer engen Verzahnung zwischen Strategie und operativer Umsetzung.
+Dein	O	O
+Fokus	O	O
+liegt	O	O
+auf	O	O
+einem	O	O
+zukunftsfähigen	O	O
+Produktportfolio	O	O
+,	O	O
+belastbaren	O	O
+Business	O	B-KNOWLEDGE
+Cases	O	I-KNOWLEDGE
+und	O	O
+einer	O	O
+engen	O	O
+Verzahnung	O	O
+zwischen	O	O
+Strategie	O	O
+und	O	O
+operativer	O	O
+Umsetzung	O	O
+.	O	O
+
+# sent_id = 04_produktmanager-0009-2
+# text = Dabei arbeitest du eigenverantwortlich, datenbasiert und pragmatisch – mit dem Ziel, unsere Produkte technisch, wirtschaftlich und marktseitig kontinuierlich weiterzuentwickeln.
+Dabei	O	O
+arbeitest	O	O
+du	O	O
+eigenverantwortlich	O	O
+,	O	O
+datenbasiert	O	O
+und	O	O
+pragmatisch	O	O
+–	O	O
+mit	O	O
+dem	O	O
+Ziel	O	O
+,	O	O
+unsere	O	O
+Produkte	O	O
+technisch	O	O
+,	O	O
+wirtschaftlich	O	O
+und	O	O
+marktseitig	O	O
+kontinuierlich	O	O
+weiterzuentwickeln	O	O
+.	O	O
+
+# sent_id = 04_produktmanager-0010-1
+# text = Darauf hast du Lust?
+Darauf	O	O
+hast	O	O
+du	O	O
+Lust	O	O
+?	O	O
+
+# sent_id = 04_produktmanager-0010-2
+# text = Dann komm zu ENQT!
+Dann	O	O
+komm	O	O
+zu	O	O
+ENQT	O	O
+!	O	O
+
+# sent_id = 04_produktmanager-0011-1
+# text = Wir entwickeln und fertigen hochwertige Testgeräte für Mobilfunknetze (4G, 5G, WLAN, IoT) und
+Wir	O	O
+entwickeln	O	O
+und	O	O
+fertigen	O	O
+hochwertige	O	O
+Testgeräte	O	O
+für	O	O
+Mobilfunknetze	O	O
+(	O	O
+4G	O	O
+,	O	O
+5G	O	O
+,	O	O
+WLAN	O	O
+,	O	O
+IoT	O	O
+)	O	O
+und	O	O
+
+# sent_id = 04_produktmanager-0012-1
+# text = unterstützen europaweit über 500 Kunden bei der sicheren Vernetzung von Energieinfrastruktur und Industrieanwendungen.
+unterstützen	O	O
+europaweit	O	O
+über	O	O
+500	O	O
+Kunden	O	O
+bei	O	O
+der	O	O
+sicheren	O	O
+Vernetzung	O	O
+von	O	O
+Energieinfrastruktur	O	O
+und	O	O
+Industrieanwendungen	O	O
+.	O	O
+
+# sent_id = 04_produktmanager-0012-2
+# text = Unsere Kunden verlassen sich auf unsere Expertise, wenn es darum geht, moderne Mobilfunklösungen effizient umzusetzen.
+Unsere	O	O
+Kunden	O	O
+verlassen	O	O
+sich	O	O
+auf	O	O
+unsere	O	O
+Expertise	O	O
+,	O	O
+wenn	O	O
+es	O	O
+darum	O	O
+geht	O	O
+,	O	O
+moderne	O	O
+Mobilfunklösungen	O	O
+effizient	O	O
+umzusetzen	O	O
+.	O	O
+
+# sent_id = 04_produktmanager-0013-1
+# text = Dein zukünftiges Aufgabengebiet als Produktmanager*in (m/w/d)
+Dein	O	O
+zukünftiges	O	O
+Aufgabengebiet	O	O
+als	O	O
+Produktmanager	O	O
+*	O	O
+in	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 04_produktmanager-0014-1
+# text = - Eigenverantwortliche Begleitung und Weiterentwicklung unserer Produkte von der Idee bis zur Umsetzung
+-	O	O
+Eigenverantwortliche	O	O
+Begleitung	B-SKILL	O
+und	I-SKILL	O
+Weiterentwicklung	I-SKILL	O
+unserer	I-SKILL	O
+Produkte	I-SKILL	O
+von	I-SKILL	O
+der	I-SKILL	O
+Idee	I-SKILL	O
+bis	I-SKILL	O
+zur	I-SKILL	O
+Umsetzung	I-SKILL	O
+
+# sent_id = 04_produktmanager-0015-1
+# text = - Übersetzung von Kundenanforderungen, Marktbedarfen und internen Anforderungen in klare Produktanforderungen
+-	O	O
+Übersetzung	B-SKILL	O
+von	I-SKILL	O
+Kundenanforderungen	I-SKILL	O
+,	I-SKILL	O
+Marktbedarfen	I-SKILL	O
+und	I-SKILL	O
+internen	I-SKILL	O
+Anforderungen	I-SKILL	O
+in	I-SKILL	O
+klare	I-SKILL	O
+Produktanforderungen	I-SKILL	O
+
+# sent_id = 04_produktmanager-0016-1
+# text = - Priorisierung von Features und Abstimmung mit Entwicklung, Produktion, Vertrieb und weiteren Stakeholdern
+-	O	O
+Priorisierung	B-SKILL	O
+von	I-SKILL	O
+Features	I-SKILL	O
+und	I-SKILL	O
+Abstimmung	I-SKILL	O
+mit	I-SKILL	O
+Entwicklung	I-SKILL	O
+,	I-SKILL	O
+Produktion	I-SKILL	O
+,	I-SKILL	O
+Vertrieb	I-SKILL	O
+und	I-SKILL	O
+weiteren	I-SKILL	O
+Stakeholdern	I-SKILL	O
+
+# sent_id = 04_produktmanager-0017-1
+# text = - Mitwirkung an Produktstrategie, Roadmaps und Business Cases auf Basis definierter Ziele und KPIs
+-	O	O
+Mitwirkung	B-SKILL	O
+an	I-SKILL	O
+Produktstrategie	I-SKILL	B-KNOWLEDGE
+,	I-SKILL	O
+Roadmaps	I-SKILL	B-KNOWLEDGE
+und	I-SKILL	O
+Business	I-SKILL	B-KNOWLEDGE
+Cases	I-SKILL	I-KNOWLEDGE
+auf	O	O
+Basis	O	O
+definierter	O	O
+Ziele	O	O
+und	O	O
+KPIs	O	O
+
+# sent_id = 04_produktmanager-0018-1
+# text = - Entwicklung eines konsistenten, zukunftsfähigen Produktportfolios inklusive Build-, Improve- und Retire-Entscheidungen
+-	O	O
+Entwicklung	B-SKILL	O
+eines	I-SKILL	O
+konsistenten	I-SKILL	O
+,	I-SKILL	O
+zukunftsfähigen	I-SKILL	O
+Produktportfolios	I-SKILL	O
+inklusive	O	O
+Build	O	O
+-	O	O
+,	O	O
+Improve	O	O
+-	O	O
+und	O	O
+Retire-Entscheidungen	O	O
+
+# sent_id = 04_produktmanager-0019-1
+# text = - Bewertung neuer Produktideen, Geschäftsmodelle und Innovationsfelder
+-	O	O
+Bewertung	B-SKILL	O
+neuer	I-SKILL	O
+Produktideen	I-SKILL	O
+,	I-SKILL	O
+Geschäftsmodelle	I-SKILL	O
+und	I-SKILL	O
+Innovationsfelder	I-SKILL	O
+
+# sent_id = 04_produktmanager-0020-1
+# text = - Steuerung bereichsübergreifender Initiativen und Priorisierung von Projekten auf Portfolio-Ebene
+-	O	O
+Steuerung	B-SKILL	O
+bereichsübergreifender	I-SKILL	O
+Initiativen	I-SKILL	O
+und	I-SKILL	O
+Priorisierung	I-SKILL	O
+von	I-SKILL	O
+Projekten	I-SKILL	O
+auf	I-SKILL	O
+Portfolio-Ebene	I-SKILL	O
+
+# sent_id = 04_produktmanager-0021-1
+# text = - Unterstützung reibungsloser Abläufe zwischen Produktmanagement, Entwicklung, Produktion und Vertrieb
+-	O	O
+Unterstützung	O	O
+reibungsloser	O	O
+Abläufe	O	O
+zwischen	O	O
+Produktmanagement	O	O
+,	O	O
+Entwicklung	O	O
+,	O	O
+Produktion	O	O
+und	O	O
+Vertrieb	O	O
+
+# sent_id = 04_produktmanager-0022-1
+# text = - Mitwirkung an der Optimierung von Go-to-Market-Prozessen
+-	O	O
+Mitwirkung	O	O
+an	O	O
+der	O	O
+Optimierung	B-SKILL	O
+von	I-SKILL	O
+Go-to-Market-Prozessen	I-SKILL	O
+
+# sent_id = 04_produktmanager-0023-1
+# text = - Analyse der Produktperformance sowie Ableitung konkreter Maßnahmen zur Weiterentwicklung
+-	O	O
+Analyse	B-SKILL	O
+der	I-SKILL	O
+Produktperformance	I-SKILL	O
+sowie	I-SKILL	O
+Ableitung	I-SKILL	O
+konkreter	I-SKILL	O
+Maßnahmen	I-SKILL	O
+zur	I-SKILL	O
+Weiterentwicklung	I-SKILL	O
+
+# sent_id = 04_produktmanager-0024-1
+# text = Dein Profil als Produktmanager*in (m/w/d)
+Dein	O	O
+Profil	O	O
+als	O	O
+Produktmanager	O	O
+*	O	O
+in	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 04_produktmanager-0025-1
+# text = - Erfahrung als Product Owner oder in einer vergleichbaren Schnittstellenrolle zwischen Fachbereich und Entwicklung
+-	O	O
+Erfahrung	O	O
+als	O	O
+Product	O	O
+Owner	O	O
+oder	O	O
+in	O	O
+einer	O	O
+vergleichbaren	O	O
+Schnittstellenrolle	O	O
+zwischen	O	O
+Fachbereich	O	O
+und	O	O
+Entwicklung	O	O
+
+# sent_id = 04_produktmanager-0026-1
+# text = - Mehrjährige Erfahrung im Produktmanagement, idealerweise in einem technologie-, IoT-, SaaS-, Energie- oder Funktechnologie-nahen Umfeld
+-	O	O
+Mehrjährige	O	O
+Erfahrung	O	O
+im	O	O
+Produktmanagement	O	B-KNOWLEDGE
+,	O	O
+idealerweise	O	O
+in	O	O
+einem	O	O
+technologie	O	O
+-	O	O
+,	O	O
+IoT	O	O
+-	O	O
+,	O	O
+SaaS	O	O
+-	O	O
+,	O	O
+Energie	O	O
+-	O	O
+oder	O	O
+Funktechnologie-nahen	O	O
+Umfeld	O	O
+
+# sent_id = 04_produktmanager-0027-1
+# text = - Abgeschlossenes Studium im Bereich Elektrotechnik, Ingenieurwesen, Informatik oder eine vergleichbare technisch fokussierte Qualifikation
+-	O	O
+Abgeschlossenes	O	O
+Studium	O	O
+im	O	O
+Bereich	O	O
+Elektrotechnik	O	O
+,	O	O
+Ingenieurwesen	O	O
+,	O	O
+Informatik	O	O
+oder	O	O
+eine	O	O
+vergleichbare	O	O
+technisch	O	O
+fokussierte	O	O
+Qualifikation	O	O
+
+# sent_id = 04_produktmanager-0028-1
+# text = - Fundiertes Verständnis für Produktstrategie, Marktmechaniken, technische Produktentwicklung und Business Cases
+-	O	O
+Fundiertes	B-SKILL	O
+Verständnis	I-SKILL	O
+für	I-SKILL	O
+Produktstrategie	I-SKILL	B-KNOWLEDGE
+,	I-SKILL	O
+Marktmechaniken	I-SKILL	B-KNOWLEDGE
+,	I-SKILL	O
+technische	I-SKILL	B-KNOWLEDGE
+Produktentwicklung	I-SKILL	I-KNOWLEDGE
+und	I-SKILL	O
+Business	I-SKILL	B-KNOWLEDGE
+Cases	I-SKILL	I-KNOWLEDGE
+
+# sent_id = 04_produktmanager-0029-1
+# text = - Erfahrung in der Arbeit mit technischen Teams sowie in der Übersetzung von Anforderungen in umsetzbare Produktlösungen
+-	O	O
+Erfahrung	O	O
+in	O	O
+der	O	O
+Arbeit	O	O
+mit	O	O
+technischen	O	O
+Teams	O	O
+sowie	O	O
+in	O	O
+der	O	O
+Übersetzung	B-SKILL	O
+von	I-SKILL	O
+Anforderungen	I-SKILL	O
+in	I-SKILL	O
+umsetzbare	I-SKILL	O
+Produktlösungen	I-SKILL	O
+
+# sent_id = 04_produktmanager-0030-1
+# text = - Strategische und zugleich pragmatische Arbeitsweise mit der Fähigkeit, Vision und Umsetzung in Einklang zu bringen
+-	O	O
+Strategische	B-SKILL	O
+und	I-SKILL	O
+zugleich	I-SKILL	O
+pragmatische	I-SKILL	O
+Arbeitsweise	I-SKILL	O
+mit	O	O
+der	O	O
+Fähigkeit	O	O
+,	O	O
+Vision	O	O
+und	O	O
+Umsetzung	O	O
+in	O	O
+Einklang	O	O
+zu	O	O
+bringen	O	O
+
+# sent_id = 04_produktmanager-0031-1
+# text = - Sehr ausgeprägte kommunikative Fähigkeiten sowie die Fähigkeit, Projekte selbstständig zu übernehmen und voranzutreiben
+-	O	O
+Sehr	B-SKILL	O
+ausgeprägte	I-SKILL	O
+kommunikative	I-SKILL	O
+Fähigkeiten	I-SKILL	O
+sowie	O	O
+die	O	O
+Fähigkeit	O	O
+,	O	O
+Projekte	B-SKILL	O
+selbstständig	I-SKILL	O
+zu	I-SKILL	O
+übernehmen	I-SKILL	O
+und	I-SKILL	O
+voranzutreiben	I-SKILL	O
+
+# sent_id = 04_produktmanager-0032-1
+# text = - Zusatzqualifikationen oder Zertifizierungen, z. B.
+-	O	O
+Zusatzqualifikationen	O	O
+oder	O	O
+Zertifizierungen	O	O
+,	O	O
+z	O	O
+.	O	O
+B	O	O
+.	O	O
+
+# sent_id = 04_produktmanager-0032-2
+# text = A-CSPO, Product Owner, OKR-Coach o. Ä., sind von Vorteil, aber kein Muss
+A-CSPO	O	O
+,	O	O
+Product	O	O
+Owner	O	O
+,	O	O
+OKR-Coach	O	O
+o	O	O
+.	O	O
+Ä	O	O
+.	O	O
+,	O	O
+sind	O	O
+von	O	O
+Vorteil	O	O
+,	O	O
+aber	O	O
+kein	O	O
+Muss	O	O
+
+# doc_id = 05_marketing-allrounder-seo
+# sent_id = 05_marketing-allrounder-seo-0001-1
+# text = Marketing-Allrounder mit Schwerpunkt SEO (m/w/d)
+Marketing-Allrounder	O	O
+mit	O	O
+Schwerpunkt	O	O
+SEO	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 05_marketing-allrounder-seo-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 05_marketing-allrounder-seo-0003-1
+# text = Horizonia GmbH
+Horizonia	O	O
+GmbH	O	O
+
+# sent_id = 05_marketing-allrounder-seo-0004-1
+# text = Das Wichtigste im Überblick
+Das	O	O
+Wichtigste	O	O
+im	O	O
+Überblick	O	O
+
+# sent_id = 05_marketing-allrounder-seo-0005-1
+# text = Besondere Merkmale
+Besondere	O	O
+Merkmale	O	O
+
+# sent_id = 05_marketing-allrounder-seo-0006-1
+# text = Die Horizonia GmbH ist ein AZAV-zertifizierter Bildungsträger mit Standorten in Berlin und Hamburg.
+Die	O	O
+Horizonia	O	O
+GmbH	O	O
+ist	O	O
+ein	O	O
+AZAV-zertifizierter	O	O
+Bildungsträger	O	O
+mit	O	O
+Standorten	O	O
+in	O	O
+Berlin	O	O
+und	O	O
+Hamburg	O	O
+.	O	O
+
+# sent_id = 05_marketing-allrounder-seo-0006-2
+# text = Wir bieten AVGS-gefördertes Einzelcoaching zur beruflichen Aktivierung und Eingliederung an und begleiten Menschen dabei, den Weg zurück in den Arbeitsmarkt zu finden.
+Wir	O	O
+bieten	O	O
+AVGS-gefördertes	O	O
+Einzelcoaching	O	O
+zur	O	O
+beruflichen	O	O
+Aktivierung	O	O
+und	O	O
+Eingliederung	O	O
+an	O	O
+und	O	O
+begleiten	O	O
+Menschen	O	O
+dabei	O	O
+,	O	O
+den	O	O
+Weg	O	O
+zurück	O	O
+in	O	O
+den	O	O
+Arbeitsmarkt	O	O
+zu	O	O
+finden	O	O
+.	O	O
+
+# sent_id = 05_marketing-allrounder-seo-0006-3
+# text = Zur Verstärkung unseres Teams suchen wir eine engagierte Marketing-Persönlichkeit, die unsere Sichtbarkeit online wie offline gezielt ausbaut.
+Zur	O	O
+Verstärkung	O	O
+unseres	O	O
+Teams	O	O
+suchen	O	O
+wir	O	O
+eine	O	O
+engagierte	O	O
+Marketing-Persönlichkeit	O	O
+,	O	O
+die	O	O
+unsere	O	O
+Sichtbarkeit	O	O
+online	O	O
+wie	O	O
+offline	O	O
+gezielt	O	O
+ausbaut	O	O
+.	O	O
+
+# sent_id = 05_marketing-allrounder-seo-0006-4
+# text = Ihre Aufgaben:
+Ihre	O	O
+Aufgaben	O	O
+:	O	O
+
+# sent_id = 05_marketing-allrounder-seo-0007-1
+# text = - Eigenständige Betreuung und kontinuierliche Optimierung unserer Website, insbesondere im Bereich SEO (On-Page, technisches SEO, Content-Strategie)
+-	O	O
+Eigenständige	B-SKILL	O
+Betreuung	I-SKILL	O
+und	I-SKILL	O
+kontinuierliche	I-SKILL	O
+Optimierung	I-SKILL	O
+unserer	I-SKILL	O
+Website	I-SKILL	O
+,	O	O
+insbesondere	O	O
+im	O	O
+Bereich	O	O
+SEO	O	B-KNOWLEDGE
+(	O	O
+On-Page	O	B-KNOWLEDGE
+,	O	O
+technisches	O	B-KNOWLEDGE
+SEO	O	I-KNOWLEDGE
+,	O	O
+Content-Strategie	O	B-KNOWLEDGE
+)	O	O
+
+# sent_id = 05_marketing-allrounder-seo-0008-1
+# text = - Aufbau und Pflege von Backlinks sowie Zusammenarbeit mit relevanten Portalen, Verbänden und Kooperationspartnern
+-	O	O
+Aufbau	B-SKILL	O
+und	I-SKILL	O
+Pflege	I-SKILL	O
+von	I-SKILL	O
+Backlinks	I-SKILL	O
+sowie	O	O
+Zusammenarbeit	B-SKILL	O
+mit	I-SKILL	O
+relevanten	I-SKILL	O
+Portalen	I-SKILL	O
+,	I-SKILL	O
+Verbänden	I-SKILL	O
+und	I-SKILL	O
+Kooperationspartnern	I-SKILL	O
+
+# sent_id = 05_marketing-allrounder-seo-0009-1
+# text = - Erstellung und Pflege von Website- und Social-Media-Inhalten
+-	O	O
+Erstellung	B-SKILL	O
+und	I-SKILL	O
+Pflege	I-SKILL	O
+von	I-SKILL	O
+Website	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Social-Media-Inhalten	I-SKILL	O
+
+# sent_id = 05_marketing-allrounder-seo-0010-1
+# text = - Unterstützung bei der Positionierung unserer Standorte Berlin und Hamburg
+-	O	O
+Unterstützung	O	O
+bei	O	O
+der	O	O
+Positionierung	O	O
+unserer	O	O
+Standorte	O	O
+Berlin	O	O
+und	O	O
+Hamburg	O	O
+
+# sent_id = 05_marketing-allrounder-seo-0011-1
+# text = - Beobachtung von Wettbewerb und Markttrends sowie datenbasierte Ableitung von Handlungsempfehlungen
+-	O	O
+Beobachtung	B-SKILL	O
+von	I-SKILL	O
+Wettbewerb	I-SKILL	O
+und	I-SKILL	O
+Markttrends	I-SKILL	O
+sowie	I-SKILL	O
+datenbasierte	I-SKILL	O
+Ableitung	I-SKILL	O
+von	I-SKILL	O
+Handlungsempfehlungen	I-SKILL	O
+
+# sent_id = 05_marketing-allrounder-seo-0012-1
+# text = - Enge Zusammenarbeit mit der Geschäftsführung zur Umsetzung unserer Wachstumsstrategie
+-	O	O
+Enge	O	O
+Zusammenarbeit	O	O
+mit	O	O
+der	O	O
+Geschäftsführung	O	O
+zur	O	O
+Umsetzung	O	O
+unserer	O	O
+Wachstumsstrategie	O	O
+
+# sent_id = 05_marketing-allrounder-seo-0013-1
+# text = Ihr Profil:
+Ihr	O	O
+Profil	O	O
+:	O	O
+
+# sent_id = 05_marketing-allrounder-seo-0014-1
+# text = - Erfahrung im Online-Marketing, idealerweise mit Schwerpunkt SEO
+-	O	O
+Erfahrung	O	O
+im	O	O
+Online-Marketing	O	B-KNOWLEDGE
+,	O	O
+idealerweise	O	O
+mit	O	O
+Schwerpunkt	O	O
+SEO	O	B-KNOWLEDGE
+
+# sent_id = 05_marketing-allrounder-seo-0015-1
+# text = - Selbstständige, strukturierte Arbeitsweise und Freude an vielseitigen Aufgaben
+-	O	O
+Selbstständige	B-SKILL	O
+,	I-SKILL	O
+strukturierte	I-SKILL	O
+Arbeitsweise	I-SKILL	O
+und	O	O
+Freude	O	O
+an	O	O
+vielseitigen	O	O
+Aufgaben	O	O
+
+# sent_id = 05_marketing-allrounder-seo-0016-1
+# text = - Sicherer Umgang mit gängigen SEO- und Analyse-Tools
+-	O	O
+Sicherer	B-SKILL	O
+Umgang	I-SKILL	O
+mit	I-SKILL	O
+gängigen	I-SKILL	O
+SEO	I-SKILL	B-KNOWLEDGE
+-	I-SKILL	I-KNOWLEDGE
+und	I-SKILL	I-KNOWLEDGE
+Analyse-Tools	I-SKILL	I-KNOWLEDGE
+
+# sent_id = 05_marketing-allrounder-seo-0017-1
+# text = - Kommunikationsstärke in Wort und Schrift
+-	O	O
+Kommunikationsstärke	B-SKILL	O
+in	I-SKILL	O
+Wort	I-SKILL	O
+und	I-SKILL	O
+Schrift	I-SKILL	O
+
+# doc_id = 06_sozialarbeiter-psychosozialer-dienst
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0001-1
+# text = Sozialarbeiter / Sozialpädagoge (w/m/d) Psychosozialer Dienst
+Sozialarbeiter	O	O
+/	O	O
+Sozialpädagoge	O	O
+(	O	O
+w/m/d	O	O
+)	O	O
+Psychosozialer	O	O
+Dienst	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0003-1
+# text = Asklepios Kliniken Hamburg GmbH ASK Harburg Personalabteilung
+Asklepios	O	O
+Kliniken	O	O
+Hamburg	O	O
+GmbH	O	O
+ASK	O	O
+Harburg	O	O
+Personalabteilung	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0004-1
+# text = Das Wichtigste im Überblick
+Das	O	O
+Wichtigste	O	O
+im	O	O
+Überblick	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0005-1
+# text = Besondere Merkmale
+Besondere	O	O
+Merkmale	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0006-1
+# text = ASKLEPIOS Als einer der größten privaten Klinikbetreiber in Deutschland verstehen wir uns als Begleiter unserer Patient:innen - und als Partner unserer Mitarbeitenden.
+ASKLEPIOS	O	O
+Als	O	O
+einer	O	O
+der	O	O
+größten	O	O
+privaten	O	O
+Klinikbetreiber	O	O
+in	O	O
+Deutschland	O	O
+verstehen	O	O
+wir	O	O
+uns	O	O
+als	O	O
+Begleiter	O	O
+unserer	O	O
+Patient	O	O
+:	O	O
+innen	O	O
+-	O	O
+und	O	O
+als	O	O
+Partner	O	O
+unserer	O	O
+Mitarbeitenden	O	O
+.	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0006-2
+# text = Wir bringen zusammen, was
+Wir	O	O
+bringen	O	O
+zusammen	O	O
+,	O	O
+was	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0007-1
+# text = zusammengehört: Nähe und Fortschritt, Herzlichkeit und hohe Ansprüche, Teamwork und Wertschätzung, Menschen und Innovationen.
+zusammengehört	O	O
+:	O	O
+Nähe	O	O
+und	O	O
+Fortschritt	O	O
+,	O	O
+Herzlichkeit	O	O
+und	O	O
+hohe	O	O
+Ansprüche	O	O
+,	O	O
+Teamwork	O	O
+und	O	O
+Wertschätzung	O	O
+,	O	O
+Menschen	O	O
+und	O	O
+Innovationen	O	O
+.	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0008-1
+# text = Das Asklepios Klinikum Harburg ist ein Haus der Schwerpunktversorgung für den Hamburger Süden und die Metropolregion.
+Das	O	O
+Asklepios	O	O
+Klinikum	O	O
+Harburg	O	O
+ist	O	O
+ein	O	O
+Haus	O	O
+der	O	O
+Schwerpunktversorgung	O	O
+für	O	O
+den	O	O
+Hamburger	O	O
+Süden	O	O
+und	O	O
+die	O	O
+Metropolregion	O	O
+.	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0008-2
+# text = Von der Allgemein- bis zur Wirbelsäulenchirurgie verfügen wir über 24 spezialisierte Fachabteilungen mit insgesamt 852 Betten und 162 Plätzen in unseren Tageskliniken.
+Von	O	O
+der	O	O
+Allgemein	O	O
+-	O	O
+bis	O	O
+zur	O	O
+Wirbelsäulenchirurgie	O	O
+verfügen	O	O
+wir	O	O
+über	O	O
+24	O	O
+spezialisierte	O	O
+Fachabteilungen	O	O
+mit	O	O
+insgesamt	O	O
+852	O	O
+Betten	O	O
+und	O	O
+162	O	O
+Plätzen	O	O
+in	O	O
+unseren	O	O
+Tageskliniken	O	O
+.	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0008-3
+# text = Schwerpunkt unseres Klinikums ist die Versorgung von Patient:innen mit komplexen Erkrankungen.
+Schwerpunkt	O	O
+unseres	O	O
+Klinikums	O	O
+ist	O	O
+die	O	O
+Versorgung	O	O
+von	O	O
+Patient	O	O
+:	O	O
+innen	O	O
+mit	O	O
+komplexen	O	O
+Erkrankungen	O	O
+.	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0008-4
+# text = Pro Jahr versorgen mehr als 2.860 Mitarbeiter:innen rund 110.000 Patient:innen.
+Pro	O	O
+Jahr	O	O
+versorgen	O	O
+mehr	O	O
+als	O	O
+2.860	O	O
+Mitarbeiter	O	O
+:	O	O
+innen	O	O
+rund	O	O
+110.000	O	O
+Patient	O	O
+:	O	O
+innen	O	O
+.	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0009-1
+# text = Die Klinik für Psychiatrie, Psychotherapie und Psychosomatik in Harburg umfasst zwei Sektorstationen für das südlich der Elbe gelegene Hamburg, zwei Stationen für affektive Erkrankungen, eine Station für die Behandlung von Abhängigkeitserkrankungen, eine Station für bipolare Störungen und psychotische Erkrankungen, eine Station zur Behandlung von Traumafolgestörungen, eine Station für junge Erwachsene und eine Eltern-Kind-Station.
+Die	O	O
+Klinik	O	O
+für	O	O
+Psychiatrie	O	O
+,	O	O
+Psychotherapie	O	O
+und	O	O
+Psychosomatik	O	O
+in	O	O
+Harburg	O	O
+umfasst	O	O
+zwei	O	O
+Sektorstationen	O	O
+für	O	O
+das	O	O
+südlich	O	O
+der	O	O
+Elbe	O	O
+gelegene	O	O
+Hamburg	O	O
+,	O	O
+zwei	O	O
+Stationen	O	O
+für	O	O
+affektive	O	O
+Erkrankungen	O	O
+,	O	O
+eine	O	O
+Station	O	O
+für	O	O
+die	O	O
+Behandlung	O	O
+von	O	O
+Abhängigkeitserkrankungen	O	O
+,	O	O
+eine	O	O
+Station	O	O
+für	O	O
+bipolare	O	O
+Störungen	O	O
+und	O	O
+psychotische	O	O
+Erkrankungen	O	O
+,	O	O
+eine	O	O
+Station	O	O
+zur	O	O
+Behandlung	O	O
+von	O	O
+Traumafolgestörungen	O	O
+,	O	O
+eine	O	O
+Station	O	O
+für	O	O
+junge	O	O
+Erwachsene	O	O
+und	O	O
+eine	O	O
+Eltern-Kind-Station	O	O
+.	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0009-2
+# text = Fünf Tageskliniken, spezialisierte Institutsambulanzen, das MVZ und ein STÄB-Team ergänzen das Angebot.
+Fünf	O	O
+Tageskliniken	O	O
+,	O	O
+spezialisierte	O	O
+Institutsambulanzen	O	O
+,	O	O
+das	O	O
+MVZ	O	O
+und	O	O
+ein	O	O
+STÄB-Team	O	O
+ergänzen	O	O
+das	O	O
+Angebot	O	O
+.	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0009-3
+# text = Die Abteilung arbeitet eng mit den im Harburger Gebiet vorhandenen ambulanten und stationären Einrichtungen zusammen.
+Die	O	O
+Abteilung	O	O
+arbeitet	O	O
+eng	O	O
+mit	O	O
+den	O	O
+im	O	O
+Harburger	O	O
+Gebiet	O	O
+vorhandenen	O	O
+ambulanten	O	O
+und	O	O
+stationären	O	O
+Einrichtungen	O	O
+zusammen	O	O
+.	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0009-4
+# text = Es bestehen diagnosespezifische integrierte Behandlungsprogramme mit stationär/teilstationär/ambulanter Beziehungskontinuität.
+Es	O	O
+bestehen	O	O
+diagnosespezifische	O	O
+integrierte	O	O
+Behandlungsprogramme	O	O
+mit	O	O
+stationär/teilstationär/ambulanter	O	O
+Beziehungskontinuität	O	O
+.	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0009-5
+# text = Das
+Das	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0010-1
+# text = sozialpsychiatrisch ausgelegte Behandlungskonzept wird multiprofessionell und integrativ umgesetzt.
+sozialpsychiatrisch	O	O
+ausgelegte	O	O
+Behandlungskonzept	O	O
+wird	O	O
+multiprofessionell	O	O
+und	O	O
+integrativ	O	O
+umgesetzt	O	O
+.	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0010-2
+# text = Wöchentliche Fallkonferenzen, Fortbildungen und Supervision sind selbstverständlich, die volle
+Wöchentliche	O	O
+Fallkonferenzen	O	O
+,	O	O
+Fortbildungen	O	O
+und	O	O
+Supervision	O	O
+sind	O	O
+selbstverständlich	O	O
+,	O	O
+die	O	O
+volle	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0011-1
+# text = Weiterbildungsermächtigung ist vorhanden.
+Weiterbildungsermächtigung	O	O
+ist	O	O
+vorhanden	O	O
+.	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0012-1
+# text = Wir suchen Sie zum nächstmöglichen Zeitpunkt als
+Wir	O	O
+suchen	O	O
+Sie	O	O
+zum	O	O
+nächstmöglichen	O	O
+Zeitpunkt	O	O
+als	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0013-1
+# text = Sozialarbeiter / Sozialpädagoge (w/m/d) Psychosozialer Dienst
+Sozialarbeiter	O	O
+/	O	O
+Sozialpädagoge	O	O
+(	O	O
+w/m/d	O	O
+)	O	O
+Psychosozialer	O	O
+Dienst	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0014-1
+# text = in Voll- oder Teilzeit.
+in	O	O
+Voll	O	O
+-	O	O
+oder	O	O
+Teilzeit	O	O
+.	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0015-1
+# text = IHR AUFGABENGEBIET
+IHR	O	O
+AUFGABENGEBIET	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0016-1
+# text = - Sie arbeiten in einem multiprofessionellen Team am Standort Harburg, welches sich durch hervorragende psychiatrisch-psychotherapeutische Kompetenzen und eine ausgeprägte Kollegialität auszeichnet
+-	O	O
+Sie	O	O
+arbeiten	O	O
+in	O	O
+einem	O	O
+multiprofessionellen	O	O
+Team	O	O
+am	O	O
+Standort	O	O
+Harburg	O	O
+,	O	O
+welches	O	O
+sich	O	O
+durch	O	O
+hervorragende	O	O
+psychiatrisch-psychotherapeutische	O	O
+Kompetenzen	O	O
+und	O	O
+eine	O	O
+ausgeprägte	O	O
+Kollegialität	O	O
+auszeichnet	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0017-1
+# text = - Umfassende Beratung und Unterstützung der Patient:innen und deren Angehörigen in sozialrechtlichen Fragestellungen
+-	O	O
+Umfassende	B-SKILL	O
+Beratung	I-SKILL	O
+und	I-SKILL	O
+Unterstützung	I-SKILL	O
+der	I-SKILL	O
+Patient	I-SKILL	O
+:	I-SKILL	O
+innen	I-SKILL	O
+und	I-SKILL	O
+deren	I-SKILL	O
+Angehörigen	I-SKILL	O
+in	I-SKILL	O
+sozialrechtlichen	I-SKILL	O
+Fragestellungen	I-SKILL	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0018-1
+# text = - Beantragung von Leistungen innerhalb der Sozialgesetzbücher
+-	O	O
+Beantragung	B-SKILL	O
+von	I-SKILL	O
+Leistungen	I-SKILL	O
+innerhalb	I-SKILL	O
+der	I-SKILL	O
+Sozialgesetzbücher	I-SKILL	B-KNOWLEDGE
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0019-1
+# text = - Beratung von Patient:innen und deren Angehörige in Bezug auf die Sicherung der nachstationären Versorgung in enger Kooperation mit dem ärztlichen, therapeutischen und pflegerischen Team
+-	O	O
+Beratung	B-SKILL	O
+von	I-SKILL	O
+Patient	I-SKILL	O
+:	I-SKILL	O
+innen	I-SKILL	O
+und	I-SKILL	O
+deren	I-SKILL	O
+Angehörige	I-SKILL	O
+in	I-SKILL	O
+Bezug	I-SKILL	O
+auf	I-SKILL	O
+die	I-SKILL	O
+Sicherung	I-SKILL	O
+der	I-SKILL	O
+nachstationären	I-SKILL	O
+Versorgung	I-SKILL	O
+in	O	O
+enger	O	O
+Kooperation	O	O
+mit	O	O
+dem	O	O
+ärztlichen	O	O
+,	O	O
+therapeutischen	O	O
+und	O	O
+pflegerischen	O	O
+Team	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0020-1
+# text = - Kooperation mit außerklinischen Einrichtungen und Diensten
+-	O	O
+Kooperation	B-SKILL	O
+mit	I-SKILL	O
+außerklinischen	I-SKILL	O
+Einrichtungen	I-SKILL	O
+und	I-SKILL	O
+Diensten	I-SKILL	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0021-1
+# text = IHR PROFIL
+IHR	O	O
+PROFIL	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0022-1
+# text = - Sie haben einen staatlich anerkannten Abschluss mit staatlicher Anerkennung
+-	O	O
+Sie	O	O
+haben	O	O
+einen	O	O
+staatlich	O	O
+anerkannten	O	O
+Abschluss	O	O
+mit	O	O
+staatlicher	O	O
+Anerkennung	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0023-1
+# text = - Berufserfahrungen mit Menschen mit psychischen Erkrankungen wären von Vorteil
+-	O	O
+Berufserfahrungen	O	O
+mit	O	O
+Menschen	O	O
+mit	O	O
+psychischen	O	O
+Erkrankungen	O	O
+wären	O	O
+von	O	O
+Vorteil	O	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0024-1
+# text = - Kenntnisse in der Sozialgesetzgebung
+-	O	O
+Kenntnisse	O	O
+in	O	O
+der	O	O
+Sozialgesetzgebung	O	B-KNOWLEDGE
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0025-1
+# text = - Bereitschaft zur Zusammenarbeit im multiprofessionellen Team
+-	O	O
+Bereitschaft	O	O
+zur	O	O
+Zusammenarbeit	B-SKILL	O
+im	I-SKILL	O
+multiprofessionellen	I-SKILL	O
+Team	I-SKILL	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0026-1
+# text = - Empathie und Offenheit für Menschen mit psychischen Erkrankungen
+-	O	O
+Empathie	B-SKILL	O
+und	I-SKILL	O
+Offenheit	I-SKILL	O
+für	I-SKILL	O
+Menschen	I-SKILL	O
+mit	I-SKILL	O
+psychischen	I-SKILL	O
+Erkrankungen	I-SKILL	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0027-1
+# text = - Flexibilität und Belastbarkeit
+-	O	O
+Flexibilität	B-SKILL	O
+und	I-SKILL	O
+Belastbarkeit	I-SKILL	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0028-1
+# text = - Strukturierte und zuverlässige Arbeitsweise sowie lösungsorientiertes, selbstständiges und verantwortungsvolles Arbeiten
+-	O	O
+Strukturierte	B-SKILL	O
+und	I-SKILL	O
+zuverlässige	I-SKILL	O
+Arbeitsweise	I-SKILL	O
+sowie	O	O
+lösungsorientiertes	B-SKILL	O
+,	I-SKILL	O
+selbstständiges	I-SKILL	O
+und	I-SKILL	O
+verantwortungsvolles	I-SKILL	O
+Arbeiten	I-SKILL	O
+
+# doc_id = 07_heilerziehungspfleger
+# sent_id = 07_heilerziehungspfleger-0001-1
+# text = Heilerziehungspfleger (m/w/d)
+Heilerziehungspfleger	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 07_heilerziehungspfleger-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 07_heilerziehungspfleger-0003-1
+# text = Personal-Service Westermann GmbH
+Personal-Service	O	O
+Westermann	O	O
+GmbH	O	O
+
+# sent_id = 07_heilerziehungspfleger-0004-1
+# text = Du bist Heilerziehungspfleger (m/w/d)?
+Du	O	O
+bist	O	O
+Heilerziehungspfleger	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+?	O	O
+
+# sent_id = 07_heilerziehungspfleger-0004-2
+# text = Im Rahmen der Arbeitnehmerüberlassung bist Du bei uns in Voll- und Teilzeit herzlich willkommen!
+Im	O	O
+Rahmen	O	O
+der	O	O
+Arbeitnehmerüberlassung	O	O
+bist	O	O
+Du	O	O
+bei	O	O
+uns	O	O
+in	O	O
+Voll	O	O
+-	O	O
+und	O	O
+Teilzeit	O	O
+herzlich	O	O
+willkommen	O	O
+!	O	O
+
+# sent_id = 07_heilerziehungspfleger-0005-1
+# text = Wir sind als Personaldienstleister für Sozialberufe bereits seit 2002 am Markt und arbeiten erfolgreich mit mehr als 500 Einrichtungen zusammen.
+Wir	O	O
+sind	O	O
+als	O	O
+Personaldienstleister	O	O
+für	O	O
+Sozialberufe	O	O
+bereits	O	O
+seit	O	O
+2002	O	O
+am	O	O
+Markt	O	O
+und	O	O
+arbeiten	O	O
+erfolgreich	O	O
+mit	O	O
+mehr	O	O
+als	O	O
+500	O	O
+Einrichtungen	O	O
+zusammen	O	O
+.	O	O
+
+# sent_id = 07_heilerziehungspfleger-0005-2
+# text = Aktuell suchen wir Heilerziehungspfleger (m/w/d) für den Krippen- und Elementarbereich, im Bereich Inklusion und in weiteren Einsatzfeldern in Hamburg und Umgebung.
+Aktuell	O	O
+suchen	O	O
+wir	O	O
+Heilerziehungspfleger	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+für	O	O
+den	O	O
+Krippen	O	O
+-	O	O
+und	O	O
+Elementarbereich	O	O
+,	O	O
+im	O	O
+Bereich	O	O
+Inklusion	O	O
+und	O	O
+in	O	O
+weiteren	O	O
+Einsatzfeldern	O	O
+in	O	O
+Hamburg	O	O
+und	O	O
+Umgebung	O	O
+.	O	O
+
+# sent_id = 07_heilerziehungspfleger-0005-3
+# text = Du kannst über uns verschiedene Einrichtungen und Träger kennenlernen – und wenn Dein Traumjob dabei ist, Zu Deinen Aufgaben gehören:
+Du	O	O
+kannst	O	O
+über	O	O
+uns	O	O
+verschiedene	O	O
+Einrichtungen	O	O
+und	O	O
+Träger	O	O
+kennenlernen	O	O
+–	O	O
+und	O	O
+wenn	O	O
+Dein	O	O
+Traumjob	O	O
+dabei	O	O
+ist	O	O
+,	O	O
+Zu	O	O
+Deinen	O	O
+Aufgaben	O	O
+gehören	O	O
+:	O	O
+
+# sent_id = 07_heilerziehungspfleger-0006-1
+# text = - Die Betreuung und Entwicklungsbegleitung von Kindern im Alter zwischen 0 Jahren bis Schuleintritt
+-	O	O
+Die	O	O
+Betreuung	B-SKILL	O
+und	I-SKILL	O
+Entwicklungsbegleitung	I-SKILL	O
+von	I-SKILL	O
+Kindern	I-SKILL	O
+im	I-SKILL	O
+Alter	I-SKILL	O
+zwischen	I-SKILL	O
+0	I-SKILL	O
+Jahren	I-SKILL	O
+bis	I-SKILL	O
+Schuleintritt	I-SKILL	O
+
+# sent_id = 07_heilerziehungspfleger-0007-1
+# text = - Die Gestaltung von pädagogischen Angeboten gemeinsam mit Deinen Kollegen
+-	O	O
+Die	O	O
+Gestaltung	B-SKILL	O
+von	I-SKILL	O
+pädagogischen	I-SKILL	O
+Angeboten	I-SKILL	O
+gemeinsam	O	O
+mit	O	O
+Deinen	O	O
+Kollegen	O	O
+
+# sent_id = 07_heilerziehungspfleger-0008-1
+# text = - Ausflüge organisieren und begleiten
+-	O	O
+Ausflüge	B-SKILL	O
+organisieren	I-SKILL	O
+und	I-SKILL	O
+begleiten	I-SKILL	O
+
+# sent_id = 07_heilerziehungspfleger-0009-1
+# text = - Enge Zusammenarbeit mit den Kollegen sowie den Eltern
+-	O	O
+Enge	B-SKILL	O
+Zusammenarbeit	I-SKILL	O
+mit	I-SKILL	O
+den	I-SKILL	O
+Kollegen	I-SKILL	O
+sowie	I-SKILL	O
+den	I-SKILL	O
+Eltern	I-SKILL	O
+
+# sent_id = 07_heilerziehungspfleger-0010-1
+# text = Wir wünschen uns:
+Wir	O	O
+wünschen	O	O
+uns	O	O
+:	O	O
+
+# sent_id = 07_heilerziehungspfleger-0011-1
+# text = - Dass Du mit viel Freude in Deinem Beruf bist und Kinder gerne in ihrer Entwicklung unterstützt
+-	O	O
+Dass	O	O
+Du	O	O
+mit	O	O
+viel	O	O
+Freude	O	O
+in	O	O
+Deinem	O	O
+Beruf	O	O
+bist	O	O
+und	O	O
+Kinder	B-SKILL	O
+gerne	I-SKILL	O
+in	I-SKILL	O
+ihrer	I-SKILL	O
+Entwicklung	I-SKILL	O
+unterstützt	I-SKILL	O
+
+# sent_id = 07_heilerziehungspfleger-0012-1
+# text = - Eine abgeschlossene Berufsausbildung als staatlich anerkannter Heilerziehungspfleger (m/w/ d) oder eine vergleichbare Qualifikation
+-	O	O
+Eine	O	O
+abgeschlossene	O	O
+Berufsausbildung	O	O
+als	O	O
+staatlich	O	O
+anerkannter	O	O
+Heilerziehungspfleger	O	O
+(	O	O
+m/w	O	O
+/	O	O
+d	O	O
+)	O	O
+oder	O	O
+eine	O	O
+vergleichbare	O	O
+Qualifikation	O	O
+
+# sent_id = 07_heilerziehungspfleger-0013-1
+# text = - Erste Berufserfahrungen im Krippen- oder Elementarbereich von Vorteil, aber auch Berufseinsteiger sind herzlich willkommen
+-	O	O
+Erste	O	O
+Berufserfahrungen	O	O
+im	O	O
+Krippen	O	O
+-	O	O
+oder	O	O
+Elementarbereich	O	O
+von	O	O
+Vorteil	O	O
+,	O	O
+aber	O	O
+auch	O	O
+Berufseinsteiger	O	O
+sind	O	O
+herzlich	O	O
+willkommen	O	O
+
+# sent_id = 07_heilerziehungspfleger-0014-1
+# text = - Gute Fähigkeiten und Kenntnisse in der Elternarbeit, Dokumentation und Entwicklungsbegleitung
+-	O	O
+Gute	O	O
+Fähigkeiten	O	O
+und	O	O
+Kenntnisse	O	O
+in	O	O
+der	O	O
+Elternarbeit	B-SKILL	O
+,	O	O
+Dokumentation	B-SKILL	O
+und	O	O
+Entwicklungsbegleitung	B-SKILL	O
+
+# sent_id = 07_heilerziehungspfleger-0015-1
+# text = - Teamfähigkeit, Kreativität, Zuverlässigkeit und Einfühlungsvermögen
+-	O	O
+Teamfähigkeit	B-SKILL	O
+,	O	O
+Kreativität	B-SKILL	O
+,	O	O
+Zuverlässigkeit	B-SKILL	O
+und	O	O
+Einfühlungsvermögen	B-SKILL	O
+
+# sent_id = 07_heilerziehungspfleger-0016-1
+# text = - Gute Kommunikationsfähigkeit
+-	O	O
+Gute	B-SKILL	O
+Kommunikationsfähigkeit	I-SKILL	O
+
+# doc_id = 08_sozialpaedagogische-assistenz-krippe
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0001-1
+# text = Sozialpädagogische Assistenz / SPA (w/m/d) für Krippengruppe
+Sozialpädagogische	O	O
+Assistenz	O	O
+/	O	O
+SPA	O	O
+(	O	O
+w/m/d	O	O
+)	O	O
+für	O	O
+Krippengruppe	O	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0003-1
+# text = Pflegediakonie Alten Eichen
+Pflegediakonie	O	O
+Alten	O	O
+Eichen	O	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0004-1
+# text = Wir suchen dich für unsere Kita Hohe Weide: Sozialpädagogische Assistenz (w/m/d) ab Oktober 2026 oder nächstmöglicher Termin für 37-39 Std/Woche als festes Mitglied in einer Krippengruppe, zentral gelegen im Das tust du für uns:
+Wir	O	O
+suchen	O	O
+dich	O	O
+für	O	O
+unsere	O	O
+Kita	O	O
+Hohe	O	O
+Weide	O	O
+:	O	O
+Sozialpädagogische	O	O
+Assistenz	O	O
+(	O	O
+w/m/d	O	O
+)	O	O
+ab	O	O
+Oktober	O	O
+2026	O	O
+oder	O	O
+nächstmöglicher	O	O
+Termin	O	O
+für	O	O
+37-39	O	O
+Std/Woche	O	O
+als	O	O
+festes	O	O
+Mitglied	O	O
+in	O	O
+einer	O	O
+Krippengruppe	O	O
+,	O	O
+zentral	O	O
+gelegen	O	O
+im	O	O
+Das	O	O
+tust	O	O
+du	O	O
+für	O	O
+uns	O	O
+:	O	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0005-1
+# text = - Du leitest mit einer weiteren päd. Fachkraft eine Gruppe von 10-13 Krippenkindern und betreust diese alters- und zielgruppenspezifisch.
+-	O	O
+Du	O	O
+leitest	B-SKILL	O
+mit	I-SKILL	O
+einer	I-SKILL	O
+weiteren	I-SKILL	O
+päd	I-SKILL	O
+.	I-SKILL	O
+Fachkraft	I-SKILL	O
+eine	I-SKILL	O
+Gruppe	I-SKILL	O
+von	I-SKILL	O
+10-13	I-SKILL	O
+Krippenkindern	I-SKILL	O
+und	O	O
+betreust	B-SKILL	O
+diese	I-SKILL	O
+alters	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+zielgruppenspezifisch	I-SKILL	O
+.	O	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0006-1
+# text = - Du bist mitverantwortlich für die päd. Planung und Organisation des Tages
+-	O	O
+Du	O	O
+bist	O	O
+mitverantwortlich	O	O
+für	O	O
+die	O	O
+päd	B-SKILL	O
+.	I-SKILL	O
+Planung	I-SKILL	O
+und	I-SKILL	O
+Organisation	I-SKILL	O
+des	I-SKILL	O
+Tages	I-SKILL	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0007-1
+# text = - Auch die kooperative Zusammenarbeit mit den Eltern gehört dabei zu deinen Aufgaben.
+-	O	O
+Auch	O	O
+die	O	O
+kooperative	B-SKILL	O
+Zusammenarbeit	I-SKILL	O
+mit	I-SKILL	O
+den	I-SKILL	O
+Eltern	I-SKILL	O
+gehört	O	O
+dabei	O	O
+zu	O	O
+deinen	O	O
+Aufgaben	O	O
+.	O	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0008-1
+# text = Das bringst du mit:
+Das	O	O
+bringst	O	O
+du	O	O
+mit	O	O
+:	O	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0009-1
+# text = - Du verfügst über eine abgeschlossene pädagogische Ausbildung zur*m Sozialpädagogischen Assistent*in.
+-	O	O
+Du	O	O
+verfügst	O	O
+über	O	O
+eine	O	O
+abgeschlossene	O	O
+pädagogische	O	O
+Ausbildung	O	O
+zur	O	O
+*	O	O
+m	O	O
+Sozialpädagogischen	O	O
+Assistent	O	O
+*	O	O
+in	O	O
+.	O	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0010-1
+# text = - Außerdem identifizierst du dich mit den Werten der Diakonie Alten Eichen und unserem Teambild.
+-	O	O
+Außerdem	O	O
+identifizierst	O	O
+du	O	O
+dich	O	O
+mit	O	O
+den	O	O
+Werten	O	O
+der	O	O
+Diakonie	O	O
+Alten	O	O
+Eichen	O	O
+und	O	O
+unserem	O	O
+Teambild	O	O
+.	O	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0011-1
+# text = - Ein Herz für Kinder und viel Freude an den Aufgaben in einer Kita runden dein Profil ab.
+-	O	O
+Ein	O	O
+Herz	O	O
+für	O	O
+Kinder	O	O
+und	O	O
+viel	O	O
+Freude	O	O
+an	O	O
+den	O	O
+Aufgaben	O	O
+in	O	O
+einer	O	O
+Kita	O	O
+runden	O	O
+dein	O	O
+Profil	O	O
+ab	O	O
+.	O	O
+
+# doc_id = 09_spa-sozialpaedagogischer-assistent
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0001-1
+# text = SPA (m/w/d) Sozialpädagogischer Assistent
+SPA	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+Sozialpädagogischer	O	O
+Assistent	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0003-1
+# text = Permacon GmbH
+Permacon	O	O
+GmbH	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0004-1
+# text = Das Wichtigste im Überblick
+Das	O	O
+Wichtigste	O	O
+im	O	O
+Überblick	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0005-1
+# text = Besondere Merkmale
+Besondere	O	O
+Merkmale	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0006-1
+# text = Über uns
+Über	O	O
+uns	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0007-1
+# text = Sie möchten sich voll und ganz auf die pädagogische Arbeit konzentrieren?
+Sie	O	O
+möchten	O	O
+sich	O	O
+voll	O	O
+und	O	O
+ganz	O	O
+auf	O	O
+die	O	O
+pädagogische	O	O
+Arbeit	O	O
+konzentrieren	O	O
+?	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0007-2
+# text = Sie suchen ein Team, das Offenheit, eine klare Kommunikation und Zusammenhalt im Team lebt?
+Sie	O	O
+suchen	O	O
+ein	O	O
+Team	O	O
+,	O	O
+das	O	O
+Offenheit	O	O
+,	O	O
+eine	O	O
+klare	O	O
+Kommunikation	O	O
+und	O	O
+Zusammenhalt	O	O
+im	O	O
+Team	O	O
+lebt	O	O
+?	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0007-3
+# text = Für verschiedene Kitas und Kindergarten in Hamburg suchen wir zum nächstmöglichen Zeitpunkt in Vollzeit, Teilzeit oder als Minijob einen SPA / Sozialpädagogische Assistent (m/w/d) für den Krippen- und/oder Elementarbereich.
+Für	O	O
+verschiedene	O	O
+Kitas	O	O
+und	O	O
+Kindergarten	O	O
+in	O	O
+Hamburg	O	O
+suchen	O	O
+wir	O	O
+zum	O	O
+nächstmöglichen	O	O
+Zeitpunkt	O	O
+in	O	O
+Vollzeit	O	O
+,	O	O
+Teilzeit	O	O
+oder	O	O
+als	O	O
+Minijob	O	O
+einen	O	O
+SPA	O	O
+/	O	O
+Sozialpädagogische	O	O
+Assistent	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+für	O	O
+den	O	O
+Krippen	O	O
+-	O	O
+und/oder	O	O
+Elementarbereich	O	O
+.	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0007-4
+# text = Deine Aufgaben als SPA (m/w/d)
+Deine	O	O
+Aufgaben	O	O
+als	O	O
+SPA	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0008-1
+# text = - Du förderst die Kinder im Krippenbereich oder Elementarbereich individuell nach ihren Bedürfnissen
+-	O	O
+Du	O	O
+förderst	B-SKILL	O
+die	I-SKILL	O
+Kinder	I-SKILL	O
+im	I-SKILL	O
+Krippenbereich	I-SKILL	O
+oder	I-SKILL	O
+Elementarbereich	I-SKILL	O
+individuell	I-SKILL	O
+nach	I-SKILL	O
+ihren	I-SKILL	O
+Bedürfnissen	I-SKILL	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0009-1
+# text = - Du bist liebevoller Begleiter, Vorbild, Zuhörer, Geschichten-Erzähler, und baust eine liebevolle entwicklungsfördernde Beziehung zu den Kindern auf
+-	O	O
+Du	O	O
+bist	O	O
+liebevoller	O	O
+Begleiter	O	O
+,	O	O
+Vorbild	O	O
+,	O	O
+Zuhörer	O	O
+,	O	O
+Geschichten-Erzähler	O	O
+,	O	O
+und	O	O
+baust	B-SKILL	O
+eine	I-SKILL	O
+liebevolle	I-SKILL	O
+entwicklungsfördernde	I-SKILL	O
+Beziehung	I-SKILL	O
+zu	I-SKILL	O
+den	I-SKILL	O
+Kindern	I-SKILL	O
+auf	I-SKILL	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0010-1
+# text = - Du entwickelst und konzipierst Angebote in deinem eigenen pädagogischen Schwerpunkt
+-	O	O
+Du	O	O
+entwickelst	B-SKILL	O
+und	I-SKILL	O
+konzipierst	I-SKILL	O
+Angebote	I-SKILL	O
+in	I-SKILL	O
+deinem	I-SKILL	O
+eigenen	I-SKILL	O
+pädagogischen	I-SKILL	O
+Schwerpunkt	I-SKILL	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0011-1
+# text = - Du berücksichtigst das Konzept des jeweiligen Kita oder Kindergarten und setzt dieses aktiv in deiner Arbeit um
+-	O	O
+Du	O	O
+berücksichtigst	O	O
+das	O	O
+Konzept	O	O
+des	O	O
+jeweiligen	O	O
+Kita	O	O
+oder	O	O
+Kindergarten	O	O
+und	O	O
+setzt	O	O
+dieses	O	O
+aktiv	O	O
+in	O	O
+deiner	O	O
+Arbeit	O	O
+um	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0012-1
+# text = - Du hast Freude an der Kinderbetreuung in einem Kindergarten oder Kita
+-	O	O
+Du	O	O
+hast	O	O
+Freude	O	O
+an	O	O
+der	O	O
+Kinderbetreuung	B-SKILL	O
+in	O	O
+einem	O	O
+Kindergarten	O	O
+oder	O	O
+Kita	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0013-1
+# text = Dein Profil als SPA (m/w/d)
+Dein	O	O
+Profil	O	O
+als	O	O
+SPA	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0014-1
+# text = - Du hast eine abgeschlossene Ausbildung als SPA / Sozialpädagogischer Assistent (m/w/d) oder eine vergleichbare Ausbildung im pädagogischen Bereich
+-	O	O
+Du	O	O
+hast	O	O
+eine	O	O
+abgeschlossene	O	O
+Ausbildung	O	O
+als	O	O
+SPA	O	O
+/	O	O
+Sozialpädagogischer	O	O
+Assistent	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+oder	O	O
+eine	O	O
+vergleichbare	O	O
+Ausbildung	O	O
+im	O	O
+pädagogischen	O	O
+Bereich	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0015-1
+# text = - Du bist herzlich, engagiert, offen und ein echter Teamplayer
+-	O	O
+Du	O	O
+bist	O	O
+herzlich	B-SKILL	O
+,	I-SKILL	O
+engagiert	I-SKILL	O
+,	I-SKILL	O
+offen	I-SKILL	O
+und	I-SKILL	O
+ein	I-SKILL	O
+echter	I-SKILL	O
+Teamplayer	I-SKILL	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0016-1
+# text = - Du findest schnell Anschluss und bringst dich motiviert in dem vielfältigen Kitaalltag ein
+-	O	O
+Du	O	O
+findest	O	O
+schnell	O	O
+Anschluss	O	O
+und	O	O
+bringst	O	O
+dich	O	O
+motiviert	O	O
+in	O	O
+dem	O	O
+vielfältigen	O	O
+Kitaalltag	O	O
+ein	O	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0017-1
+# text = - Du bist eine vertrauensvolle Bezugsperson für die kleinen im Krippen- und Elementarbereich
+-	O	O
+Du	O	O
+bist	O	O
+eine	O	O
+vertrauensvolle	B-SKILL	O
+Bezugsperson	I-SKILL	O
+für	O	O
+die	O	O
+kleinen	O	O
+im	O	O
+Krippen	O	O
+-	O	O
+und	O	O
+Elementarbereich	O	O
+
+# doc_id = 10_pflegefachkraft-senator-neumann-haus
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0001-1
+# text = Als Pflegefachkraft (m/w/d) in Hamburg-Bergstedt
+Als	O	O
+Pflegefachkraft	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+in	O	O
+Hamburg-Bergstedt	O	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0002-1
+# text = arbeitest du im Senator-Neumann-Haus und begleitest Menschen mit Behinderung in Pflege und Alltag.
+arbeitest	O	O
+du	O	O
+im	O	O
+Senator-Neumann-Haus	O	O
+und	O	O
+begleitest	O	O
+Menschen	O	O
+mit	O	O
+Behinderung	O	O
+in	O	O
+Pflege	O	O
+und	O	O
+Alltag	O	O
+.	O	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0002-2
+# text = Die Stelle ist in Teilzeit oder Vollzeit, mit 20 bis 38,5 Wochenstunden, zu besetzen.
+Die	O	O
+Stelle	O	O
+ist	O	O
+in	O	O
+Teilzeit	O	O
+oder	O	O
+Vollzeit	O	O
+,	O	O
+mit	O	O
+20	O	O
+bis	O	O
+38	O	O
+,	O	O
+5	O	O
+Wochenstunden	O	O
+,	O	O
+zu	O	O
+besetzen	O	O
+.	O	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0002-3
+# text = Dein Einstieg ist ab sofort oder nach Vereinbarung möglich.
+Dein	O	O
+Einstieg	O	O
+ist	O	O
+ab	O	O
+sofort	O	O
+oder	O	O
+nach	O	O
+Vereinbarung	O	O
+möglich	O	O
+.	O	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0002-4
+# text = Im Senator-Neumann-Haus wohnen Menschen mit neurologischen Erkrankungen, erworbenen Hirnschäden und schweren Körperbehinderungen, welche dort umfassende Leistungen der Eingliederungshilfe, Pflege und Therapie erhalten.
+Im	O	O
+Senator-Neumann-Haus	O	O
+wohnen	O	O
+Menschen	O	O
+mit	O	O
+neurologischen	O	O
+Erkrankungen	O	O
+,	O	O
+erworbenen	O	O
+Hirnschäden	O	O
+und	O	O
+schweren	O	O
+Körperbehinderungen	O	O
+,	O	O
+welche	O	O
+dort	O	O
+umfassende	O	O
+Leistungen	O	O
+der	O	O
+Eingliederungshilfe	O	O
+,	O	O
+Pflege	O	O
+und	O	O
+Therapie	O	O
+erhalten	O	O
+.	O	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0003-1
+# text = Aufgaben Zu deinen Aufgaben gehören:
+Aufgaben	O	O
+Zu	O	O
+deinen	O	O
+Aufgaben	O	O
+gehören	O	O
+:	O	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0004-1
+# text = - Du übernimmst die ganzheitliche Pflege im Rahmen des Pflegeprozesses
+-	O	O
+Du	O	O
+übernimmst	O	O
+die	O	O
+ganzheitliche	B-SKILL	O
+Pflege	I-SKILL	O
+im	I-SKILL	O
+Rahmen	I-SKILL	O
+des	I-SKILL	O
+Pflegeprozesses	I-SKILL	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0005-1
+# text = - Du kümmerst dich um das Medikamentenmanagement und führst Pflegevisiten durch
+-	O	O
+Du	O	O
+kümmerst	O	O
+dich	O	O
+um	O	O
+das	O	O
+Medikamentenmanagement	B-SKILL	O
+und	O	O
+führst	B-SKILL	O
+Pflegevisiten	I-SKILL	O
+durch	I-SKILL	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0006-1
+# text = - Du arbeitest eng mit Kolleg:innen aus unterschiedlichen Berufsgruppen zusammen
+-	O	O
+Du	O	O
+arbeitest	B-SKILL	O
+eng	I-SKILL	O
+mit	I-SKILL	O
+Kolleg	I-SKILL	O
+:	I-SKILL	O
+innen	I-SKILL	O
+aus	I-SKILL	O
+unterschiedlichen	I-SKILL	O
+Berufsgruppen	I-SKILL	O
+zusammen	I-SKILL	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0007-1
+# text = - Du unterstützt die Nutzenden dabei, ihre Lebensqualität und Eigenständigkeit zu erhalten und weiterzuentwickeln
+-	O	O
+Du	O	O
+unterstützt	B-SKILL	O
+die	I-SKILL	O
+Nutzenden	I-SKILL	O
+dabei	I-SKILL	O
+,	I-SKILL	O
+ihre	I-SKILL	O
+Lebensqualität	I-SKILL	O
+und	I-SKILL	O
+Eigenständigkeit	I-SKILL	O
+zu	I-SKILL	O
+erhalten	I-SKILL	O
+und	I-SKILL	O
+weiterzuentwickeln	I-SKILL	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0008-1
+# text = - Du berätst und motivierst die von dir begleiteten Menschen im Alltag
+-	O	O
+Du	O	O
+berätst	B-SKILL	O
+und	I-SKILL	O
+motivierst	I-SKILL	O
+die	I-SKILL	O
+von	I-SKILL	O
+dir	I-SKILL	O
+begleiteten	I-SKILL	O
+Menschen	I-SKILL	O
+im	I-SKILL	O
+Alltag	I-SKILL	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0009-1
+# text = Profil
+Profil	O	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0010-1
+# text = Außerdem wünschen wir uns von dir:
+Außerdem	O	O
+wünschen	O	O
+wir	O	O
+uns	O	O
+von	O	O
+dir	O	O
+:	O	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0011-1
+# text = - Abgeschlossene Ausbildung in der Gesundheits- und Krankenpflege, in der Altenpflege oder eine vergleichbare Qualifikation
+-	O	O
+Abgeschlossene	O	O
+Ausbildung	O	O
+in	O	O
+der	O	O
+Gesundheits	O	O
+-	O	O
+und	O	O
+Krankenpflege	O	O
+,	O	O
+in	O	O
+der	O	O
+Altenpflege	O	O
+oder	O	O
+eine	O	O
+vergleichbare	O	O
+Qualifikation	O	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0012-1
+# text = - Erste Berufserfahrungen in der Arbeit mit Menschen mit Behinderung sind wünschenswert
+-	O	O
+Erste	O	O
+Berufserfahrungen	O	O
+in	O	O
+der	O	O
+Arbeit	O	O
+mit	O	O
+Menschen	O	O
+mit	O	O
+Behinderung	O	O
+sind	O	O
+wünschenswert	O	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0013-1
+# text = - Wertschätzende Haltung und Kommunikation
+-	O	O
+Wertschätzende	B-SKILL	O
+Haltung	I-SKILL	O
+und	I-SKILL	O
+Kommunikation	I-SKILL	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0014-1
+# text = - Einfühlungsvermögen
+-	O	O
+Einfühlungsvermögen	B-SKILL	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0015-1
+# text = - Freude an der Arbeit mit Menschen
+-	O	O
+Freude	O	O
+an	O	O
+der	O	O
+Arbeit	O	O
+mit	O	O
+Menschen	O	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0016-1
+# text = - Interesse an der Zusammenarbeit in einem multiprofessionellen Team
+-	O	O
+Interesse	O	O
+an	O	O
+der	O	O
+Zusammenarbeit	B-SKILL	O
+in	I-SKILL	O
+einem	I-SKILL	O
+multiprofessionellen	I-SKILL	O
+Team	I-SKILL	O
+
+# doc_id = 11_mechatroniker
+# sent_id = 11_mechatroniker-0001-1
+# text = Mechatroniker (m/w/d)
+Mechatroniker	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 11_mechatroniker-0002-1
+# text = Standort: Hamburg
+Standort	O	O
+:	O	O
+Hamburg	O	O
+
+# sent_id = 11_mechatroniker-0003-1
+# text = Dein neuer Arbeitsalltag
+Dein	O	O
+neuer	O	O
+Arbeitsalltag	O	O
+
+# sent_id = 11_mechatroniker-0004-1
+# text = - Du montierst, installierst und nimmst mechatronische Systeme und Anlagen wie Maschinen oder Roboter in Betrieb
+-	O	O
+Du	O	O
+montierst	B-SKILL	O
+,	I-SKILL	O
+installierst	I-SKILL	O
+und	I-SKILL	O
+nimmst	I-SKILL	O
+mechatronische	I-SKILL	O
+Systeme	I-SKILL	O
+und	I-SKILL	O
+Anlagen	I-SKILL	O
+wie	I-SKILL	O
+Maschinen	I-SKILL	O
+oder	I-SKILL	O
+Roboter	I-SKILL	O
+in	I-SKILL	O
+Betrieb	I-SKILL	O
+
+# sent_id = 11_mechatroniker-0005-1
+# text = - Du stellst mechanische, elektrische und elektronische Komponenten her und baust sie zusammen
+-	O	O
+Du	O	O
+stellst	B-SKILL	O
+mechanische	I-SKILL	O
+,	I-SKILL	O
+elektrische	I-SKILL	O
+und	I-SKILL	O
+elektronische	I-SKILL	O
+Komponenten	I-SKILL	O
+her	I-SKILL	O
+und	I-SKILL	O
+baust	I-SKILL	O
+sie	I-SKILL	O
+zusammen	I-SKILL	O
+
+# sent_id = 11_mechatroniker-0006-1
+# text = - Du programmierst und konfigurierst Steuerungen und Software – und testest sie auf Herz und Nieren
+-	O	O
+Du	O	O
+programmierst	B-SKILL	O
+und	I-SKILL	O
+konfigurierst	I-SKILL	O
+Steuerungen	I-SKILL	O
+und	I-SKILL	O
+Software	I-SKILL	O
+–	O	O
+und	O	O
+testest	O	O
+sie	O	O
+auf	O	O
+Herz	O	O
+und	O	O
+Nieren	O	O
+
+# sent_id = 11_mechatroniker-0007-1
+# text = - Du führst Messungen, Prüfungen und Fehlerdiagnosen durch
+-	O	O
+Du	O	O
+führst	B-SKILL	O
+Messungen	I-SKILL	O
+,	I-SKILL	O
+Prüfungen	I-SKILL	O
+und	I-SKILL	O
+Fehlerdiagnosen	I-SKILL	O
+durch	I-SKILL	O
+
+# sent_id = 11_mechatroniker-0008-1
+# text = - Du übernimmst die Wartung, Reparaturen und Instandhaltung von Maschinen und Anlagen
+-	O	O
+Du	O	O
+übernimmst	B-SKILL	O
+die	I-SKILL	O
+Wartung	I-SKILL	O
+,	I-SKILL	O
+Reparaturen	I-SKILL	O
+und	I-SKILL	O
+Instandhaltung	I-SKILL	O
+von	I-SKILL	O
+Maschinen	I-SKILL	O
+und	I-SKILL	O
+Anlagen	I-SKILL	O
+
+# sent_id = 11_mechatroniker-0009-1
+# text = - Du liest technische Zeichnungen sowie Schalt- und Montagepläne – und setzt sie gekonnt um
+-	O	O
+Du	O	O
+liest	B-SKILL	O
+technische	I-SKILL	O
+Zeichnungen	I-SKILL	O
+sowie	I-SKILL	O
+Schalt	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Montagepläne	I-SKILL	O
+–	O	O
+und	O	O
+setzt	O	O
+sie	O	O
+gekonnt	O	O
+um	O	O
+
+# sent_id = 11_mechatroniker-0010-1
+# text = - Du kümmerst dich um die Einweisung der Anwender in die Bedienung und übernimmst bei Bedarf die Kundenbetreuung
+-	O	O
+Du	O	O
+kümmerst	O	O
+dich	O	O
+um	O	O
+die	O	O
+Einweisung	B-SKILL	O
+der	I-SKILL	O
+Anwender	I-SKILL	O
+in	I-SKILL	O
+die	I-SKILL	O
+Bedienung	I-SKILL	O
+und	O	O
+übernimmst	O	O
+bei	O	O
+Bedarf	O	O
+die	O	O
+Kundenbetreuung	B-SKILL	O
+
+# sent_id = 11_mechatroniker-0011-1
+# text = - Du dokumentierst deine Arbeit sorgfältig und nachvollziehbar
+-	O	O
+Du	O	O
+dokumentierst	B-SKILL	O
+deine	I-SKILL	O
+Arbeit	I-SKILL	O
+sorgfältig	I-SKILL	O
+und	I-SKILL	O
+nachvollziehbar	I-SKILL	O
+
+# sent_id = 11_mechatroniker-0012-1
+# text = Was wir uns von dir wünschen
+Was	O	O
+wir	O	O
+uns	O	O
+von	O	O
+dir	O	O
+wünschen	O	O
+
+# sent_id = 11_mechatroniker-0013-1
+# text = - Eine abgeschlossene Ausbildung als Mechatroniker (m/w/d) oder eine vergleichbare Qualifikation, z.B. als Elektriker für Betriebstechnik (m/w/d)
+-	O	O
+Eine	O	O
+abgeschlossene	O	O
+Ausbildung	O	O
+als	O	O
+Mechatroniker	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+oder	O	O
+eine	O	O
+vergleichbare	O	O
+Qualifikation	O	O
+,	O	O
+z.B	O	O
+.	O	O
+als	O	O
+Elektriker	O	O
+für	O	O
+Betriebstechnik	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 11_mechatroniker-0014-1
+# text = - Fundierte Kenntnisse in Mechanik, Elektronik, Elektrotechnik und Pneumatik
+-	O	O
+Fundierte	O	O
+Kenntnisse	O	O
+in	O	O
+Mechanik	O	B-KNOWLEDGE
+,	O	O
+Elektronik	O	B-KNOWLEDGE
+,	O	O
+Elektrotechnik	O	B-KNOWLEDGE
+und	O	O
+Pneumatik	O	B-KNOWLEDGE
+
+# sent_id = 11_mechatroniker-0015-1
+# text = - Erfahrung im Umgang mit Steuerungs- und Automatisierungstechnik sowie Mess- und Diagnosesystemen
+-	O	O
+Erfahrung	O	O
+im	O	O
+Umgang	O	O
+mit	O	O
+Steuerungs	O	B-KNOWLEDGE
+-	O	I-KNOWLEDGE
+und	O	I-KNOWLEDGE
+Automatisierungstechnik	O	I-KNOWLEDGE
+sowie	O	O
+Mess	O	B-KNOWLEDGE
+-	O	I-KNOWLEDGE
+und	O	I-KNOWLEDGE
+Diagnosesystemen	O	I-KNOWLEDGE
+
+# sent_id = 11_mechatroniker-0016-1
+# text = - Du hast ein stabiles technisches Verständnis, bist handwerklich geschickt, lösungsorientiert und zuverlässig
+-	O	O
+Du	O	O
+hast	O	O
+ein	O	O
+stabiles	B-SKILL	O
+technisches	I-SKILL	O
+Verständnis	I-SKILL	O
+,	O	O
+bist	O	O
+handwerklich	B-SKILL	O
+geschickt	I-SKILL	O
+,	I-SKILL	O
+lösungsorientiert	I-SKILL	O
+und	I-SKILL	O
+zuverlässig	I-SKILL	O
+
+# sent_id = 11_mechatroniker-0017-1
+# text = - Eine selbstständige, teamorientierte und verantwortungsbewusste Arbeitsweise
+-	O	O
+Eine	O	O
+selbstständige	B-SKILL	O
+,	I-SKILL	O
+teamorientierte	I-SKILL	O
+und	I-SKILL	O
+verantwortungsbewusste	I-SKILL	O
+Arbeitsweise	I-SKILL	O
+
+# sent_id = 11_mechatroniker-0018-1
+# text = - Du sprichst gut Deutsch (min. B1), Englischkenntnisse sind von Vorteil – aber kein Muss!
+-	O	O
+Du	O	O
+sprichst	O	O
+gut	O	O
+Deutsch	O	B-KNOWLEDGE
+(	O	O
+min	O	O
+.	O	O
+B1	O	O
+)	O	O
+,	O	O
+Englischkenntnisse	O	B-KNOWLEDGE
+sind	O	O
+von	O	O
+Vorteil	O	O
+–	O	O
+aber	O	O
+kein	O	O
+Muss	O	O
+!	O	O
+
+# doc_id = 12_softwareentwickler
+# sent_id = 12_softwareentwickler-0001-1
+# text = Softwareentwickler (m/w/d)
+Softwareentwickler	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 12_softwareentwickler-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 12_softwareentwickler-0003-1
+# text = Hamburger Pensionsverwaltung eGPersonalverwaltung
+Hamburger	O	O
+Pensionsverwaltung	O	O
+eGPersonalverwaltung	O	O
+
+# sent_id = 12_softwareentwickler-0004-1
+# text = Das Wichtigste im Überblick
+Das	O	O
+Wichtigste	O	O
+im	O	O
+Überblick	O	O
+
+# sent_id = 12_softwareentwickler-0005-1
+# text = Besondere Merkmale
+Besondere	O	O
+Merkmale	O	O
+
+# sent_id = 12_softwareentwickler-0006-1
+# text = In unserem Team entwickeln wir moderne Softwarelösungen, Web-Anwendungen und digitale Services.
+In	O	O
+unserem	O	O
+Team	O	O
+entwickeln	O	O
+wir	O	O
+moderne	O	O
+Softwarelösungen	O	O
+,	O	O
+Web-Anwendungen	O	O
+und	O	O
+digitale	O	O
+Services	O	O
+.	O	O
+
+# sent_id = 12_softwareentwickler-0006-2
+# text = Wir arbeiten mit einem aktuellen Technologie-Stack und setzen auf agile Zusammenarbeit in Scrum-Teams.
+Wir	O	O
+arbeiten	O	O
+mit	O	O
+einem	O	O
+aktuellen	O	O
+Technologie-Stack	O	O
+und	O	O
+setzen	O	O
+auf	O	O
+agile	O	O
+Zusammenarbeit	O	O
+in	O	O
+Scrum-Teams	O	O
+.	O	O
+
+# sent_id = 12_softwareentwickler-0006-3
+# text = Die enge Abstimmung mit unseren Fachbereichen gehört für uns zum Alltag.
+Die	O	O
+enge	O	O
+Abstimmung	O	O
+mit	O	O
+unseren	O	O
+Fachbereichen	O	O
+gehört	O	O
+für	O	O
+uns	O	O
+zum	O	O
+Alltag	O	O
+.	O	O
+
+# sent_id = 12_softwareentwickler-0007-1
+# text = Themen wie Infrastructure as Code, Cloud-Technologien, Clean Code, moderne Architekturen und der sinnvolle Einsatz von KI sind bei uns gelebte Praxis.
+Themen	O	O
+wie	O	O
+Infrastructure	O	B-KNOWLEDGE
+as	O	I-KNOWLEDGE
+Code	O	I-KNOWLEDGE
+,	O	O
+Cloud-Technologien	O	B-KNOWLEDGE
+,	O	O
+Clean	O	B-KNOWLEDGE
+Code	O	I-KNOWLEDGE
+,	O	O
+moderne	O	B-KNOWLEDGE
+Architekturen	O	I-KNOWLEDGE
+und	O	O
+der	O	O
+sinnvolle	O	O
+Einsatz	O	O
+von	O	O
+KI	O	B-KNOWLEDGE
+sind	O	O
+bei	O	O
+uns	O	O
+gelebte	O	O
+Praxis	O	O
+.	O	O
+
+# sent_id = 12_softwareentwickler-0007-2
+# text = Unser Technologie-Stack umfasst u. a. Grafana Cloud, Kubernetes, AWS, Terraform, Crossplane, ArgoCD, Tilt, Atlas MongoDB sowie aktuelle Versionen von Spring Boot und Java.
+Unser	O	O
+Technologie-Stack	O	O
+umfasst	O	O
+u	O	O
+.	O	O
+a	O	O
+.	O	O
+Grafana	O	B-KNOWLEDGE
+Cloud	O	I-KNOWLEDGE
+,	O	O
+Kubernetes	O	B-KNOWLEDGE
+,	O	O
+AWS	O	B-KNOWLEDGE
+,	O	O
+Terraform	O	B-KNOWLEDGE
+,	O	O
+Crossplane	O	B-KNOWLEDGE
+,	O	O
+ArgoCD	O	B-KNOWLEDGE
+,	O	O
+Tilt	O	B-KNOWLEDGE
+,	O	O
+Atlas	O	B-KNOWLEDGE
+MongoDB	O	I-KNOWLEDGE
+sowie	O	O
+aktuelle	O	O
+Versionen	O	O
+von	O	O
+Spring	O	B-KNOWLEDGE
+Boot	O	I-KNOWLEDGE
+und	O	O
+Java	O	B-KNOWLEDGE
+.	O	O
+
+# sent_id = 12_softwareentwickler-0008-1
+# text = Gesucht wird eine Persönlichkeit mit Leidenschaft für Softwareentwicklung und DevOps, die gemeinsam mit uns neue Lösungen entwickelt und bestehende Systeme modernisiert.
+Gesucht	O	O
+wird	O	O
+eine	O	O
+Persönlichkeit	O	O
+mit	O	O
+Leidenschaft	O	O
+für	O	O
+Softwareentwicklung	O	B-KNOWLEDGE
+und	O	O
+DevOps	O	B-KNOWLEDGE
+,	O	O
+die	O	O
+gemeinsam	O	O
+mit	O	O
+uns	O	O
+neue	O	O
+Lösungen	O	O
+entwickelt	O	O
+und	O	O
+bestehende	O	O
+Systeme	O	O
+modernisiert	O	O
+.	O	O
+
+# sent_id = 12_softwareentwickler-0008-2
+# text = Entscheidend sind Lernbereitschaft,
+Entscheidend	O	O
+sind	O	O
+Lernbereitschaft	O	O
+,	O	O
+
+# sent_id = 12_softwareentwickler-0009-1
+# text = Qualitätsbewusstsein und der Wille, sich kontinuierlich weiterzuentwickeln – nicht das Beherrschen aller
+Qualitätsbewusstsein	O	O
+und	O	O
+der	O	O
+Wille	O	O
+,	O	O
+sich	O	O
+kontinuierlich	O	O
+weiterzuentwickeln	O	O
+–	O	O
+nicht	O	O
+das	O	O
+Beherrschen	O	O
+aller	O	O
+
+# sent_id = 12_softwareentwickler-0010-1
+# text = Technologien von Beginn an.
+Technologien	O	O
+von	O	O
+Beginn	O	O
+an	O	O
+.	O	O
+
+# sent_id = 12_softwareentwickler-0011-1
+# text = Bei Interesse an nachhaltiger Softwareentwicklung bewirb dich bei uns als
+Bei	O	O
+Interesse	O	O
+an	O	O
+nachhaltiger	O	O
+Softwareentwicklung	O	O
+bewirb	O	O
+dich	O	O
+bei	O	O
+uns	O	O
+als	O	O
+
+# sent_id = 12_softwareentwickler-0012-1
+# text = Softwareentwickler (m/w/d)
+Softwareentwickler	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 12_softwareentwickler-0013-1
+# text = Deine Aufgaben
+Deine	O	O
+Aufgaben	O	O
+
+# sent_id = 12_softwareentwickler-0014-1
+# text = - Entwicklung und Betrieb einer modernen, cloudbasierten Plattform zur Digitalisierung interner Verwaltungsprozesse in enger Zusammenarbeit mit dem Team
+-	O	O
+Entwicklung	B-SKILL	O
+und	I-SKILL	O
+Betrieb	I-SKILL	O
+einer	I-SKILL	O
+modernen	I-SKILL	O
+,	I-SKILL	O
+cloudbasierten	I-SKILL	O
+Plattform	I-SKILL	O
+zur	I-SKILL	O
+Digitalisierung	I-SKILL	O
+interner	I-SKILL	O
+Verwaltungsprozesse	I-SKILL	O
+in	O	O
+enger	O	O
+Zusammenarbeit	O	O
+mit	O	O
+dem	O	O
+Team	O	O
+
+# sent_id = 12_softwareentwickler-0015-1
+# text = - Optimierung der Entwicklungs-, Test- und Produktionsumgebungen sowie Sicherstellung eines stabilen, sicheren und skalierbaren Betriebs in Abstimmung mit deinem Team
+-	O	O
+Optimierung	B-SKILL	O
+der	I-SKILL	O
+Entwicklungs	I-SKILL	O
+-	I-SKILL	O
+,	I-SKILL	O
+Test	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Produktionsumgebungen	I-SKILL	O
+sowie	O	O
+Sicherstellung	B-SKILL	O
+eines	I-SKILL	O
+stabilen	I-SKILL	O
+,	I-SKILL	O
+sicheren	I-SKILL	O
+und	I-SKILL	O
+skalierbaren	I-SKILL	O
+Betriebs	I-SKILL	O
+in	O	O
+Abstimmung	O	O
+mit	O	O
+deinem	O	O
+Team	O	O
+
+# sent_id = 12_softwareentwickler-0016-1
+# text = - Eigenverantwortliche Weiterentwicklung fachlicher und technischer Lösungskonzepte – von der Idee bis zur Umsetzung
+-	O	O
+Eigenverantwortliche	B-SKILL	O
+Weiterentwicklung	I-SKILL	O
+fachlicher	I-SKILL	O
+und	I-SKILL	O
+technischer	I-SKILL	O
+Lösungskonzepte	I-SKILL	O
+–	O	O
+von	O	O
+der	O	O
+Idee	O	O
+bis	O	O
+zur	O	O
+Umsetzung	O	O
+
+# sent_id = 12_softwareentwickler-0017-1
+# text = - Weiterentwicklung von CI/CD-Pipelines sowie Verbesserung von Build-, Test- und Deployment-Workflows
+-	O	O
+Weiterentwicklung	B-SKILL	O
+von	I-SKILL	O
+CI/CD-Pipelines	I-SKILL	B-KNOWLEDGE
+sowie	I-SKILL	O
+Verbesserung	I-SKILL	O
+von	I-SKILL	O
+Build	I-SKILL	O
+-	I-SKILL	O
+,	I-SKILL	O
+Test	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Deployment-Workflows	I-SKILL	O
+
+# sent_id = 12_softwareentwickler-0018-1
+# text = - Umsetzung neuer fachlicher Anforderungen und technischer Schnittstellen in Java-basierten Microservices
+-	O	O
+Umsetzung	B-SKILL	O
+neuer	I-SKILL	O
+fachlicher	I-SKILL	O
+Anforderungen	I-SKILL	O
+und	I-SKILL	O
+technischer	I-SKILL	O
+Schnittstellen	I-SKILL	O
+in	I-SKILL	O
+Java-basierten	I-SKILL	O
+Microservices	I-SKILL	B-KNOWLEDGE
+
+# sent_id = 12_softwareentwickler-0019-1
+# text = - Aktive Mitgestaltung der Cloud-Architektur und digitalen Plattformen durch das Einbringen eigener Ideen
+-	O	O
+Aktive	B-SKILL	O
+Mitgestaltung	I-SKILL	O
+der	I-SKILL	O
+Cloud-Architektur	I-SKILL	B-KNOWLEDGE
+und	I-SKILL	O
+digitalen	I-SKILL	O
+Plattformen	I-SKILL	O
+durch	O	O
+das	O	O
+Einbringen	O	O
+eigener	O	O
+Ideen	O	O
+
+# sent_id = 12_softwareentwickler-0020-1
+# text = Dein Profil
+Dein	O	O
+Profil	O	O
+
+# sent_id = 12_softwareentwickler-0021-1
+# text = - (Fach-)Hochschulstudium im Bereich Informatik mit gutem Abschluss oder eine vergleichbare Qualifikation
+-	O	O
+(	O	O
+Fach	O	O
+-	O	O
+)	O	O
+Hochschulstudium	O	O
+im	O	O
+Bereich	O	O
+Informatik	O	O
+mit	O	O
+gutem	O	O
+Abschluss	O	O
+oder	O	O
+eine	O	O
+vergleichbare	O	O
+Qualifikation	O	O
+
+# sent_id = 12_softwareentwickler-0022-1
+# text = - Sicherer Umgang mit einer objektorientierten Programmiersprache (z.B.
+-	O	O
+Sicherer	B-SKILL	O
+Umgang	I-SKILL	O
+mit	I-SKILL	O
+einer	I-SKILL	O
+objektorientierten	I-SKILL	B-KNOWLEDGE
+Programmiersprache	I-SKILL	I-KNOWLEDGE
+(	O	O
+z.B	O	O
+.	O	O
+
+# sent_id = 12_softwareentwickler-0022-2
+# text = Java)
+Java	O	B-KNOWLEDGE
+)	O	O
+
+# sent_id = 12_softwareentwickler-0023-1
+# text = - Idealerweise Erfahrung mit AWS, CI/CD und modernen DevOps-Methoden.
+-	O	O
+Idealerweise	O	O
+Erfahrung	O	O
+mit	O	O
+AWS	O	B-KNOWLEDGE
+,	O	O
+CI/CD	O	B-KNOWLEDGE
+und	O	O
+modernen	O	O
+DevOps-Methoden	O	B-KNOWLEDGE
+.	O	O
+
+# sent_id = 12_softwareentwickler-0023-2
+# text = Begeisterung für Cloud-Technologien, Automatisierung und technische Herausforderungen.
+Begeisterung	O	O
+für	O	O
+Cloud-Technologien	O	B-KNOWLEDGE
+,	O	O
+Automatisierung	O	B-KNOWLEDGE
+und	O	O
+technische	O	O
+Herausforderungen	O	O
+.	O	O
+
+# sent_id = 12_softwareentwickler-0024-1
+# text = - Idealerweise erste Berührungspunkte mit künstlicher Intelligenz
+-	O	O
+Idealerweise	O	O
+erste	O	O
+Berührungspunkte	O	O
+mit	O	O
+künstlicher	O	B-KNOWLEDGE
+Intelligenz	O	I-KNOWLEDGE
+
+# sent_id = 12_softwareentwickler-0025-1
+# text = - Hohes Maß an Selbstständigkeit, Verantwortungsbewusstsein und Teamfähigkeit
+-	O	O
+Hohes	B-SKILL	O
+Maß	I-SKILL	O
+an	I-SKILL	O
+Selbstständigkeit	I-SKILL	O
+,	I-SKILL	O
+Verantwortungsbewusstsein	I-SKILL	O
+und	I-SKILL	O
+Teamfähigkeit	I-SKILL	O
+
+# sent_id = 12_softwareentwickler-0026-1
+# text = - Fließende Deutschkenntnisse in Wort und Schrift
+-	O	O
+Fließende	O	O
+Deutschkenntnisse	O	B-KNOWLEDGE
+in	O	O
+Wort	O	O
+und	O	O
+Schrift	O	O
+
+# doc_id = 13_fachinformatiker-systemintegration
+# sent_id = 13_fachinformatiker-systemintegration-0001-1
+# text = Fachinformatiker Systemintegration/ IT-Systemadmin. (m/w/d)
+Fachinformatiker	O	O
+Systemintegration	O	O
+/	O	O
+IT-Systemadmin	O	O
+.	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0003-1
+# text = Sambus GmbH
+Sambus	O	O
+GmbH	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0004-1
+# text = Das Wichtigste im Überblick
+Das	O	O
+Wichtigste	O	O
+im	O	O
+Überblick	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0005-1
+# text = Besondere Merkmale
+Besondere	O	O
+Merkmale	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0006-1
+# text = Seit 1992 sind wir das IT-Systemhaus deines Vertrauens und betreuen kleinere und mittelständische Unternehmen in sämtlichen IT-Fragen.
+Seit	O	O
+1992	O	O
+sind	O	O
+wir	O	O
+das	O	O
+IT-Systemhaus	O	O
+deines	O	O
+Vertrauens	O	O
+und	O	O
+betreuen	O	O
+kleinere	O	O
+und	O	O
+mittelständische	O	O
+Unternehmen	O	O
+in	O	O
+sämtlichen	O	O
+IT-Fragen	O	O
+.	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0006-2
+# text = Unser Team setzt auf Kommunikation, Gemeinschaft, Empathie und Zuverlässigkeit - Werte, die bei uns gelebt werden.
+Unser	O	O
+Team	O	O
+setzt	O	O
+auf	O	O
+Kommunikation	O	O
+,	O	O
+Gemeinschaft	O	O
+,	O	O
+Empathie	O	O
+und	O	O
+Zuverlässigkeit	O	O
+-	O	O
+Werte	O	O
+,	O	O
+die	O	O
+bei	O	O
+uns	O	O
+gelebt	O	O
+werden	O	O
+.	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0006-3
+# text = Unsere Expertise reicht von Microsoft-Anwendungen über Hardware, Cloud-Produkte bis hin zu innovativen Sicherheits- und Storage-Lösungen.
+Unsere	O	O
+Expertise	O	O
+reicht	O	O
+von	O	O
+Microsoft-Anwendungen	O	O
+über	O	O
+Hardware	O	O
+,	O	O
+Cloud-Produkte	O	O
+bis	O	O
+hin	O	O
+zu	O	O
+innovativen	O	O
+Sicherheits	O	O
+-	O	O
+und	O	O
+Storage-Lösungen	O	O
+.	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0006-4
+# text = Wenn du Lust hast, maßgeschneiderte IT-Lösungen zu entwickeln und umzusetzen, dann bist du bei uns genau richtig.
+Wenn	O	O
+du	O	O
+Lust	O	O
+hast	O	O
+,	O	O
+maßgeschneiderte	O	O
+IT-Lösungen	O	O
+zu	O	O
+entwickeln	O	O
+und	O	O
+umzusetzen	O	O
+,	O	O
+dann	O	O
+bist	O	O
+du	O	O
+bei	O	O
+uns	O	O
+genau	O	O
+richtig	O	O
+.	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0006-5
+# text = Werde Teil unseres Teams und gestalte die digitale Zukunft mit uns!
+Werde	O	O
+Teil	O	O
+unseres	O	O
+Teams	O	O
+und	O	O
+gestalte	O	O
+die	O	O
+digitale	O	O
+Zukunft	O	O
+mit	O	O
+uns	O	O
+!	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0007-1
+# text = Aufgaben
+Aufgaben	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0008-1
+# text = - Administration und Wartung der IT-Systeme unserer Kunden (Server, Netzwerke, Clients)
+-	O	O
+Administration	B-SKILL	O
+und	I-SKILL	O
+Wartung	I-SKILL	O
+der	I-SKILL	O
+IT-Systeme	I-SKILL	O
+unserer	I-SKILL	O
+Kunden	I-SKILL	O
+(	O	O
+Server	O	B-KNOWLEDGE
+,	O	O
+Netzwerke	O	B-KNOWLEDGE
+,	O	O
+Clients	O	B-KNOWLEDGE
+)	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0009-1
+# text = - Installation, Konfiguration und Updates von Hardware und Software bei Kunden (Schwerpunkt: Windows Server, Hyper-V, VMware, Microsoft 365)
+-	O	O
+Installation	B-SKILL	O
+,	I-SKILL	O
+Konfiguration	I-SKILL	O
+und	I-SKILL	O
+Updates	I-SKILL	O
+von	I-SKILL	O
+Hardware	I-SKILL	O
+und	I-SKILL	O
+Software	I-SKILL	O
+bei	I-SKILL	O
+Kunden	I-SKILL	O
+(	O	O
+Schwerpunkt	O	O
+:	O	O
+Windows	O	B-KNOWLEDGE
+Server	O	I-KNOWLEDGE
+,	O	O
+Hyper-V	O	B-KNOWLEDGE
+,	O	O
+VMware	O	B-KNOWLEDGE
+,	O	O
+Microsoft	O	B-KNOWLEDGE
+365	O	I-KNOWLEDGE
+)	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0010-1
+# text = - Sicherstellung der IT-Sicherheit bei Kunden durch Implementierung von Firewall-, Backup- und Recovery-Lösungen
+-	O	O
+Sicherstellung	B-SKILL	O
+der	I-SKILL	O
+IT-Sicherheit	I-SKILL	B-KNOWLEDGE
+bei	I-SKILL	O
+Kunden	I-SKILL	O
+durch	I-SKILL	O
+Implementierung	I-SKILL	O
+von	I-SKILL	O
+Firewall	I-SKILL	B-KNOWLEDGE
+-	I-SKILL	O
+,	I-SKILL	O
+Backup	I-SKILL	B-KNOWLEDGE
+-	I-SKILL	O
+und	I-SKILL	O
+Recovery-Lösungen	I-SKILL	B-KNOWLEDGE
+
+# sent_id = 13_fachinformatiker-systemintegration-0011-1
+# text = - Kundensupport und technische Beratung in Bezug auf IT-Projekte und alltägliche Herausforderungen
+-	O	O
+Kundensupport	B-SKILL	O
+und	I-SKILL	O
+technische	I-SKILL	O
+Beratung	I-SKILL	O
+in	O	O
+Bezug	O	O
+auf	O	O
+IT-Projekte	O	O
+und	O	O
+alltägliche	O	O
+Herausforderungen	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0012-1
+# text = - Planung, Beratung und Durchführung von Backup- und Wiederherstellungsprozessen
+-	O	O
+Planung	B-SKILL	O
+,	I-SKILL	O
+Beratung	I-SKILL	O
+und	I-SKILL	O
+Durchführung	I-SKILL	O
+von	I-SKILL	O
+Backup	I-SKILL	B-KNOWLEDGE
+-	I-SKILL	O
+und	I-SKILL	O
+Wiederherstellungsprozessen	I-SKILL	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0013-1
+# text = - Kontinuierliche Anpassung von Sicherheitslösungen gegen Cyberbedrohungen
+-	O	O
+Kontinuierliche	B-SKILL	O
+Anpassung	I-SKILL	O
+von	I-SKILL	O
+Sicherheitslösungen	I-SKILL	O
+gegen	I-SKILL	O
+Cyberbedrohungen	I-SKILL	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0014-1
+# text = Qualifikation
+Qualifikation	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0015-1
+# text = - Abgeschlossene Ausbildung zum Fachinformatiker Systemintegration/-administration oder vergleichbare Qualifikation
+-	O	O
+Abgeschlossene	O	O
+Ausbildung	O	O
+zum	O	O
+Fachinformatiker	O	O
+Systemintegration	O	O
+/	O	O
+-	O	O
+administration	O	O
+oder	O	O
+vergleichbare	O	O
+Qualifikation	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0016-1
+# text = - Mindestens 3 Jahre Berufserfahrung als IT-Systemadministrator oder in einer vergleichbaren Position
+-	O	O
+Mindestens	O	O
+3	O	O
+Jahre	O	O
+Berufserfahrung	O	O
+als	O	O
+IT-Systemadministrator	O	O
+oder	O	O
+in	O	O
+einer	O	O
+vergleichbaren	O	O
+Position	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0017-1
+# text = - Sehr gute Kenntnisse in Microsoft 365 sowie Erfahrung mit Active Directory und Virtualisierungstools (z.B.
+-	O	O
+Sehr	O	O
+gute	O	O
+Kenntnisse	O	O
+in	O	O
+Microsoft	O	B-KNOWLEDGE
+365	O	I-KNOWLEDGE
+sowie	O	O
+Erfahrung	O	O
+mit	O	O
+Active	O	B-KNOWLEDGE
+Directory	O	I-KNOWLEDGE
+und	O	O
+Virtualisierungstools	O	B-KNOWLEDGE
+(	O	O
+z.B	O	O
+.	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0017-2
+# text = VMware, Hyper-V)
+VMware	O	B-KNOWLEDGE
+,	O	O
+Hyper-V	O	B-KNOWLEDGE
+)	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0018-1
+# text = - Kenntnisse in IT-Security (Firewall, VPN, Verschlüsselung) und Datenschutzrichtlinien, idealerweise im Kontext verschiedener Kundenprojekte
+-	O	O
+Kenntnisse	O	O
+in	O	O
+IT-Security	O	B-KNOWLEDGE
+(	O	O
+Firewall	O	B-KNOWLEDGE
+,	O	O
+VPN	O	B-KNOWLEDGE
+,	O	O
+Verschlüsselung	O	B-KNOWLEDGE
+)	O	O
+und	O	O
+Datenschutzrichtlinien	O	B-KNOWLEDGE
+,	O	O
+idealerweise	O	O
+im	O	O
+Kontext	O	O
+verschiedener	O	O
+Kundenprojekte	O	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0019-1
+# text = - Selbstständige und strukturierte Arbeitsweise mit hohem Kundenfokus
+-	O	O
+Selbstständige	B-SKILL	O
+und	I-SKILL	O
+strukturierte	I-SKILL	O
+Arbeitsweise	I-SKILL	O
+mit	I-SKILL	O
+hohem	I-SKILL	O
+Kundenfokus	I-SKILL	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0020-1
+# text = - Kommunikationsstärke und Freude daran, kundenorientierte IT-Lösungen zu entwickeln
+-	O	O
+Kommunikationsstärke	B-SKILL	O
+und	O	O
+Freude	O	O
+daran	O	O
+,	O	O
+kundenorientierte	B-SKILL	O
+IT-Lösungen	I-SKILL	O
+zu	I-SKILL	O
+entwickeln	I-SKILL	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0021-1
+# text = - Mindestens C1-Niveau in Deutsch
+-	O	O
+Mindestens	O	O
+C1-Niveau	O	O
+in	O	O
+Deutsch	O	B-KNOWLEDGE
+
+# doc_id = 14_it-support
+# sent_id = 14_it-support-0001-1
+# text = IT Support (m/w/d)
+IT	O	O
+Support	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 14_it-support-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 14_it-support-0003-1
+# text = puro Personaldienstleistung GmbH
+puro	O	O
+Personaldienstleistung	O	O
+GmbH	O	O
+
+# sent_id = 14_it-support-0004-1
+# text = IT Support (m/w/d)
+IT	O	O
+Support	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 14_it-support-0005-1
+# text = Diese Position ist im Rahmen der Arbeitnehmerüberlassung mit Option auf Übernahme zu besetzen.
+Diese	O	O
+Position	O	O
+ist	O	O
+im	O	O
+Rahmen	O	O
+der	O	O
+Arbeitnehmerüberlassung	O	O
+mit	O	O
+Option	O	O
+auf	O	O
+Übernahme	O	O
+zu	O	O
+besetzen	O	O
+.	O	O
+
+# sent_id = 14_it-support-0006-1
+# text = Du möchtest Anwender im IT Alltag unterstützen und dafür sorgen, dass Technik einfach funktioniert?
+Du	O	O
+möchtest	O	O
+Anwender	O	O
+im	O	O
+IT	O	O
+Alltag	O	O
+unterstützen	O	O
+und	O	O
+dafür	O	O
+sorgen	O	O
+,	O	O
+dass	O	O
+Technik	O	O
+einfach	O	O
+funktioniert	O	O
+?	O	O
+
+# sent_id = 14_it-support-0006-2
+# text = Dann werde IT Supporter (m/w/d) in Hamburg und hilf dabei, IT Probleme schnell zu lösen und den Betrieb stabil zu halten.
+Dann	O	O
+werde	O	O
+IT	O	O
+Supporter	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+in	O	O
+Hamburg	O	O
+und	O	O
+hilf	O	O
+dabei	O	O
+,	O	O
+IT	O	O
+Probleme	O	O
+schnell	O	O
+zu	O	O
+lösen	O	O
+und	O	O
+den	O	O
+Betrieb	O	O
+stabil	O	O
+zu	O	O
+halten	O	O
+.	O	O
+
+# sent_id = 14_it-support-0007-1
+# text = Dich zeichnet aus:
+Dich	O	O
+zeichnet	O	O
+aus	O	O
+:	O	O
+
+# sent_id = 14_it-support-0008-1
+# text = - Abgeschlossene Ausbildung im IT Bereich oder gleichwertige Qualifikation
+-	O	O
+Abgeschlossene	O	O
+Ausbildung	O	O
+im	O	O
+IT	O	O
+Bereich	O	O
+oder	O	O
+gleichwertige	O	O
+Qualifikation	O	O
+
+# sent_id = 14_it-support-0009-1
+# text = - Erfahrung im IT Support oder Anwenderumfeld
+-	O	O
+Erfahrung	O	O
+im	O	O
+IT	O	B-KNOWLEDGE
+Support	O	I-KNOWLEDGE
+oder	O	O
+Anwenderumfeld	O	O
+
+# sent_id = 14_it-support-0010-1
+# text = - Gute Kenntnisse in Windows Systemen und IT Hardware
+-	O	O
+Gute	O	O
+Kenntnisse	O	O
+in	O	O
+Windows	O	B-KNOWLEDGE
+Systemen	O	I-KNOWLEDGE
+und	O	O
+IT	O	B-KNOWLEDGE
+Hardware	O	I-KNOWLEDGE
+
+# sent_id = 14_it-support-0011-1
+# text = - Serviceorientierte und lösungsfokussierte Arbeitsweise
+-	O	O
+Serviceorientierte	B-SKILL	O
+und	I-SKILL	O
+lösungsfokussierte	I-SKILL	O
+Arbeitsweise	I-SKILL	O
+
+# sent_id = 14_it-support-0012-1
+# text = - Strukturierte Herangehensweise bei technischen Problemen
+-	O	O
+Strukturierte	B-SKILL	O
+Herangehensweise	I-SKILL	O
+bei	I-SKILL	O
+technischen	I-SKILL	O
+Problemen	I-SKILL	O
+
+# sent_id = 14_it-support-0013-1
+# text = - Gute Deutschkenntnisse mindestens B2, idealerweise C1
+-	O	O
+Gute	O	O
+Deutschkenntnisse	O	B-KNOWLEDGE
+mindestens	O	O
+B2	O	O
+,	O	O
+idealerweise	O	O
+C1	O	O
+
+# sent_id = 14_it-support-0014-1
+# text = - Teamfähigkeit und Kommunikationsstärke
+-	O	O
+Teamfähigkeit	B-SKILL	O
+und	I-SKILL	O
+Kommunikationsstärke	I-SKILL	O
+
+# sent_id = 14_it-support-0015-1
+# text = In Deinem neuen Job gibt es für Dich:
+In	O	O
+Deinem	O	O
+neuen	O	O
+Job	O	O
+gibt	O	O
+es	O	O
+für	O	O
+Dich	O	O
+:	O	O
+
+# sent_id = 14_it-support-0016-1
+# text = - Abwechslungsreiche Tätigkeit im IT Support Umfeld
+-	O	O
+Abwechslungsreiche	O	O
+Tätigkeit	O	O
+im	O	O
+IT	O	O
+Support	O	O
+Umfeld	O	O
+
+# sent_id = 14_it-support-0017-1
+# text = - Moderne IT Arbeitsumgebung
+-	O	O
+Moderne	O	O
+IT	O	O
+Arbeitsumgebung	O	O
+
+# sent_id = 14_it-support-0018-1
+# text = - Strukturierte Einarbeitung und Team Unterstützung
+-	O	O
+Strukturierte	O	O
+Einarbeitung	O	O
+und	O	O
+Team	O	O
+Unterstützung	O	O
+
+# sent_id = 14_it-support-0019-1
+# text = - Entwicklungsmöglichkeiten im IT Bereich
+-	O	O
+Entwicklungsmöglichkeiten	O	O
+im	O	O
+IT	O	O
+Bereich	O	O
+
+# sent_id = 14_it-support-0020-1
+# text = Deine Aufgaben als IT Support (m/w/d):
+Deine	O	O
+Aufgaben	O	O
+als	O	O
+IT	O	O
+Support	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+:	O	O
+
+# sent_id = 14_it-support-0021-1
+# text = - Unterstützung von Anwendern im First und Second Level Support
+-	O	O
+Unterstützung	B-SKILL	O
+von	I-SKILL	O
+Anwendern	I-SKILL	O
+im	I-SKILL	O
+First	I-SKILL	B-KNOWLEDGE
+und	I-SKILL	I-KNOWLEDGE
+Second	I-SKILL	I-KNOWLEDGE
+Level	I-SKILL	I-KNOWLEDGE
+Support	I-SKILL	I-KNOWLEDGE
+
+# sent_id = 14_it-support-0022-1
+# text = - Analyse und Lösung von Hard und Softwareproblemen
+-	O	O
+Analyse	B-SKILL	O
+und	I-SKILL	O
+Lösung	I-SKILL	O
+von	I-SKILL	O
+Hard	I-SKILL	O
+und	I-SKILL	O
+Softwareproblemen	I-SKILL	O
+
+# sent_id = 14_it-support-0023-1
+# text = - Betreuung von Windows Arbeitsplätzen und Endgeräten
+-	O	O
+Betreuung	B-SKILL	O
+von	I-SKILL	O
+Windows	I-SKILL	O
+Arbeitsplätzen	I-SKILL	O
+und	I-SKILL	O
+Endgeräten	I-SKILL	O
+
+# sent_id = 14_it-support-0024-1
+# text = - Installation und Konfiguration von Software und Betriebssystemen
+-	O	O
+Installation	B-SKILL	O
+und	I-SKILL	O
+Konfiguration	I-SKILL	O
+von	I-SKILL	O
+Software	I-SKILL	O
+und	I-SKILL	O
+Betriebssystemen	I-SKILL	O
+
+# sent_id = 14_it-support-0025-1
+# text = - Unterstützung bei technischen Anfragen im IT Umfeld
+-	O	O
+Unterstützung	O	O
+bei	O	O
+technischen	O	O
+Anfragen	O	O
+im	O	O
+IT	O	O
+Umfeld	O	O
+
+# sent_id = 14_it-support-0026-1
+# text = - Dokumentation aller Vorgänge im Ticketsystem
+-	O	O
+Dokumentation	B-SKILL	O
+aller	I-SKILL	O
+Vorgänge	I-SKILL	O
+im	I-SKILL	O
+Ticketsystem	I-SKILL	B-KNOWLEDGE
+
+# doc_id = 15_data-engineer
+# sent_id = 15_data-engineer-0001-1
+# text = Data Engineer (m/w/d)
+Data	O	O
+Engineer	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 15_data-engineer-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 15_data-engineer-0003-1
+# text = expertum GmbH
+expertum	O	O
+GmbH	O	O
+
+# sent_id = 15_data-engineer-0004-1
+# text = Know-how erforderlich.
+Know-how	O	O
+erforderlich	O	O
+.	O	O
+
+# sent_id = 15_data-engineer-0004-2
+# text = Diese Werft verfügt über diese Kompetenzen und liefert intelligente Lösungen.
+Diese	O	O
+Werft	O	O
+verfügt	O	O
+über	O	O
+diese	O	O
+Kompetenzen	O	O
+und	O	O
+liefert	O	O
+intelligente	O	O
+Lösungen	O	O
+.	O	O
+
+# sent_id = 15_data-engineer-0004-3
+# text = Wir suchen zum nächstmöglichen Zeitpunkt einen Data Engineer (m/w/d) in Vollzeit.
+Wir	O	O
+suchen	O	O
+zum	O	O
+nächstmöglichen	O	O
+Zeitpunkt	O	O
+einen	O	O
+Data	O	O
+Engineer	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+in	O	O
+Vollzeit	O	O
+.	O	O
+
+# sent_id = 15_data-engineer-0005-1
+# text = >> Die Vergütung erfolgt nach Branchenzuschlagstarif Metall & Elektro
+>	O	O
+>	O	O
+Die	O	O
+Vergütung	O	O
+erfolgt	O	O
+nach	O	O
+Branchenzuschlagstarif	O	O
+Metall	O	O
+&	O	O
+Elektro	O	O
+
+# sent_id = 15_data-engineer-0006-1
+# text = DIES SIND IHRE AUFGABEN:
+DIES	O	O
+SIND	O	O
+IHRE	O	O
+AUFGABEN	O	O
+:	O	O
+
+# sent_id = 15_data-engineer-0007-1
+# text = Sie möchten moderne Datenarchitekturen nicht nur betreiben, sondern aktiv mitgestalten?
+Sie	O	O
+möchten	O	O
+moderne	O	O
+Datenarchitekturen	O	B-KNOWLEDGE
+nicht	O	O
+nur	O	O
+betreiben	O	O
+,	O	O
+sondern	O	O
+aktiv	O	O
+mitgestalten	O	O
+?	O	O
+
+# sent_id = 15_data-engineer-0007-2
+# text = Als Data
+Als	O	O
+Data	O	O
+
+# sent_id = 15_data-engineer-0008-1
+# text = Engineer (m/w/d) wirken Sie an der Weiterentwicklung unserer Datenlandschaft mit und schaffen eine zuverlässige Grundlage für die datengetriebene Arbeit der Fachbereiche.
+Engineer	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+wirken	O	O
+Sie	O	O
+an	O	O
+der	O	O
+Weiterentwicklung	O	O
+unserer	O	O
+Datenlandschaft	O	O
+mit	O	O
+und	O	O
+schaffen	O	O
+eine	O	O
+zuverlässige	O	O
+Grundlage	O	O
+für	O	O
+die	O	O
+datengetriebene	O	O
+Arbeit	O	O
+der	O	O
+Fachbereiche	O	O
+.	O	O
+
+# sent_id = 15_data-engineer-0009-1
+# text = - Sie wirken bei der Konzeption, Umsetzung und dem Betrieb unserer modernen On-Premises-Lakehouse-Architektur mit.
+-	O	O
+Sie	O	O
+wirken	O	O
+bei	O	O
+der	O	O
+Konzeption	B-SKILL	O
+,	I-SKILL	O
+Umsetzung	I-SKILL	O
+und	I-SKILL	O
+dem	I-SKILL	O
+Betrieb	I-SKILL	O
+unserer	I-SKILL	O
+modernen	I-SKILL	O
+On-Premises-Lakehouse-Architektur	I-SKILL	B-KNOWLEDGE
+mit	O	O
+.	O	O
+
+# sent_id = 15_data-engineer-0010-1
+# text = - Sie entwickeln, betreiben und optimieren ETL- bzw. Datenpipelines zur Integration und Verarbeitung unterschiedlicher Datenquellen.
+-	O	O
+Sie	O	O
+entwickeln	B-SKILL	O
+,	I-SKILL	O
+betreiben	I-SKILL	O
+und	I-SKILL	O
+optimieren	I-SKILL	O
+ETL	I-SKILL	B-KNOWLEDGE
+-	I-SKILL	O
+bzw	I-SKILL	O
+.	I-SKILL	O
+Datenpipelines	I-SKILL	B-KNOWLEDGE
+zur	I-SKILL	O
+Integration	I-SKILL	O
+und	I-SKILL	O
+Verarbeitung	I-SKILL	O
+unterschiedlicher	I-SKILL	O
+Datenquellen	I-SKILL	O
+.	O	O
+
+# sent_id = 15_data-engineer-0011-1
+# text = - Sie unterstützen die Weiterentwicklung und Modernisierung bestehender Data-Warehouse-Strukturen, unter anderem im Snowflake-Umfeld.
+-	O	O
+Sie	O	O
+unterstützen	O	O
+die	O	O
+Weiterentwicklung	B-SKILL	O
+und	I-SKILL	O
+Modernisierung	I-SKILL	O
+bestehender	I-SKILL	O
+Data-Warehouse-Strukturen	I-SKILL	B-KNOWLEDGE
+,	O	O
+unter	O	O
+anderem	O	O
+im	O	O
+Snowflake-Umfeld	O	O
+.	O	O
+
+# sent_id = 15_data-engineer-0012-1
+# text = - Sie stellen eine hohe Datenqualität und Datenverfügbarkeit sicher und identifizieren Optimierungsmöglichkeiten.
+-	O	O
+Sie	O	O
+stellen	B-SKILL	O
+eine	I-SKILL	O
+hohe	I-SKILL	O
+Datenqualität	I-SKILL	O
+und	I-SKILL	O
+Datenverfügbarkeit	I-SKILL	O
+sicher	I-SKILL	O
+und	O	O
+identifizieren	O	O
+Optimierungsmöglichkeiten	O	O
+.	O	O
+
+# sent_id = 15_data-engineer-0013-1
+# text = - Gemeinsam mit den Fachbereichen übersetzen Sie fachliche Anforderungen in praktikable Datenlösungen.
+-	O	O
+Gemeinsam	O	O
+mit	O	O
+den	O	O
+Fachbereichen	O	O
+übersetzen	B-SKILL	O
+Sie	I-SKILL	O
+fachliche	I-SKILL	O
+Anforderungen	I-SKILL	O
+in	I-SKILL	O
+praktikable	I-SKILL	O
+Datenlösungen	I-SKILL	O
+.	O	O
+
+# sent_id = 15_data-engineer-0014-1
+# text = - Darüber hinaus bringen Sie sich in angrenzende Entwicklungs- und DevOps-Themen ein.
+-	O	O
+Darüber	O	O
+hinaus	O	O
+bringen	O	O
+Sie	O	O
+sich	O	O
+in	O	O
+angrenzende	O	O
+Entwicklungs	O	O
+-	O	O
+und	O	O
+DevOps-Themen	O	B-KNOWLEDGE
+ein	O	O
+.	O	O
+
+# sent_id = 15_data-engineer-0015-1
+# text = DAS BRINGEN SIE MIT:
+DAS	O	O
+BRINGEN	O	O
+SIE	O	O
+MIT	O	O
+:	O	O
+
+# sent_id = 15_data-engineer-0016-1
+# text = - Ein abgeschlossenes Studium im Bereich Informatik, Wirtschaftsinformatik, Data Science oder eine vergleichbare Qualifikation mit entsprechender Berufserfahrung
+-	O	O
+Ein	O	O
+abgeschlossenes	O	O
+Studium	O	O
+im	O	O
+Bereich	O	O
+Informatik	O	O
+,	O	O
+Wirtschaftsinformatik	O	O
+,	O	O
+Data	O	O
+Science	O	O
+oder	O	O
+eine	O	O
+vergleichbare	O	O
+Qualifikation	O	O
+mit	O	O
+entsprechender	O	O
+Berufserfahrung	O	O
+
+# sent_id = 15_data-engineer-0017-1
+# text = - Berufserfahrung im Data Engineering sowie in der Entwicklung und Optimierung von ETL-Prozessen bzw. Datenpipelines
+-	O	O
+Berufserfahrung	O	O
+im	O	O
+Data	O	B-KNOWLEDGE
+Engineering	O	I-KNOWLEDGE
+sowie	O	O
+in	O	O
+der	O	O
+Entwicklung	B-SKILL	O
+und	I-SKILL	O
+Optimierung	I-SKILL	O
+von	I-SKILL	O
+ETL-Prozessen	I-SKILL	B-KNOWLEDGE
+bzw	I-SKILL	O
+.	I-SKILL	O
+Datenpipelines	I-SKILL	B-KNOWLEDGE
+
+# sent_id = 15_data-engineer-0018-1
+# text = - Sehr gute Kenntnisse in SQL und Erfahrung in der Programmierung mit Python
+-	O	O
+Sehr	O	O
+gute	O	O
+Kenntnisse	O	O
+in	O	O
+SQL	O	B-KNOWLEDGE
+und	O	O
+Erfahrung	O	O
+in	O	O
+der	O	O
+Programmierung	B-SKILL	O
+mit	I-SKILL	O
+Python	I-SKILL	B-KNOWLEDGE
+
+# sent_id = 15_data-engineer-0019-1
+# text = - Erfahrung mit modernen Data-Warehouse- oder Lakehouse-Architekturen
+-	O	O
+Erfahrung	O	O
+mit	O	O
+modernen	O	O
+Data-Warehouse	O	B-KNOWLEDGE
+-	O	O
+oder	O	O
+Lakehouse-Architekturen	O	B-KNOWLEDGE
+
+# sent_id = 15_data-engineer-0020-1
+# text = - Kenntnisse in Snowflake, Apache Iceberg, Trino, Nessie, Lakekeeper, SQLMesh oder vergleichbaren Technologien sind von Vorteil
+-	O	O
+Kenntnisse	O	O
+in	O	O
+Snowflake	O	B-KNOWLEDGE
+,	O	O
+Apache	O	B-KNOWLEDGE
+Iceberg	O	I-KNOWLEDGE
+,	O	O
+Trino	O	B-KNOWLEDGE
+,	O	O
+Nessie	O	B-KNOWLEDGE
+,	O	O
+Lakekeeper	O	B-KNOWLEDGE
+,	O	O
+SQLMesh	O	B-KNOWLEDGE
+oder	O	O
+vergleichbaren	O	O
+Technologien	O	O
+sind	O	O
+von	O	O
+Vorteil	O	O
+
+# sent_id = 15_data-engineer-0021-1
+# text = - Kenntnisse im Umgang mit Linux, GitLab oder Oracle sind ebenfalls willkommen
+-	O	O
+Kenntnisse	O	O
+im	O	O
+Umgang	O	O
+mit	O	O
+Linux	O	B-KNOWLEDGE
+,	O	O
+GitLab	O	B-KNOWLEDGE
+oder	O	O
+Oracle	O	B-KNOWLEDGE
+sind	O	O
+ebenfalls	O	O
+willkommen	O	O
+
+# sent_id = 15_data-engineer-0022-1
+# text = - Eine selbstständige, strukturierte und lösungsorientierte Arbeitsweise
+-	O	O
+Eine	O	O
+selbstständige	B-SKILL	O
+,	I-SKILL	O
+strukturierte	I-SKILL	O
+und	I-SKILL	O
+lösungsorientierte	I-SKILL	O
+Arbeitsweise	I-SKILL	O
+
+# sent_id = 15_data-engineer-0023-1
+# text = - Gute Deutsch- und Englischkenntnisse sowie Freude an der Zusammenarbeit mit unterschiedlichen Fachbereichen
+-	O	O
+Gute	O	O
+Deutsch	O	B-KNOWLEDGE
+-	O	I-KNOWLEDGE
+und	O	I-KNOWLEDGE
+Englischkenntnisse	O	I-KNOWLEDGE
+sowie	O	O
+Freude	O	O
+an	O	O
+der	O	O
+Zusammenarbeit	B-SKILL	O
+mit	I-SKILL	O
+unterschiedlichen	I-SKILL	O
+Fachbereichen	I-SKILL	O
+
+# doc_id = 16_marketing-manager-hotel
+# sent_id = 16_marketing-manager-hotel-0001-1
+# text = Marketing Manager (m/w/d)
+Marketing	O	O
+Manager	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 16_marketing-manager-hotel-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 16_marketing-manager-hotel-0003-1
+# text = The Westin Hamburg Elbphilharmonie SE
+The	O	O
+Westin	O	O
+Hamburg	O	O
+Elbphilharmonie	O	O
+SE	O	O
+
+# sent_id = 16_marketing-manager-hotel-0004-1
+# text = So sieht Dein (zukünftiger) Tag aus...
+So	O	O
+sieht	O	O
+Dein	O	O
+(	O	O
+zukünftiger	O	O
+)	O	O
+Tag	O	O
+aus	O	O
+.	O	O
+.	O	O
+.	O	O
+
+# sent_id = 16_marketing-manager-hotel-0005-1
+# text = - Entwicklung und Umsetzung kreativer Marketingstrategien
+-	O	O
+Entwicklung	B-SKILL	O
+und	I-SKILL	O
+Umsetzung	I-SKILL	O
+kreativer	I-SKILL	O
+Marketingstrategien	I-SKILL	O
+
+# sent_id = 16_marketing-manager-hotel-0006-1
+# text = - Planung, Koordination und Steuerung integrierter Marketingkampagnen für Rooms, Food & Beverage, Meetings & Events sowie weitere Hotelbereiche
+-	O	O
+Planung	B-SKILL	O
+,	I-SKILL	O
+Koordination	I-SKILL	O
+und	I-SKILL	O
+Steuerung	I-SKILL	O
+integrierter	I-SKILL	O
+Marketingkampagnen	I-SKILL	O
+für	O	O
+Rooms	O	O
+,	O	O
+Food	O	O
+&	O	O
+Beverage	O	O
+,	O	O
+Meetings	O	O
+&	O	O
+Events	O	O
+sowie	O	O
+weitere	O	O
+Hotelbereiche	O	O
+
+# sent_id = 16_marketing-manager-hotel-0007-1
+# text = - Entwicklung innovativer Konzepte zur Umsatzsteigerung und Gästebindung in enger Zusammenarbeit mit dem Director of Sales & Marketing
+-	O	O
+Entwicklung	B-SKILL	O
+innovativer	I-SKILL	O
+Konzepte	I-SKILL	O
+zur	I-SKILL	O
+Umsatzsteigerung	I-SKILL	O
+und	I-SKILL	O
+Gästebindung	I-SKILL	O
+in	O	O
+enger	O	O
+Zusammenarbeit	O	O
+mit	O	O
+dem	O	O
+Director	O	O
+of	O	O
+Sales	O	O
+&	O	O
+Marketing	O	O
+
+# sent_id = 16_marketing-manager-hotel-0008-1
+# text = - Planung und Steuerung von Content-Maßnahmen für digitale Kanäle
+-	O	O
+Planung	B-SKILL	O
+und	I-SKILL	O
+Steuerung	I-SKILL	O
+von	I-SKILL	O
+Content-Maßnahmen	I-SKILL	O
+für	I-SKILL	O
+digitale	I-SKILL	O
+Kanäle	I-SKILL	O
+
+# sent_id = 16_marketing-manager-hotel-0009-1
+# text = - Betreuung, Optimierung und Performance-Analyse der Websites und Social-Media-Kanäle
+-	O	O
+Betreuung	B-SKILL	O
+,	I-SKILL	O
+Optimierung	I-SKILL	O
+und	I-SKILL	O
+Performance-Analyse	I-SKILL	O
+der	I-SKILL	O
+Websites	I-SKILL	O
+und	I-SKILL	O
+Social-Media-Kanäle	I-SKILL	O
+
+# sent_id = 16_marketing-manager-hotel-0010-1
+# text = - Koordination der Erstellung von Marketingmaterialien
+-	O	O
+Koordination	B-SKILL	O
+der	I-SKILL	O
+Erstellung	I-SKILL	O
+von	I-SKILL	O
+Marketingmaterialien	I-SKILL	O
+
+# sent_id = 16_marketing-manager-hotel-0011-1
+# text = - Umsetzung von Fotoshootings, Videoproduktionen und weiteren Kommunikationsmaßnahmen
+-	O	O
+Umsetzung	B-SKILL	O
+von	I-SKILL	O
+Fotoshootings	I-SKILL	O
+,	I-SKILL	O
+Videoproduktionen	I-SKILL	O
+und	I-SKILL	O
+weiteren	I-SKILL	O
+Kommunikationsmaßnahmen	I-SKILL	O
+
+# sent_id = 16_marketing-manager-hotel-0012-1
+# text = - Aufbau, Pflege und Weiterentwicklung von Beziehungen zu Medienvertretern, Influencern, Agenturen und regionalen Kooperationspartnern
+-	O	O
+Aufbau	B-SKILL	O
+,	I-SKILL	O
+Pflege	I-SKILL	O
+und	I-SKILL	O
+Weiterentwicklung	I-SKILL	O
+von	I-SKILL	O
+Beziehungen	I-SKILL	O
+zu	I-SKILL	O
+Medienvertretern	I-SKILL	O
+,	I-SKILL	O
+Influencern	I-SKILL	O
+,	I-SKILL	O
+Agenturen	I-SKILL	O
+und	I-SKILL	O
+regionalen	I-SKILL	O
+Kooperationspartnern	I-SKILL	O
+
+# sent_id = 16_marketing-manager-hotel-0013-1
+# text = - Unterstützung bei der Planung und Umsetzung von Presseveranstaltungen, Hotel-Events und Marketingaktivierungen
+-	O	O
+Unterstützung	O	O
+bei	O	O
+der	O	O
+Planung	B-SKILL	O
+und	I-SKILL	O
+Umsetzung	I-SKILL	O
+von	I-SKILL	O
+Presseveranstaltungen	I-SKILL	O
+,	I-SKILL	O
+Hotel-Events	I-SKILL	O
+und	I-SKILL	O
+Marketingaktivierungen	I-SKILL	O
+
+# sent_id = 16_marketing-manager-hotel-0014-1
+# text = - Analyse von Markt- und Wettbewerbstrends sowie Identifikation neuer Potenziale zur Weiterentwicklung der Marketingaktivitäten
+-	O	O
+Analyse	B-SKILL	O
+von	I-SKILL	O
+Markt	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Wettbewerbstrends	I-SKILL	O
+sowie	I-SKILL	O
+Identifikation	I-SKILL	O
+neuer	I-SKILL	O
+Potenziale	I-SKILL	O
+zur	O	O
+Weiterentwicklung	O	O
+der	O	O
+Marketingaktivitäten	O	O
+
+# sent_id = 16_marketing-manager-hotel-0015-1
+# text = - Führung und Entwicklung des Sales & Marketing Coordinators sowie der Dualen Studenten und Auszubildenden
+-	O	O
+Führung	B-SKILL	O
+und	I-SKILL	O
+Entwicklung	I-SKILL	O
+des	I-SKILL	O
+Sales	I-SKILL	O
+&	I-SKILL	O
+Marketing	I-SKILL	O
+Coordinators	I-SKILL	O
+sowie	O	O
+der	O	O
+Dualen	O	O
+Studenten	O	O
+und	O	O
+Auszubildenden	O	O
+
+# sent_id = 16_marketing-manager-hotel-0016-1
+# text = Das wünschen wir uns von Dir...
+Das	O	O
+wünschen	O	O
+wir	O	O
+uns	O	O
+von	O	O
+Dir	O	O
+.	O	O
+.	O	O
+.	O	O
+
+# sent_id = 16_marketing-manager-hotel-0017-1
+# text = - Du verfügst über eine abgeschlossene Ausbildung oder ein Studium mit Schwerpunkt Marketing, Kommunikation, Hotellerie, Tourismus oder einem vergleichbaren Bereich
+-	O	O
+Du	O	O
+verfügst	O	O
+über	O	O
+eine	O	O
+abgeschlossene	O	O
+Ausbildung	O	O
+oder	O	O
+ein	O	O
+Studium	O	O
+mit	O	O
+Schwerpunkt	O	O
+Marketing	O	O
+,	O	O
+Kommunikation	O	O
+,	O	O
+Hotellerie	O	O
+,	O	O
+Tourismus	O	O
+oder	O	O
+einem	O	O
+vergleichbaren	O	O
+Bereich	O	O
+
+# sent_id = 16_marketing-manager-hotel-0018-1
+# text = - Du konntest bereits mehrjährige praktische Erfahrung im Marketing, idealerweise in der Hotellerie-, Tourismus- oder Lifestyle-Branche sammeln
+-	O	O
+Du	O	O
+konntest	O	O
+bereits	O	O
+mehrjährige	O	O
+praktische	O	O
+Erfahrung	O	O
+im	O	O
+Marketing	O	O
+,	O	O
+idealerweise	O	O
+in	O	O
+der	O	O
+Hotellerie	O	O
+-	O	O
+,	O	O
+Tourismus	O	O
+-	O	O
+oder	O	O
+Lifestyle-Branche	O	O
+sammeln	O	O
+
+# sent_id = 16_marketing-manager-hotel-0019-1
+# text = - Du begeisterst dich für Markenkommunikation, Storytelling und aktuelle Marketingtrends
+-	O	O
+Du	O	O
+begeisterst	O	O
+dich	O	O
+für	O	O
+Markenkommunikation	O	B-KNOWLEDGE
+,	O	O
+Storytelling	O	B-KNOWLEDGE
+und	O	O
+aktuelle	O	O
+Marketingtrends	O	B-KNOWLEDGE
+
+# sent_id = 16_marketing-manager-hotel-0020-1
+# text = - Du verfügst über ein ausgeprägtes Gespür für hochwertige Inhalte sowie eine zielgruppengerechte Ansprache
+-	O	O
+Du	O	O
+verfügst	O	O
+über	O	O
+ein	O	O
+ausgeprägtes	B-SKILL	O
+Gespür	I-SKILL	O
+für	I-SKILL	O
+hochwertige	I-SKILL	O
+Inhalte	I-SKILL	O
+sowie	I-SKILL	O
+eine	I-SKILL	O
+zielgruppengerechte	I-SKILL	O
+Ansprache	I-SKILL	O
+
+# sent_id = 16_marketing-manager-hotel-0021-1
+# text = - Du arbeitest strukturiert, eigenverantwortlich und behältst auch bei mehreren Projekten gleichzeitig den Überblick
+-	O	O
+Du	O	O
+arbeitest	B-SKILL	O
+strukturiert	I-SKILL	O
+,	I-SKILL	O
+eigenverantwortlich	I-SKILL	O
+und	O	O
+behältst	O	O
+auch	O	O
+bei	O	O
+mehreren	O	O
+Projekten	O	O
+gleichzeitig	O	O
+den	O	O
+Überblick	O	O
+
+# sent_id = 16_marketing-manager-hotel-0022-1
+# text = - Du kommunizierst souverän in deutscher und englischer Sprache – sowohl mündlich als auch schriftlich
+-	O	O
+Du	O	O
+kommunizierst	B-SKILL	O
+souverän	I-SKILL	O
+in	I-SKILL	O
+deutscher	I-SKILL	B-KNOWLEDGE
+und	I-SKILL	I-KNOWLEDGE
+englischer	I-SKILL	I-KNOWLEDGE
+Sprache	I-SKILL	I-KNOWLEDGE
+–	O	O
+sowohl	O	O
+mündlich	O	O
+als	O	O
+auch	O	O
+schriftlich	O	O
+
+# sent_id = 16_marketing-manager-hotel-0023-1
+# text = - Du überzeugst durch Kreativität, Organisationsgeschick sowie ein hohes Maß an Eigeninitiative
+-	O	O
+Du	O	O
+überzeugst	O	O
+durch	O	O
+Kreativität	B-SKILL	O
+,	I-SKILL	O
+Organisationsgeschick	I-SKILL	O
+sowie	I-SKILL	O
+ein	I-SKILL	O
+hohes	I-SKILL	O
+Maß	I-SKILL	O
+an	I-SKILL	O
+Eigeninitiative	I-SKILL	O
+
+# sent_id = 16_marketing-manager-hotel-0024-1
+# text = - Du besitzt sehr gute Kenntnisse im Umgang mit Microsoft Office sowie gängigen Marketing- und Analysetools
+-	O	O
+Du	O	O
+besitzt	O	O
+sehr	O	O
+gute	O	O
+Kenntnisse	O	O
+im	O	O
+Umgang	O	O
+mit	O	O
+Microsoft	O	B-KNOWLEDGE
+Office	O	I-KNOWLEDGE
+sowie	O	O
+gängigen	O	O
+Marketing	O	B-KNOWLEDGE
+-	O	I-KNOWLEDGE
+und	O	I-KNOWLEDGE
+Analysetools	O	I-KNOWLEDGE
+
+# sent_id = 16_marketing-manager-hotel-0025-1
+# text = - Idealerweise hast Du bereits praktische Erfahrung mit Canva Pro und KI-gestützten Tools wie Microsoft Copilot oder ChatGPT
+-	O	O
+Idealerweise	O	O
+hast	O	O
+Du	O	O
+bereits	O	O
+praktische	O	O
+Erfahrung	O	O
+mit	O	O
+Canva	O	B-KNOWLEDGE
+Pro	O	I-KNOWLEDGE
+und	O	O
+KI-gestützten	O	B-KNOWLEDGE
+Tools	O	I-KNOWLEDGE
+wie	O	O
+Microsoft	O	B-KNOWLEDGE
+Copilot	O	I-KNOWLEDGE
+oder	O	O
+ChatGPT	O	B-KNOWLEDGE
+
+# sent_id = 16_marketing-manager-hotel-0026-1
+# text = - Kenntnisse im Marriott-Umfeld sind von Vorteil, aber keine Voraussetzung
+-	O	O
+Kenntnisse	O	O
+im	O	O
+Marriott-Umfeld	O	O
+sind	O	O
+von	O	O
+Vorteil	O	O
+,	O	O
+aber	O	O
+keine	O	O
+Voraussetzung	O	O
+
+# doc_id = 17_sachbearbeitung-fes
+# sent_id = 17_sachbearbeitung-fes-0001-1
+# text = Stellenangebot 10
+Stellenangebot	O	O
+10	O	O
+
+# sent_id = 17_sachbearbeitung-fes-0002-1
+# text = Sachbearbeitung (m/w/d)
+Sachbearbeitung	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 17_sachbearbeitung-fes-0003-1
+# text = bei
+bei	O	O
+
+# sent_id = 17_sachbearbeitung-fes-0004-1
+# text = FRIEDRICH-EBERT-STIFTUNG e.V.
+FRIEDRICH-EBERT-STIFTUNG	O	O
+e.V	O	O
+.	O	O
+
+# sent_id = 17_sachbearbeitung-fes-0005-1
+# text = Aufgabenbereich:
+Aufgabenbereich	O	O
+:	O	O
+
+# sent_id = 17_sachbearbeitung-fes-0006-1
+# text = - Organisatorische Vor- und Nachbereitung von Maßnahmen der politischen Bildung und Beratung in Sachsen-Anhalt inklusive Online-Formaten
+-	O	O
+Organisatorische	B-SKILL	O
+Vor	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Nachbereitung	I-SKILL	O
+von	I-SKILL	O
+Maßnahmen	I-SKILL	O
+der	I-SKILL	O
+politischen	I-SKILL	O
+Bildung	I-SKILL	O
+und	I-SKILL	O
+Beratung	I-SKILL	O
+in	O	O
+Sachsen-Anhalt	O	O
+inklusive	O	O
+Online-Formaten	O	O
+
+# sent_id = 17_sachbearbeitung-fes-0007-1
+# text = - Projektsachbearbeitung
+-	O	O
+Projektsachbearbeitung	B-SKILL	O
+
+# sent_id = 17_sachbearbeitung-fes-0008-1
+# text = - Finanzsachbearbeitung, Haushaltsplanung und -kontrolle
+-	O	O
+Finanzsachbearbeitung	B-SKILL	O
+,	I-SKILL	O
+Haushaltsplanung	I-SKILL	O
+und	I-SKILL	O
+-	I-SKILL	O
+kontrolle	I-SKILL	O
+
+# sent_id = 17_sachbearbeitung-fes-0009-1
+# text = - Redaktionelle Betreuung der Website, des Newsletters und der Social-Media-Kanäle
+-	O	O
+Redaktionelle	B-SKILL	O
+Betreuung	I-SKILL	O
+der	I-SKILL	O
+Website	I-SKILL	O
+,	I-SKILL	O
+des	I-SKILL	O
+Newsletters	I-SKILL	O
+und	I-SKILL	O
+der	I-SKILL	O
+Social-Media-Kanäle	I-SKILL	O
+
+# sent_id = 17_sachbearbeitung-fes-0010-1
+# text = - Pflege der Adress-/Teilnehmerdatenbank
+-	O	O
+Pflege	B-SKILL	O
+der	I-SKILL	O
+Adress	I-SKILL	O
+-	I-SKILL	O
+/	I-SKILL	O
+Teilnehmerdatenbank	I-SKILL	O
+
+# sent_id = 17_sachbearbeitung-fes-0011-1
+# text = - Allgemeine Verwaltungsaufgaben
+-	O	O
+Allgemeine	B-SKILL	O
+Verwaltungsaufgaben	I-SKILL	O
+
+# sent_id = 17_sachbearbeitung-fes-0012-1
+# text = Anforderungen:
+Anforderungen	O	O
+:	O	O
+
+# sent_id = 17_sachbearbeitung-fes-0013-1
+# text = - Abgeschlossene Kaufmännische Ausbildung oder vergleichbare Kenntnisse und Erfahrungen
+-	O	O
+Abgeschlossene	O	O
+Kaufmännische	O	O
+Ausbildung	O	O
+oder	O	O
+vergleichbare	O	O
+Kenntnisse	O	O
+und	O	O
+Erfahrungen	O	O
+
+# sent_id = 17_sachbearbeitung-fes-0014-1
+# text = - Gründliche und vielseitige Fachkenntnisse
+-	O	O
+Gründliche	O	O
+und	O	O
+vielseitige	O	O
+Fachkenntnisse	O	O
+
+# sent_id = 17_sachbearbeitung-fes-0015-1
+# text = - Gute Fähigkeiten und Erfahrungen in der Veranstaltungsorganisation
+-	O	O
+Gute	O	O
+Fähigkeiten	O	O
+und	O	O
+Erfahrungen	O	O
+in	O	O
+der	O	O
+Veranstaltungsorganisation	B-SKILL	O
+
+# sent_id = 17_sachbearbeitung-fes-0016-1
+# text = - Gute Kenntnisse und Erfahrungen in der Finanzsachbearbeitung
+-	O	O
+Gute	O	O
+Kenntnisse	O	O
+und	O	O
+Erfahrungen	O	O
+in	O	O
+der	O	O
+Finanzsachbearbeitung	B-SKILL	O
+
+# sent_id = 17_sachbearbeitung-fes-0017-1
+# text = - Gute Team- und Kommunikationsfähigkeit
+-	O	O
+Gute	B-SKILL	O
+Team	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Kommunikationsfähigkeit	I-SKILL	O
+
+# sent_id = 17_sachbearbeitung-fes-0018-1
+# text = - Sehr gute EDV-Kenntnisse sowie Erfahrung und Kenntnisse im Umgang mit Content Management Systemen, Videokonferenzsystemen sowie mit Social-Media
+-	O	O
+Sehr	O	O
+gute	O	O
+EDV-Kenntnisse	O	B-KNOWLEDGE
+sowie	O	O
+Erfahrung	O	O
+und	O	O
+Kenntnisse	O	O
+im	O	O
+Umgang	O	O
+mit	O	O
+Content	O	B-KNOWLEDGE
+Management	O	I-KNOWLEDGE
+Systemen	O	I-KNOWLEDGE
+,	O	O
+Videokonferenzsystemen	O	B-KNOWLEDGE
+sowie	O	O
+mit	O	O
+Social-Media	O	B-KNOWLEDGE
+
+# sent_id = 17_sachbearbeitung-fes-0019-1
+# text = - Bereitschaft zu Dienstreisen in Sachsen-Anhalt und zum überregionalen Einsatz
+-	O	O
+Bereitschaft	O	O
+zu	O	O
+Dienstreisen	O	O
+in	O	O
+Sachsen-Anhalt	O	O
+und	O	O
+zum	O	O
+überregionalen	O	O
+Einsatz	O	O
+
+# sent_id = 17_sachbearbeitung-fes-0020-1
+# text = - Kenntnisse der politischen Verhältnisse in Sachsen-Anhalt
+-	O	O
+Kenntnisse	O	O
+der	O	O
+politischen	O	B-KNOWLEDGE
+Verhältnisse	O	I-KNOWLEDGE
+in	O	I-KNOWLEDGE
+Sachsen-Anhalt	O	I-KNOWLEDGE
+
+# doc_id = 18_buchhaltung-aurea
+# sent_id = 18_buchhaltung-aurea-0001-1
+# text = Stellenangebot 11
+Stellenangebot	O	O
+11	O	O
+
+# sent_id = 18_buchhaltung-aurea-0002-1
+# text = buchhaltung (m/w/d AUREA GmbH
+buchhaltung	O	O
+(	O	O
+m/w/d	O	O
+AUREA	O	O
+GmbH	O	O
+
+# sent_id = 18_buchhaltung-aurea-0003-1
+# text = Ihre Aufgaben:
+Ihre	O	O
+Aufgaben	O	O
+:	O	O
+
+# sent_id = 18_buchhaltung-aurea-0004-1
+# text = - Planung der Liquidität und tägliche Überwachung der Bankkonten
+-	O	O
+Planung	B-SKILL	O
+der	I-SKILL	O
+Liquidität	I-SKILL	O
+und	I-SKILL	O
+tägliche	I-SKILL	O
+Überwachung	I-SKILL	O
+der	I-SKILL	O
+Bankkonten	I-SKILL	O
+
+# sent_id = 18_buchhaltung-aurea-0005-1
+# text = - Prüfung von Steuerbescheiden für deutsche Gesellschaften und Sicherstellung termingerechter Vorauszahlungen (KöSt, GewSt)
+-	O	O
+Prüfung	B-SKILL	O
+von	I-SKILL	O
+Steuerbescheiden	I-SKILL	O
+für	I-SKILL	O
+deutsche	I-SKILL	O
+Gesellschaften	I-SKILL	O
+und	O	O
+Sicherstellung	B-SKILL	O
+termingerechter	I-SKILL	O
+Vorauszahlungen	I-SKILL	O
+(	O	O
+KöSt	O	O
+,	O	O
+GewSt	O	O
+)	O	O
+
+# sent_id = 18_buchhaltung-aurea-0006-1
+# text = - Erstellung von Monats-, Quartals- und Jahresabschlüssen nach HGB (Bilanz, GuV, BWA) für deutsche und belgische Gesellschaften
+-	O	O
+Erstellung	B-SKILL	O
+von	I-SKILL	O
+Monats	I-SKILL	O
+-	I-SKILL	O
+,	I-SKILL	O
+Quartals	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Jahresabschlüssen	I-SKILL	O
+nach	I-SKILL	O
+HGB	I-SKILL	B-KNOWLEDGE
+(	O	O
+Bilanz	O	B-KNOWLEDGE
+,	O	O
+GuV	O	B-KNOWLEDGE
+,	O	O
+BWA	O	B-KNOWLEDGE
+)	O	O
+für	O	O
+deutsche	O	O
+und	O	O
+belgische	O	O
+Gesellschaften	O	O
+
+# sent_id = 18_buchhaltung-aurea-0007-1
+# text = - Monatliche Konsolidierung auf Gruppenebene (Deutschland, Belgien, Schweiz, Österreich)
+-	O	O
+Monatliche	B-SKILL	O
+Konsolidierung	I-SKILL	O
+auf	I-SKILL	O
+Gruppenebene	I-SKILL	O
+(	O	O
+Deutschland	O	O
+,	O	O
+Belgien	O	O
+,	O	O
+Schweiz	O	O
+,	O	O
+Österreich	O	O
+)	O	O
+
+# sent_id = 18_buchhaltung-aurea-0008-1
+# text = - Erstellung von Kostenstellenreports und Führung des Anlagevermögens in DATEV und Excel
+-	O	O
+Erstellung	B-SKILL	O
+von	I-SKILL	O
+Kostenstellenreports	I-SKILL	O
+und	I-SKILL	O
+Führung	I-SKILL	O
+des	I-SKILL	O
+Anlagevermögens	I-SKILL	O
+in	O	O
+DATEV	O	B-KNOWLEDGE
+und	O	O
+Excel	O	B-KNOWLEDGE
+
+# sent_id = 18_buchhaltung-aurea-0009-1
+# text = - Periodengerechte Abgrenzung von Unternehmenskosten und tägliche Buchung von Geschäftsvorfällen
+-	O	O
+Periodengerechte	B-SKILL	O
+Abgrenzung	I-SKILL	O
+von	I-SKILL	O
+Unternehmenskosten	I-SKILL	O
+und	O	O
+tägliche	B-SKILL	O
+Buchung	I-SKILL	O
+von	I-SKILL	O
+Geschäftsvorfällen	I-SKILL	O
+
+# sent_id = 18_buchhaltung-aurea-0010-1
+# text = - Erstellung und Abgabe von Umsatzsteuervoranmeldungen, Zusammenfassenden Meldungen, Intrastat-Meldungen sowie Kundenlistenjahresmeldungen
+-	O	O
+Erstellung	B-SKILL	O
+und	I-SKILL	O
+Abgabe	I-SKILL	O
+von	I-SKILL	O
+Umsatzsteuervoranmeldungen	I-SKILL	O
+,	I-SKILL	O
+Zusammenfassenden	I-SKILL	O
+Meldungen	I-SKILL	O
+,	I-SKILL	O
+Intrastat-Meldungen	I-SKILL	O
+sowie	I-SKILL	O
+Kundenlistenjahresmeldungen	I-SKILL	O
+
+# sent_id = 18_buchhaltung-aurea-0011-1
+# text = - Mitarbeit an Projekten zur Optimierung von Geschäftsprozessen und Umsetzung gesetzlicher Neuerungen
+-	O	O
+Mitarbeit	B-SKILL	O
+an	I-SKILL	O
+Projekten	I-SKILL	O
+zur	I-SKILL	O
+Optimierung	I-SKILL	O
+von	I-SKILL	O
+Geschäftsprozessen	I-SKILL	O
+und	O	O
+Umsetzung	O	O
+gesetzlicher	O	O
+Neuerungen	O	O
+
+# sent_id = 18_buchhaltung-aurea-0012-1
+# text = - Key-User-Funktion im Bereich Finanzbuchhaltung und Durchführung von Mitarbeiterschulungen
+-	O	O
+Key-User-Funktion	B-SKILL	O
+im	I-SKILL	O
+Bereich	I-SKILL	O
+Finanzbuchhaltung	I-SKILL	B-KNOWLEDGE
+und	O	O
+Durchführung	B-SKILL	O
+von	I-SKILL	O
+Mitarbeiterschulungen	I-SKILL	O
+
+# sent_id = 18_buchhaltung-aurea-0013-1
+# text = - Kontenabstimmungen (OP-geführte Sachkonten, Bilanz- und GuV-Konten) und abschlusssichere Buchungen im Rahmen des Jahresabschlusses
+-	O	O
+Kontenabstimmungen	B-SKILL	O
+(	O	O
+OP-geführte	O	O
+Sachkonten	O	O
+,	O	O
+Bilanz	O	O
+-	O	O
+und	O	O
+GuV-Konten	O	O
+)	O	O
+und	O	O
+abschlusssichere	B-SKILL	O
+Buchungen	I-SKILL	O
+im	I-SKILL	O
+Rahmen	I-SKILL	O
+des	I-SKILL	O
+Jahresabschlusses	I-SKILL	O
+
+# sent_id = 18_buchhaltung-aurea-0014-1
+# text = - Bereitstellung aller Haupt- und Nebenbücher für Wirtschaftsprüfer und Begleitung der Inventur
+-	O	O
+Bereitstellung	B-SKILL	O
+aller	I-SKILL	O
+Haupt	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Nebenbücher	I-SKILL	O
+für	I-SKILL	O
+Wirtschaftsprüfer	I-SKILL	O
+und	O	O
+Begleitung	B-SKILL	O
+der	I-SKILL	O
+Inventur	I-SKILL	O
+
+# sent_id = 18_buchhaltung-aurea-0015-1
+# text = - Buchung und Bewertung von Rückstellungen sowie Wertberichtigungen nach HGB
+-	O	O
+Buchung	B-SKILL	O
+und	I-SKILL	O
+Bewertung	I-SKILL	O
+von	I-SKILL	O
+Rückstellungen	I-SKILL	O
+sowie	I-SKILL	O
+Wertberichtigungen	I-SKILL	O
+nach	I-SKILL	O
+HGB	I-SKILL	B-KNOWLEDGE
+
+# sent_id = 18_buchhaltung-aurea-0016-1
+# text = - Sachkonten-Mapping für internationale Gesellschaften und Abstimmung von Intercompany-Sachverhalten
+-	O	O
+Sachkonten-Mapping	B-SKILL	O
+für	I-SKILL	O
+internationale	I-SKILL	O
+Gesellschaften	I-SKILL	O
+und	O	O
+Abstimmung	B-SKILL	O
+von	I-SKILL	O
+Intercompany-Sachverhalten	I-SKILL	O
+
+# sent_id = 18_buchhaltung-aurea-0017-1
+# text = - Analyse von Finanzdaten sowie Kontrolle von Betriebskosten und Buchungen auf Sachkostenebene
+-	O	O
+Analyse	B-SKILL	O
+von	I-SKILL	O
+Finanzdaten	I-SKILL	O
+sowie	O	O
+Kontrolle	B-SKILL	O
+von	I-SKILL	O
+Betriebskosten	I-SKILL	O
+und	I-SKILL	O
+Buchungen	I-SKILL	O
+auf	I-SKILL	O
+Sachkostenebene	I-SKILL	O
+
+# sent_id = 18_buchhaltung-aurea-0018-1
+# text = - Erstellung von Umsatzsteuerjahresmeldungen, K-4 Meldungen und Meldungen zur Strukturstatistik bzw. globalen Wertschöpfung (Destatis)
+-	O	O
+Erstellung	B-SKILL	O
+von	I-SKILL	O
+Umsatzsteuerjahresmeldungen	I-SKILL	O
+,	I-SKILL	O
+K-4	I-SKILL	O
+Meldungen	I-SKILL	O
+und	I-SKILL	O
+Meldungen	I-SKILL	O
+zur	I-SKILL	O
+Strukturstatistik	I-SKILL	O
+bzw	O	O
+.	O	O
+globalen	O	O
+Wertschöpfung	O	O
+(	O	O
+Destatis	O	O
+)	O	O
+
+# sent_id = 18_buchhaltung-aurea-0019-1
+# text = - Weiterleitung der Jahresabschlüsse und Kommunikation mit Banken
+-	O	O
+Weiterleitung	O	O
+der	O	O
+Jahresabschlüsse	O	O
+und	O	O
+Kommunikation	B-SKILL	O
+mit	I-SKILL	O
+Banken	I-SKILL	O
+
+# sent_id = 18_buchhaltung-aurea-0020-1
+# text = - Verwaltung von Perioden im ERP-System für alle Abteilungen und Gesellschaften
+-	O	O
+Verwaltung	B-SKILL	O
+von	I-SKILL	O
+Perioden	I-SKILL	O
+im	I-SKILL	O
+ERP-System	I-SKILL	B-KNOWLEDGE
+für	O	O
+alle	O	O
+Abteilungen	O	O
+und	O	O
+Gesellschaften	O	O
+
+# sent_id = 18_buchhaltung-aurea-0021-1
+# text = Ihr Profil:
+Ihr	O	O
+Profil	O	O
+:	O	O
+
+# sent_id = 18_buchhaltung-aurea-0022-1
+# text = - Abgeschlossene kaufmännische Ausbildung, idealerweise mit Weiterbildung zum Bilanzbuchhalter oder ein betriebswirtschaftliches Studium mit Schwerpunkt Finanzen/ Accounting
+-	O	O
+Abgeschlossene	O	O
+kaufmännische	O	O
+Ausbildung	O	O
+,	O	O
+idealerweise	O	O
+mit	O	O
+Weiterbildung	O	O
+zum	O	O
+Bilanzbuchhalter	O	O
+oder	O	O
+ein	O	O
+betriebswirtschaftliches	O	O
+Studium	O	O
+mit	O	O
+Schwerpunkt	O	O
+Finanzen	O	O
+/	O	O
+Accounting	O	O
+
+# sent_id = 18_buchhaltung-aurea-0023-1
+# text = - Mehrjährige Erfahrung in der Buchhaltung, idealerweise in leitender Funktion
+-	O	O
+Mehrjährige	O	O
+Erfahrung	O	O
+in	O	O
+der	O	O
+Buchhaltung	O	B-KNOWLEDGE
+,	O	O
+idealerweise	O	O
+in	O	O
+leitender	O	O
+Funktion	O	O
+
+# sent_id = 18_buchhaltung-aurea-0024-1
+# text = - Fundierte Kenntnisse in HGB, Steuerrecht, Bilanzierung, Umsatzsteuer und internationalen Rechnungslegungsvorschriften
+-	O	O
+Fundierte	O	O
+Kenntnisse	O	O
+in	O	O
+HGB	O	B-KNOWLEDGE
+,	O	O
+Steuerrecht	O	B-KNOWLEDGE
+,	O	O
+Bilanzierung	O	B-KNOWLEDGE
+,	O	O
+Umsatzsteuer	O	B-KNOWLEDGE
+und	O	O
+internationalen	O	B-KNOWLEDGE
+Rechnungslegungsvorschriften	O	I-KNOWLEDGE
+
+# sent_id = 18_buchhaltung-aurea-0025-1
+# text = - Erfahrung mit ERP- und Buchhaltungssystemen (z. B.
+-	O	O
+Erfahrung	O	O
+mit	O	O
+ERP	O	B-KNOWLEDGE
+-	O	I-KNOWLEDGE
+und	O	I-KNOWLEDGE
+Buchhaltungssystemen	O	I-KNOWLEDGE
+(	O	O
+z	O	O
+.	O	O
+B	O	O
+.	O	O
+
+# sent_id = 18_buchhaltung-aurea-0025-2
+# text = DATEV, SAP, Lexware)
+DATEV	O	B-KNOWLEDGE
+,	O	O
+SAP	O	B-KNOWLEDGE
+,	O	O
+Lexware	O	B-KNOWLEDGE
+)	O	O
+
+# sent_id = 18_buchhaltung-aurea-0026-1
+# text = - Sicherer Umgang mit Excel, insbesondere für Konsolidierungen und Reporting
+-	O	O
+Sicherer	B-SKILL	O
+Umgang	I-SKILL	O
+mit	I-SKILL	O
+Excel	I-SKILL	B-KNOWLEDGE
+,	I-SKILL	O
+insbesondere	I-SKILL	O
+für	I-SKILL	O
+Konsolidierungen	I-SKILL	O
+und	I-SKILL	O
+Reporting	I-SKILL	O
+
+# sent_id = 18_buchhaltung-aurea-0027-1
+# text = - Analytisches Denkvermögen, strukturiertes Arbeiten und Zahlenaffinität
+-	O	O
+Analytisches	B-SKILL	O
+Denkvermögen	I-SKILL	O
+,	I-SKILL	O
+strukturiertes	I-SKILL	O
+Arbeiten	I-SKILL	O
+und	I-SKILL	O
+Zahlenaffinität	I-SKILL	O
+
+# sent_id = 18_buchhaltung-aurea-0028-1
+# text = - Führungserfahrung und die Fähigkeit, ein Team zu leiten und zu entwickeln
+-	O	O
+Führungserfahrung	B-SKILL	O
+und	O	O
+die	O	O
+Fähigkeit	O	O
+,	O	O
+ein	B-SKILL	O
+Team	I-SKILL	O
+zu	I-SKILL	O
+leiten	I-SKILL	O
+und	I-SKILL	O
+zu	I-SKILL	O
+entwickeln	I-SKILL	O
+
+# sent_id = 18_buchhaltung-aurea-0029-1
+# text = - Proaktive und lösungsorientierte Arbeitsweise, hohe Eigenverantwortung
+-	O	O
+Proaktive	B-SKILL	O
+und	I-SKILL	O
+lösungsorientierte	I-SKILL	O
+Arbeitsweise	I-SKILL	O
+,	I-SKILL	O
+hohe	I-SKILL	O
+Eigenverantwortung	I-SKILL	O
+
+# sent_id = 18_buchhaltung-aurea-0030-1
+# text = - Gute Kommunikationsfähigkeiten in Deutsch und Englisch, insbesondere für internationale Gesellschaften
+-	O	O
+Gute	B-SKILL	O
+Kommunikationsfähigkeiten	I-SKILL	O
+in	I-SKILL	O
+Deutsch	I-SKILL	B-KNOWLEDGE
+und	I-SKILL	O
+Englisch	I-SKILL	B-KNOWLEDGE
+,	O	O
+insbesondere	O	O
+für	O	O
+internationale	O	O
+Gesellschaften	O	O
+
+# doc_id = 19_sachbearbeiter-controlling
+# sent_id = 19_sachbearbeiter-controlling-0001-1
+# text = Sachbearbeiter (m/w/d) Controlling univativ GmbH
+Sachbearbeiter	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+Controlling	O	O
+univativ	O	O
+GmbH	O	O
+
+# sent_id = 19_sachbearbeiter-controlling-0002-1
+# text = Das erwartet Dich bei uns
+Das	O	O
+erwartet	O	O
+Dich	O	O
+bei	O	O
+uns	O	O
+
+# sent_id = 19_sachbearbeiter-controlling-0003-1
+# text = - Pflege und Verwaltung von Stammdaten für Investitionsprojekte sowie bauliche Instandhaltungs- und Unterhaltungsmaßnahmen
+-	O	O
+Pflege	B-SKILL	O
+und	I-SKILL	O
+Verwaltung	I-SKILL	O
+von	I-SKILL	O
+Stammdaten	I-SKILL	O
+für	I-SKILL	O
+Investitionsprojekte	I-SKILL	O
+sowie	O	O
+bauliche	O	O
+Instandhaltungs	O	O
+-	O	O
+und	O	O
+Unterhaltungsmaßnahmen	O	O
+
+# sent_id = 19_sachbearbeiter-controlling-0004-1
+# text = - Laufende Aktualisierung und Überwachung von Projektständen inklusive Analyse von Abweichungen in SAP PS
+-	O	O
+Laufende	B-SKILL	O
+Aktualisierung	I-SKILL	O
+und	I-SKILL	O
+Überwachung	I-SKILL	O
+von	I-SKILL	O
+Projektständen	I-SKILL	O
+inklusive	I-SKILL	O
+Analyse	I-SKILL	O
+von	I-SKILL	O
+Abweichungen	I-SKILL	O
+in	I-SKILL	O
+SAP	I-SKILL	B-KNOWLEDGE
+PS	I-SKILL	I-KNOWLEDGE
+
+# sent_id = 19_sachbearbeiter-controlling-0005-1
+# text = - Erstellung von Projektauswertungen sowie Ableitung geeigneter Maßnahmen zur gezielten Projektsteuerung
+-	O	O
+Erstellung	B-SKILL	O
+von	I-SKILL	O
+Projektauswertungen	I-SKILL	O
+sowie	I-SKILL	O
+Ableitung	I-SKILL	O
+geeigneter	I-SKILL	O
+Maßnahmen	I-SKILL	O
+zur	I-SKILL	O
+gezielten	I-SKILL	O
+Projektsteuerung	I-SKILL	O
+
+# sent_id = 19_sachbearbeiter-controlling-0006-1
+# text = - Durchführung von Statikprüfungen, Aktualisierung von Datenbeständen und kontinuierliche Pflege des SAP-PS-Systems
+-	O	O
+Durchführung	B-SKILL	O
+von	I-SKILL	O
+Statikprüfungen	I-SKILL	O
+,	I-SKILL	O
+Aktualisierung	I-SKILL	O
+von	I-SKILL	O
+Datenbeständen	I-SKILL	O
+und	I-SKILL	O
+kontinuierliche	I-SKILL	O
+Pflege	I-SKILL	O
+des	I-SKILL	O
+SAP-PS-Systems	I-SKILL	B-KNOWLEDGE
+
+# sent_id = 19_sachbearbeiter-controlling-0007-1
+# text = - Mitarbeit an Projekten zur Weiterentwicklung und Optimierung des Investitionscontrollings
+-	O	O
+Mitarbeit	O	O
+an	O	O
+Projekten	O	O
+zur	O	O
+Weiterentwicklung	B-SKILL	O
+und	I-SKILL	O
+Optimierung	I-SKILL	O
+des	I-SKILL	O
+Investitionscontrollings	I-SKILL	O
+
+# sent_id = 19_sachbearbeiter-controlling-0008-1
+# text = - Unterstützung bei der Budgetplanung sowie Erfassung und Verwaltung von Investitionsaufträgen
+-	O	O
+Unterstützung	B-SKILL	O
+bei	I-SKILL	O
+der	I-SKILL	O
+Budgetplanung	I-SKILL	O
+sowie	I-SKILL	O
+Erfassung	I-SKILL	O
+und	I-SKILL	O
+Verwaltung	I-SKILL	O
+von	I-SKILL	O
+Investitionsaufträgen	I-SKILL	O
+
+# sent_id = 19_sachbearbeiter-controlling-0009-1
+# text = Das bringst Du mit
+Das	O	O
+bringst	O	O
+Du	O	O
+mit	O	O
+
+# sent_id = 19_sachbearbeiter-controlling-0010-1
+# text = - Ein abgeschlossenes Studium der Wirtschaftswissenschaften, BWL oder vergleichbar
+-	O	O
+Ein	O	O
+abgeschlossenes	O	O
+Studium	O	O
+der	O	O
+Wirtschaftswissenschaften	O	O
+,	O	O
+BWL	O	O
+oder	O	O
+vergleichbar	O	O
+
+# sent_id = 19_sachbearbeiter-controlling-0011-1
+# text = - Praktische Erfahrung in der Sachbearbeitung und/oder im Controlling wünschenswert
+-	O	O
+Praktische	O	O
+Erfahrung	O	O
+in	O	O
+der	O	O
+Sachbearbeitung	O	B-KNOWLEDGE
+und/oder	O	O
+im	O	O
+Controlling	O	B-KNOWLEDGE
+wünschenswert	O	O
+
+# sent_id = 19_sachbearbeiter-controlling-0012-1
+# text = - Fundierte Kenntnisse in SAP PS, alternativ in MS Dynamics oder vergleichbare Projektmanagementsysteme
+-	O	O
+Fundierte	O	O
+Kenntnisse	O	O
+in	O	O
+SAP	O	B-KNOWLEDGE
+PS	O	I-KNOWLEDGE
+,	O	O
+alternativ	O	O
+in	O	O
+MS	O	B-KNOWLEDGE
+Dynamics	O	I-KNOWLEDGE
+oder	O	O
+vergleichbare	O	O
+Projektmanagementsysteme	O	B-KNOWLEDGE
+
+# sent_id = 19_sachbearbeiter-controlling-0013-1
+# text = - Ein sicherer Umgang mit den gängigen MS Office Anwendungen
+-	O	O
+Ein	O	O
+sicherer	O	O
+Umgang	O	O
+mit	O	O
+den	O	O
+gängigen	O	O
+MS	O	B-KNOWLEDGE
+Office	O	I-KNOWLEDGE
+Anwendungen	O	O
+
+# sent_id = 19_sachbearbeiter-controlling-0014-1
+# text = - Verhandlungssichere Deutschkenntnisse in Wort und Schrift
+-	O	O
+Verhandlungssichere	O	O
+Deutschkenntnisse	O	B-KNOWLEDGE
+in	O	O
+Wort	O	O
+und	O	O
+Schrift	O	O
+
+# sent_id = 19_sachbearbeiter-controlling-0015-1
+# text = - Ein hohes Maß an Eigeninitiative sowie eine selbstständige und strukturierte Arbeitsweise
+-	O	O
+Ein	O	O
+hohes	O	O
+Maß	O	O
+an	O	O
+Eigeninitiative	B-SKILL	O
+sowie	I-SKILL	O
+eine	I-SKILL	O
+selbstständige	I-SKILL	O
+und	I-SKILL	O
+strukturierte	I-SKILL	O
+Arbeitsweise	I-SKILL	O
+
+# doc_id = 20_pflegefachkraft-remacare
+# sent_id = 20_pflegefachkraft-remacare-0001-1
+# text = Pflegefachkraft
+Pflegefachkraft	O	O
+
+# sent_id = 20_pflegefachkraft-remacare-0002-1
+# text = ReMaCare Pflegedienst
+ReMaCare	O	O
+Pflegedienst	O	O
+
+# sent_id = 20_pflegefachkraft-remacare-0003-1
+# text = Das sind Deine Aufgaben:
+Das	O	O
+sind	O	O
+Deine	O	O
+Aufgaben	O	O
+:	O	O
+
+# sent_id = 20_pflegefachkraft-remacare-0004-1
+# text = -Durchführung der allgemeinen Grundpflege und
+-	O	O
+Durchführung	B-SKILL	O
+der	I-SKILL	O
+allgemeinen	I-SKILL	O
+Grundpflege	I-SKILL	O
+und	O	O
+
+# sent_id = 20_pflegefachkraft-remacare-0005-1
+# text = Behandlungspflege unserer Klienten (z. B.
+Behandlungspflege	B-SKILL	O
+unserer	I-SKILL	O
+Klienten	I-SKILL	O
+(	O	O
+z	O	O
+.	O	O
+B	O	O
+.	O	O
+
+# sent_id = 20_pflegefachkraft-remacare-0005-2
+# text = Körperpflege,
+Körperpflege	B-SKILL	O
+,	O	O
+
+# sent_id = 20_pflegefachkraft-remacare-0006-1
+# text = Mobilisation, Medikamentengabe, Wundversorgung, Blutdruck-, Puls- und Blutzuckerkontrolle, Portversorgung etc.)
+Mobilisation	B-SKILL	O
+,	O	O
+Medikamentengabe	B-SKILL	O
+,	O	O
+Wundversorgung	B-SKILL	O
+,	O	O
+Blutdruck	B-SKILL	O
+-	I-SKILL	O
+,	I-SKILL	O
+Puls	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Blutzuckerkontrolle	I-SKILL	O
+,	O	O
+Portversorgung	B-SKILL	O
+etc	O	O
+.	O	O
+)	O	O
+
+# sent_id = 20_pflegefachkraft-remacare-0007-1
+# text = -Pflegedokumentation und Pflegeplanung
+-	O	O
+Pflegedokumentation	B-SKILL	O
+und	I-SKILL	O
+Pflegeplanung	I-SKILL	O
+
+# sent_id = 20_pflegefachkraft-remacare-0008-1
+# text = -Anleitung und Beratung von Angehörigen
+-	O	O
+Anleitung	B-SKILL	O
+und	I-SKILL	O
+Beratung	I-SKILL	O
+von	I-SKILL	O
+Angehörigen	I-SKILL	O
+
+# sent_id = 20_pflegefachkraft-remacare-0009-1
+# text = Das solltest Du mitbringen:
+Das	O	O
+solltest	O	O
+Du	O	O
+mitbringen	O	O
+:	O	O
+
+# sent_id = 20_pflegefachkraft-remacare-0010-1
+# text = -Abschluss als examinierte/r Gesundheits- und Krankenpfleger / Krankenschwester (m/w/d), examinierte/r Gesundheits- und
+-	O	O
+Abschluss	O	O
+als	O	O
+examinierte/r	O	O
+Gesundheits	O	O
+-	O	O
+und	O	O
+Krankenpfleger	O	O
+/	O	O
+Krankenschwester	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+,	O	O
+examinierte/r	O	O
+Gesundheits	O	O
+-	O	O
+und	O	O
+
+# sent_id = 20_pflegefachkraft-remacare-0011-1
+# text = Kinderkrankenpfleger / Kinderkrankenschwester (m/w/d),
+Kinderkrankenpfleger	O	O
+/	O	O
+Kinderkrankenschwester	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+,	O	O
+
+# sent_id = 20_pflegefachkraft-remacare-0012-1
+# text = Pflegefachfrau / Pflegefachmann (m/w/d)
+Pflegefachfrau	O	O
+/	O	O
+Pflegefachmann	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 20_pflegefachkraft-remacare-0013-1
+# text = -Du möchtest nicht nur pflegen, sondern das Leben unserer Klienten bereichern
+-	O	O
+Du	O	O
+möchtest	O	O
+nicht	O	O
+nur	O	O
+pflegen	O	O
+,	O	O
+sondern	O	O
+das	O	O
+Leben	O	O
+unserer	O	O
+Klienten	O	O
+bereichern	O	O
+
+# sent_id = 20_pflegefachkraft-remacare-0014-1
+# text = -Hohe pflegerische und soziale Kompetenz
+-	O	O
+Hohe	B-SKILL	O
+pflegerische	I-SKILL	O
+und	I-SKILL	O
+soziale	I-SKILL	O
+Kompetenz	I-SKILL	O
+
+# sent_id = 20_pflegefachkraft-remacare-0015-1
+# text = -Du besitzt einen Führerschein der Klasse B
+-	O	O
+Du	O	O
+besitzt	O	O
+einen	O	O
+Führerschein	O	O
+der	O	O
+Klasse	O	O
+B	O	O
+
+# doc_id = 21_erzieher
+# sent_id = 21_erzieher-0001-1
+# text = Erzieher (m/w/d)
+Erzieher	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 21_erzieher-0002-1
+# text = MANPOWER GmbH & Co.
+MANPOWER	O	O
+GmbH	O	O
+&	O	O
+Co	O	O
+.	O	O
+
+# sent_id = 21_erzieher-0002-2
+# text = KG
+KG	O	O
+
+# sent_id = 21_erzieher-0003-1
+# text = Deine Aufgaben
+Deine	O	O
+Aufgaben	O	O
+
+# sent_id = 21_erzieher-0004-1
+# text = - Planung und Umsetzung kreativer Spiel- und Lernangebote
+-	O	O
+Planung	B-SKILL	O
+und	I-SKILL	O
+Umsetzung	I-SKILL	O
+kreativer	I-SKILL	O
+Spiel	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Lernangebote	I-SKILL	O
+
+# sent_id = 21_erzieher-0005-1
+# text = - Förderung der individuellen Entwicklung und sozialen Kompetenzen der Kinder
+-	O	O
+Förderung	B-SKILL	O
+der	I-SKILL	O
+individuellen	I-SKILL	O
+Entwicklung	I-SKILL	O
+und	I-SKILL	O
+sozialen	I-SKILL	O
+Kompetenzen	I-SKILL	O
+der	I-SKILL	O
+Kinder	I-SKILL	O
+
+# sent_id = 21_erzieher-0006-1
+# text = - Gestaltung eines liebevollen und sicheren Umfelds, in dem sich Kinder geborgen fühlen
+-	O	O
+Gestaltung	B-SKILL	O
+eines	I-SKILL	O
+liebevollen	I-SKILL	O
+und	I-SKILL	O
+sicheren	I-SKILL	O
+Umfelds	I-SKILL	O
+,	O	O
+in	O	O
+dem	O	O
+sich	O	O
+Kinder	O	O
+geborgen	O	O
+fühlen	O	O
+
+# sent_id = 21_erzieher-0007-1
+# text = - Enge Zusammenarbeit mit Eltern und Kolleg:innen
+-	O	O
+Enge	B-SKILL	O
+Zusammenarbeit	I-SKILL	O
+mit	I-SKILL	O
+Eltern	I-SKILL	O
+und	I-SKILL	O
+Kolleg	I-SKILL	O
+:	I-SKILL	O
+innen	I-SKILL	O
+
+# sent_id = 21_erzieher-0008-1
+# text = - Dokumentation der pädagogischen Arbeit und Entwicklungsfortschritte
+-	O	O
+Dokumentation	B-SKILL	O
+der	I-SKILL	O
+pädagogischen	I-SKILL	O
+Arbeit	I-SKILL	O
+und	I-SKILL	O
+Entwicklungsfortschritte	I-SKILL	O
+
+# sent_id = 21_erzieher-0009-1
+# text = Das bringst du mit
+Das	O	O
+bringst	O	O
+du	O	O
+mit	O	O
+
+# sent_id = 21_erzieher-0010-1
+# text = - Du hast eine erfolgreich abgeschlossene Ausbildung als Erzieher (m/w/d) oder eine vergleichbare pädagogische Qualifikation (z. B. staatlich anerkannte Heilpädagogik, Kindheitspädagogik oder ein Studium der Erziehungswissenschaften mit einschlägiger Praxiserfahrung im frühkindlichen Bereich)
+-	O	O
+Du	O	O
+hast	O	O
+eine	O	O
+erfolgreich	O	O
+abgeschlossene	O	O
+Ausbildung	O	O
+als	O	O
+Erzieher	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+oder	O	O
+eine	O	O
+vergleichbare	O	O
+pädagogische	O	O
+Qualifikation	O	O
+(	O	O
+z	O	O
+.	O	O
+B	O	O
+.	O	O
+staatlich	O	O
+anerkannte	O	O
+Heilpädagogik	O	O
+,	O	O
+Kindheitspädagogik	O	O
+oder	O	O
+ein	O	O
+Studium	O	O
+der	O	O
+Erziehungswissenschaften	O	O
+mit	O	O
+einschlägiger	O	O
+Praxiserfahrung	O	O
+im	O	O
+frühkindlichen	O	O
+Bereich	O	O
+)	O	O
+
+# sent_id = 21_erzieher-0011-1
+# text = - Begeisterung für die Begleitung und Förderung von Kindern in ihrer individuellen Entwicklung
+-	O	O
+Begeisterung	O	O
+für	O	O
+die	O	O
+Begleitung	B-SKILL	O
+und	I-SKILL	O
+Förderung	I-SKILL	O
+von	I-SKILL	O
+Kindern	I-SKILL	O
+in	I-SKILL	O
+ihrer	I-SKILL	O
+individuellen	I-SKILL	O
+Entwicklung	I-SKILL	O
+
+# sent_id = 21_erzieher-0012-1
+# text = - Einfühlungsvermögen, Geduld und Verantwortungsbewusstsein
+-	O	O
+Einfühlungsvermögen	B-SKILL	O
+,	I-SKILL	O
+Geduld	I-SKILL	O
+und	I-SKILL	O
+Verantwortungsbewusstsein	I-SKILL	O
+
+# sent_id = 21_erzieher-0013-1
+# text = - Kreative Ideen und Freude daran, Kinder im Alltag zu inspirieren und zu fördern
+-	O	O
+Kreative	B-SKILL	O
+Ideen	I-SKILL	O
+und	O	O
+Freude	O	O
+daran	O	O
+,	O	O
+Kinder	O	O
+im	O	O
+Alltag	O	O
+zu	O	O
+inspirieren	O	O
+und	O	O
+zu	O	O
+fördern	O	O
+
+# sent_id = 21_erzieher-0014-1
+# text = - Teamfähigkeit, Zuverlässigkeit und eine wertschätzende Kommunikation
+-	O	O
+Teamfähigkeit	B-SKILL	O
+,	I-SKILL	O
+Zuverlässigkeit	I-SKILL	O
+und	I-SKILL	O
+eine	I-SKILL	O
+wertschätzende	I-SKILL	O
+Kommunikation	I-SKILL	O
+
+# sent_id = 21_erzieher-0015-1
+# text = - Eigeninitiative sowie eine selbstständige und lösungsorientierte Arbeitsweise
+-	O	O
+Eigeninitiative	B-SKILL	O
+sowie	I-SKILL	O
+eine	I-SKILL	O
+selbstständige	I-SKILL	O
+und	I-SKILL	O
+lösungsorientierte	I-SKILL	O
+Arbeitsweise	I-SKILL	O
+
+# sent_id = 21_erzieher-0016-1
+# text = - Berufserfahrung ist von Vorteil, aber keine Voraussetzung
+-	O	O
+Berufserfahrung	O	O
+ist	O	O
+von	O	O
+Vorteil	O	O
+,	O	O
+aber	O	O
+keine	O	O
+Voraussetzung	O	O
+
+# doc_id = 22_sozialarbeiter-jugendhilfe
+# sent_id = 22_sozialarbeiter-jugendhilfe-0001-1
+# text = Sozialarbeiter / Sozialpädagoge (m/w/ d)
+Sozialarbeiter	O	O
+/	O	O
+Sozialpädagoge	O	O
+(	O	O
+m/w	O	O
+/	O	O
+d	O	O
+)	O	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0002-1
+# text = Jugendberatung und Jugendhilfe e.V. (JJ)
+Jugendberatung	O	O
+und	O	O
+Jugendhilfe	O	O
+e.V	O	O
+.	O	O
+(	O	O
+JJ	O	O
+)	O	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0003-1
+# text = Ihre Aufgaben:
+Ihre	O	O
+Aufgaben	O	O
+:	O	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0004-1
+# text = - Gestaltung und Begleitung freizeitpädagogischer Angebote,
+-	O	O
+Gestaltung	B-SKILL	O
+und	I-SKILL	O
+Begleitung	I-SKILL	O
+freizeitpädagogischer	I-SKILL	O
+Angebote	I-SKILL	O
+,	O	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0005-1
+# text = - Aufbau und Pflege von Kontakten zu Kindern und Jugendlichen im öffentlichen Raum,
+-	O	O
+Aufbau	B-SKILL	O
+und	I-SKILL	O
+Pflege	I-SKILL	O
+von	I-SKILL	O
+Kontakten	I-SKILL	O
+zu	I-SKILL	O
+Kindern	I-SKILL	O
+und	I-SKILL	O
+Jugendlichen	I-SKILL	O
+im	I-SKILL	O
+öffentlichen	I-SKILL	O
+Raum	I-SKILL	O
+,	O	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0006-1
+# text = - Beratung und Unterstützung von Kindern, Jugendlichen und jungen Erwachsenen in unterschiedlichen Lebenslagen,
+-	O	O
+Beratung	B-SKILL	O
+und	I-SKILL	O
+Unterstützung	I-SKILL	O
+von	I-SKILL	O
+Kindern	I-SKILL	O
+,	I-SKILL	O
+Jugendlichen	I-SKILL	O
+und	I-SKILL	O
+jungen	I-SKILL	O
+Erwachsenen	I-SKILL	O
+in	I-SKILL	O
+unterschiedlichen	I-SKILL	O
+Lebenslagen	I-SKILL	O
+,	O	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0007-1
+# text = - Förderung gesundheitsbewussten und verantwortungsvollen Verhaltens.
+-	O	O
+Förderung	B-SKILL	O
+gesundheitsbewussten	I-SKILL	O
+und	I-SKILL	O
+verantwortungsvollen	I-SKILL	O
+Verhaltens	I-SKILL	O
+.	O	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0008-1
+# text = - Mitwirkung an der Weiterentwicklung konzeptioneller Angebote der Mobilen Beratung.
+-	O	O
+Mitwirkung	B-SKILL	O
+an	I-SKILL	O
+der	I-SKILL	O
+Weiterentwicklung	I-SKILL	O
+konzeptioneller	I-SKILL	O
+Angebote	I-SKILL	O
+der	I-SKILL	O
+Mobilen	I-SKILL	O
+Beratung	I-SKILL	O
+.	O	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0009-1
+# text = Ihr Profil:
+Ihr	O	O
+Profil	O	O
+:	O	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0010-1
+# text = - Abgeschlossenes Studium der Sozialen Arbeit, Sozialpädagogik (Dipl./B.A./M.A.) oder eine vergleichbare Qualifikation,
+-	O	O
+Abgeschlossenes	O	O
+Studium	O	O
+der	O	O
+Sozialen	O	O
+Arbeit	O	O
+,	O	O
+Sozialpädagogik	O	O
+(	O	O
+Dipl	O	O
+.	O	O
+/	O	O
+B.A	O	O
+.	O	O
+/	O	O
+M.A	O	O
+.	O	O
+)	O	O
+oder	O	O
+eine	O	O
+vergleichbare	O	O
+Qualifikation	O	O
+,	O	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0011-1
+# text = - Fähigkeit zum selbstständigen, eigenverantwortlichen Arbeiten,
+-	O	O
+Fähigkeit	B-SKILL	O
+zum	I-SKILL	O
+selbstständigen	I-SKILL	O
+,	I-SKILL	O
+eigenverantwortlichen	I-SKILL	O
+Arbeiten	I-SKILL	O
+,	O	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0012-1
+# text = - Interesse an konzeptioneller Weiterentwicklung und innovativen Ansätzen in der Jugendarbeit,
+-	O	O
+Interesse	B-SKILL	O
+an	I-SKILL	O
+konzeptioneller	I-SKILL	O
+Weiterentwicklung	I-SKILL	O
+und	I-SKILL	O
+innovativen	I-SKILL	O
+Ansätzen	I-SKILL	O
+in	I-SKILL	O
+der	I-SKILL	O
+Jugendarbeit	I-SKILL	B-KNOWLEDGE
+,	O	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0013-1
+# text = - Bereitschaft zur Fort- und Weiterbildung,
+-	O	O
+Bereitschaft	O	O
+zur	O	O
+Fort	O	O
+-	O	O
+und	O	O
+Weiterbildung	O	O
+,	O	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0014-1
+# text = - Führerschein der Klasse B.
+-	O	O
+Führerschein	O	O
+der	O	O
+Klasse	O	O
+B	O	O
+.	O	O
+
+# doc_id = 23_produktionsmitarbeiter
+# sent_id = 23_produktionsmitarbeiter-0001-1
+# text = Produktionsmitarbeiter
+Produktionsmitarbeiter	O	O
+
+# sent_id = 23_produktionsmitarbeiter-0002-1
+# text = Ihre Aufgaben:
+Ihre	O	O
+Aufgaben	O	O
+:	O	O
+
+# sent_id = 23_produktionsmitarbeiter-0003-1
+# text = - Sie bestücken, steuern und überwachen unsere Anlagen und Maschinen
+-	O	O
+Sie	O	O
+bestücken	B-SKILL	O
+,	I-SKILL	O
+steuern	I-SKILL	O
+und	I-SKILL	O
+überwachen	I-SKILL	O
+unsere	I-SKILL	O
+Anlagen	I-SKILL	O
+und	I-SKILL	O
+Maschinen	I-SKILL	O
+
+# sent_id = 23_produktionsmitarbeiter-0004-1
+# text = - Sie verantworten einzelne Produktionsbereiche für die Herstellung von Reinigern und Polituren
+-	O	O
+Sie	O	O
+verantworten	B-SKILL	O
+einzelne	I-SKILL	O
+Produktionsbereiche	I-SKILL	O
+für	I-SKILL	O
+die	I-SKILL	O
+Herstellung	I-SKILL	O
+von	I-SKILL	O
+Reinigern	I-SKILL	O
+und	I-SKILL	O
+Polituren	I-SKILL	O
+
+# sent_id = 23_produktionsmitarbeiter-0005-1
+# text = -Sie stellen Rohstoffe bereit, füllen Materialien nach und sorgen für Ihren Arbeitsplatz
+-	O	O
+Sie	O	O
+stellen	B-SKILL	O
+Rohstoffe	I-SKILL	O
+bereit	I-SKILL	O
+,	I-SKILL	O
+füllen	I-SKILL	O
+Materialien	I-SKILL	O
+nach	I-SKILL	O
+und	O	O
+sorgen	O	O
+für	O	O
+Ihren	O	O
+Arbeitsplatz	O	O
+
+# sent_id = 23_produktionsmitarbeiter-0006-1
+# text = Ihr Profil:
+Ihr	O	O
+Profil	O	O
+:	O	O
+
+# sent_id = 23_produktionsmitarbeiter-0007-1
+# text = - Erfahrung im Bereich Produktion, z.B. aus dem Lebensmittelverarbeitenden Gewerbe wie Bäckerei und/oder fleischverarbeitendes Gewerbe
+-	O	O
+Erfahrung	O	O
+im	O	O
+Bereich	O	O
+Produktion	O	B-KNOWLEDGE
+,	O	O
+z.B	O	O
+.	O	O
+aus	O	O
+dem	O	O
+Lebensmittelverarbeitenden	O	O
+Gewerbe	O	O
+wie	O	O
+Bäckerei	O	O
+und/oder	O	O
+fleischverarbeitendes	O	O
+Gewerbe	O	O
+
+# sent_id = 23_produktionsmitarbeiter-0008-1
+# text = - Handwerkliches Geschick und technisches Verständnis für unser Maschinen und Anlagen
+-	O	O
+Handwerkliches	B-SKILL	O
+Geschick	I-SKILL	O
+und	I-SKILL	O
+technisches	I-SKILL	O
+Verständnis	I-SKILL	O
+für	O	O
+unser	O	O
+Maschinen	O	O
+und	O	O
+Anlagen	O	O
+
+# sent_id = 23_produktionsmitarbeiter-0009-1
+# text = - Zuverlässigkeit, Sorgfalt, Verantwortungsbewusstsein, Flexibilität, Belastbarkeit und Teamfähigkeit zeichnen Sie aus.
+-	O	O
+Zuverlässigkeit	B-SKILL	O
+,	I-SKILL	O
+Sorgfalt	I-SKILL	O
+,	I-SKILL	O
+Verantwortungsbewusstsein	I-SKILL	O
+,	I-SKILL	O
+Flexibilität	I-SKILL	O
+,	I-SKILL	O
+Belastbarkeit	I-SKILL	O
+und	I-SKILL	O
+Teamfähigkeit	I-SKILL	O
+zeichnen	O	O
+Sie	O	O
+aus	O	O
+.	O	O
+
+# sent_id = 23_produktionsmitarbeiter-0010-1
+# text = - Der Umgang mit modernen Kommunikationsmedien ist für Sie selbstverständlich (EDV-Kenntnisse).
+-	O	O
+Der	O	O
+Umgang	B-SKILL	O
+mit	I-SKILL	O
+modernen	I-SKILL	O
+Kommunikationsmedien	I-SKILL	O
+ist	O	O
+für	O	O
+Sie	O	O
+selbstverständlich	O	O
+(	O	O
+EDV-Kenntnisse	O	B-KNOWLEDGE
+)	O	O
+.	O	O
+
+# sent_id = 23_produktionsmitarbeiter-0011-1
+# text = - Ein Staplerschein wäre wünschenswert.
+-	O	O
+Ein	O	O
+Staplerschein	O	O
+wäre	O	O
+wünschenswert	O	O
+.	O	O
+
+# sent_id = 23_produktionsmitarbeiter-0012-1
+# text = - Deutschkenntnisse ab B2 wären wünschenswert
+-	O	O
+Deutschkenntnisse	O	B-KNOWLEDGE
+ab	O	O
+B2	O	O
+wären	O	O
+wünschenswert	O	O
+
+# doc_id = 24_customer-service-export
+# sent_id = 24_customer-service-export-0001-1
+# text = Customer Service Mitarbeiter Export (m/w/d)
+Customer	O	O
+Service	O	O
+Mitarbeiter	O	O
+Export	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 24_customer-service-export-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 24_customer-service-export-0003-1
+# text = adesta GmbH & Co.
+adesta	O	O
+GmbH	O	O
+&	O	O
+Co	O	O
+.	O	O
+
+# sent_id = 24_customer-service-export-0003-2
+# text = KG
+KG	O	O
+
+# sent_id = 24_customer-service-export-0004-1
+# text = Beschreibung
+Beschreibung	O	O
+
+# sent_id = 24_customer-service-export-0005-1
+# text = - Auftragseingang wird von Ihnen abgewickelt
+-	O	O
+Auftragseingang	B-SKILL	O
+wird	I-SKILL	O
+von	I-SKILL	O
+Ihnen	I-SKILL	O
+abgewickelt	I-SKILL	O
+
+# sent_id = 24_customer-service-export-0006-1
+# text = - Sie arbeiten mit einem Ticketsystem
+-	O	O
+Sie	O	O
+arbeiten	B-SKILL	O
+mit	I-SKILL	O
+einem	I-SKILL	O
+Ticketsystem	I-SKILL	B-KNOWLEDGE
+
+# sent_id = 24_customer-service-export-0007-1
+# text = - Angebote und Exportdokumente erstellen (Maschinen, Ersatzteile etc.)
+-	O	O
+Angebote	B-SKILL	O
+und	I-SKILL	O
+Exportdokumente	I-SKILL	O
+erstellen	I-SKILL	O
+(	O	O
+Maschinen	O	O
+,	O	O
+Ersatzteile	O	O
+etc	O	O
+.	O	O
+)	O	O
+
+# sent_id = 24_customer-service-export-0008-1
+# text = - Sie supporten den Inhouse Sales Manager
+-	O	O
+Sie	O	O
+supporten	B-SKILL	O
+den	I-SKILL	O
+Inhouse	I-SKILL	O
+Sales	I-SKILL	O
+Manager	I-SKILL	O
+
+# sent_id = 24_customer-service-export-0009-1
+# text = - Ansprechpartner für die Terminverfolgung
+-	O	O
+Ansprechpartner	B-SKILL	O
+für	I-SKILL	O
+die	I-SKILL	O
+Terminverfolgung	I-SKILL	O
+
+# sent_id = 24_customer-service-export-0010-1
+# text = Anforderungen
+Anforderungen	O	O
+
+# sent_id = 24_customer-service-export-0011-1
+# text = - Eine kaufmännische Ausbildung oder eine vergleichbare Qualifikation
+-	O	O
+Eine	O	O
+kaufmännische	O	O
+Ausbildung	O	O
+oder	O	O
+eine	O	O
+vergleichbare	O	O
+Qualifikation	O	O
+
+# sent_id = 24_customer-service-export-0012-1
+# text = - Über gute Sprachkenntnisse in Englisch in Wort und Schrift
+-	O	O
+Über	O	O
+gute	O	O
+Sprachkenntnisse	O	O
+in	O	O
+Englisch	O	B-KNOWLEDGE
+in	O	O
+Wort	O	O
+und	O	O
+Schrift	O	O
+
+# sent_id = 24_customer-service-export-0013-1
+# text = - Technisches Verständnis
+-	O	O
+Technisches	B-SKILL	O
+Verständnis	I-SKILL	O
+
+# sent_id = 24_customer-service-export-0014-1
+# text = - MS-Office & SAP-Kenntnisse
+-	O	O
+MS-Office	O	B-KNOWLEDGE
+&	O	O
+SAP-Kenntnisse	O	B-KNOWLEDGE
+
+# sent_id = 24_customer-service-export-0015-1
+# text = - Sie sind kommunikations- und überzeugungsfähig
+-	O	O
+Sie	O	O
+sind	O	O
+kommunikations	B-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+überzeugungsfähig	I-SKILL	O
+
+# doc_id = 25_personalreferent
+# sent_id = 25_personalreferent-0001-1
+# text = Personalreferent (m/w/d)
+Personalreferent	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 25_personalreferent-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 25_personalreferent-0003-1
+# text = adesta GmbH & Co.
+adesta	O	O
+GmbH	O	O
+&	O	O
+Co	O	O
+.	O	O
+
+# sent_id = 25_personalreferent-0003-2
+# text = KG
+KG	O	O
+
+# sent_id = 25_personalreferent-0004-1
+# text = Beschreibung
+Beschreibung	O	O
+
+# sent_id = 25_personalreferent-0005-1
+# text = - Umfassende Betreuung sämtlicher HR-Prozesse, von der Rekrutierung bis zur Mitarbeiterentwicklung
+-	O	O
+Umfassende	B-SKILL	O
+Betreuung	I-SKILL	O
+sämtlicher	I-SKILL	O
+HR-Prozesse	I-SKILL	B-KNOWLEDGE
+,	I-SKILL	O
+von	I-SKILL	O
+der	I-SKILL	O
+Rekrutierung	I-SKILL	O
+bis	I-SKILL	O
+zur	I-SKILL	O
+Mitarbeiterentwicklung	I-SKILL	O
+
+# sent_id = 25_personalreferent-0006-1
+# text = - Sicherstellung der Einhaltung gesetzlicher Vorschriften und Unternehmensrichtlinien im Bereich Personalwesen
+-	O	O
+Sicherstellung	B-SKILL	O
+der	I-SKILL	O
+Einhaltung	I-SKILL	O
+gesetzlicher	I-SKILL	O
+Vorschriften	I-SKILL	O
+und	I-SKILL	O
+Unternehmensrichtlinien	I-SKILL	O
+im	I-SKILL	O
+Bereich	I-SKILL	O
+Personalwesen	I-SKILL	B-KNOWLEDGE
+
+# sent_id = 25_personalreferent-0007-1
+# text = - Aktive Mitwirkung an HR-Projekten zur kontinuierlichen Optimierung der Arbeitsabläufe
+-	O	O
+Aktive	B-SKILL	O
+Mitwirkung	I-SKILL	O
+an	I-SKILL	O
+HR-Projekten	I-SKILL	O
+zur	I-SKILL	O
+kontinuierlichen	I-SKILL	O
+Optimierung	I-SKILL	O
+der	I-SKILL	O
+Arbeitsabläufe	I-SKILL	O
+
+# sent_id = 25_personalreferent-0008-1
+# text = - Durchführung von Mitarbeitergesprächen, Konfliktlösungen und Mitarbeiterschulungen
+-	O	O
+Durchführung	B-SKILL	O
+von	I-SKILL	O
+Mitarbeitergesprächen	I-SKILL	O
+,	I-SKILL	O
+Konfliktlösungen	I-SKILL	O
+und	I-SKILL	O
+Mitarbeiterschulungen	I-SKILL	O
+
+# sent_id = 25_personalreferent-0009-1
+# text = - Unterstützung des Managements bei der Entwicklung und Umsetzung von HR-Strategien
+-	O	O
+Unterstützung	B-SKILL	O
+des	I-SKILL	O
+Managements	I-SKILL	O
+bei	I-SKILL	O
+der	I-SKILL	O
+Entwicklung	I-SKILL	O
+und	I-SKILL	O
+Umsetzung	I-SKILL	O
+von	I-SKILL	O
+HR-Strategien	I-SKILL	O
+
+# sent_id = 25_personalreferent-0010-1
+# text = Anforderungen
+Anforderungen	O	O
+
+# sent_id = 25_personalreferent-0011-1
+# text = - Abgeschlossenes Studium oder eine vergleichbare Ausbildung im Bereich HR
+-	O	O
+Abgeschlossenes	O	O
+Studium	O	O
+oder	O	O
+eine	O	O
+vergleichbare	O	O
+Ausbildung	O	O
+im	O	O
+Bereich	O	O
+HR	O	O
+
+# sent_id = 25_personalreferent-0012-1
+# text = - Mehrjährige Berufserfahrung im HR-Bereich, idealerweise in einem technologieorientierten Unternehmen
+-	O	O
+Mehrjährige	O	O
+Berufserfahrung	O	O
+im	O	O
+HR-Bereich	O	O
+,	O	O
+idealerweise	O	O
+in	O	O
+einem	O	O
+technologieorientierten	O	O
+Unternehmen	O	O
+
+# sent_id = 25_personalreferent-0013-1
+# text = - Fundierte Kenntnisse im Arbeitsrecht und im Umgang mit gängiger HR-Software
+-	O	O
+Fundierte	O	O
+Kenntnisse	O	O
+im	O	O
+Arbeitsrecht	O	B-KNOWLEDGE
+und	O	O
+im	O	O
+Umgang	O	O
+mit	O	O
+gängiger	O	O
+HR-Software	O	B-KNOWLEDGE
+
+# sent_id = 25_personalreferent-0014-1
+# text = - Ausgeprägte kommunikative Fähigkeiten und hohe soziale Kompetenz
+-	O	O
+Ausgeprägte	B-SKILL	O
+kommunikative	I-SKILL	O
+Fähigkeiten	I-SKILL	O
+und	I-SKILL	O
+hohe	I-SKILL	O
+soziale	I-SKILL	O
+Kompetenz	I-SKILL	O
+
+# sent_id = 25_personalreferent-0015-1
+# text = - Eigenständige und ergebnisorientierte Arbeitsweise
+-	O	O
+Eigenständige	B-SKILL	O
+und	I-SKILL	O
+ergebnisorientierte	I-SKILL	O
+Arbeitsweise	I-SKILL	O
+
+# sent_id = 25_personalreferent-0016-1
+# text = - Teamfähigkeit und Flexibilität
+-	O	O
+Teamfähigkeit	B-SKILL	O
+und	I-SKILL	O
+Flexibilität	I-SKILL	O
+
+# doc_id = 26_hr-generalist
+# sent_id = 26_hr-generalist-0001-1
+# text = HR Generalist (m/w/d)
+HR	O	O
+Generalist	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 26_hr-generalist-0002-1
+# text = Beschreibung
+Beschreibung	O	O
+
+# sent_id = 26_hr-generalist-0003-1
+# text = - Als HR Generalist (m/w/d) sind Sie Hauptansprechpartner in allen Belangen der Personalbeschaffung und -betreuung
+-	O	O
+Als	O	O
+HR	O	O
+Generalist	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+sind	O	O
+Sie	O	O
+Hauptansprechpartner	B-SKILL	O
+in	I-SKILL	O
+allen	I-SKILL	O
+Belangen	I-SKILL	O
+der	I-SKILL	O
+Personalbeschaffung	I-SKILL	O
+und	I-SKILL	O
+-	I-SKILL	O
+betreuung	I-SKILL	O
+
+# sent_id = 26_hr-generalist-0004-1
+# text = - Sie verantworten das Anzeigen- und Bewerbermanagement
+-	O	O
+Sie	O	O
+verantworten	B-SKILL	O
+das	I-SKILL	O
+Anzeigen	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Bewerbermanagement	I-SKILL	O
+
+# sent_id = 26_hr-generalist-0005-1
+# text = - Des Weiteren sind Sie zuständig für die Erstellung von Verträgen, Zeugnissen und Bescheinigungen etc.
+-	O	O
+Des	O	O
+Weiteren	O	O
+sind	O	O
+Sie	O	O
+zuständig	O	O
+für	O	O
+die	O	O
+Erstellung	B-SKILL	O
+von	I-SKILL	O
+Verträgen	I-SKILL	O
+,	I-SKILL	O
+Zeugnissen	I-SKILL	O
+und	I-SKILL	O
+Bescheinigungen	I-SKILL	O
+etc	O	O
+.	O	O
+
+# sent_id = 26_hr-generalist-0006-1
+# text = - Sie erstellen und analysieren regelmäßig HR-Kennzahlen
+-	O	O
+Sie	O	O
+erstellen	B-SKILL	O
+und	I-SKILL	O
+analysieren	I-SKILL	O
+regelmäßig	I-SKILL	O
+HR-Kennzahlen	I-SKILL	B-KNOWLEDGE
+
+# sent_id = 26_hr-generalist-0007-1
+# text = - Sie wirken unterstützend bei der Zusammenarbeit mit dem Betriebsrat mit
+-	O	O
+Sie	O	O
+wirken	O	O
+unterstützend	O	O
+bei	O	O
+der	O	O
+Zusammenarbeit	B-SKILL	O
+mit	I-SKILL	O
+dem	I-SKILL	O
+Betriebsrat	I-SKILL	O
+mit	O	O
+
+# sent_id = 26_hr-generalist-0008-1
+# text = - Abschließend wirken Sie bei HR-Projekten mit
+-	O	O
+Abschließend	O	O
+wirken	B-SKILL	O
+Sie	I-SKILL	O
+bei	I-SKILL	O
+HR-Projekten	I-SKILL	O
+mit	I-SKILL	O
+
+# sent_id = 26_hr-generalist-0009-1
+# text = Anforderungen
+Anforderungen	O	O
+
+# sent_id = 26_hr-generalist-0010-1
+# text = - Sie haben eine abgeschlossene kaufmännische Ausbildung oder ein Studium mit Schwerpunkt Personalwirtschaft
+-	O	O
+Sie	O	O
+haben	O	O
+eine	O	O
+abgeschlossene	O	O
+kaufmännische	O	O
+Ausbildung	O	O
+oder	O	O
+ein	O	O
+Studium	O	O
+mit	O	O
+Schwerpunkt	O	O
+Personalwirtschaft	O	O
+
+# sent_id = 26_hr-generalist-0011-1
+# text = - Sie bringen mindestens 2 Jahre Berufserfahrung als HR Generalist (m/w/d) oder Personalreferent (m/w/d) mit
+-	O	O
+Sie	O	O
+bringen	O	O
+mindestens	O	O
+2	O	O
+Jahre	O	O
+Berufserfahrung	O	O
+als	O	O
+HR	O	O
+Generalist	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+oder	O	O
+Personalreferent	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+mit	O	O
+
+# sent_id = 26_hr-generalist-0012-1
+# text = - Sie verfügen über gute MS Office- und idealerweise SAP HR-Kenntnisse
+-	O	O
+Sie	O	O
+verfügen	O	O
+über	O	O
+gute	O	O
+MS	O	B-KNOWLEDGE
+Office	O	I-KNOWLEDGE
+-	O	O
+und	O	O
+idealerweise	O	O
+SAP	O	B-KNOWLEDGE
+HR-Kenntnisse	O	I-KNOWLEDGE
+
+# sent_id = 26_hr-generalist-0013-1
+# text = - Sie haben gute bis sehr gute Englischkenntnisse
+-	O	O
+Sie	O	O
+haben	O	O
+gute	O	O
+bis	O	O
+sehr	O	O
+gute	O	O
+Englischkenntnisse	O	B-KNOWLEDGE
+
+# doc_id = 27_sicherheitsmitarbeiter
+# sent_id = 27_sicherheitsmitarbeiter-0001-1
+# text = 11 Sicherheitsmitarbeiter (m/w/d) in Voll- oder Teilzeit
+11	O	O
+Sicherheitsmitarbeiter	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+in	O	O
+Voll	O	O
+-	O	O
+oder	O	O
+Teilzeit	O	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0003-1
+# text = Piepenbrock Dienstleistungsgruppe GmbH & Co.KG
+Piepenbrock	O	O
+Dienstleistungsgruppe	O	O
+GmbH	O	O
+&	O	O
+Co.KG	O	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0004-1
+# text = Ihre Aufgaben:
+Ihre	O	O
+Aufgaben	O	O
+:	O	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0005-1
+# text = Sie sind als Sicherheitsmitarbeiter (m/w/d) für einen namhaften
+Sie	O	O
+sind	O	O
+als	O	O
+Sicherheitsmitarbeiter	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+für	O	O
+einen	O	O
+namhaften	O	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0006-1
+# text = Kunden (m/w/d) zuständig
+Kunden	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+zuständig	O	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0007-1
+# text = Sie führen als Sicherheitskraft (m/w/d) Tätigkeiten wie zum Beispiel Kontrollgänge, Entgegennahme von eingehenden Telefonaten und Auf- und Verschluss durch
+Sie	O	O
+führen	O	O
+als	O	O
+Sicherheitskraft	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+Tätigkeiten	O	O
+wie	O	O
+zum	O	O
+Beispiel	O	O
+Kontrollgänge	B-SKILL	O
+,	O	O
+Entgegennahme	B-SKILL	O
+von	I-SKILL	O
+eingehenden	I-SKILL	O
+Telefonaten	I-SKILL	O
+und	O	O
+Auf	B-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Verschluss	I-SKILL	O
+durch	O	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0008-1
+# text = Sie überwachen die technischen Sicherheitseinrichtungen wie z. B.
+Sie	O	O
+überwachen	B-SKILL	O
+die	I-SKILL	O
+technischen	I-SKILL	O
+Sicherheitseinrichtungen	I-SKILL	O
+wie	O	O
+z	O	O
+.	O	O
+B	O	O
+.	O	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0008-2
+# text = Kameras
+Kameras	O	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0009-1
+# text = Sie sorgen für die zuverlässige Objektbewachung
+Sie	O	O
+sorgen	O	O
+für	O	O
+die	O	O
+zuverlässige	B-SKILL	O
+Objektbewachung	I-SKILL	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0010-1
+# text = Ihre Qualifikationen:
+Ihre	O	O
+Qualifikationen	O	O
+:	O	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0011-1
+# text = Sie verfügen über gute PC-Kenntnisse
+Sie	O	O
+verfügen	O	O
+über	O	O
+gute	O	O
+PC-Kenntnisse	O	B-KNOWLEDGE
+
+# sent_id = 27_sicherheitsmitarbeiter-0012-1
+# text = Sie sind zuverlässig, flexibel und teamfähig
+Sie	O	O
+sind	O	O
+zuverlässig	B-SKILL	O
+,	I-SKILL	O
+flexibel	I-SKILL	O
+und	I-SKILL	O
+teamfähig	I-SKILL	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0013-1
+# text = Sie haben die Bereitschaft zum Schichtdienst
+Sie	O	O
+haben	O	O
+die	O	O
+Bereitschaft	O	O
+zum	O	O
+Schichtdienst	O	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0014-1
+# text = Sie besitzen eine Unterrichtung nach § 34a GewO oder eine andere höherwertige Qualifikation
+Sie	O	O
+besitzen	O	O
+eine	O	O
+Unterrichtung	O	O
+nach	O	O
+§	O	O
+34a	O	O
+GewO	O	O
+oder	O	O
+eine	O	O
+andere	O	O
+höherwertige	O	O
+Qualifikation	O	O
+
+# doc_id = 28_technischer-produktdesigner
+# sent_id = 28_technischer-produktdesigner-0001-1
+# text = Technischer Produktdesigner CAD Zeichner m/w/d INGSERV GmbH
+Technischer	O	O
+Produktdesigner	O	O
+CAD	O	O
+Zeichner	O	O
+m/w/d	O	O
+INGSERV	O	O
+GmbH	O	O
+
+# sent_id = 28_technischer-produktdesigner-0002-1
+# text = Diese Herausforderungen übernehmen Sie:
+Diese	O	O
+Herausforderungen	O	O
+übernehmen	O	O
+Sie	O	O
+:	O	O
+
+# sent_id = 28_technischer-produktdesigner-0003-1
+# text = - Sie erstellen technische Zeichnungen, Baugruppen- und Anordnungszeichnungen sowie Schaltpläne auf Basis technischer Vorgaben
+-	O	O
+Sie	O	O
+erstellen	B-SKILL	O
+technische	I-SKILL	O
+Zeichnungen	I-SKILL	O
+,	I-SKILL	O
+Baugruppen	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Anordnungszeichnungen	I-SKILL	O
+sowie	I-SKILL	O
+Schaltpläne	I-SKILL	O
+auf	O	O
+Basis	O	O
+technischer	O	O
+Vorgaben	O	O
+
+# sent_id = 28_technischer-produktdesigner-0004-1
+# text = - Sie setzen Konstruktionsvorgaben normgerecht um und stellen die Einhaltung von Qualitätsstandards sicher
+-	O	O
+Sie	O	O
+setzen	B-SKILL	O
+Konstruktionsvorgaben	I-SKILL	O
+normgerecht	I-SKILL	O
+um	I-SKILL	O
+und	O	O
+stellen	B-SKILL	O
+die	I-SKILL	O
+Einhaltung	I-SKILL	O
+von	I-SKILL	O
+Qualitätsstandards	I-SKILL	B-KNOWLEDGE
+sicher	I-SKILL	O
+
+# sent_id = 28_technischer-produktdesigner-0005-1
+# text = - Sie pflegen Artikelstammdaten, Stücklisten und technische Änderungen im SAP-System
+-	O	O
+Sie	O	O
+pflegen	B-SKILL	O
+Artikelstammdaten	I-SKILL	O
+,	I-SKILL	O
+Stücklisten	I-SKILL	O
+und	I-SKILL	O
+technische	I-SKILL	O
+Änderungen	I-SKILL	O
+im	I-SKILL	O
+SAP-System	I-SKILL	B-KNOWLEDGE
+
+# sent_id = 28_technischer-produktdesigner-0006-1
+# text = - Sie führen Zeichnungs- und Stücklistenänderungen in CAD- und SAP-Systemen durch und halten die technische Dokumentation aktuell
+-	O	O
+Sie	O	O
+führen	B-SKILL	O
+Zeichnungs	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Stücklistenänderungen	I-SKILL	O
+in	I-SKILL	O
+CAD	I-SKILL	B-KNOWLEDGE
+-	I-SKILL	I-KNOWLEDGE
+und	I-SKILL	I-KNOWLEDGE
+SAP-Systemen	I-SKILL	I-KNOWLEDGE
+durch	I-SKILL	O
+und	O	O
+halten	B-SKILL	O
+die	I-SKILL	O
+technische	I-SKILL	O
+Dokumentation	I-SKILL	O
+aktuell	I-SKILL	O
+
+# sent_id = 28_technischer-produktdesigner-0007-1
+# text = - Sie entwickeln technische Detaillösungen und wählen geeignete Bauteile sowie Halbzeuge unter technischen und wirtschaftlichen Gesichtspunkten aus
+-	O	O
+Sie	O	O
+entwickeln	B-SKILL	O
+technische	I-SKILL	O
+Detaillösungen	I-SKILL	O
+und	O	O
+wählen	B-SKILL	O
+geeignete	I-SKILL	O
+Bauteile	I-SKILL	O
+sowie	I-SKILL	O
+Halbzeuge	I-SKILL	O
+unter	I-SKILL	O
+technischen	I-SKILL	O
+und	I-SKILL	O
+wirtschaftlichen	I-SKILL	O
+Gesichtspunkten	I-SKILL	O
+aus	I-SKILL	O
+
+# sent_id = 28_technischer-produktdesigner-0008-1
+# text = - Sie erstellen technische Dokumentationen, Stücklisten, Auswertungen und Datenaustauschdateien für Kunden, Lieferanten und interne Fachbereiche
+-	O	O
+Sie	O	O
+erstellen	B-SKILL	O
+technische	I-SKILL	O
+Dokumentationen	I-SKILL	O
+,	I-SKILL	O
+Stücklisten	I-SKILL	O
+,	I-SKILL	O
+Auswertungen	I-SKILL	O
+und	I-SKILL	O
+Datenaustauschdateien	I-SKILL	O
+für	O	O
+Kunden	O	O
+,	O	O
+Lieferanten	O	O
+und	O	O
+interne	O	O
+Fachbereiche	O	O
+
+# sent_id = 28_technischer-produktdesigner-0009-1
+# text = - Sie übernehmen den Import, die Prüfung und die Bearbeitung technischer Daten von externen Projektpartnern
+-	O	O
+Sie	O	O
+übernehmen	O	O
+den	O	O
+Import	B-SKILL	O
+,	I-SKILL	O
+die	I-SKILL	O
+Prüfung	I-SKILL	O
+und	I-SKILL	O
+die	I-SKILL	O
+Bearbeitung	I-SKILL	O
+technischer	I-SKILL	O
+Daten	I-SKILL	O
+von	O	O
+externen	O	O
+Projektpartnern	O	O
+
+# sent_id = 28_technischer-produktdesigner-0010-1
+# text = - Sie unterstützen Projekte durch die Durchführung einfacher technischer Berechnungen, beispielsweise zu Gewicht, Materialeinsatz oder Volumen
+-	O	O
+Sie	O	O
+unterstützen	O	O
+Projekte	O	O
+durch	O	O
+die	O	O
+Durchführung	B-SKILL	O
+einfacher	I-SKILL	O
+technischer	I-SKILL	O
+Berechnungen	I-SKILL	O
+,	O	O
+beispielsweise	O	O
+zu	O	O
+Gewicht	O	O
+,	O	O
+Materialeinsatz	O	O
+oder	O	O
+Volumen	O	O
+
+# sent_id = 28_technischer-produktdesigner-0011-1
+# text = Unsere Erwartungen an Sie:
+Unsere	O	O
+Erwartungen	O	O
+an	O	O
+Sie	O	O
+:	O	O
+
+# sent_id = 28_technischer-produktdesigner-0012-1
+# text = - Abgeschlossene als Technischer Zeichner, Technischer Produktdesigner oder eine vergleichbare Qualifikation
+-	O	O
+Abgeschlossene	O	O
+als	O	O
+Technischer	O	O
+Zeichner	O	O
+,	O	O
+Technischer	O	O
+Produktdesigner	O	O
+oder	O	O
+eine	O	O
+vergleichbare	O	O
+Qualifikation	O	O
+
+# sent_id = 28_technischer-produktdesigner-0013-1
+# text = - Sicherer Umgang mit einem CAD-Systemen idealerweise mit Catia V5 oder Creo
+-	O	O
+Sicherer	B-SKILL	O
+Umgang	I-SKILL	O
+mit	I-SKILL	O
+einem	I-SKILL	O
+CAD-Systemen	I-SKILL	B-KNOWLEDGE
+idealerweise	O	O
+mit	O	O
+Catia	O	B-KNOWLEDGE
+V5	O	I-KNOWLEDGE
+oder	O	O
+Creo	O	B-KNOWLEDGE
+
+# sent_id = 28_technischer-produktdesigner-0014-1
+# text = - Erfahrung mit SAP ist von Vorteil
+-	O	O
+Erfahrung	O	O
+mit	O	O
+SAP	O	B-KNOWLEDGE
+ist	O	O
+von	O	O
+Vorteil	O	O
+
+# sent_id = 28_technischer-produktdesigner-0015-1
+# text = - Technisches Verständnis und sicherer Umgang mit technischen Zeichnungen und Stücklisten
+-	O	O
+Technisches	B-SKILL	O
+Verständnis	I-SKILL	O
+und	I-SKILL	O
+sicherer	I-SKILL	O
+Umgang	I-SKILL	O
+mit	I-SKILL	O
+technischen	I-SKILL	O
+Zeichnungen	I-SKILL	O
+und	I-SKILL	O
+Stücklisten	I-SKILL	O
+
+# sent_id = 28_technischer-produktdesigner-0016-1
+# text = - Kenntnisse relevanter Normen und Qualitätsstandards
+-	O	O
+Kenntnisse	O	O
+relevanter	O	O
+Normen	O	B-KNOWLEDGE
+und	O	O
+Qualitätsstandards	O	B-KNOWLEDGE
+
+# sent_id = 28_technischer-produktdesigner-0017-1
+# text = - Strukturierte, sorgfältige und selbstständige Arbeitsweise
+-	O	O
+Strukturierte	B-SKILL	O
+,	I-SKILL	O
+sorgfältige	I-SKILL	O
+und	I-SKILL	O
+selbstständige	I-SKILL	O
+Arbeitsweise	I-SKILL	O
+
+# sent_id = 28_technischer-produktdesigner-0018-1
+# text = - Teamfähigkeit sowie gute Kommunikationsfähigkeit
+-	O	O
+Teamfähigkeit	B-SKILL	O
+sowie	I-SKILL	O
+gute	I-SKILL	O
+Kommunikationsfähigkeit	I-SKILL	O
+
+# sent_id = 28_technischer-produktdesigner-0019-1
+# text = - Gute MS-Office-Kenntnisse
+-	O	O
+Gute	O	O
+MS-Office-Kenntnisse	O	B-KNOWLEDGE
+
+# doc_id = 29_lagermitarbeiter
+# sent_id = 29_lagermitarbeiter-0001-1
+# text = Lagermitarbeiter (m/w/d)
+Lagermitarbeiter	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 29_lagermitarbeiter-0002-1
+# text = bei
+bei	O	O
+
+# sent_id = 29_lagermitarbeiter-0003-1
+# text = Sonae Arauco GmbH - Nettgau Werk Nettgau
+Sonae	O	O
+Arauco	O	O
+GmbH	O	O
+-	O	O
+Nettgau	O	O
+Werk	O	O
+Nettgau	O	O
+
+# sent_id = 29_lagermitarbeiter-0004-1
+# text = Die Bedeutung Ihrer Rolle
+Die	O	O
+Bedeutung	O	O
+Ihrer	O	O
+Rolle	O	O
+
+# sent_id = 29_lagermitarbeiter-0005-1
+# text = Als Lagermitarbeiter (m/w/d) der TOOL GmbH sind Sie für die Übernahme und fachgerechte Einlagerung der Fertigwaren aus den Produktionsanlagen verantwortlich.
+Als	O	O
+Lagermitarbeiter	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+der	O	O
+TOOL	O	O
+GmbH	O	O
+sind	O	O
+Sie	O	O
+für	O	O
+die	O	O
+Übernahme	B-SKILL	O
+und	I-SKILL	O
+fachgerechte	I-SKILL	O
+Einlagerung	I-SKILL	O
+der	I-SKILL	O
+Fertigwaren	I-SKILL	O
+aus	I-SKILL	O
+den	I-SKILL	O
+Produktionsanlagen	I-SKILL	O
+verantwortlich	O	O
+.	O	O
+
+# sent_id = 29_lagermitarbeiter-0005-2
+# text = Sie führen eigenständig
+Sie	O	O
+führen	O	O
+eigenständig	O	O
+
+# sent_id = 29_lagermitarbeiter-0006-1
+# text = Umlagerungen zur Optimierung der Lagerbestände durch und übernehmen die Verpackung der Fertigwaren – Sie sind somit die letzte Station im Fertigungsprozess und sorgen für einen
+Umlagerungen	B-SKILL	O
+zur	I-SKILL	O
+Optimierung	I-SKILL	O
+der	I-SKILL	O
+Lagerbestände	I-SKILL	O
+durch	O	O
+und	O	O
+übernehmen	O	O
+die	O	O
+Verpackung	B-SKILL	O
+der	I-SKILL	O
+Fertigwaren	I-SKILL	O
+–	O	O
+Sie	O	O
+sind	O	O
+somit	O	O
+die	O	O
+letzte	O	O
+Station	O	O
+im	O	O
+Fertigungsprozess	O	O
+und	O	O
+sorgen	O	O
+für	O	O
+einen	O	O
+
+# sent_id = 29_lagermitarbeiter-0007-1
+# text = reibungslosen Logistikablauf.
+reibungslosen	O	O
+Logistikablauf	O	O
+.	O	O
+
+# sent_id = 29_lagermitarbeiter-0007-2
+# text = Darüber hinaus gehören die Pflege und Wartung von Batterien sowie Gabelstaplern ebenso zu Ihrem Aufgabenbereich wie allgemeine Reinigungs- und
+Darüber	O	O
+hinaus	O	O
+gehören	O	O
+die	O	O
+Pflege	B-SKILL	O
+und	I-SKILL	O
+Wartung	I-SKILL	O
+von	I-SKILL	O
+Batterien	I-SKILL	O
+sowie	I-SKILL	O
+Gabelstaplern	I-SKILL	O
+ebenso	O	O
+zu	O	O
+Ihrem	O	O
+Aufgabenbereich	O	O
+wie	O	O
+allgemeine	O	O
+Reinigungs	O	O
+-	O	O
+und	O	O
+
+# sent_id = 29_lagermitarbeiter-0008-1
+# text = Ordnungstätigkeiten.
+Ordnungstätigkeiten	O	O
+.	O	O
+
+# sent_id = 29_lagermitarbeiter-0008-2
+# text = Mit Ihrer sorgfältigen Arbeitsweise tragen Sie zu sicheren Abläufen und einem reibungslosen Lagerbetrieb bei.
+Mit	O	O
+Ihrer	O	O
+sorgfältigen	B-SKILL	O
+Arbeitsweise	I-SKILL	O
+tragen	O	O
+Sie	O	O
+zu	O	O
+sicheren	O	O
+Abläufen	O	O
+und	O	O
+einem	O	O
+reibungslosen	O	O
+Lagerbetrieb	O	O
+bei	O	O
+.	O	O
+
+# sent_id = 29_lagermitarbeiter-0008-3
+# text = Hauptaufgaben
+Hauptaufgaben	O	O
+
+# sent_id = 29_lagermitarbeiter-0009-1
+# text = - Übernahme und Einlagerung der Fertigwaren der Produktionsanlagen
+-	O	O
+Übernahme	B-SKILL	O
+und	I-SKILL	O
+Einlagerung	I-SKILL	O
+der	I-SKILL	O
+Fertigwaren	I-SKILL	O
+der	I-SKILL	O
+Produktionsanlagen	I-SKILL	O
+
+# sent_id = 29_lagermitarbeiter-0010-1
+# text = - Eigenständige Umlagerung von Waren zur Optimierung der Lagerbestände
+-	O	O
+Eigenständige	B-SKILL	O
+Umlagerung	I-SKILL	O
+von	I-SKILL	O
+Waren	I-SKILL	O
+zur	I-SKILL	O
+Optimierung	I-SKILL	O
+der	I-SKILL	O
+Lagerbestände	I-SKILL	O
+
+# sent_id = 29_lagermitarbeiter-0011-1
+# text = - Verpackung von Fertigwaren
+-	O	O
+Verpackung	B-SKILL	O
+von	I-SKILL	O
+Fertigwaren	I-SKILL	O
+
+# sent_id = 29_lagermitarbeiter-0012-1
+# text = - Pflege und Wartung von Batterien und Gabelstaplern
+-	O	O
+Pflege	B-SKILL	O
+und	I-SKILL	O
+Wartung	I-SKILL	O
+von	I-SKILL	O
+Batterien	I-SKILL	O
+und	I-SKILL	O
+Gabelstaplern	I-SKILL	O
+
+# sent_id = 29_lagermitarbeiter-0013-1
+# text = - Reinigungstätigkeiten
+-	O	O
+Reinigungstätigkeiten	B-SKILL	O
+
+# sent_id = 29_lagermitarbeiter-0014-1
+# text = Gewünschtes Profil
+Gewünschtes	O	O
+Profil	O	O
+
+# sent_id = 29_lagermitarbeiter-0015-1
+# text = - Stapler-Führerschein
+-	O	O
+Stapler-Führerschein	O	O
+
+# sent_id = 29_lagermitarbeiter-0016-1
+# text = - Hohes Maß an Kommunikations- und Teamfähigkeit
+-	O	O
+Hohes	B-SKILL	O
+Maß	I-SKILL	O
+an	I-SKILL	O
+Kommunikations	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Teamfähigkeit	I-SKILL	O
+
+# sent_id = 29_lagermitarbeiter-0017-1
+# text = - Körperliche Fitness und ein hohes Maß an Belastbarkeit sind zwingend erforderlich
+-	O	O
+Körperliche	B-SKILL	O
+Fitness	I-SKILL	O
+und	I-SKILL	O
+ein	I-SKILL	O
+hohes	I-SKILL	O
+Maß	I-SKILL	O
+an	I-SKILL	O
+Belastbarkeit	I-SKILL	O
+sind	O	O
+zwingend	O	O
+erforderlich	O	O
+
+# sent_id = 29_lagermitarbeiter-0018-1
+# text = - Bereitschaft zur Schichtarbeit
+-	O	O
+Bereitschaft	O	O
+zur	O	O
+Schichtarbeit	O	O
+
+# doc_id = 30_technischer-projektleiter-elektro
+# sent_id = 30_technischer-projektleiter-elektro-0001-1
+# text = Technischer Projektleiter Elektro- & Leittechnik (m/w/d)
+Technischer	O	O
+Projektleiter	O	O
+Elektro	O	O
+-	O	O
+&	O	O
+Leittechnik	O	O
+(	O	O
+m/w/d	O	O
+)	O	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0002-1
+# text = Ihre Aufgaben
+Ihre	O	O
+Aufgaben	O	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0003-1
+# text = - Technische Abwicklung von Kundenverträgen für elektrische und leittechnische Systeme im erweiterten Lieferumfang von Dampfturbinenanlagen
+-	O	O
+Technische	B-SKILL	O
+Abwicklung	I-SKILL	O
+von	I-SKILL	O
+Kundenverträgen	I-SKILL	O
+für	I-SKILL	O
+elektrische	I-SKILL	O
+und	I-SKILL	O
+leittechnische	I-SKILL	O
+Systeme	I-SKILL	O
+im	O	O
+erweiterten	O	O
+Lieferumfang	O	O
+von	O	O
+Dampfturbinenanlagen	O	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0004-1
+# text = - Verantwortung für die technische Koordination von Generatoren, Transformatoren sowie Mittel- und Hochspannungsschaltanlagen (MV/HV)
+-	O	O
+Verantwortung	B-SKILL	O
+für	I-SKILL	O
+die	I-SKILL	O
+technische	I-SKILL	O
+Koordination	I-SKILL	O
+von	I-SKILL	O
+Generatoren	I-SKILL	O
+,	I-SKILL	O
+Transformatoren	I-SKILL	O
+sowie	I-SKILL	O
+Mittel	I-SKILL	B-KNOWLEDGE
+-	I-SKILL	I-KNOWLEDGE
+und	I-SKILL	I-KNOWLEDGE
+Hochspannungsschaltanlagen	I-SKILL	I-KNOWLEDGE
+(	O	O
+MV/HV	O	O
+)	O	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0005-1
+# text = - Spezifikation und Auslegung der Elektro- und Leittechnik auf Grundlage von Vertragsanforderungen, technischen Vorgaben und kundenspezifischen Anforderungen
+-	O	O
+Spezifikation	B-SKILL	O
+und	I-SKILL	O
+Auslegung	I-SKILL	O
+der	I-SKILL	O
+Elektro	I-SKILL	B-KNOWLEDGE
+-	I-SKILL	I-KNOWLEDGE
+und	I-SKILL	I-KNOWLEDGE
+Leittechnik	I-SKILL	I-KNOWLEDGE
+auf	O	O
+Grundlage	O	O
+von	O	O
+Vertragsanforderungen	O	O
+,	O	O
+technischen	O	O
+Vorgaben	O	O
+und	O	O
+kundenspezifischen	O	O
+Anforderungen	O	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0006-1
+# text = - Erstellung von Ausschreibungsunterlagen, Anfragespezifikationen und auftragsbegleitender technischer Dokumentation
+-	O	O
+Erstellung	B-SKILL	O
+von	I-SKILL	O
+Ausschreibungsunterlagen	I-SKILL	O
+,	I-SKILL	O
+Anfragespezifikationen	I-SKILL	O
+und	I-SKILL	O
+auftragsbegleitender	I-SKILL	O
+technischer	I-SKILL	O
+Dokumentation	I-SKILL	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0007-1
+# text = - Teilnahme an technischen Kundengesprächen sowie Koordination und Klärung projektspezifischer Fragestellungen
+-	O	O
+Teilnahme	B-SKILL	O
+an	I-SKILL	O
+technischen	I-SKILL	O
+Kundengesprächen	I-SKILL	O
+sowie	I-SKILL	O
+Koordination	I-SKILL	O
+und	I-SKILL	O
+Klärung	I-SKILL	O
+projektspezifischer	I-SKILL	O
+Fragestellungen	I-SKILL	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0008-1
+# text = - Technische Begleitung und Abnahme des verantworteten Lieferumfangs sowie nationale und internationale Reisetätigkeit
+-	O	O
+Technische	B-SKILL	O
+Begleitung	I-SKILL	O
+und	I-SKILL	O
+Abnahme	I-SKILL	O
+des	I-SKILL	O
+verantworteten	I-SKILL	O
+Lieferumfangs	I-SKILL	O
+sowie	O	O
+nationale	O	O
+und	O	O
+internationale	O	O
+Reisetätigkeit	O	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0009-1
+# text = Ihre Qualifikationen
+Ihre	O	O
+Qualifikationen	O	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0010-1
+# text = - Abgeschlossenes Studium (Dipl.-Ing., Bachelor oder Master) bzw. Weiterbildung zum Techniker in Elektrotechnik, Elektrischen Systemen, Energietechnik, Mechatronik oder vergleichbar
+-	O	O
+Abgeschlossenes	O	O
+Studium	O	O
+(	O	O
+Dipl	O	O
+.	O	O
+-	O	O
+Ing	O	O
+.	O	O
+,	O	O
+Bachelor	O	O
+oder	O	O
+Master	O	O
+)	O	O
+bzw	O	O
+.	O	O
+Weiterbildung	O	O
+zum	O	O
+Techniker	O	O
+in	O	O
+Elektrotechnik	O	O
+,	O	O
+Elektrischen	O	O
+Systemen	O	O
+,	O	O
+Energietechnik	O	O
+,	O	O
+Mechatronik	O	O
+oder	O	O
+vergleichbar	O	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0011-1
+# text = - Mindestens 2 Jahre einschlägige Berufserfahrung in einer vergleichbaren technischen Funktion
+-	O	O
+Mindestens	O	O
+2	O	O
+Jahre	O	O
+einschlägige	O	O
+Berufserfahrung	O	O
+in	O	O
+einer	O	O
+vergleichbaren	O	O
+technischen	O	O
+Funktion	O	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0012-1
+# text = - Erfahrung im Projektmanagement und/oder Engineering sowie in Montage- oder Inbetriebnahmetätigkeiten (IBS)
+-	O	O
+Erfahrung	O	O
+im	O	O
+Projektmanagement	O	B-KNOWLEDGE
+und/oder	O	O
+Engineering	O	B-KNOWLEDGE
+sowie	O	O
+in	O	O
+Montage	O	B-KNOWLEDGE
+-	O	I-KNOWLEDGE
+oder	O	I-KNOWLEDGE
+Inbetriebnahmetätigkeiten	O	I-KNOWLEDGE
+(	O	O
+IBS	O	O
+)	O	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0013-1
+# text = - Kenntnisse in Kraftwerks-, Dampfturbinen- oder Energietechnik sowie im Umfeld elektrischer Energieanlagen sind von Vorteil
+-	O	O
+Kenntnisse	O	O
+in	O	O
+Kraftwerks	O	B-KNOWLEDGE
+-	O	I-KNOWLEDGE
+,	O	I-KNOWLEDGE
+Dampfturbinen	O	I-KNOWLEDGE
+-	O	I-KNOWLEDGE
+oder	O	I-KNOWLEDGE
+Energietechnik	O	I-KNOWLEDGE
+sowie	O	O
+im	O	O
+Umfeld	O	O
+elektrischer	O	O
+Energieanlagen	O	O
+sind	O	O
+von	O	O
+Vorteil	O	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0014-1
+# text = - Sehr gute bzw. sichere Englischkenntnisse für internationale Projekte und Kundengespräche; Deutschkenntnisse und weitere Fremdsprachen sind von Vorteil
+-	O	O
+Sehr	O	O
+gute	O	O
+bzw	O	O
+.	O	O
+sichere	O	O
+Englischkenntnisse	O	B-KNOWLEDGE
+für	O	O
+internationale	O	O
+Projekte	O	O
+und	O	O
+Kundengespräche	O	O
+;	O	O
+Deutschkenntnisse	O	B-KNOWLEDGE
+und	O	O
+weitere	O	O
+Fremdsprachen	O	O
+sind	O	O
+von	O	O
+Vorteil	O	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0015-1
+# text = - Bereitschaft zu nationalen und internationalen Dienstreisen sowie ausgeprägte Kommunikations-, Koordinations- und Schnittstellenkompetenz
+-	O	O
+Bereitschaft	O	O
+zu	O	O
+nationalen	O	O
+und	O	O
+internationalen	O	O
+Dienstreisen	O	O
+sowie	O	O
+ausgeprägte	B-SKILL	O
+Kommunikations	I-SKILL	O
+-	I-SKILL	O
+,	I-SKILL	O
+Koordinations	I-SKILL	O
+-	I-SKILL	O
+und	I-SKILL	O
+Schnittstellenkompetenz	I-SKILL	O
+

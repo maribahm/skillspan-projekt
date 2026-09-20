@@ -1,0 +1,713 @@
+{
+  "_comment": "Manuelle Annotation: pro Dokument die Oberflaechenformen der SKILL-Spans. skip_lines = Quellzeilen (1-basiert), die nicht annotiert werden (Titel, Firmenname, Benefits). block = einzelne Treffer, die in einer bestimmten Zeile NICHT annotiert werden. Matching: tokenweise, laengster Treffer zuerst, case-insensitive.",
+  "01_performance-marketing-manager": {
+    "skip_lines": [
+      1,
+      2,
+      3,
+      5
+    ],
+    "spans": [
+      "Leadgenerierung",
+      "Suchmaschinenmarketing",
+      "Suchmaschinenoptimierung",
+      "E-Mail-Marketing",
+      "Produktmarketings",
+      "digitalen Marketing",
+      "Marketing- und Analyseplattformen",
+      "Google Ads",
+      "Google Analytics",
+      "WordPress",
+      "Mailchimp",
+      "Canva",
+      "redaktionellen Pflege von Webseiten und digitalen Inhalten",
+      "Bearbeitung von Bildern und Videos",
+      "zielgruppengerechte Kommunikation",
+      "Selbstständige, strukturierte und umsetzungsstarke Arbeitsweise",
+      "Kommunikationsfähigkeit",
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "02_social-media-manager": {
+    "skip_lines": [
+      1,
+      2,
+      3
+    ],
+    "spans": [
+      "Bildbearbeitung",
+      "Adobe Photoshop CC",
+      "Künstliche Intelligenz",
+      "Grafikdesign",
+      "Adobe CC",
+      "Social Media Marketing",
+      "Content Marketing",
+      "Projektarbeit",
+      "Videopräsenzunterricht"
+    ]
+  },
+  "03_e-commerce-trainer": {
+    "skip_lines": [
+      1,
+      2,
+      3
+    ],
+    "spans": [
+      "E-Commerce",
+      "Rechtliche Aspekte",
+      "Online-Shop-Systeme",
+      "Künstliche Intelligenz",
+      "Online-Marketing",
+      "Kundengewinnung",
+      "Zahlungssysteme",
+      "Finanzen",
+      "Logistik",
+      "Fulfillment",
+      "Kundenservice",
+      "CRM",
+      "Web-Controlling",
+      "Datenanalyse",
+      "Projektarbeit",
+      "Videopräsenzunterricht"
+    ]
+  },
+  "04_produktmanager": {
+    "skip_lines": [
+      1,
+      2,
+      3,
+      6,
+      13,
+      24
+    ],
+    "spans": [
+      "Produktstrategie",
+      "technische Produktentwicklung",
+      "Go-to-Market",
+      "Go-to-Market-Prozessen",
+      "Business Cases",
+      "Roadmaps",
+      "Priorisierung von Features",
+      "Produktmanagement",
+      "kommunikative Fähigkeiten",
+      "Strategische und zugleich pragmatische Arbeitsweise"
+    ]
+  },
+  "05_marketing-allrounder-seo": {
+    "skip_lines": [
+      1,
+      2,
+      3
+    ],
+    "spans": [
+      "technisches SEO",
+      "SEO- und Analyse-Tools",
+      "SEO",
+      "On-Page",
+      "Content-Strategie",
+      "Backlinks",
+      "Online-Marketing",
+      "Selbstständige, strukturierte Arbeitsweise",
+      "Kommunikationsstärke"
+    ]
+  },
+  "06_sozialarbeiter-psychosozialer-dienst": {
+    "skip_lines": [
+      1,
+      2,
+      3,
+      13
+    ],
+    "spans": [
+      "sozialrechtlichen Fragestellungen",
+      "Sozialgesetzbücher",
+      "Sozialgesetzgebung",
+      "Zusammenarbeit im multiprofessionellen Team",
+      "Empathie",
+      "Offenheit",
+      "Flexibilität",
+      "Belastbarkeit",
+      "Strukturierte und zuverlässige Arbeitsweise",
+      "lösungsorientiertes, selbstständiges und verantwortungsvolles Arbeiten"
+    ]
+  },
+  "07_heilerziehungspfleger": {
+    "skip_lines": [
+      1,
+      2,
+      3
+    ],
+    "spans": [
+      "Betreuung und Entwicklungsbegleitung von Kindern",
+      "Gestaltung von pädagogischen Angeboten",
+      "Elternarbeit",
+      "Dokumentation",
+      "Entwicklungsbegleitung",
+      "Teamfähigkeit",
+      "Kreativität",
+      "Zuverlässigkeit",
+      "Einfühlungsvermögen",
+      "Kommunikationsfähigkeit"
+    ]
+  },
+  "08_sozialpaedagogische-assistenz-krippe": {
+    "skip_lines": [
+      1,
+      2,
+      3
+    ],
+    "spans": [
+      "päd. Planung und Organisation des Tages",
+      "kooperative Zusammenarbeit mit den Eltern"
+    ]
+  },
+  "09_spa-sozialpaedagogischer-assistent": {
+    "skip_lines": [
+      1,
+      2,
+      3,
+      7,
+      13
+    ],
+    "spans": [
+      "Kinderbetreuung",
+      "Teamplayer"
+    ]
+  },
+  "10_pflegefachkraft-senator-neumann-haus": {
+    "skip_lines": [
+      1
+    ],
+    "spans": [
+      "ganzheitliche Pflege",
+      "Medikamentenmanagement",
+      "Pflegevisiten",
+      "Wertschätzende Haltung und Kommunikation",
+      "Einfühlungsvermögen",
+      "Zusammenarbeit in einem multiprofessionellen Team"
+    ]
+  },
+  "11_mechatroniker": {
+    "skip_lines": [
+      1,
+      2
+    ],
+    "spans": [
+      "Fehlerdiagnosen",
+      "Wartung",
+      "Reparaturen",
+      "Instandhaltung",
+      "technische Zeichnungen",
+      "Schalt- und Montagepläne",
+      "Kundenbetreuung",
+      "Mechanik",
+      "Elektronik",
+      "Elektrotechnik",
+      "Pneumatik",
+      "Steuerungs- und Automatisierungstechnik",
+      "Mess- und Diagnosesystemen",
+      "technisches Verständnis",
+      "selbstständige, teamorientierte und verantwortungsbewusste Arbeitsweise",
+      "Deutsch",
+      "Englischkenntnisse"
+    ]
+  },
+  "12_softwareentwickler": {
+    "skip_lines": [
+      1,
+      2,
+      3,
+      11,
+      12
+    ],
+    "spans": [
+      "Infrastructure as Code",
+      "Cloud-Technologien",
+      "Clean Code",
+      "moderne Architekturen",
+      "KI",
+      "Grafana Cloud",
+      "Kubernetes",
+      "AWS",
+      "Terraform",
+      "Crossplane",
+      "ArgoCD",
+      "Tilt",
+      "Atlas MongoDB",
+      "Spring Boot",
+      "Java",
+      "Softwareentwicklung",
+      "DevOps",
+      "DevOps-Methoden",
+      "CI/CD",
+      "CI/CD-Pipelines",
+      "Build-, Test- und Deployment-Workflows",
+      "Microservices",
+      "Cloud-Architektur",
+      "objektorientierten Programmiersprache",
+      "Automatisierung",
+      "künstlicher Intelligenz",
+      "Selbstständigkeit",
+      "Verantwortungsbewusstsein",
+      "Teamfähigkeit",
+      "Fließende Deutschkenntnisse"
+    ]
+  },
+  "13_fachinformatiker-systemintegration": {
+    "skip_lines": [
+      1,
+      2,
+      3,
+      6
+    ],
+    "spans": [
+      "IT-Systeme",
+      "Server",
+      "Netzwerke",
+      "Clients",
+      "Windows Server",
+      "Hyper-V",
+      "VMware",
+      "Microsoft 365",
+      "IT-Sicherheit",
+      "Firewall",
+      "Backup",
+      "Recovery-Lösungen",
+      "Kundensupport",
+      "technische Beratung",
+      "Backup- und Wiederherstellungsprozessen",
+      "Active Directory",
+      "Virtualisierungstools",
+      "IT-Security",
+      "VPN",
+      "Verschlüsselung",
+      "Datenschutzrichtlinien",
+      "Selbstständige und strukturierte Arbeitsweise",
+      "Kommunikationsstärke",
+      "Deutsch"
+    ]
+  },
+  "14_it-support": {
+    "skip_lines": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "spans": [
+      "IT Support",
+      "Windows Systemen",
+      "IT Hardware",
+      "Serviceorientierte und lösungsfokussierte Arbeitsweise",
+      "Strukturierte Herangehensweise bei technischen Problemen",
+      "Deutschkenntnisse",
+      "Teamfähigkeit",
+      "Kommunikationsstärke",
+      "First und Second Level Support",
+      "Analyse und Lösung von Hard und Softwareproblemen",
+      "Betreuung von Windows Arbeitsplätzen und Endgeräten",
+      "Installation und Konfiguration von Software und Betriebssystemen",
+      "Dokumentation",
+      "Ticketsystem"
+    ]
+  },
+  "15_data-engineer": {
+    "skip_lines": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "spans": [
+      "Datenarchitekturen",
+      "On-Premises-Lakehouse-Architektur",
+      "ETL",
+      "ETL-Prozessen",
+      "Datenpipelines",
+      "Data-Warehouse-Strukturen",
+      "Data-Warehouse",
+      "Lakehouse-Architekturen",
+      "Snowflake",
+      "Datenqualität",
+      "Datenverfügbarkeit",
+      "DevOps-Themen",
+      "Data Engineering",
+      "SQL",
+      "Python",
+      "Apache Iceberg",
+      "Trino",
+      "Nessie",
+      "Lakekeeper",
+      "SQLMesh",
+      "Linux",
+      "GitLab",
+      "Oracle",
+      "selbstständige, strukturierte und lösungsorientierte Arbeitsweise",
+      "Deutsch- und Englischkenntnisse"
+    ]
+  },
+  "16_marketing-manager-hotel": {
+    "skip_lines": [
+      1,
+      2,
+      3
+    ],
+    "spans": [
+      "Marketingstrategien",
+      "Marketingkampagnen",
+      "Content-Maßnahmen",
+      "Performance-Analyse",
+      "Fotoshootings",
+      "Videoproduktionen",
+      "Markenkommunikation",
+      "Storytelling",
+      "Marketingtrends",
+      "zielgruppengerechte Ansprache",
+      "Microsoft Office",
+      "Marketing- und Analysetools",
+      "Canva Pro",
+      "KI-gestützten Tools",
+      "Microsoft Copilot",
+      "ChatGPT",
+      "Kreativität",
+      "Organisationsgeschick",
+      "Eigeninitiative",
+      "deutscher und englischer Sprache"
+    ]
+  },
+  "17_sachbearbeitung-fes": {
+    "skip_lines": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "spans": [
+      "Veranstaltungsorganisation",
+      "Projektsachbearbeitung",
+      "Finanzsachbearbeitung",
+      "Haushaltsplanung",
+      "Redaktionelle Betreuung der Website",
+      "Verwaltungsaufgaben",
+      "Fachkenntnisse",
+      "EDV-Kenntnisse",
+      "Content Management Systemen",
+      "Videokonferenzsystemen",
+      "Social-Media",
+      "Team- und Kommunikationsfähigkeit",
+      "politischen Verhältnisse in Sachsen-Anhalt"
+    ]
+  },
+  "18_buchhaltung-aurea": {
+    "skip_lines": [
+      1,
+      2
+    ],
+    "block": [
+      {
+        "line": 13,
+        "span": "Bilanz"
+      }
+    ],
+    "spans": [
+      "Planung der Liquidität",
+      "Jahresabschlüssen",
+      "HGB",
+      "Bilanz",
+      "GuV",
+      "BWA",
+      "Konsolidierung",
+      "Konsolidierungen",
+      "Kostenstellenreports",
+      "DATEV",
+      "Excel",
+      "Umsatzsteuervoranmeldungen",
+      "Zusammenfassenden Meldungen",
+      "Intrastat-Meldungen",
+      "Finanzbuchhaltung",
+      "Kontenabstimmungen",
+      "Rückstellungen",
+      "Wertberichtigungen",
+      "Intercompany-Sachverhalten",
+      "Analyse von Finanzdaten",
+      "ERP-System",
+      "Buchhaltung",
+      "Steuerrecht",
+      "Bilanzierung",
+      "Umsatzsteuer",
+      "internationalen Rechnungslegungsvorschriften",
+      "ERP- und Buchhaltungssystemen",
+      "SAP",
+      "Lexware",
+      "Reporting",
+      "Analytisches Denkvermögen",
+      "strukturiertes Arbeiten",
+      "Zahlenaffinität",
+      "Führungserfahrung",
+      "Proaktive und lösungsorientierte Arbeitsweise",
+      "Eigenverantwortung",
+      "Kommunikationsfähigkeiten",
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "19_sachbearbeiter-controlling": {
+    "skip_lines": [
+      1
+    ],
+    "spans": [
+      "Stammdaten",
+      "Analyse von Abweichungen",
+      "SAP PS",
+      "SAP-PS-Systems",
+      "Projektauswertungen",
+      "Projektsteuerung",
+      "Statikprüfungen",
+      "Investitionscontrollings",
+      "Budgetplanung",
+      "Sachbearbeitung",
+      "Controlling",
+      "MS Dynamics",
+      "Projektmanagementsysteme",
+      "MS Office",
+      "Deutschkenntnisse",
+      "Eigeninitiative",
+      "selbstständige und strukturierte Arbeitsweise"
+    ]
+  },
+  "20_pflegefachkraft-remacare": {
+    "skip_lines": [
+      1,
+      2
+    ],
+    "spans": [
+      "Grundpflege",
+      "Behandlungspflege",
+      "Körperpflege",
+      "Mobilisation",
+      "Medikamentengabe",
+      "Wundversorgung",
+      "Blutdruck-, Puls- und Blutzuckerkontrolle",
+      "Portversorgung",
+      "Pflegedokumentation",
+      "Pflegeplanung",
+      "Anleitung und Beratung von Angehörigen",
+      "pflegerische und soziale Kompetenz"
+    ]
+  },
+  "21_erzieher": {
+    "skip_lines": [
+      1,
+      2
+    ],
+    "spans": [
+      "Planung und Umsetzung kreativer Spiel- und Lernangebote",
+      "Förderung der individuellen Entwicklung und sozialen Kompetenzen der Kinder",
+      "Gestaltung eines liebevollen und sicheren Umfelds",
+      "Zusammenarbeit mit Eltern und Kolleg:innen",
+      "Dokumentation der pädagogischen Arbeit",
+      "Einfühlungsvermögen",
+      "Geduld",
+      "Verantwortungsbewusstsein",
+      "Teamfähigkeit",
+      "Zuverlässigkeit",
+      "wertschätzende Kommunikation",
+      "Eigeninitiative",
+      "selbstständige und lösungsorientierte Arbeitsweise"
+    ]
+  },
+  "22_sozialarbeiter-jugendhilfe": {
+    "skip_lines": [
+      1,
+      2
+    ],
+    "spans": [
+      "Gestaltung und Begleitung freizeitpädagogischer Angebote",
+      "Aufbau und Pflege von Kontakten zu Kindern und Jugendlichen",
+      "Beratung und Unterstützung von Kindern, Jugendlichen und jungen Erwachsenen",
+      "Förderung gesundheitsbewussten und verantwortungsvollen Verhaltens",
+      "selbstständigen, eigenverantwortlichen Arbeiten",
+      "konzeptioneller Weiterentwicklung",
+      "Jugendarbeit"
+    ]
+  },
+  "23_produktionsmitarbeiter": {
+    "skip_lines": [
+      1
+    ],
+    "spans": [
+      "Produktion",
+      "Handwerkliches Geschick",
+      "technisches Verständnis",
+      "Zuverlässigkeit",
+      "Sorgfalt",
+      "Verantwortungsbewusstsein",
+      "Flexibilität",
+      "Belastbarkeit",
+      "Teamfähigkeit",
+      "Umgang mit modernen Kommunikationsmedien",
+      "EDV-Kenntnisse",
+      "Deutschkenntnisse"
+    ]
+  },
+  "24_customer-service-export": {
+    "skip_lines": [
+      1,
+      2,
+      3
+    ],
+    "spans": [
+      "Auftragseingang",
+      "Ticketsystem",
+      "Angebote und Exportdokumente erstellen",
+      "Terminverfolgung",
+      "Englisch",
+      "Technisches Verständnis",
+      "MS-Office",
+      "SAP-Kenntnisse"
+    ]
+  },
+  "25_personalreferent": {
+    "skip_lines": [
+      1,
+      2,
+      3
+    ],
+    "spans": [
+      "HR-Prozesse",
+      "Rekrutierung",
+      "Mitarbeiterentwicklung",
+      "Personalwesen",
+      "HR-Projekten",
+      "Mitarbeitergesprächen",
+      "Konfliktlösungen",
+      "Mitarbeiterschulungen",
+      "HR-Strategien",
+      "Arbeitsrecht",
+      "HR-Software",
+      "kommunikative Fähigkeiten",
+      "soziale Kompetenz",
+      "Eigenständige und ergebnisorientierte Arbeitsweise",
+      "Teamfähigkeit",
+      "Flexibilität"
+    ]
+  },
+  "26_hr-generalist": {
+    "skip_lines": [
+      1,
+      2
+    ],
+    "spans": [
+      "Personalbeschaffung",
+      "Anzeigen- und Bewerbermanagement",
+      "Erstellung von Verträgen, Zeugnissen und Bescheinigungen",
+      "HR-Kennzahlen",
+      "Zusammenarbeit mit dem Betriebsrat",
+      "HR-Projekten",
+      "MS Office",
+      "SAP HR-Kenntnisse",
+      "Englischkenntnisse"
+    ]
+  },
+  "27_sicherheitsmitarbeiter": {
+    "skip_lines": [
+      1,
+      2,
+      3,
+      5,
+      6
+    ],
+    "spans": [
+      "Kontrollgänge",
+      "Entgegennahme von eingehenden Telefonaten",
+      "Auf- und Verschluss",
+      "technischen Sicherheitseinrichtungen",
+      "Objektbewachung",
+      "PC-Kenntnisse"
+    ]
+  },
+  "28_technischer-produktdesigner": {
+    "skip_lines": [
+      1
+    ],
+    "spans": [
+      "technische Zeichnungen",
+      "technischen Zeichnungen",
+      "Baugruppen- und Anordnungszeichnungen",
+      "Schaltpläne",
+      "Konstruktionsvorgaben",
+      "Qualitätsstandards",
+      "Artikelstammdaten",
+      "Stücklisten",
+      "SAP-System",
+      "Zeichnungs- und Stücklistenänderungen",
+      "CAD- und SAP-Systemen",
+      "technische Dokumentation",
+      "technische Dokumentationen",
+      "technische Detaillösungen",
+      "Auswertungen",
+      "Datenaustauschdateien",
+      "technischer Berechnungen",
+      "CAD-Systemen",
+      "Catia V5",
+      "Creo",
+      "SAP",
+      "Technisches Verständnis",
+      "Normen",
+      "Strukturierte, sorgfältige und selbstständige Arbeitsweise",
+      "Teamfähigkeit",
+      "Kommunikationsfähigkeit",
+      "MS-Office-Kenntnisse"
+    ]
+  },
+  "29_lagermitarbeiter": {
+    "skip_lines": [
+      1,
+      2,
+      3
+    ],
+    "spans": [
+      "Einlagerung der Fertigwaren",
+      "Umlagerungen zur Optimierung der Lagerbestände",
+      "Umlagerung von Waren zur Optimierung der Lagerbestände",
+      "Verpackung der Fertigwaren",
+      "Verpackung von Fertigwaren",
+      "Pflege und Wartung von Batterien und Gabelstaplern",
+      "Pflege und Wartung von Batterien",
+      "Reinigungstätigkeiten",
+      "sorgfältigen Arbeitsweise",
+      "Kommunikations- und Teamfähigkeit",
+      "Körperliche Fitness",
+      "Belastbarkeit"
+    ]
+  },
+  "30_technischer-projektleiter-elektro": {
+    "skip_lines": [
+      1
+    ],
+    "spans": [
+      "Technische Abwicklung von Kundenverträgen",
+      "technische Koordination",
+      "Spezifikation und Auslegung der Elektro- und Leittechnik",
+      "Erstellung von Ausschreibungsunterlagen",
+      "technischer Dokumentation",
+      "Projektmanagement",
+      "Engineering",
+      "Montage- oder Inbetriebnahmetätigkeiten",
+      "Kraftwerks-, Dampfturbinen- oder Energietechnik",
+      "Englischkenntnisse",
+      "Deutschkenntnisse",
+      "Kommunikations-, Koordinations- und Schnittstellenkompetenz"
+    ]
+  }
+}

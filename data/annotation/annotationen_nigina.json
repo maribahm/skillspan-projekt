@@ -1,0 +1,3394 @@
+{
+  "schema_version": "1.0",
+  "annotation_layers": [
+    "SKILL",
+    "KNOWLEDGE"
+  ],
+  "offset_convention": "zero-based, end-exclusive, Unicode character offsets",
+  "documents": [
+    {
+      "id": "01",
+      "source_file": "01_performance-marketing-manager.txt",
+      "text": "Performance Marketing Manager (m/w/d)\nbei\ns w personalmanagement GmbH\nDas wird gesucht:\nFür unseren langjährigen Kunden in der Nähe von Quickborn suchen wir einen Performance Marketing Manager (m/w/d).\nWelche Aufgaben erwarten Sie?\n- Konzeption und Realisierung digitaler Maßnahmen zur Leadgenerierung und Vertriebsunterstützung im B2B-Umfeld\n- Verantwortung für Inhalte, Aktualität und Weiterentwicklung der Unternehmenswebsite\n- Ausbau der Online-Sichtbarkeit durch gezielte Maßnahmen in Suchmaschinenmarketing und Suchmaschinenoptimierung\n- Analyse und Verbesserung der Performance digitaler Kanäle und Kampagnen\n- Entwicklung und Aufbereitung von Inhalten für Website, Social Media und E-Mail-Marketing\n- Erstellung und Abstimmung von Kommunikations- und Vertriebsunterlagen für digitale und gedruckte Formate\n- Steuerung externer Partner, Agenturen und Dienstleister\n- Enge Zusammenarbeit mit Vertrieb und weiteren internen Fachbereichen\n- Begleitung der digitalen Weiterentwicklung des Marketings\n- Unterstützung beim Aufbau eines professionellen Produktmarketings\n- Mitarbeit bei Planung, Überwachung und Einhaltung des Marketingbudgets\nWas bringen Sie mit?\n- Erste Berufserfahrung von mindestens zwei Jahren im digitalen Marketing, idealerweise mit B2B-Bezug\n- Praxis im Einsatz gängiger Marketing- und Analyseplattformen wie Google Ads, Google Analytics, WordPress, Mailchimp oder Canva\n- Erfahrung in der redaktionellen Pflege von Webseiten und digitalen Inhalten\n- Basiswissen in der Bearbeitung von Bildern und Videos\n- Gespür für zielgruppengerechte Kommunikation, überzeugende Texte und kreative Inhalte\n- Selbstständige, strukturierte und umsetzungsstarke Arbeitsweise\n- Sehr gute Kommunikationsfähigkeit auf Deutsch und Englisch in Wort und Schrift\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 234,
+          "end": 342,
+          "text": "Konzeption und Realisierung digitaler Maßnahmen zur Leadgenerierung und Vertriebsunterstützung im B2B-Umfeld"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 332,
+          "end": 342,
+          "text": "B2B-Umfeld"
+        },
+        {
+          "label": "SKILL",
+          "start": 345,
+          "end": 428,
+          "text": "Verantwortung für Inhalte, Aktualität und Weiterentwicklung der Unternehmenswebsite"
+        },
+        {
+          "label": "SKILL",
+          "start": 431,
+          "end": 541,
+          "text": "Ausbau der Online-Sichtbarkeit durch gezielte Maßnahmen in Suchmaschinenmarketing und Suchmaschinenoptimierung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 490,
+          "end": 512,
+          "text": "Suchmaschinenmarketing"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 517,
+          "end": 541,
+          "text": "Suchmaschinenoptimierung"
+        },
+        {
+          "label": "SKILL",
+          "start": 544,
+          "end": 615,
+          "text": "Analyse und Verbesserung der Performance digitaler Kanäle und Kampagnen"
+        },
+        {
+          "label": "SKILL",
+          "start": 618,
+          "end": 706,
+          "text": "Entwicklung und Aufbereitung von Inhalten für Website, Social Media und E-Mail-Marketing"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 664,
+          "end": 671,
+          "text": "Website"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 673,
+          "end": 685,
+          "text": "Social Media"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 690,
+          "end": 706,
+          "text": "E-Mail-Marketing"
+        },
+        {
+          "label": "SKILL",
+          "start": 709,
+          "end": 813,
+          "text": "Erstellung und Abstimmung von Kommunikations- und Vertriebsunterlagen für digitale und gedruckte Formate"
+        },
+        {
+          "label": "SKILL",
+          "start": 816,
+          "end": 871,
+          "text": "Steuerung externer Partner, Agenturen und Dienstleister"
+        },
+        {
+          "label": "SKILL",
+          "start": 874,
+          "end": 942,
+          "text": "Enge Zusammenarbeit mit Vertrieb und weiteren internen Fachbereichen"
+        },
+        {
+          "label": "SKILL",
+          "start": 945,
+          "end": 1002,
+          "text": "Begleitung der digitalen Weiterentwicklung des Marketings"
+        },
+        {
+          "label": "SKILL",
+          "start": 1005,
+          "end": 1070,
+          "text": "Unterstützung beim Aufbau eines professionellen Produktmarketings"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1053,
+          "end": 1070,
+          "text": "Produktmarketings"
+        },
+        {
+          "label": "SKILL",
+          "start": 1073,
+          "end": 1143,
+          "text": "Mitarbeit bei Planung, Überwachung und Einhaltung des Marketingbudgets"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1127,
+          "end": 1143,
+          "text": "Marketingbudgets"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1219,
+          "end": 1238,
+          "text": "digitalen Marketing"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1257,
+          "end": 1266,
+          "text": "B2B-Bezug"
+        },
+        {
+          "label": "SKILL",
+          "start": 1279,
+          "end": 1395,
+          "text": "Einsatz gängiger Marketing- und Analyseplattformen wie Google Ads, Google Analytics, WordPress, Mailchimp oder Canva"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1296,
+          "end": 1329,
+          "text": "Marketing- und Analyseplattformen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1334,
+          "end": 1344,
+          "text": "Google Ads"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1346,
+          "end": 1362,
+          "text": "Google Analytics"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1364,
+          "end": 1373,
+          "text": "WordPress"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1375,
+          "end": 1384,
+          "text": "Mailchimp"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1390,
+          "end": 1395,
+          "text": "Canva"
+        },
+        {
+          "label": "SKILL",
+          "start": 1415,
+          "end": 1473,
+          "text": "redaktionellen Pflege von Webseiten und digitalen Inhalten"
+        },
+        {
+          "label": "SKILL",
+          "start": 1495,
+          "end": 1529,
+          "text": "Bearbeitung von Bildern und Videos"
+        },
+        {
+          "label": "SKILL",
+          "start": 1532,
+          "end": 1617,
+          "text": "Gespür für zielgruppengerechte Kommunikation, überzeugende Texte und kreative Inhalte"
+        },
+        {
+          "label": "SKILL",
+          "start": 1620,
+          "end": 1683,
+          "text": "Selbstständige, strukturierte und umsetzungsstarke Arbeitsweise"
+        },
+        {
+          "label": "SKILL",
+          "start": 1686,
+          "end": 1764,
+          "text": "Sehr gute Kommunikationsfähigkeit auf Deutsch und Englisch in Wort und Schrift"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1724,
+          "end": 1731,
+          "text": "Deutsch"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1736,
+          "end": 1744,
+          "text": "Englisch"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "source_file": "02_social-media-manager.txt",
+      "text": "Social Media Manager:in\nbei\nalfatraining Bildungszentrum GmbH\nertenwissen weiter und gestalten Sie die Weiterbildung der neuesten Generation!\nIhr Einsatzbereich\nSie unterrichten hochqualifizierte Personen mit abgeschlossenem Studium oder Ausbildung im Bereich Marketing, Medien, Journalismus, Betriebswirtschaft oder Geistes- und Sprachwissenschaften oder mit vergleichbarer Berufserfahrung.\nQualifizierte Vermittlung der folgenden Bereiche:\n- Bildbearbeitung mit Adobe Photoshop CC\n- Künstliche Intelligenz (KI) im Arbeitsprozess\n- Grafikdesign mit Adobe CC\n- Fachwissen Social Media Marketing\n- Fachwissen Content Marketing\n- Projektarbeit, Zertifizierungsvorbereitung und Zertifizierungsprüfung\nIhr Profil\n- Ausbildung oder Studium und praktische Expertise\n- Erfahrung als Trainer (w/m/d) vorteilhaft\n- Kenntnisse im Videopräsenzunterricht optional\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 161,
+          "end": 390,
+          "text": "Sie unterrichten hochqualifizierte Personen mit abgeschlossenem Studium oder Ausbildung im Bereich Marketing, Medien, Journalismus, Betriebswirtschaft oder Geistes- und Sprachwissenschaften oder mit vergleichbarer Berufserfahrung"
+        },
+        {
+          "label": "SKILL",
+          "start": 392,
+          "end": 440,
+          "text": "Qualifizierte Vermittlung der folgenden Bereiche"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 444,
+          "end": 482,
+          "text": "Bildbearbeitung mit Adobe Photoshop CC"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 485,
+          "end": 530,
+          "text": "Künstliche Intelligenz (KI) im Arbeitsprozess"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 533,
+          "end": 558,
+          "text": "Grafikdesign mit Adobe CC"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 561,
+          "end": 594,
+          "text": "Fachwissen Social Media Marketing"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 597,
+          "end": 625,
+          "text": "Fachwissen Content Marketing"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 628,
+          "end": 697,
+          "text": "Projektarbeit, Zertifizierungsvorbereitung und Zertifizierungsprüfung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 820,
+          "end": 842,
+          "text": "Videopräsenzunterricht"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "source_file": "03_e-commerce-trainer.txt",
+      "text": "E-Commerce\nbei\nalfatraining Bildungszentrum GmbH\nGeben Sie Ihr Expertenwissen weiter und gestalten Sie die Weiterbildung der neuesten Generation! Ihr Einsatzbereich\nSie unterrichten Personen, die bei der Konzipierung, Gestaltung und praktischen Umsetzung von Internet‐ Auftritten mit E‐Commerce‐Funktionen verantwortlich mitwirken und die dafür notwendigen Kenntnisse und Fähigkeiten erwerben wollen.\nQualifizierte Vermittlung der folgenden Bereiche:\n- Grundlagen des E-Commerce\n- Rechtliche Aspekte\n- Online-Shop-Systeme und -Gestaltung\n- Künstliche Intelligenz (KI) im Arbeitsprozess\n- Online-Marketing und Kundengewinnung\n- Zahlungssysteme und Finanzen\n- Logistik und Fulfillment\n- Kundenservice und CRM\n- Web-Controlling und Datenanalyse\n- Projektarbeit\nIhr Profil\n- Ausbildung oder Studium und praktische Expertise\n- Erfahrung als Trainer (w/m/d) vorteilhaft\n- Kenntnisse im Videopräsenzunterricht optional\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 165,
+          "end": 399,
+          "text": "Sie unterrichten Personen, die bei der Konzipierung, Gestaltung und praktischen Umsetzung von Internet‐ Auftritten mit E‐Commerce‐Funktionen verantwortlich mitwirken und die dafür notwendigen Kenntnisse und Fähigkeiten erwerben wollen"
+        },
+        {
+          "label": "SKILL",
+          "start": 401,
+          "end": 449,
+          "text": "Qualifizierte Vermittlung der folgenden Bereiche"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 453,
+          "end": 478,
+          "text": "Grundlagen des E-Commerce"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 481,
+          "end": 499,
+          "text": "Rechtliche Aspekte"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 502,
+          "end": 537,
+          "text": "Online-Shop-Systeme und -Gestaltung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 540,
+          "end": 585,
+          "text": "Künstliche Intelligenz (KI) im Arbeitsprozess"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 588,
+          "end": 624,
+          "text": "Online-Marketing und Kundengewinnung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 627,
+          "end": 655,
+          "text": "Zahlungssysteme und Finanzen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 658,
+          "end": 682,
+          "text": "Logistik und Fulfillment"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 685,
+          "end": 706,
+          "text": "Kundenservice und CRM"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 709,
+          "end": 741,
+          "text": "Web-Controlling und Datenanalyse"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 744,
+          "end": 757,
+          "text": "Projektarbeit"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 880,
+          "end": 902,
+          "text": "Videopräsenzunterricht"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "source_file": "04_produktmanager.txt",
+      "text": "Produktmanager*in (m/w/d)\nbei\nENQT GmbH\nDas Wichtigste im Überblick\nBesondere Merkmale\nProduktmanager*in (m/w/d) in Hamburg\nProduktstrategie • technische Produktentwicklung • Portfolio & Go-to-Market\nAls Produktmanager:in gestaltest du die Weiterentwicklung unserer Produkte an der Schnittstelle von Markt, Kund:innen, Vertrieb, Entwicklung und Produktion. Du übersetzt Kundenanforderungen und Marktbedarfe in klare Produktanforderungen, priorisierst Features und begleitest Produkte von der Idee bis zur erfolgreichen Umsetzung.\nDein Fokus liegt auf einem zukunftsfähigen Produktportfolio, belastbaren Business Cases und einer engen Verzahnung zwischen Strategie und operativer Umsetzung. Dabei arbeitest du eigenverantwortlich, datenbasiert und pragmatisch – mit dem Ziel, unsere Produkte technisch, wirtschaftlich und marktseitig kontinuierlich weiterzuentwickeln.\nDarauf hast du Lust? Dann komm zu ENQT!\nWir entwickeln und fertigen hochwertige Testgeräte für Mobilfunknetze (4G, 5G, WLAN, IoT) und\nunterstützen europaweit über 500 Kunden bei der sicheren Vernetzung von Energieinfrastruktur und Industrieanwendungen. Unsere Kunden verlassen sich auf unsere Expertise, wenn es darum geht, moderne Mobilfunklösungen effizient umzusetzen.\nDein zukünftiges Aufgabengebiet als Produktmanager*in (m/w/d)\n- Eigenverantwortliche Begleitung und Weiterentwicklung unserer Produkte von der Idee bis zur Umsetzung\n- Übersetzung von Kundenanforderungen, Marktbedarfen und internen Anforderungen in klare Produktanforderungen\n- Priorisierung von Features und Abstimmung mit Entwicklung, Produktion, Vertrieb und weiteren Stakeholdern\n- Mitwirkung an Produktstrategie, Roadmaps und Business Cases auf Basis definierter Ziele und KPIs\n- Entwicklung eines konsistenten, zukunftsfähigen Produktportfolios inklusive Build-, Improve- und Retire-Entscheidungen\n- Bewertung neuer Produktideen, Geschäftsmodelle und Innovationsfelder\n- Steuerung bereichsübergreifender Initiativen und Priorisierung von Projekten auf Portfolio-Ebene\n- Unterstützung reibungsloser Abläufe zwischen Produktmanagement, Entwicklung, Produktion und Vertrieb\n- Mitwirkung an der Optimierung von Go-to-Market-Prozessen\n- Analyse der Produktperformance sowie Ableitung konkreter Maßnahmen zur Weiterentwicklung\nDein Profil als Produktmanager*in (m/w/d)\n- Erfahrung als Product Owner oder in einer vergleichbaren Schnittstellenrolle zwischen Fachbereich und Entwicklung\n- Mehrjährige Erfahrung im Produktmanagement, idealerweise in einem technologie-, IoT-, SaaS-, Energie- oder Funktechnologie-nahen Umfeld\n- Abgeschlossenes Studium im Bereich Elektrotechnik, Ingenieurwesen, Informatik oder eine vergleichbare technisch fokussierte Qualifikation\n- Fundiertes Verständnis für Produktstrategie, Marktmechaniken, technische Produktentwicklung und Business Cases\n- Erfahrung in der Arbeit mit technischen Teams sowie in der Übersetzung von Anforderungen in umsetzbare Produktlösungen\n- Strategische und zugleich pragmatische Arbeitsweise mit der Fähigkeit, Vision und Umsetzung in Einklang zu bringen\n- Sehr ausgeprägte kommunikative Fähigkeiten sowie die Fähigkeit, Projekte selbstständig zu übernehmen und voranzutreiben\n- Zusatzqualifikationen oder Zertifizierungen, z. B. A-CSPO, Product Owner, OKR-Coach o. Ä., sind von Vorteil, aber kein Muss\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 222,
+          "end": 355,
+          "text": "gestaltest du die Weiterentwicklung unserer Produkte an der Schnittstelle von Markt, Kund:innen, Vertrieb, Entwicklung und Produktion"
+        },
+        {
+          "label": "SKILL",
+          "start": 357,
+          "end": 528,
+          "text": "Du übersetzt Kundenanforderungen und Marktbedarfe in klare Produktanforderungen, priorisierst Features und begleitest Produkte von der Idee bis zur erfolgreichen Umsetzung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 573,
+          "end": 589,
+          "text": "Produktportfolio"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 603,
+          "end": 617,
+          "text": "Business Cases"
+        },
+        {
+          "label": "SKILL",
+          "start": 696,
+          "end": 866,
+          "text": "arbeitest du eigenverantwortlich, datenbasiert und pragmatisch – mit dem Ziel, unsere Produkte technisch, wirtschaftlich und marktseitig kontinuierlich weiterzuentwickeln"
+        },
+        {
+          "label": "SKILL",
+          "start": 1304,
+          "end": 1405,
+          "text": "Eigenverantwortliche Begleitung und Weiterentwicklung unserer Produkte von der Idee bis zur Umsetzung"
+        },
+        {
+          "label": "SKILL",
+          "start": 1408,
+          "end": 1515,
+          "text": "Übersetzung von Kundenanforderungen, Marktbedarfen und internen Anforderungen in klare Produktanforderungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1518,
+          "end": 1623,
+          "text": "Priorisierung von Features und Abstimmung mit Entwicklung, Produktion, Vertrieb und weiteren Stakeholdern"
+        },
+        {
+          "label": "SKILL",
+          "start": 1626,
+          "end": 1722,
+          "text": "Mitwirkung an Produktstrategie, Roadmaps und Business Cases auf Basis definierter Ziele und KPIs"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1640,
+          "end": 1656,
+          "text": "Produktstrategie"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1658,
+          "end": 1666,
+          "text": "Roadmaps"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1718,
+          "end": 1722,
+          "text": "KPIs"
+        },
+        {
+          "label": "SKILL",
+          "start": 1725,
+          "end": 1843,
+          "text": "Entwicklung eines konsistenten, zukunftsfähigen Produktportfolios inklusive Build-, Improve- und Retire-Entscheidungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1846,
+          "end": 1914,
+          "text": "Bewertung neuer Produktideen, Geschäftsmodelle und Innovationsfelder"
+        },
+        {
+          "label": "SKILL",
+          "start": 1917,
+          "end": 2013,
+          "text": "Steuerung bereichsübergreifender Initiativen und Priorisierung von Projekten auf Portfolio-Ebene"
+        },
+        {
+          "label": "SKILL",
+          "start": 2016,
+          "end": 2116,
+          "text": "Unterstützung reibungsloser Abläufe zwischen Produktmanagement, Entwicklung, Produktion und Vertrieb"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2061,
+          "end": 2078,
+          "text": "Produktmanagement"
+        },
+        {
+          "label": "SKILL",
+          "start": 2119,
+          "end": 2175,
+          "text": "Mitwirkung an der Optimierung von Go-to-Market-Prozessen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2153,
+          "end": 2175,
+          "text": "Go-to-Market-Prozessen"
+        },
+        {
+          "label": "SKILL",
+          "start": 2178,
+          "end": 2266,
+          "text": "Analyse der Produktperformance sowie Ableitung konkreter Maßnahmen zur Weiterentwicklung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2190,
+          "end": 2208,
+          "text": "Produktperformance"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2507,
+          "end": 2511,
+          "text": "IoT-"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2513,
+          "end": 2518,
+          "text": "SaaS-"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2520,
+          "end": 2528,
+          "text": "Energie-"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2534,
+          "end": 2562,
+          "text": "Funktechnologie-nahen Umfeld"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2732,
+          "end": 2815,
+          "text": "Produktstrategie, Marktmechaniken, technische Produktentwicklung und Business Cases"
+        },
+        {
+          "label": "SKILL",
+          "start": 2835,
+          "end": 2936,
+          "text": "Arbeit mit technischen Teams sowie in der Übersetzung von Anforderungen in umsetzbare Produktlösungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 2939,
+          "end": 3053,
+          "text": "Strategische und zugleich pragmatische Arbeitsweise mit der Fähigkeit, Vision und Umsetzung in Einklang zu bringen"
+        },
+        {
+          "label": "SKILL",
+          "start": 3056,
+          "end": 3175,
+          "text": "Sehr ausgeprägte kommunikative Fähigkeiten sowie die Fähigkeit, Projekte selbstständig zu übernehmen und voranzutreiben"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "source_file": "05_marketing-allrounder-seo.txt",
+      "text": "Marketing-Allrounder mit Schwerpunkt SEO (m/w/d)\nbei\nHorizonia GmbH\nDas Wichtigste im Überblick\nBesondere Merkmale\nDie Horizonia GmbH ist ein AZAV-zertifizierter Bildungsträger mit Standorten in Berlin und Hamburg. Wir bieten AVGS-gefördertes Einzelcoaching zur beruflichen Aktivierung und Eingliederung an und begleiten Menschen dabei, den Weg zurück in den Arbeitsmarkt zu finden. Zur Verstärkung unseres Teams suchen wir eine engagierte Marketing-Persönlichkeit, die unsere Sichtbarkeit online wie offline gezielt ausbaut. Ihre Aufgaben:\n- Eigenständige Betreuung und kontinuierliche Optimierung unserer Website, insbesondere im Bereich SEO (On-Page, technisches SEO, Content-Strategie)\n- Aufbau und Pflege von Backlinks sowie Zusammenarbeit mit relevanten Portalen, Verbänden und Kooperationspartnern\n- Erstellung und Pflege von Website- und Social-Media-Inhalten\n- Unterstützung bei der Positionierung unserer Standorte Berlin und Hamburg\n- Beobachtung von Wettbewerb und Markttrends sowie datenbasierte Ableitung von Handlungsempfehlungen\n- Enge Zusammenarbeit mit der Geschäftsführung zur Umsetzung unserer Wachstumsstrategie\nIhr Profil:\n- Erfahrung im Online-Marketing, idealerweise mit Schwerpunkt SEO\n- Selbstständige, strukturierte Arbeitsweise und Freude an vielseitigen Aufgaben\n- Sicherer Umgang mit gängigen SEO- und Analyse-Tools\n- Kommunikationsstärke in Wort und Schrift\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 543,
+          "end": 689,
+          "text": "Eigenständige Betreuung und kontinuierliche Optimierung unserer Website, insbesondere im Bereich SEO (On-Page, technisches SEO, Content-Strategie)"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 640,
+          "end": 643,
+          "text": "SEO"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 645,
+          "end": 652,
+          "text": "On-Page"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 654,
+          "end": 669,
+          "text": "technisches SEO"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 671,
+          "end": 688,
+          "text": "Content-Strategie"
+        },
+        {
+          "label": "SKILL",
+          "start": 692,
+          "end": 804,
+          "text": "Aufbau und Pflege von Backlinks sowie Zusammenarbeit mit relevanten Portalen, Verbänden und Kooperationspartnern"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 714,
+          "end": 723,
+          "text": "Backlinks"
+        },
+        {
+          "label": "SKILL",
+          "start": 807,
+          "end": 867,
+          "text": "Erstellung und Pflege von Website- und Social-Media-Inhalten"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 833,
+          "end": 867,
+          "text": "Website- und Social-Media-Inhalten"
+        },
+        {
+          "label": "SKILL",
+          "start": 870,
+          "end": 943,
+          "text": "Unterstützung bei der Positionierung unserer Standorte Berlin und Hamburg"
+        },
+        {
+          "label": "SKILL",
+          "start": 946,
+          "end": 1044,
+          "text": "Beobachtung von Wettbewerb und Markttrends sowie datenbasierte Ableitung von Handlungsempfehlungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1047,
+          "end": 1132,
+          "text": "Enge Zusammenarbeit mit der Geschäftsführung zur Umsetzung unserer Wachstumsstrategie"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1160,
+          "end": 1176,
+          "text": "Online-Marketing"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1207,
+          "end": 1210,
+          "text": "SEO"
+        },
+        {
+          "label": "SKILL",
+          "start": 1213,
+          "end": 1255,
+          "text": "Selbstständige, strukturierte Arbeitsweise"
+        },
+        {
+          "label": "SKILL",
+          "start": 1294,
+          "end": 1345,
+          "text": "Sicherer Umgang mit gängigen SEO- und Analyse-Tools"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1323,
+          "end": 1345,
+          "text": "SEO- und Analyse-Tools"
+        },
+        {
+          "label": "SKILL",
+          "start": 1348,
+          "end": 1388,
+          "text": "Kommunikationsstärke in Wort und Schrift"
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "source_file": "06_sozialarbeiter-psychosozialer-dienst.txt",
+      "text": "Sozialarbeiter / Sozialpädagoge (w/m/d) Psychosozialer Dienst\nbei\nAsklepios Kliniken Hamburg GmbH ASK Harburg Personalabteilung\nDas Wichtigste im Überblick\nBesondere Merkmale\nASKLEPIOS Als einer der größten privaten Klinikbetreiber in Deutschland verstehen wir uns als Begleiter unserer Patient:innen - und als Partner unserer Mitarbeitenden. Wir bringen zusammen, was\nzusammengehört: Nähe und Fortschritt, Herzlichkeit und hohe Ansprüche, Teamwork und Wertschätzung, Menschen und Innovationen.\nDas Asklepios Klinikum Harburg ist ein Haus der Schwerpunktversorgung für den Hamburger Süden und die Metropolregion. Von der Allgemein- bis zur Wirbelsäulenchirurgie verfügen wir über 24 spezialisierte Fachabteilungen mit insgesamt 852 Betten und 162 Plätzen in unseren Tageskliniken. Schwerpunkt unseres Klinikums ist die Versorgung von Patient:innen mit komplexen Erkrankungen. Pro Jahr versorgen mehr als 2.860 Mitarbeiter:innen rund 110.000 Patient:innen.\nDie Klinik für Psychiatrie, Psychotherapie und Psychosomatik in Harburg umfasst zwei Sektorstationen für das südlich der Elbe gelegene Hamburg, zwei Stationen für affektive Erkrankungen, eine Station für die Behandlung von Abhängigkeitserkrankungen, eine Station für bipolare Störungen und psychotische Erkrankungen, eine Station zur Behandlung von Traumafolgestörungen, eine Station für junge Erwachsene und eine Eltern-Kind-Station. Fünf Tageskliniken, spezialisierte Institutsambulanzen, das MVZ und ein STÄB-Team ergänzen das Angebot. Die Abteilung arbeitet eng mit den im Harburger Gebiet vorhandenen ambulanten und stationären Einrichtungen zusammen. Es bestehen diagnosespezifische integrierte Behandlungsprogramme mit stationär/teilstationär/ambulanter Beziehungskontinuität. Das\nsozialpsychiatrisch ausgelegte Behandlungskonzept wird multiprofessionell und integrativ umgesetzt. Wöchentliche Fallkonferenzen, Fortbildungen und Supervision sind selbstverständlich, die volle\nWeiterbildungsermächtigung ist vorhanden.\nWir suchen Sie zum nächstmöglichen Zeitpunkt als\nSozialarbeiter / Sozialpädagoge (w/m/d) Psychosozialer Dienst\nin Voll- oder Teilzeit.\nIHR AUFGABENGEBIET\n- Sie arbeiten in einem multiprofessionellen Team am Standort Harburg, welches sich durch hervorragende psychiatrisch-psychotherapeutische Kompetenzen und eine ausgeprägte Kollegialität auszeichnet\n- Umfassende Beratung und Unterstützung der Patient:innen und deren Angehörigen in sozialrechtlichen Fragestellungen\n- Beantragung von Leistungen innerhalb der Sozialgesetzbücher\n- Beratung von Patient:innen und deren Angehörige in Bezug auf die Sicherung der nachstationären Versorgung in enger Kooperation mit dem ärztlichen, therapeutischen und pflegerischen Team\n- Kooperation mit außerklinischen Einrichtungen und Diensten\nIHR PROFIL\n- Sie haben einen staatlich anerkannten Abschluss mit staatlicher Anerkennung\n- Berufserfahrungen mit Menschen mit psychischen Erkrankungen wären von Vorteil\n- Kenntnisse in der Sozialgesetzgebung\n- Bereitschaft zur Zusammenarbeit im multiprofessionellen Team\n- Empathie und Offenheit für Menschen mit psychischen Erkrankungen\n- Flexibilität und Belastbarkeit\n- Strukturierte und zuverlässige Arbeitsweise sowie lösungsorientiertes, selbstständiges und verantwortungsvolles Arbeiten\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 2137,
+          "end": 2204,
+          "text": "Sie arbeiten in einem multiprofessionellen Team am Standort Harburg"
+        },
+        {
+          "label": "SKILL",
+          "start": 2335,
+          "end": 2449,
+          "text": "Umfassende Beratung und Unterstützung der Patient:innen und deren Angehörigen in sozialrechtlichen Fragestellungen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2416,
+          "end": 2449,
+          "text": "sozialrechtlichen Fragestellungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 2452,
+          "end": 2511,
+          "text": "Beantragung von Leistungen innerhalb der Sozialgesetzbücher"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2493,
+          "end": 2511,
+          "text": "Sozialgesetzbücher"
+        },
+        {
+          "label": "SKILL",
+          "start": 2514,
+          "end": 2699,
+          "text": "Beratung von Patient:innen und deren Angehörige in Bezug auf die Sicherung der nachstationären Versorgung in enger Kooperation mit dem ärztlichen, therapeutischen und pflegerischen Team"
+        },
+        {
+          "label": "SKILL",
+          "start": 2702,
+          "end": 2760,
+          "text": "Kooperation mit außerklinischen Einrichtungen und Diensten"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2887,
+          "end": 2911,
+          "text": "psychischen Erkrankungen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2950,
+          "end": 2968,
+          "text": "Sozialgesetzgebung"
+        },
+        {
+          "label": "SKILL",
+          "start": 3034,
+          "end": 3098,
+          "text": "Empathie und Offenheit für Menschen mit psychischen Erkrankungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 3101,
+          "end": 3131,
+          "text": "Flexibilität und Belastbarkeit"
+        },
+        {
+          "label": "SKILL",
+          "start": 3134,
+          "end": 3254,
+          "text": "Strukturierte und zuverlässige Arbeitsweise sowie lösungsorientiertes, selbstständiges und verantwortungsvolles Arbeiten"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "source_file": "07_heilerziehungspfleger.txt",
+      "text": "Heilerziehungspfleger (m/w/d)\nbei\nPersonal-Service Westermann GmbH\nDu bist Heilerziehungspfleger (m/w/d)? Im Rahmen der Arbeitnehmerüberlassung bist Du bei uns in Voll- und Teilzeit herzlich willkommen!\nWir sind als Personaldienstleister für Sozialberufe bereits seit 2002 am Markt und arbeiten erfolgreich mit mehr als 500 Einrichtungen zusammen. Aktuell suchen wir Heilerziehungspfleger (m/w/d) für den Krippen- und Elementarbereich, im Bereich Inklusion und in weiteren Einsatzfeldern in Hamburg und Umgebung. Du kannst über uns verschiedene Einrichtungen und Träger kennenlernen – und wenn Dein Traumjob dabei ist, Zu Deinen Aufgaben gehören:\n- Die Betreuung und Entwicklungsbegleitung von Kindern im Alter zwischen 0 Jahren bis Schuleintritt\n- Die Gestaltung von pädagogischen Angeboten gemeinsam mit Deinen Kollegen\n- Ausflüge organisieren und begleiten\n- Enge Zusammenarbeit mit den Kollegen sowie den Eltern\nWir wünschen uns:\n- Dass Du mit viel Freude in Deinem Beruf bist und Kinder gerne in ihrer Entwicklung unterstützt\n- Eine abgeschlossene Berufsausbildung als staatlich anerkannter Heilerziehungspfleger (m/w/ d) oder eine vergleichbare Qualifikation\n- Erste Berufserfahrungen im Krippen- oder Elementarbereich von Vorteil, aber auch Berufseinsteiger sind herzlich willkommen\n- Gute Fähigkeiten und Kenntnisse in der Elternarbeit, Dokumentation und Entwicklungsbegleitung\n- Teamfähigkeit, Kreativität, Zuverlässigkeit und Einfühlungsvermögen\n- Gute Kommunikationsfähigkeit\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 653,
+          "end": 746,
+          "text": "Betreuung und Entwicklungsbegleitung von Kindern im Alter zwischen 0 Jahren bis Schuleintritt"
+        },
+        {
+          "label": "SKILL",
+          "start": 753,
+          "end": 821,
+          "text": "Gestaltung von pädagogischen Angeboten gemeinsam mit Deinen Kollegen"
+        },
+        {
+          "label": "SKILL",
+          "start": 824,
+          "end": 859,
+          "text": "Ausflüge organisieren und begleiten"
+        },
+        {
+          "label": "SKILL",
+          "start": 862,
+          "end": 915,
+          "text": "Enge Zusammenarbeit mit den Kollegen sowie den Eltern"
+        },
+        {
+          "label": "SKILL",
+          "start": 985,
+          "end": 1030,
+          "text": "Kinder gerne in ihrer Entwicklung unterstützt"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1194,
+          "end": 1224,
+          "text": "Krippen- oder Elementarbereich"
+        },
+        {
+          "label": "SKILL",
+          "start": 1331,
+          "end": 1385,
+          "text": "Elternarbeit, Dokumentation und Entwicklungsbegleitung"
+        },
+        {
+          "label": "SKILL",
+          "start": 1388,
+          "end": 1455,
+          "text": "Teamfähigkeit, Kreativität, Zuverlässigkeit und Einfühlungsvermögen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1463,
+          "end": 1486,
+          "text": "Kommunikationsfähigkeit"
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "source_file": "08_sozialpaedagogische-assistenz-krippe.txt",
+      "text": "Sozialpädagogische Assistenz / SPA (w/m/d) für Krippengruppe\nbei\nPflegediakonie Alten Eichen\nWir suchen dich für unsere Kita Hohe Weide: Sozialpädagogische Assistenz (w/m/d) ab Oktober 2026 oder nächstmöglicher Termin für 37-39 Std/Woche als festes Mitglied in einer Krippengruppe, zentral gelegen im Das tust du für uns:\n- Du leitest mit einer weiteren päd. Fachkraft eine Gruppe von 10-13 Krippenkindern und betreust diese alters- und zielgruppenspezifisch.\n- Du bist mitverantwortlich für die päd. Planung und Organisation des Tages\n- Auch die kooperative Zusammenarbeit mit den Eltern gehört dabei zu deinen Aufgaben.\nDas bringst du mit:\n- Du verfügst über eine abgeschlossene pädagogische Ausbildung zur*m Sozialpädagogischen Assistent*in.\n- Außerdem identifizierst du dich mit den Werten der Diakonie Alten Eichen und unserem Teambild.\n- Ein Herz für Kinder und viel Freude an den Aufgaben in einer Kita runden dein Profil ab.\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 324,
+          "end": 458,
+          "text": "Du leitest mit einer weiteren päd. Fachkraft eine Gruppe von 10-13 Krippenkindern und betreust diese alters- und zielgruppenspezifisch"
+        },
+        {
+          "label": "SKILL",
+          "start": 496,
+          "end": 535,
+          "text": "päd. Planung und Organisation des Tages"
+        },
+        {
+          "label": "SKILL",
+          "start": 547,
+          "end": 588,
+          "text": "kooperative Zusammenarbeit mit den Eltern"
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "source_file": "09_spa-sozialpaedagogischer-assistent.txt",
+      "text": "SPA (m/w/d) Sozialpädagogischer Assistent\nbei\nPermacon GmbH\nDas Wichtigste im Überblick\nBesondere Merkmale\nÜber uns\nSie möchten sich voll und ganz auf die pädagogische Arbeit konzentrieren? Sie suchen ein Team, das Offenheit, eine klare Kommunikation und Zusammenhalt im Team lebt? Für verschiedene Kitas und Kindergarten in Hamburg suchen wir zum nächstmöglichen Zeitpunkt in Vollzeit, Teilzeit oder als Minijob einen SPA / Sozialpädagogische Assistent (m/w/d) für den Krippen- und/oder Elementarbereich. Deine Aufgaben als SPA (m/w/d)\n- Du förderst die Kinder im Krippenbereich oder Elementarbereich individuell nach ihren Bedürfnissen\n- Du bist liebevoller Begleiter, Vorbild, Zuhörer, Geschichten-Erzähler, und baust eine liebevolle entwicklungsfördernde Beziehung zu den Kindern auf\n- Du entwickelst und konzipierst Angebote in deinem eigenen pädagogischen Schwerpunkt\n- Du berücksichtigst das Konzept des jeweiligen Kita oder Kindergarten und setzt dieses aktiv in deiner Arbeit um\n- Du hast Freude an der Kinderbetreuung in einem Kindergarten oder Kita\nDein Profil als SPA (m/w/d)\n- Du hast eine abgeschlossene Ausbildung als SPA / Sozialpädagogischer Assistent (m/w/d) oder eine vergleichbare Ausbildung im pädagogischen Bereich\n- Du bist herzlich, engagiert, offen und ein echter Teamplayer\n- Du findest schnell Anschluss und bringst dich motiviert in dem vielfältigen Kitaalltag ein\n- Du bist eine vertrauensvolle Bezugsperson für die kleinen im Krippen- und Elementarbereich\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 539,
+          "end": 637,
+          "text": "Du förderst die Kinder im Krippenbereich oder Elementarbereich individuell nach ihren Bedürfnissen"
+        },
+        {
+          "label": "SKILL",
+          "start": 715,
+          "end": 787,
+          "text": "baust eine liebevolle entwicklungsfördernde Beziehung zu den Kindern auf"
+        },
+        {
+          "label": "SKILL",
+          "start": 790,
+          "end": 873,
+          "text": "Du entwickelst und konzipierst Angebote in deinem eigenen pädagogischen Schwerpunkt"
+        },
+        {
+          "label": "SKILL",
+          "start": 876,
+          "end": 987,
+          "text": "Du berücksichtigst das Konzept des jeweiligen Kita oder Kindergarten und setzt dieses aktiv in deiner Arbeit um"
+        },
+        {
+          "label": "SKILL",
+          "start": 1239,
+          "end": 1299,
+          "text": "Du bist herzlich, engagiert, offen und ein echter Teamplayer"
+        },
+        {
+          "label": "SKILL",
+          "start": 1302,
+          "end": 1392,
+          "text": "Du findest schnell Anschluss und bringst dich motiviert in dem vielfältigen Kitaalltag ein"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "source_file": "10_pflegefachkraft-senator-neumann-haus.txt",
+      "text": "Als Pflegefachkraft (m/w/d) in Hamburg-Bergstedt\narbeitest du im Senator-Neumann-Haus und begleitest Menschen mit Behinderung in Pflege und Alltag. Die Stelle ist in Teilzeit oder Vollzeit, mit 20 bis 38,5 Wochenstunden, zu besetzen. Dein Einstieg ist ab sofort oder nach Vereinbarung möglich. Im Senator-Neumann-Haus wohnen Menschen mit neurologischen Erkrankungen, erworbenen Hirnschäden und schweren Körperbehinderungen, welche dort umfassende Leistungen der Eingliederungshilfe, Pflege und Therapie erhalten.\nAufgaben Zu deinen Aufgaben gehören:\n- Du übernimmst die ganzheitliche Pflege im Rahmen des Pflegeprozesses\n- Du kümmerst dich um das Medikamentenmanagement und führst Pflegevisiten durch\n- Du arbeitest eng mit Kolleg:innen aus unterschiedlichen Berufsgruppen zusammen\n- Du unterstützt die Nutzenden dabei, ihre Lebensqualität und Eigenständigkeit zu erhalten und weiterzuentwickeln\n- Du berätst und motivierst die von dir begleiteten Menschen im Alltag\nProfil\nAußerdem wünschen wir uns von dir:\n- Abgeschlossene Ausbildung in der Gesundheits- und Krankenpflege, in der Altenpflege oder eine vergleichbare Qualifikation\n- Erste Berufserfahrungen in der Arbeit mit Menschen mit Behinderung sind wünschenswert\n- Wertschätzende Haltung und Kommunikation\n- Einfühlungsvermögen\n- Freude an der Arbeit mit Menschen\n- Interesse an der Zusammenarbeit in einem multiprofessionellen Team\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 90,
+          "end": 146,
+          "text": "begleitest Menschen mit Behinderung in Pflege und Alltag"
+        },
+        {
+          "label": "SKILL",
+          "start": 552,
+          "end": 620,
+          "text": "Du übernimmst die ganzheitliche Pflege im Rahmen des Pflegeprozesses"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 605,
+          "end": 618,
+          "text": "Pflegeprozess"
+        },
+        {
+          "label": "SKILL",
+          "start": 623,
+          "end": 700,
+          "text": "Du kümmerst dich um das Medikamentenmanagement und führst Pflegevisiten durch"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 647,
+          "end": 669,
+          "text": "Medikamentenmanagement"
+        },
+        {
+          "label": "SKILL",
+          "start": 703,
+          "end": 781,
+          "text": "Du arbeitest eng mit Kolleg:innen aus unterschiedlichen Berufsgruppen zusammen"
+        },
+        {
+          "label": "SKILL",
+          "start": 784,
+          "end": 895,
+          "text": "Du unterstützt die Nutzenden dabei, ihre Lebensqualität und Eigenständigkeit zu erhalten und weiterzuentwickeln"
+        },
+        {
+          "label": "SKILL",
+          "start": 898,
+          "end": 966,
+          "text": "Du berätst und motivierst die von dir begleiteten Menschen im Alltag"
+        },
+        {
+          "label": "SKILL",
+          "start": 1166,
+          "end": 1201,
+          "text": "Arbeit mit Menschen mit Behinderung"
+        },
+        {
+          "label": "SKILL",
+          "start": 1223,
+          "end": 1263,
+          "text": "Wertschätzende Haltung und Kommunikation"
+        },
+        {
+          "label": "SKILL",
+          "start": 1266,
+          "end": 1285,
+          "text": "Einfühlungsvermögen"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "source_file": "11_mechatroniker.txt",
+      "text": "Mechatroniker (m/w/d)\nStandort: Hamburg\nDein neuer Arbeitsalltag\n- Du montierst, installierst und nimmst mechatronische Systeme und Anlagen wie Maschinen oder Roboter in Betrieb\n- Du stellst mechanische, elektrische und elektronische Komponenten her und baust sie zusammen\n- Du programmierst und konfigurierst Steuerungen und Software – und testest sie auf Herz und Nieren\n- Du führst Messungen, Prüfungen und Fehlerdiagnosen durch\n- Du übernimmst die Wartung, Reparaturen und Instandhaltung von Maschinen und Anlagen\n- Du liest technische Zeichnungen sowie Schalt- und Montagepläne – und setzt sie gekonnt um\n- Du kümmerst dich um die Einweisung der Anwender in die Bedienung und übernimmst bei Bedarf die Kundenbetreuung\n- Du dokumentierst deine Arbeit sorgfältig und nachvollziehbar\nWas wir uns von dir wünschen\n- Eine abgeschlossene Ausbildung als Mechatroniker (m/w/d) oder eine vergleichbare Qualifikation, z.B. als Elektriker für Betriebstechnik (m/w/d)\n- Fundierte Kenntnisse in Mechanik, Elektronik, Elektrotechnik und Pneumatik\n- Erfahrung im Umgang mit Steuerungs- und Automatisierungstechnik sowie Mess- und Diagnosesystemen\n- Du hast ein stabiles technisches Verständnis, bist handwerklich geschickt, lösungsorientiert und zuverlässig\n- Eine selbstständige, teamorientierte und verantwortungsbewusste Arbeitsweise\n- Du sprichst gut Deutsch (min. B1), Englischkenntnisse sind von Vorteil – aber kein Muss!\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 67,
+          "end": 177,
+          "text": "Du montierst, installierst und nimmst mechatronische Systeme und Anlagen wie Maschinen oder Roboter in Betrieb"
+        },
+        {
+          "label": "SKILL",
+          "start": 180,
+          "end": 272,
+          "text": "Du stellst mechanische, elektrische und elektronische Komponenten her und baust sie zusammen"
+        },
+        {
+          "label": "SKILL",
+          "start": 275,
+          "end": 372,
+          "text": "Du programmierst und konfigurierst Steuerungen und Software – und testest sie auf Herz und Nieren"
+        },
+        {
+          "label": "SKILL",
+          "start": 375,
+          "end": 431,
+          "text": "Du führst Messungen, Prüfungen und Fehlerdiagnosen durch"
+        },
+        {
+          "label": "SKILL",
+          "start": 434,
+          "end": 517,
+          "text": "Du übernimmst die Wartung, Reparaturen und Instandhaltung von Maschinen und Anlagen"
+        },
+        {
+          "label": "SKILL",
+          "start": 520,
+          "end": 609,
+          "text": "Du liest technische Zeichnungen sowie Schalt- und Montagepläne – und setzt sie gekonnt um"
+        },
+        {
+          "label": "SKILL",
+          "start": 612,
+          "end": 722,
+          "text": "Du kümmerst dich um die Einweisung der Anwender in die Bedienung und übernimmst bei Bedarf die Kundenbetreuung"
+        },
+        {
+          "label": "SKILL",
+          "start": 725,
+          "end": 785,
+          "text": "Du dokumentierst deine Arbeit sorgfältig und nachvollziehbar"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 987,
+          "end": 995,
+          "text": "Mechanik"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 997,
+          "end": 1007,
+          "text": "Elektronik"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1009,
+          "end": 1023,
+          "text": "Elektrotechnik"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1028,
+          "end": 1037,
+          "text": "Pneumatik"
+        },
+        {
+          "label": "SKILL",
+          "start": 1053,
+          "end": 1136,
+          "text": "Umgang mit Steuerungs- und Automatisierungstechnik sowie Mess- und Diagnosesystemen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1064,
+          "end": 1103,
+          "text": "Steuerungs- und Automatisierungstechnik"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1110,
+          "end": 1136,
+          "text": "Mess- und Diagnosesystemen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1151,
+          "end": 1247,
+          "text": "stabiles technisches Verständnis, bist handwerklich geschickt, lösungsorientiert und zuverlässig"
+        },
+        {
+          "label": "SKILL",
+          "start": 1255,
+          "end": 1326,
+          "text": "selbstständige, teamorientierte und verantwortungsbewusste Arbeitsweise"
+        },
+        {
+          "label": "SKILL",
+          "start": 1329,
+          "end": 1352,
+          "text": "Du sprichst gut Deutsch"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1345,
+          "end": 1352,
+          "text": "Deutsch"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1364,
+          "end": 1382,
+          "text": "Englischkenntnisse"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "source_file": "12_softwareentwickler.txt",
+      "text": "Softwareentwickler (m/w/d)\nbei\nHamburger Pensionsverwaltung eGPersonalverwaltung\nDas Wichtigste im Überblick\nBesondere Merkmale\nIn unserem Team entwickeln wir moderne Softwarelösungen, Web‑Anwendungen und digitale Services. Wir arbeiten mit einem aktuellen Technologie‑Stack und setzen auf agile Zusammenarbeit in Scrum‑Teams. Die enge Abstimmung mit unseren Fachbereichen gehört für uns zum Alltag.\nThemen wie Infrastructure as Code, Cloud‑Technologien, Clean Code, moderne Architekturen und der sinnvolle Einsatz von KI sind bei uns gelebte Praxis. Unser Technologie‑Stack umfasst u. a. Grafana Cloud, Kubernetes, AWS, Terraform, Crossplane, ArgoCD, Tilt, Atlas MongoDB sowie aktuelle Versionen von Spring Boot und Java.\nGesucht wird eine Persönlichkeit mit Leidenschaft für Softwareentwicklung und DevOps, die gemeinsam mit uns neue Lösungen entwickelt und bestehende Systeme modernisiert. Entscheidend sind Lernbereitschaft,\nQualitätsbewusstsein und der Wille, sich kontinuierlich weiterzuentwickeln – nicht das Beherrschen aller\nTechnologien von Beginn an.\nBei Interesse an nachhaltiger Softwareentwicklung bewirb dich bei uns als\nSoftwareentwickler (m/w/d)\nDeine Aufgaben\n- Entwicklung und Betrieb einer modernen, cloudbasierten Plattform zur Digitalisierung interner Verwaltungsprozesse in enger Zusammenarbeit mit dem Team\n- Optimierung der Entwicklungs‑, Test‑ und Produktionsumgebungen sowie Sicherstellung eines stabilen, sicheren und skalierbaren Betriebs in Abstimmung mit deinem Team\n- Eigenverantwortliche Weiterentwicklung fachlicher und technischer Lösungskonzepte – von der Idee bis zur Umsetzung\n- Weiterentwicklung von CI/CD‑Pipelines sowie Verbesserung von Build‑, Test‑ und Deployment‑Workflows\n- Umsetzung neuer fachlicher Anforderungen und technischer Schnittstellen in Java‑basierten Microservices\n- Aktive Mitgestaltung der Cloud‑Architektur und digitalen Plattformen durch das Einbringen eigener Ideen\nDein Profil\n- (Fach-)Hochschulstudium im Bereich Informatik mit gutem Abschluss oder eine vergleichbare Qualifikation\n- Sicherer Umgang mit einer objektorientierten Programmiersprache (z.B. Java)\n- Idealerweise Erfahrung mit AWS, CI/CD und modernen DevOps-Methoden. Begeisterung für Cloud-Technologien, Automatisierung und technische Herausforderungen.\n- Idealerweise erste Berührungspunkte mit künstlicher Intelligenz\n- Hohes Maß an Selbstständigkeit, Verantwortungsbewusstsein und Teamfähigkeit\n- Fließende Deutschkenntnisse in Wort und Schrift\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 1180,
+          "end": 1330,
+          "text": "Entwicklung und Betrieb einer modernen, cloudbasierten Plattform zur Digitalisierung interner Verwaltungsprozesse in enger Zusammenarbeit mit dem Team"
+        },
+        {
+          "label": "SKILL",
+          "start": 1333,
+          "end": 1497,
+          "text": "Optimierung der Entwicklungs‑, Test‑ und Produktionsumgebungen sowie Sicherstellung eines stabilen, sicheren und skalierbaren Betriebs in Abstimmung mit deinem Team"
+        },
+        {
+          "label": "SKILL",
+          "start": 1500,
+          "end": 1614,
+          "text": "Eigenverantwortliche Weiterentwicklung fachlicher und technischer Lösungskonzepte – von der Idee bis zur Umsetzung"
+        },
+        {
+          "label": "SKILL",
+          "start": 1617,
+          "end": 1716,
+          "text": "Weiterentwicklung von CI/CD‑Pipelines sowie Verbesserung von Build‑, Test‑ und Deployment‑Workflows"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1639,
+          "end": 1654,
+          "text": "CI/CD‑Pipelines"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1678,
+          "end": 1716,
+          "text": "Build‑, Test‑ und Deployment‑Workflows"
+        },
+        {
+          "label": "SKILL",
+          "start": 1719,
+          "end": 1822,
+          "text": "Umsetzung neuer fachlicher Anforderungen und technischer Schnittstellen in Java‑basierten Microservices"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1794,
+          "end": 1798,
+          "text": "Java"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1809,
+          "end": 1822,
+          "text": "Microservices"
+        },
+        {
+          "label": "SKILL",
+          "start": 1825,
+          "end": 1928,
+          "text": "Aktive Mitgestaltung der Cloud‑Architektur und digitalen Plattformen durch das Einbringen eigener Ideen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1850,
+          "end": 1867,
+          "text": "Cloud‑Architektur"
+        },
+        {
+          "label": "SKILL",
+          "start": 2049,
+          "end": 2112,
+          "text": "Sicherer Umgang mit einer objektorientierten Programmiersprache"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2075,
+          "end": 2112,
+          "text": "objektorientierten Programmiersprache"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2154,
+          "end": 2157,
+          "text": "AWS"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2159,
+          "end": 2164,
+          "text": "CI/CD"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2178,
+          "end": 2193,
+          "text": "DevOps-Methoden"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2324,
+          "end": 2347,
+          "text": "künstlicher Intelligenz"
+        },
+        {
+          "label": "SKILL",
+          "start": 2363,
+          "end": 2425,
+          "text": "Selbstständigkeit, Verantwortungsbewusstsein und Teamfähigkeit"
+        },
+        {
+          "label": "SKILL",
+          "start": 2428,
+          "end": 2475,
+          "text": "Fließende Deutschkenntnisse in Wort und Schrift"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2438,
+          "end": 2455,
+          "text": "Deutschkenntnisse"
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "source_file": "13_fachinformatiker-systemintegration.txt",
+      "text": "Fachinformatiker Systemintegration/ IT-Systemadmin. (m/w/d)\nbei\nSambus GmbH\nDas Wichtigste im Überblick\nBesondere Merkmale\nSeit 1992 sind wir das IT-Systemhaus deines Vertrauens und betreuen kleinere und mittelständische Unternehmen in sämtlichen IT-Fragen. Unser Team setzt auf Kommunikation, Gemeinschaft, Empathie und Zuverlässigkeit - Werte, die bei uns gelebt werden. Unsere Expertise reicht von Microsoft-Anwendungen über Hardware, Cloud-Produkte bis hin zu innovativen Sicherheits- und Storage-Lösungen. Wenn du Lust hast, maßgeschneiderte IT-Lösungen zu entwickeln und umzusetzen, dann bist du bei uns genau richtig. Werde Teil unseres Teams und gestalte die digitale Zukunft mit uns!\nAufgaben\n- Administration und Wartung der IT-Systeme unserer Kunden (Server, Netzwerke, Clients)\n- Installation, Konfiguration und Updates von Hardware und Software bei Kunden (Schwerpunkt: Windows Server, Hyper-V, VMware, Microsoft 365)\n- Sicherstellung der IT-Sicherheit bei Kunden durch Implementierung von Firewall-, Backup- und Recovery-Lösungen\n- Kundensupport und technische Beratung in Bezug auf IT-Projekte und alltägliche Herausforderungen\n- Planung, Beratung und Durchführung von Backup- und Wiederherstellungsprozessen\n- Kontinuierliche Anpassung von Sicherheitslösungen gegen Cyberbedrohungen\nQualifikation\n- Abgeschlossene Ausbildung zum Fachinformatiker Systemintegration/-administration oder vergleichbare Qualifikation\n- Mindestens 3 Jahre Berufserfahrung als IT-Systemadministrator oder in einer vergleichbaren Position\n- Sehr gute Kenntnisse in Microsoft 365 sowie Erfahrung mit Active Directory und Virtualisierungstools (z.B. VMware, Hyper-V)\n- Kenntnisse in IT-Security (Firewall, VPN, Verschlüsselung) und Datenschutzrichtlinien, idealerweise im Kontext verschiedener Kundenprojekte\n- Selbstständige und strukturierte Arbeitsweise mit hohem Kundenfokus\n- Kommunikationsstärke und Freude daran, kundenorientierte IT-Lösungen zu entwickeln\n- Mindestens C1-Niveau in Deutsch\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 704,
+          "end": 789,
+          "text": "Administration und Wartung der IT-Systeme unserer Kunden (Server, Netzwerke, Clients)"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 735,
+          "end": 745,
+          "text": "IT-Systeme"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 762,
+          "end": 768,
+          "text": "Server"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 770,
+          "end": 779,
+          "text": "Netzwerke"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 781,
+          "end": 788,
+          "text": "Clients"
+        },
+        {
+          "label": "SKILL",
+          "start": 792,
+          "end": 868,
+          "text": "Installation, Konfiguration und Updates von Hardware und Software bei Kunden"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 836,
+          "end": 844,
+          "text": "Hardware"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 849,
+          "end": 857,
+          "text": "Software"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 883,
+          "end": 897,
+          "text": "Windows Server"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 899,
+          "end": 906,
+          "text": "Hyper-V"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 908,
+          "end": 914,
+          "text": "VMware"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 916,
+          "end": 929,
+          "text": "Microsoft 365"
+        },
+        {
+          "label": "SKILL",
+          "start": 933,
+          "end": 1043,
+          "text": "Sicherstellung der IT-Sicherheit bei Kunden durch Implementierung von Firewall-, Backup- und Recovery-Lösungen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 952,
+          "end": 965,
+          "text": "IT-Sicherheit"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1003,
+          "end": 1011,
+          "text": "Firewall"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1014,
+          "end": 1020,
+          "text": "Backup"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1026,
+          "end": 1043,
+          "text": "Recovery-Lösungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1046,
+          "end": 1142,
+          "text": "Kundensupport und technische Beratung in Bezug auf IT-Projekte und alltägliche Herausforderungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1145,
+          "end": 1223,
+          "text": "Planung, Beratung und Durchführung von Backup- und Wiederherstellungsprozessen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1184,
+          "end": 1223,
+          "text": "Backup- und Wiederherstellungsprozessen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1226,
+          "end": 1298,
+          "text": "Kontinuierliche Anpassung von Sicherheitslösungen gegen Cyberbedrohungen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1282,
+          "end": 1298,
+          "text": "Cyberbedrohungen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1591,
+          "end": 1607,
+          "text": "Active Directory"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1612,
+          "end": 1633,
+          "text": "Virtualisierungstools"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1673,
+          "end": 1684,
+          "text": "IT-Security"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1696,
+          "end": 1699,
+          "text": "VPN"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1701,
+          "end": 1716,
+          "text": "Verschlüsselung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1722,
+          "end": 1744,
+          "text": "Datenschutzrichtlinien"
+        },
+        {
+          "label": "SKILL",
+          "start": 1801,
+          "end": 1868,
+          "text": "Selbstständige und strukturierte Arbeitsweise mit hohem Kundenfokus"
+        },
+        {
+          "label": "SKILL",
+          "start": 1871,
+          "end": 1891,
+          "text": "Kommunikationsstärke"
+        },
+        {
+          "label": "SKILL",
+          "start": 1910,
+          "end": 1953,
+          "text": "kundenorientierte IT-Lösungen zu entwickeln"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1980,
+          "end": 1987,
+          "text": "Deutsch"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "source_file": "14_it-support.txt",
+      "text": "IT Support (m/w/d)\nbei\npuro Personaldienstleistung GmbH\nIT Support (m/w/d)\nDiese Position ist im Rahmen der Arbeitnehmerüberlassung mit Option auf Übernahme zu besetzen.\nDu möchtest Anwender im IT Alltag unterstützen und dafür sorgen, dass Technik einfach funktioniert? Dann werde IT Supporter (m/w/d) in Hamburg und hilf dabei, IT Probleme schnell zu lösen und den Betrieb stabil zu halten.\nDich zeichnet aus:\n- Abgeschlossene Ausbildung im IT Bereich oder gleichwertige Qualifikation\n- Erfahrung im IT Support oder Anwenderumfeld\n- Gute Kenntnisse in Windows Systemen und IT Hardware\n- Serviceorientierte und lösungsfokussierte Arbeitsweise\n- Strukturierte Herangehensweise bei technischen Problemen\n- Gute Deutschkenntnisse mindestens B2, idealerweise C1\n- Teamfähigkeit und Kommunikationsstärke\nIn Deinem neuen Job gibt es für Dich:\n- Abwechslungsreiche Tätigkeit im IT Support Umfeld\n- Moderne IT Arbeitsumgebung\n- Strukturierte Einarbeitung und Team Unterstützung\n- Entwicklungsmöglichkeiten im IT Bereich\nDeine Aufgaben als IT Support (m/w/d):\n- Unterstützung von Anwendern im First und Second Level Support\n- Analyse und Lösung von Hard und Softwareproblemen\n- Betreuung von Windows Arbeitsplätzen und Endgeräten\n- Installation und Konfiguration von Software und Betriebssystemen\n- Unterstützung bei technischen Anfragen im IT Umfeld\n- Dokumentation aller Vorgänge im Ticketsystem\n",
+      "annotations": [
+        {
+          "label": "KNOWLEDGE",
+          "start": 501,
+          "end": 511,
+          "text": "IT Support"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 517,
+          "end": 531,
+          "text": "Anwenderumfeld"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 553,
+          "end": 569,
+          "text": "Windows Systemen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 574,
+          "end": 585,
+          "text": "IT Hardware"
+        },
+        {
+          "label": "SKILL",
+          "start": 588,
+          "end": 642,
+          "text": "Serviceorientierte und lösungsfokussierte Arbeitsweise"
+        },
+        {
+          "label": "SKILL",
+          "start": 645,
+          "end": 701,
+          "text": "Strukturierte Herangehensweise bei technischen Problemen"
+        },
+        {
+          "label": "SKILL",
+          "start": 704,
+          "end": 726,
+          "text": "Gute Deutschkenntnisse"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 709,
+          "end": 726,
+          "text": "Deutschkenntnisse"
+        },
+        {
+          "label": "SKILL",
+          "start": 760,
+          "end": 798,
+          "text": "Teamfähigkeit und Kommunikationsstärke"
+        },
+        {
+          "label": "SKILL",
+          "start": 1053,
+          "end": 1114,
+          "text": "Unterstützung von Anwendern im First und Second Level Support"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1084,
+          "end": 1114,
+          "text": "First und Second Level Support"
+        },
+        {
+          "label": "SKILL",
+          "start": 1117,
+          "end": 1166,
+          "text": "Analyse und Lösung von Hard und Softwareproblemen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1140,
+          "end": 1166,
+          "text": "Hard und Softwareproblemen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1169,
+          "end": 1220,
+          "text": "Betreuung von Windows Arbeitsplätzen und Endgeräten"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1183,
+          "end": 1190,
+          "text": "Windows"
+        },
+        {
+          "label": "SKILL",
+          "start": 1223,
+          "end": 1287,
+          "text": "Installation und Konfiguration von Software und Betriebssystemen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1258,
+          "end": 1266,
+          "text": "Software"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1271,
+          "end": 1287,
+          "text": "Betriebssystemen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1290,
+          "end": 1341,
+          "text": "Unterstützung bei technischen Anfragen im IT Umfeld"
+        },
+        {
+          "label": "SKILL",
+          "start": 1344,
+          "end": 1388,
+          "text": "Dokumentation aller Vorgänge im Ticketsystem"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1376,
+          "end": 1388,
+          "text": "Ticketsystem"
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "source_file": "15_data-engineer.txt",
+      "text": "Data Engineer (m/w/d)\nbei\nexpertum GmbH\nKnow-how erforderlich. Diese Werft verfügt über diese Kompetenzen und liefert intelligente Lösungen. Wir suchen zum nächstmöglichen Zeitpunkt einen Data Engineer (m/w/d) in Vollzeit.\n>> Die Vergütung erfolgt nach Branchenzuschlagstarif Metall & Elektro\nDIES SIND IHRE AUFGABEN:\nSie möchten moderne Datenarchitekturen nicht nur betreiben, sondern aktiv mitgestalten? Als Data\nEngineer (m/w/d) wirken Sie an der Weiterentwicklung unserer Datenlandschaft mit und schaffen eine zuverlässige Grundlage für die datengetriebene Arbeit der Fachbereiche.\n- Sie wirken bei der Konzeption, Umsetzung und dem Betrieb unserer modernen On-Premises-Lakehouse-Architektur mit.\n- Sie entwickeln, betreiben und optimieren ETL- bzw. Datenpipelines zur Integration und Verarbeitung unterschiedlicher Datenquellen.\n- Sie unterstützen die Weiterentwicklung und Modernisierung bestehender Data-Warehouse-Strukturen, unter anderem im Snowflake-Umfeld.\n- Sie stellen eine hohe Datenqualität und Datenverfügbarkeit sicher und identifizieren Optimierungsmöglichkeiten.\n- Gemeinsam mit den Fachbereichen übersetzen Sie fachliche Anforderungen in praktikable Datenlösungen.\n- Darüber hinaus bringen Sie sich in angrenzende Entwicklungs- und DevOps-Themen ein.\nDAS BRINGEN SIE MIT:\n- Ein abgeschlossenes Studium im Bereich Informatik, Wirtschaftsinformatik, Data Science oder eine vergleichbare Qualifikation mit entsprechender Berufserfahrung\n- Berufserfahrung im Data Engineering sowie in der Entwicklung und Optimierung von ETL-Prozessen bzw. Datenpipelines\n- Sehr gute Kenntnisse in SQL und Erfahrung in der Programmierung mit Python\n- Erfahrung mit modernen Data-Warehouse- oder Lakehouse-Architekturen\n- Kenntnisse in Snowflake, Apache Iceberg, Trino, Nessie, Lakekeeper, SQLMesh oder vergleichbaren Technologien sind von Vorteil\n- Kenntnisse im Umgang mit Linux, GitLab oder Oracle sind ebenfalls willkommen\n- Eine selbstständige, strukturierte und lösungsorientierte Arbeitsweise\n- Gute Deutsch- und Englischkenntnisse sowie Freude an der Zusammenarbeit mit unterschiedlichen Fachbereichen\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 432,
+          "end": 584,
+          "text": "wirken Sie an der Weiterentwicklung unserer Datenlandschaft mit und schaffen eine zuverlässige Grundlage für die datengetriebene Arbeit der Fachbereiche"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 476,
+          "end": 491,
+          "text": "Datenlandschaft"
+        },
+        {
+          "label": "SKILL",
+          "start": 588,
+          "end": 699,
+          "text": "Sie wirken bei der Konzeption, Umsetzung und dem Betrieb unserer modernen On-Premises-Lakehouse-Architektur mit"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 662,
+          "end": 695,
+          "text": "On-Premises-Lakehouse-Architektur"
+        },
+        {
+          "label": "SKILL",
+          "start": 703,
+          "end": 832,
+          "text": "Sie entwickeln, betreiben und optimieren ETL- bzw. Datenpipelines zur Integration und Verarbeitung unterschiedlicher Datenquellen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 744,
+          "end": 747,
+          "text": "ETL"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 754,
+          "end": 768,
+          "text": "Datenpipelines"
+        },
+        {
+          "label": "SKILL",
+          "start": 836,
+          "end": 966,
+          "text": "Sie unterstützen die Weiterentwicklung und Modernisierung bestehender Data-Warehouse-Strukturen, unter anderem im Snowflake-Umfeld"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 906,
+          "end": 931,
+          "text": "Data-Warehouse-Strukturen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 950,
+          "end": 959,
+          "text": "Snowflake"
+        },
+        {
+          "label": "SKILL",
+          "start": 970,
+          "end": 1080,
+          "text": "Sie stellen eine hohe Datenqualität und Datenverfügbarkeit sicher und identifizieren Optimierungsmöglichkeiten"
+        },
+        {
+          "label": "SKILL",
+          "start": 1084,
+          "end": 1183,
+          "text": "Gemeinsam mit den Fachbereichen übersetzen Sie fachliche Anforderungen in praktikable Datenlösungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1202,
+          "end": 1269,
+          "text": "bringen Sie sich in angrenzende Entwicklungs- und DevOps-Themen ein"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1252,
+          "end": 1258,
+          "text": "DevOps"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1475,
+          "end": 1491,
+          "text": "Data Engineering"
+        },
+        {
+          "label": "SKILL",
+          "start": 1505,
+          "end": 1570,
+          "text": "Entwicklung und Optimierung von ETL-Prozessen bzw. Datenpipelines"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1537,
+          "end": 1550,
+          "text": "ETL-Prozessen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1597,
+          "end": 1600,
+          "text": "SQL"
+        },
+        {
+          "label": "SKILL",
+          "start": 1622,
+          "end": 1647,
+          "text": "Programmierung mit Python"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1641,
+          "end": 1647,
+          "text": "Python"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1673,
+          "end": 1717,
+          "text": "Data-Warehouse- oder Lakehouse-Architekturen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1745,
+          "end": 1759,
+          "text": "Apache Iceberg"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1761,
+          "end": 1766,
+          "text": "Trino"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1768,
+          "end": 1774,
+          "text": "Nessie"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1776,
+          "end": 1786,
+          "text": "Lakekeeper"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1788,
+          "end": 1795,
+          "text": "SQLMesh"
+        },
+        {
+          "label": "SKILL",
+          "start": 1862,
+          "end": 1898,
+          "text": "Umgang mit Linux, GitLab oder Oracle"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1873,
+          "end": 1878,
+          "text": "Linux"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1880,
+          "end": 1886,
+          "text": "GitLab"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1892,
+          "end": 1898,
+          "text": "Oracle"
+        },
+        {
+          "label": "SKILL",
+          "start": 1932,
+          "end": 1997,
+          "text": "selbstständige, strukturierte und lösungsorientierte Arbeitsweise"
+        },
+        {
+          "label": "SKILL",
+          "start": 2000,
+          "end": 2036,
+          "text": "Gute Deutsch- und Englischkenntnisse"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2005,
+          "end": 2012,
+          "text": "Deutsch"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2018,
+          "end": 2036,
+          "text": "Englischkenntnisse"
+        },
+        {
+          "label": "SKILL",
+          "start": 2057,
+          "end": 2107,
+          "text": "Zusammenarbeit mit unterschiedlichen Fachbereichen"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "source_file": "16_marketing-manager-hotel.txt",
+      "text": "Marketing Manager (m/w/d)\nbei\nThe Westin Hamburg Elbphilharmonie SE\nSo sieht Dein (zukünftiger) Tag aus...\n- Entwicklung und Umsetzung kreativer Marketingstrategien\n- Planung, Koordination und Steuerung integrierter Marketingkampagnen für Rooms, Food & Beverage, Meetings & Events sowie weitere Hotelbereiche\n- Entwicklung innovativer Konzepte zur Umsatzsteigerung und Gästebindung in enger Zusammenarbeit mit dem Director of Sales & Marketing\n- Planung und Steuerung von Content-Maßnahmen für digitale Kanäle\n- Betreuung, Optimierung und Performance-Analyse der Websites und Social-Media-Kanäle\n- Koordination der Erstellung von Marketingmaterialien\n- Umsetzung von Fotoshootings, Videoproduktionen und weiteren Kommunikationsmaßnahmen\n- Aufbau, Pflege und Weiterentwicklung von Beziehungen zu Medienvertretern, Influencern, Agenturen und regionalen Kooperationspartnern\n- Unterstützung bei der Planung und Umsetzung von Presseveranstaltungen, Hotel-Events und Marketingaktivierungen\n- Analyse von Markt- und Wettbewerbstrends sowie Identifikation neuer Potenziale zur Weiterentwicklung der Marketingaktivitäten\n- Führung und Entwicklung des Sales & Marketing Coordinators sowie der Dualen Studenten und Auszubildenden\nDas wünschen wir uns von Dir...\n- Du verfügst über eine abgeschlossene Ausbildung oder ein Studium mit Schwerpunkt Marketing, Kommunikation, Hotellerie, Tourismus oder einem vergleichbaren Bereich\n- Du konntest bereits mehrjährige praktische Erfahrung im Marketing, idealerweise in der Hotellerie-, Tourismus- oder Lifestyle-Branche sammeln\n- Du begeisterst dich für Markenkommunikation, Storytelling und aktuelle Marketingtrends\n- Du verfügst über ein ausgeprägtes Gespür für hochwertige Inhalte sowie eine zielgruppengerechte Ansprache\n- Du arbeitest strukturiert, eigenverantwortlich und behältst auch bei mehreren Projekten gleichzeitig den Überblick\n- Du kommunizierst souverän in deutscher und englischer Sprache – sowohl mündlich als auch schriftlich\n- Du überzeugst durch Kreativität, Organisationsgeschick sowie ein hohes Maß an Eigeninitiative\n- Du besitzt sehr gute Kenntnisse im Umgang mit Microsoft Office sowie gängigen Marketing- und Analysetools\n- Idealerweise hast Du bereits praktische Erfahrung mit Canva Pro und KI-gestützten Tools wie Microsoft Copilot oder ChatGPT\n- Kenntnisse im Marriott-Umfeld sind von Vorteil, aber keine Voraussetzung\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 109,
+          "end": 164,
+          "text": "Entwicklung und Umsetzung kreativer Marketingstrategien"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 145,
+          "end": 164,
+          "text": "Marketingstrategien"
+        },
+        {
+          "label": "SKILL",
+          "start": 167,
+          "end": 308,
+          "text": "Planung, Koordination und Steuerung integrierter Marketingkampagnen für Rooms, Food & Beverage, Meetings & Events sowie weitere Hotelbereiche"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 216,
+          "end": 234,
+          "text": "Marketingkampagnen"
+        },
+        {
+          "label": "SKILL",
+          "start": 311,
+          "end": 443,
+          "text": "Entwicklung innovativer Konzepte zur Umsatzsteigerung und Gästebindung in enger Zusammenarbeit mit dem Director of Sales & Marketing"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 434,
+          "end": 443,
+          "text": "Marketing"
+        },
+        {
+          "label": "SKILL",
+          "start": 446,
+          "end": 509,
+          "text": "Planung und Steuerung von Content-Maßnahmen für digitale Kanäle"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 472,
+          "end": 489,
+          "text": "Content-Maßnahmen"
+        },
+        {
+          "label": "SKILL",
+          "start": 512,
+          "end": 595,
+          "text": "Betreuung, Optimierung und Performance-Analyse der Websites und Social-Media-Kanäle"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 576,
+          "end": 595,
+          "text": "Social-Media-Kanäle"
+        },
+        {
+          "label": "SKILL",
+          "start": 598,
+          "end": 650,
+          "text": "Koordination der Erstellung von Marketingmaterialien"
+        },
+        {
+          "label": "SKILL",
+          "start": 653,
+          "end": 736,
+          "text": "Umsetzung von Fotoshootings, Videoproduktionen und weiteren Kommunikationsmaßnahmen"
+        },
+        {
+          "label": "SKILL",
+          "start": 739,
+          "end": 871,
+          "text": "Aufbau, Pflege und Weiterentwicklung von Beziehungen zu Medienvertretern, Influencern, Agenturen und regionalen Kooperationspartnern"
+        },
+        {
+          "label": "SKILL",
+          "start": 874,
+          "end": 984,
+          "text": "Unterstützung bei der Planung und Umsetzung von Presseveranstaltungen, Hotel-Events und Marketingaktivierungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 987,
+          "end": 1112,
+          "text": "Analyse von Markt- und Wettbewerbstrends sowie Identifikation neuer Potenziale zur Weiterentwicklung der Marketingaktivitäten"
+        },
+        {
+          "label": "SKILL",
+          "start": 1115,
+          "end": 1219,
+          "text": "Führung und Entwicklung des Sales & Marketing Coordinators sowie der Dualen Studenten und Auszubildenden"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1506,
+          "end": 1552,
+          "text": "Hotellerie-, Tourismus- oder Lifestyle-Branche"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1587,
+          "end": 1606,
+          "text": "Markenkommunikation"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1608,
+          "end": 1620,
+          "text": "Storytelling"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1634,
+          "end": 1649,
+          "text": "Marketingtrends"
+        },
+        {
+          "label": "SKILL",
+          "start": 1673,
+          "end": 1757,
+          "text": "ausgeprägtes Gespür für hochwertige Inhalte sowie eine zielgruppengerechte Ansprache"
+        },
+        {
+          "label": "SKILL",
+          "start": 1760,
+          "end": 1874,
+          "text": "Du arbeitest strukturiert, eigenverantwortlich und behältst auch bei mehreren Projekten gleichzeitig den Überblick"
+        },
+        {
+          "label": "SKILL",
+          "start": 1877,
+          "end": 1977,
+          "text": "Du kommunizierst souverän in deutscher und englischer Sprache – sowohl mündlich als auch schriftlich"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1906,
+          "end": 1938,
+          "text": "deutscher und englischer Sprache"
+        },
+        {
+          "label": "SKILL",
+          "start": 2000,
+          "end": 2073,
+          "text": "Kreativität, Organisationsgeschick sowie ein hohes Maß an Eigeninitiative"
+        },
+        {
+          "label": "SKILL",
+          "start": 2111,
+          "end": 2181,
+          "text": "Umgang mit Microsoft Office sowie gängigen Marketing- und Analysetools"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2122,
+          "end": 2138,
+          "text": "Microsoft Office"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2154,
+          "end": 2181,
+          "text": "Marketing- und Analysetools"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2238,
+          "end": 2247,
+          "text": "Canva Pro"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2252,
+          "end": 2271,
+          "text": "KI-gestützten Tools"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2276,
+          "end": 2293,
+          "text": "Microsoft Copilot"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2299,
+          "end": 2306,
+          "text": "ChatGPT"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2323,
+          "end": 2338,
+          "text": "Marriott-Umfeld"
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "source_file": "17_sachbearbeitung-fes.txt",
+      "text": "Stellenangebot 10\nSachbearbeitung (m/w/d)\nbei\nFRIEDRICH-EBERT-STIFTUNG e.V.\nAufgabenbereich:\n- Organisatorische Vor- und Nachbereitung von Maßnahmen der politischen Bildung und Beratung in Sachsen-Anhalt inklusive Online-Formaten\n- Projektsachbearbeitung\n- Finanzsachbearbeitung, Haushaltsplanung und -kontrolle\n- Redaktionelle Betreuung der Website, des Newsletters und der Social-Media-Kanäle\n- Pflege der Adress-/Teilnehmerdatenbank\n- Allgemeine Verwaltungsaufgaben\nAnforderungen:\n- Abgeschlossene Kaufmännische Ausbildung oder vergleichbare Kenntnisse und Erfahrungen\n- Gründliche und vielseitige Fachkenntnisse\n- Gute Fähigkeiten und Erfahrungen in der Veranstaltungsorganisation\n- Gute Kenntnisse und Erfahrungen in der Finanzsachbearbeitung\n- Gute Team- und Kommunikationsfähigkeit\n- Sehr gute EDV-Kenntnisse sowie Erfahrung und Kenntnisse im Umgang mit Content Management Systemen, Videokonferenzsystemen sowie mit Social-Media\n- Bereitschaft zu Dienstreisen in Sachsen-Anhalt und zum überregionalen Einsatz\n- Kenntnisse der politischen Verhältnisse in Sachsen-Anhalt\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 95,
+          "end": 229,
+          "text": "Organisatorische Vor- und Nachbereitung von Maßnahmen der politischen Bildung und Beratung in Sachsen-Anhalt inklusive Online-Formaten"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 153,
+          "end": 172,
+          "text": "politischen Bildung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 214,
+          "end": 229,
+          "text": "Online-Formaten"
+        },
+        {
+          "label": "SKILL",
+          "start": 232,
+          "end": 254,
+          "text": "Projektsachbearbeitung"
+        },
+        {
+          "label": "SKILL",
+          "start": 257,
+          "end": 311,
+          "text": "Finanzsachbearbeitung, Haushaltsplanung und -kontrolle"
+        },
+        {
+          "label": "SKILL",
+          "start": 314,
+          "end": 394,
+          "text": "Redaktionelle Betreuung der Website, des Newsletters und der Social-Media-Kanäle"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 375,
+          "end": 387,
+          "text": "Social-Media"
+        },
+        {
+          "label": "SKILL",
+          "start": 397,
+          "end": 435,
+          "text": "Pflege der Adress-/Teilnehmerdatenbank"
+        },
+        {
+          "label": "SKILL",
+          "start": 438,
+          "end": 468,
+          "text": "Allgemeine Verwaltungsaufgaben"
+        },
+        {
+          "label": "SKILL",
+          "start": 658,
+          "end": 684,
+          "text": "Veranstaltungsorganisation"
+        },
+        {
+          "label": "SKILL",
+          "start": 726,
+          "end": 747,
+          "text": "Finanzsachbearbeitung"
+        },
+        {
+          "label": "SKILL",
+          "start": 755,
+          "end": 788,
+          "text": "Team- und Kommunikationsfähigkeit"
+        },
+        {
+          "label": "SKILL",
+          "start": 850,
+          "end": 935,
+          "text": "Umgang mit Content Management Systemen, Videokonferenzsystemen sowie mit Social-Media"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 861,
+          "end": 888,
+          "text": "Content Management Systemen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 890,
+          "end": 912,
+          "text": "Videokonferenzsystemen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1033,
+          "end": 1075,
+          "text": "politischen Verhältnisse in Sachsen-Anhalt"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "source_file": "18_buchhaltung-aurea.txt",
+      "text": "Stellenangebot 11\nbuchhaltung (m/w/d AUREA GmbH\nIhre Aufgaben:\n- Planung der Liquidität und tägliche Überwachung der Bankkonten\n- Prüfung von Steuerbescheiden für deutsche Gesellschaften und Sicherstellung termingerechter Vorauszahlungen (KöSt, GewSt)\n- Erstellung von Monats-, Quartals- und Jahresabschlüssen nach HGB (Bilanz, GuV, BWA) für deutsche und belgische Gesellschaften\n- Monatliche Konsolidierung auf Gruppenebene (Deutschland, Belgien, Schweiz, Österreich)\n- Erstellung von Kostenstellenreports und Führung des Anlagevermögens in DATEV und Excel\n- Periodengerechte Abgrenzung von Unternehmenskosten und tägliche Buchung von Geschäftsvorfällen\n- Erstellung und Abgabe von Umsatzsteuervoranmeldungen, Zusammenfassenden Meldungen, Intrastat-Meldungen sowie Kundenlistenjahresmeldungen\n- Mitarbeit an Projekten zur Optimierung von Geschäftsprozessen und Umsetzung gesetzlicher Neuerungen\n- Key-User-Funktion im Bereich Finanzbuchhaltung und Durchführung von Mitarbeiterschulungen\n- Kontenabstimmungen (OP-geführte Sachkonten, Bilanz- und GuV-Konten) und abschlusssichere Buchungen im Rahmen des Jahresabschlusses\n- Bereitstellung aller Haupt- und Nebenbücher für Wirtschaftsprüfer und Begleitung der Inventur\n- Buchung und Bewertung von Rückstellungen sowie Wertberichtigungen nach HGB\n- Sachkonten-Mapping für internationale Gesellschaften und Abstimmung von Intercompany-Sachverhalten\n- Analyse von Finanzdaten sowie Kontrolle von Betriebskosten und Buchungen auf Sachkostenebene\n- Erstellung von Umsatzsteuerjahresmeldungen, K-4 Meldungen und Meldungen zur Strukturstatistik bzw. globalen Wertschöpfung (Destatis)\n- Weiterleitung der Jahresabschlüsse und Kommunikation mit Banken\n- Verwaltung von Perioden im ERP-System für alle Abteilungen und Gesellschaften\nIhr Profil:\n- Abgeschlossene kaufmännische Ausbildung, idealerweise mit Weiterbildung zum Bilanzbuchhalter oder ein betriebswirtschaftliches Studium mit Schwerpunkt Finanzen/ Accounting\n- Mehrjährige Erfahrung in der Buchhaltung, idealerweise in leitender Funktion\n- Fundierte Kenntnisse in HGB, Steuerrecht, Bilanzierung, Umsatzsteuer und internationalen Rechnungslegungsvorschriften\n- Erfahrung mit ERP- und Buchhaltungssystemen (z. B. DATEV, SAP, Lexware)\n- Sicherer Umgang mit Excel, insbesondere für Konsolidierungen und Reporting\n- Analytisches Denkvermögen, strukturiertes Arbeiten und Zahlenaffinität\n- Führungserfahrung und die Fähigkeit, ein Team zu leiten und zu entwickeln\n- Proaktive und lösungsorientierte Arbeitsweise, hohe Eigenverantwortung\n- Gute Kommunikationsfähigkeiten in Deutsch und Englisch, insbesondere für internationale Gesellschaften\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 65,
+          "end": 127,
+          "text": "Planung der Liquidität und tägliche Überwachung der Bankkonten"
+        },
+        {
+          "label": "SKILL",
+          "start": 130,
+          "end": 251,
+          "text": "Prüfung von Steuerbescheiden für deutsche Gesellschaften und Sicherstellung termingerechter Vorauszahlungen (KöSt, GewSt)"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 239,
+          "end": 243,
+          "text": "KöSt"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 245,
+          "end": 250,
+          "text": "GewSt"
+        },
+        {
+          "label": "SKILL",
+          "start": 254,
+          "end": 379,
+          "text": "Erstellung von Monats-, Quartals- und Jahresabschlüssen nach HGB (Bilanz, GuV, BWA) für deutsche und belgische Gesellschaften"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 315,
+          "end": 318,
+          "text": "HGB"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 320,
+          "end": 326,
+          "text": "Bilanz"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 328,
+          "end": 331,
+          "text": "GuV"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 333,
+          "end": 336,
+          "text": "BWA"
+        },
+        {
+          "label": "SKILL",
+          "start": 382,
+          "end": 468,
+          "text": "Monatliche Konsolidierung auf Gruppenebene (Deutschland, Belgien, Schweiz, Österreich)"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 426,
+          "end": 433,
+          "text": "Deutsch"
+        },
+        {
+          "label": "SKILL",
+          "start": 471,
+          "end": 557,
+          "text": "Erstellung von Kostenstellenreports und Führung des Anlagevermögens in DATEV und Excel"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 542,
+          "end": 547,
+          "text": "DATEV"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 552,
+          "end": 557,
+          "text": "Excel"
+        },
+        {
+          "label": "SKILL",
+          "start": 560,
+          "end": 654,
+          "text": "Periodengerechte Abgrenzung von Unternehmenskosten und tägliche Buchung von Geschäftsvorfällen"
+        },
+        {
+          "label": "SKILL",
+          "start": 657,
+          "end": 793,
+          "text": "Erstellung und Abgabe von Umsatzsteuervoranmeldungen, Zusammenfassenden Meldungen, Intrastat-Meldungen sowie Kundenlistenjahresmeldungen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 683,
+          "end": 695,
+          "text": "Umsatzsteuer"
+        },
+        {
+          "label": "SKILL",
+          "start": 796,
+          "end": 895,
+          "text": "Mitarbeit an Projekten zur Optimierung von Geschäftsprozessen und Umsetzung gesetzlicher Neuerungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 898,
+          "end": 987,
+          "text": "Key-User-Funktion im Bereich Finanzbuchhaltung und Durchführung von Mitarbeiterschulungen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 927,
+          "end": 944,
+          "text": "Finanzbuchhaltung"
+        },
+        {
+          "label": "SKILL",
+          "start": 990,
+          "end": 1120,
+          "text": "Kontenabstimmungen (OP-geführte Sachkonten, Bilanz- und GuV-Konten) und abschlusssichere Buchungen im Rahmen des Jahresabschlusses"
+        },
+        {
+          "label": "SKILL",
+          "start": 1123,
+          "end": 1216,
+          "text": "Bereitstellung aller Haupt- und Nebenbücher für Wirtschaftsprüfer und Begleitung der Inventur"
+        },
+        {
+          "label": "SKILL",
+          "start": 1219,
+          "end": 1293,
+          "text": "Buchung und Bewertung von Rückstellungen sowie Wertberichtigungen nach HGB"
+        },
+        {
+          "label": "SKILL",
+          "start": 1296,
+          "end": 1394,
+          "text": "Sachkonten-Mapping für internationale Gesellschaften und Abstimmung von Intercompany-Sachverhalten"
+        },
+        {
+          "label": "SKILL",
+          "start": 1397,
+          "end": 1489,
+          "text": "Analyse von Finanzdaten sowie Kontrolle von Betriebskosten und Buchungen auf Sachkostenebene"
+        },
+        {
+          "label": "SKILL",
+          "start": 1492,
+          "end": 1624,
+          "text": "Erstellung von Umsatzsteuerjahresmeldungen, K-4 Meldungen und Meldungen zur Strukturstatistik bzw. globalen Wertschöpfung (Destatis)"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1615,
+          "end": 1623,
+          "text": "Destatis"
+        },
+        {
+          "label": "SKILL",
+          "start": 1627,
+          "end": 1690,
+          "text": "Weiterleitung der Jahresabschlüsse und Kommunikation mit Banken"
+        },
+        {
+          "label": "SKILL",
+          "start": 1693,
+          "end": 1770,
+          "text": "Verwaltung von Perioden im ERP-System für alle Abteilungen und Gesellschaften"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1720,
+          "end": 1730,
+          "text": "ERP-System"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1988,
+          "end": 1999,
+          "text": "Buchhaltung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2067,
+          "end": 2078,
+          "text": "Steuerrecht"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2080,
+          "end": 2092,
+          "text": "Bilanzierung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2111,
+          "end": 2155,
+          "text": "internationalen Rechnungslegungsvorschriften"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2172,
+          "end": 2201,
+          "text": "ERP- und Buchhaltungssystemen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2216,
+          "end": 2219,
+          "text": "SAP"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2221,
+          "end": 2228,
+          "text": "Lexware"
+        },
+        {
+          "label": "SKILL",
+          "start": 2232,
+          "end": 2306,
+          "text": "Sicherer Umgang mit Excel, insbesondere für Konsolidierungen und Reporting"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2297,
+          "end": 2306,
+          "text": "Reporting"
+        },
+        {
+          "label": "SKILL",
+          "start": 2309,
+          "end": 2379,
+          "text": "Analytisches Denkvermögen, strukturiertes Arbeiten und Zahlenaffinität"
+        },
+        {
+          "label": "SKILL",
+          "start": 2408,
+          "end": 2455,
+          "text": "Fähigkeit, ein Team zu leiten und zu entwickeln"
+        },
+        {
+          "label": "SKILL",
+          "start": 2458,
+          "end": 2528,
+          "text": "Proaktive und lösungsorientierte Arbeitsweise, hohe Eigenverantwortung"
+        },
+        {
+          "label": "SKILL",
+          "start": 2536,
+          "end": 2633,
+          "text": "Kommunikationsfähigkeiten in Deutsch und Englisch, insbesondere für internationale Gesellschaften"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 2577,
+          "end": 2585,
+          "text": "Englisch"
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "source_file": "19_sachbearbeiter-controlling.txt",
+      "text": "Sachbearbeiter (m/w/d) Controlling univativ GmbH\nDas erwartet Dich bei uns\n- Pflege und Verwaltung von Stammdaten für Investitionsprojekte sowie bauliche Instandhaltungs- und Unterhaltungsmaßnahmen\n- Laufende Aktualisierung und Überwachung von Projektständen inklusive Analyse von Abweichungen in SAP PS\n- Erstellung von Projektauswertungen sowie Ableitung geeigneter Maßnahmen zur gezielten Projektsteuerung\n- Durchführung von Statikprüfungen, Aktualisierung von Datenbeständen und kontinuierliche Pflege des SAP-PS-Systems\n- Mitarbeit an Projekten zur Weiterentwicklung und Optimierung des Investitionscontrollings\n- Unterstützung bei der Budgetplanung sowie Erfassung und Verwaltung von Investitionsaufträgen\nDas bringst Du mit\n- Ein abgeschlossenes Studium der Wirtschaftswissenschaften, BWL oder vergleichbar\n- Praktische Erfahrung in der Sachbearbeitung und/oder im Controlling wünschenswert\n- Fundierte Kenntnisse in SAP PS, alternativ in MS Dynamics oder vergleichbare Projektmanagementsysteme\n- Ein sicherer Umgang mit den gängigen MS Office Anwendungen\n- Verhandlungssichere Deutschkenntnisse in Wort und Schrift\n- Ein hohes Maß an Eigeninitiative sowie eine selbstständige und strukturierte Arbeitsweise\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 77,
+          "end": 197,
+          "text": "Pflege und Verwaltung von Stammdaten für Investitionsprojekte sowie bauliche Instandhaltungs- und Unterhaltungsmaßnahmen"
+        },
+        {
+          "label": "SKILL",
+          "start": 200,
+          "end": 303,
+          "text": "Laufende Aktualisierung und Überwachung von Projektständen inklusive Analyse von Abweichungen in SAP PS"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 297,
+          "end": 303,
+          "text": "SAP PS"
+        },
+        {
+          "label": "SKILL",
+          "start": 306,
+          "end": 408,
+          "text": "Erstellung von Projektauswertungen sowie Ableitung geeigneter Maßnahmen zur gezielten Projektsteuerung"
+        },
+        {
+          "label": "SKILL",
+          "start": 411,
+          "end": 524,
+          "text": "Durchführung von Statikprüfungen, Aktualisierung von Datenbeständen und kontinuierliche Pflege des SAP-PS-Systems"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 510,
+          "end": 523,
+          "text": "SAP-PS-System"
+        },
+        {
+          "label": "SKILL",
+          "start": 527,
+          "end": 616,
+          "text": "Mitarbeit an Projekten zur Weiterentwicklung und Optimierung des Investitionscontrollings"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 592,
+          "end": 616,
+          "text": "Investitionscontrollings"
+        },
+        {
+          "label": "SKILL",
+          "start": 619,
+          "end": 711,
+          "text": "Unterstützung bei der Budgetplanung sowie Erfassung und Verwaltung von Investitionsaufträgen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 844,
+          "end": 859,
+          "text": "Sachbearbeitung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 872,
+          "end": 883,
+          "text": "Controlling"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 946,
+          "end": 957,
+          "text": "MS Dynamics"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 977,
+          "end": 1001,
+          "text": "Projektmanagementsysteme"
+        },
+        {
+          "label": "SKILL",
+          "start": 1008,
+          "end": 1062,
+          "text": "sicherer Umgang mit den gängigen MS Office Anwendungen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1041,
+          "end": 1062,
+          "text": "MS Office Anwendungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1065,
+          "end": 1122,
+          "text": "Verhandlungssichere Deutschkenntnisse in Wort und Schrift"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1085,
+          "end": 1102,
+          "text": "Deutschkenntnisse"
+        },
+        {
+          "label": "SKILL",
+          "start": 1142,
+          "end": 1214,
+          "text": "Eigeninitiative sowie eine selbstständige und strukturierte Arbeitsweise"
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "source_file": "20_pflegefachkraft-remacare.txt",
+      "text": "Pflegefachkraft\nReMaCare Pflegedienst\nDas sind Deine Aufgaben:\n-Durchführung der allgemeinen Grundpflege und\nBehandlungspflege unserer Klienten (z. B. Körperpflege,\nMobilisation, Medikamentengabe, Wundversorgung, Blutdruck-, Puls- und Blutzuckerkontrolle, Portversorgung etc.)\n-Pflegedokumentation und Pflegeplanung\n-Anleitung und Beratung von Angehörigen\nDas solltest Du mitbringen:\n-Abschluss als examinierte/r Gesundheits- und Krankenpfleger / Krankenschwester (m/w/d), examinierte/r Gesundheits- und\nKinderkrankenpfleger / Kinderkrankenschwester (m/w/d),\nPflegefachfrau / Pflegefachmann (m/w/d)\n-Du möchtest nicht nur pflegen, sondern das Leben unserer Klienten bereichern\n-Hohe pflegerische und soziale Kompetenz\n-Du besitzt einen Führerschein der Klasse B\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 64,
+          "end": 276,
+          "text": "Durchführung der allgemeinen Grundpflege und\nBehandlungspflege unserer Klienten (z. B. Körperpflege,\nMobilisation, Medikamentengabe, Wundversorgung, Blutdruck-, Puls- und Blutzuckerkontrolle, Portversorgung etc.)"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 93,
+          "end": 104,
+          "text": "Grundpflege"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 109,
+          "end": 126,
+          "text": "Behandlungspflege"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 151,
+          "end": 163,
+          "text": "Körperpflege"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 165,
+          "end": 177,
+          "text": "Mobilisation"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 179,
+          "end": 195,
+          "text": "Medikamentengabe"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 197,
+          "end": 211,
+          "text": "Wundversorgung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 213,
+          "end": 254,
+          "text": "Blutdruck-, Puls- und Blutzuckerkontrolle"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 256,
+          "end": 270,
+          "text": "Portversorgung"
+        },
+        {
+          "label": "SKILL",
+          "start": 278,
+          "end": 315,
+          "text": "Pflegedokumentation und Pflegeplanung"
+        },
+        {
+          "label": "SKILL",
+          "start": 317,
+          "end": 355,
+          "text": "Anleitung und Beratung von Angehörigen"
+        },
+        {
+          "label": "SKILL",
+          "start": 678,
+          "end": 717,
+          "text": "Hohe pflegerische und soziale Kompetenz"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "source_file": "21_erzieher.txt",
+      "text": "Erzieher (m/w/d)\nMANPOWER GmbH & Co. KG\nDeine Aufgaben\n- Planung und Umsetzung kreativer Spiel- und Lernangebote\n- Förderung der individuellen Entwicklung und sozialen Kompetenzen der Kinder\n- Gestaltung eines liebevollen und sicheren Umfelds, in dem sich Kinder geborgen fühlen\n- Enge Zusammenarbeit mit Eltern und Kolleg:innen\n- Dokumentation der pädagogischen Arbeit und Entwicklungsfortschritte\nDas bringst du mit\n- Du hast eine erfolgreich abgeschlossene Ausbildung als Erzieher (m/w/d) oder eine vergleichbare pädagogische Qualifikation (z. B. staatlich anerkannte Heilpädagogik, Kindheitspädagogik oder ein Studium der Erziehungswissenschaften mit einschlägiger Praxiserfahrung im frühkindlichen Bereich)\n- Begeisterung für die Begleitung und Förderung von Kindern in ihrer individuellen Entwicklung\n- Einfühlungsvermögen, Geduld und Verantwortungsbewusstsein\n- Kreative Ideen und Freude daran, Kinder im Alltag zu inspirieren und zu fördern\n- Teamfähigkeit, Zuverlässigkeit und eine wertschätzende Kommunikation\n- Eigeninitiative sowie eine selbstständige und lösungsorientierte Arbeitsweise\n- Berufserfahrung ist von Vorteil, aber keine Voraussetzung\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 57,
+          "end": 112,
+          "text": "Planung und Umsetzung kreativer Spiel- und Lernangebote"
+        },
+        {
+          "label": "SKILL",
+          "start": 115,
+          "end": 190,
+          "text": "Förderung der individuellen Entwicklung und sozialen Kompetenzen der Kinder"
+        },
+        {
+          "label": "SKILL",
+          "start": 193,
+          "end": 278,
+          "text": "Gestaltung eines liebevollen und sicheren Umfelds, in dem sich Kinder geborgen fühlen"
+        },
+        {
+          "label": "SKILL",
+          "start": 281,
+          "end": 328,
+          "text": "Enge Zusammenarbeit mit Eltern und Kolleg:innen"
+        },
+        {
+          "label": "SKILL",
+          "start": 331,
+          "end": 398,
+          "text": "Dokumentation der pädagogischen Arbeit und Entwicklungsfortschritte"
+        },
+        {
+          "label": "SKILL",
+          "start": 735,
+          "end": 806,
+          "text": "Begleitung und Förderung von Kindern in ihrer individuellen Entwicklung"
+        },
+        {
+          "label": "SKILL",
+          "start": 809,
+          "end": 866,
+          "text": "Einfühlungsvermögen, Geduld und Verantwortungsbewusstsein"
+        },
+        {
+          "label": "SKILL",
+          "start": 902,
+          "end": 948,
+          "text": "Kinder im Alltag zu inspirieren und zu fördern"
+        },
+        {
+          "label": "SKILL",
+          "start": 951,
+          "end": 1019,
+          "text": "Teamfähigkeit, Zuverlässigkeit und eine wertschätzende Kommunikation"
+        },
+        {
+          "label": "SKILL",
+          "start": 1022,
+          "end": 1099,
+          "text": "Eigeninitiative sowie eine selbstständige und lösungsorientierte Arbeitsweise"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "source_file": "22_sozialarbeiter-jugendhilfe.txt",
+      "text": "Sozialarbeiter / Sozialpädagoge (m/w/ d)\nJugendberatung und Jugendhilfe e.V. (JJ)\nIhre Aufgaben:\n- Gestaltung und Begleitung freizeitpädagogischer Angebote,\n- Aufbau und Pflege von Kontakten zu Kindern und Jugendlichen im öffentlichen Raum,\n- Beratung und Unterstützung von Kindern, Jugendlichen und jungen Erwachsenen in unterschiedlichen Lebenslagen,\n- Förderung gesundheitsbewussten und verantwortungsvollen Verhaltens.\n- Mitwirkung an der Weiterentwicklung konzeptioneller Angebote der Mobilen Beratung.\nIhr Profil:\n- Abgeschlossenes Studium der Sozialen Arbeit, Sozialpädagogik (Dipl./B.A./M.A.) oder eine vergleichbare Qualifikation,\n- Fähigkeit zum selbstständigen, eigenverantwortlichen Arbeiten,\n- Interesse an konzeptioneller Weiterentwicklung und innovativen Ansätzen in der Jugendarbeit,\n- Bereitschaft zur Fort- und Weiterbildung,\n- Führerschein der Klasse B.\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 99,
+          "end": 155,
+          "text": "Gestaltung und Begleitung freizeitpädagogischer Angebote"
+        },
+        {
+          "label": "SKILL",
+          "start": 159,
+          "end": 239,
+          "text": "Aufbau und Pflege von Kontakten zu Kindern und Jugendlichen im öffentlichen Raum"
+        },
+        {
+          "label": "SKILL",
+          "start": 243,
+          "end": 351,
+          "text": "Beratung und Unterstützung von Kindern, Jugendlichen und jungen Erwachsenen in unterschiedlichen Lebenslagen"
+        },
+        {
+          "label": "SKILL",
+          "start": 355,
+          "end": 421,
+          "text": "Förderung gesundheitsbewussten und verantwortungsvollen Verhaltens"
+        },
+        {
+          "label": "SKILL",
+          "start": 425,
+          "end": 506,
+          "text": "Mitwirkung an der Weiterentwicklung konzeptioneller Angebote der Mobilen Beratung"
+        },
+        {
+          "label": "SKILL",
+          "start": 642,
+          "end": 703,
+          "text": "Fähigkeit zum selbstständigen, eigenverantwortlichen Arbeiten"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 786,
+          "end": 798,
+          "text": "Jugendarbeit"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "source_file": "23_produktionsmitarbeiter.txt",
+      "text": "Produktionsmitarbeiter\nIhre Aufgaben:\n- Sie bestücken, steuern und überwachen unsere Anlagen und Maschinen\n- Sie verantworten einzelne Produktionsbereiche für die Herstellung von Reinigern und Polituren\n-Sie stellen Rohstoffe bereit, füllen Materialien nach und sorgen für Ihren Arbeitsplatz\nIhr Profil:\n- Erfahrung im Bereich Produktion, z.B. aus dem Lebensmittelverarbeitenden Gewerbe wie Bäckerei und/oder fleischverarbeitendes Gewerbe\n- Handwerkliches Geschick und technisches Verständnis für unser Maschinen und Anlagen\n- Zuverlässigkeit, Sorgfalt, Verantwortungsbewusstsein, Flexibilität, Belastbarkeit und Teamfähigkeit zeichnen Sie aus.\n- Der Umgang mit modernen Kommunikationsmedien ist für Sie selbstverständlich (EDV-Kenntnisse).\n- Ein Staplerschein wäre wünschenswert.\n- Deutschkenntnisse ab B2 wären wünschenswert\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 40,
+          "end": 106,
+          "text": "Sie bestücken, steuern und überwachen unsere Anlagen und Maschinen"
+        },
+        {
+          "label": "SKILL",
+          "start": 109,
+          "end": 202,
+          "text": "Sie verantworten einzelne Produktionsbereiche für die Herstellung von Reinigern und Polituren"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 135,
+          "end": 145,
+          "text": "Produktion"
+        },
+        {
+          "label": "SKILL",
+          "start": 204,
+          "end": 291,
+          "text": "Sie stellen Rohstoffe bereit, füllen Materialien nach und sorgen für Ihren Arbeitsplatz"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 352,
+          "end": 386,
+          "text": "Lebensmittelverarbeitenden Gewerbe"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 391,
+          "end": 399,
+          "text": "Bäckerei"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 409,
+          "end": 438,
+          "text": "fleischverarbeitendes Gewerbe"
+        },
+        {
+          "label": "SKILL",
+          "start": 441,
+          "end": 524,
+          "text": "Handwerkliches Geschick und technisches Verständnis für unser Maschinen und Anlagen"
+        },
+        {
+          "label": "SKILL",
+          "start": 527,
+          "end": 626,
+          "text": "Zuverlässigkeit, Sorgfalt, Verantwortungsbewusstsein, Flexibilität, Belastbarkeit und Teamfähigkeit"
+        },
+        {
+          "label": "SKILL",
+          "start": 651,
+          "end": 691,
+          "text": "Umgang mit modernen Kommunikationsmedien"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 724,
+          "end": 738,
+          "text": "EDV-Kenntnisse"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 783,
+          "end": 800,
+          "text": "Deutschkenntnisse"
+        },
+        {
+          "label": "SKILL",
+          "start": 783,
+          "end": 800,
+          "text": "Deutschkenntnisse"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "source_file": "24_customer-service-export.txt",
+      "text": "Customer Service Mitarbeiter Export (m/w/d)\nbei\nadesta GmbH & Co. KG\nBeschreibung\n- Auftragseingang wird von Ihnen abgewickelt\n- Sie arbeiten mit einem Ticketsystem\n- Angebote und Exportdokumente erstellen (Maschinen, Ersatzteile etc.)\n- Sie supporten den Inhouse Sales Manager\n- Ansprechpartner für die Terminverfolgung\nAnforderungen\n- Eine kaufmännische Ausbildung oder eine vergleichbare Qualifikation\n- Über gute Sprachkenntnisse in Englisch in Wort und Schrift\n- Technisches Verständnis\n- MS-Office & SAP-Kenntnisse\n- Sie sind kommunikations- und überzeugungsfähig\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 84,
+          "end": 126,
+          "text": "Auftragseingang wird von Ihnen abgewickelt"
+        },
+        {
+          "label": "SKILL",
+          "start": 129,
+          "end": 164,
+          "text": "Sie arbeiten mit einem Ticketsystem"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 152,
+          "end": 164,
+          "text": "Ticketsystem"
+        },
+        {
+          "label": "SKILL",
+          "start": 167,
+          "end": 235,
+          "text": "Angebote und Exportdokumente erstellen (Maschinen, Ersatzteile etc.)"
+        },
+        {
+          "label": "SKILL",
+          "start": 238,
+          "end": 277,
+          "text": "Sie supporten den Inhouse Sales Manager"
+        },
+        {
+          "label": "SKILL",
+          "start": 280,
+          "end": 320,
+          "text": "Ansprechpartner für die Terminverfolgung"
+        },
+        {
+          "label": "SKILL",
+          "start": 412,
+          "end": 465,
+          "text": "gute Sprachkenntnisse in Englisch in Wort und Schrift"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 437,
+          "end": 445,
+          "text": "Englisch"
+        },
+        {
+          "label": "SKILL",
+          "start": 468,
+          "end": 491,
+          "text": "Technisches Verständnis"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 494,
+          "end": 503,
+          "text": "MS-Office"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 506,
+          "end": 509,
+          "text": "SAP"
+        },
+        {
+          "label": "SKILL",
+          "start": 523,
+          "end": 569,
+          "text": "Sie sind kommunikations- und überzeugungsfähig"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "source_file": "25_personalreferent.txt",
+      "text": "Personalreferent (m/w/d)\nbei\nadesta GmbH & Co. KG\nBeschreibung\n- Umfassende Betreuung sämtlicher HR-Prozesse, von der Rekrutierung bis zur Mitarbeiterentwicklung\n- Sicherstellung der Einhaltung gesetzlicher Vorschriften und Unternehmensrichtlinien im Bereich Personalwesen\n- Aktive Mitwirkung an HR-Projekten zur kontinuierlichen Optimierung der Arbeitsabläufe\n- Durchführung von Mitarbeitergesprächen, Konfliktlösungen und Mitarbeiterschulungen\n- Unterstützung des Managements bei der Entwicklung und Umsetzung von HR-Strategien\nAnforderungen\n- Abgeschlossenes Studium oder eine vergleichbare Ausbildung im Bereich HR\n- Mehrjährige Berufserfahrung im HR-Bereich, idealerweise in einem technologieorientierten Unternehmen\n- Fundierte Kenntnisse im Arbeitsrecht und im Umgang mit gängiger HR-Software\n- Ausgeprägte kommunikative Fähigkeiten und hohe soziale Kompetenz\n- Eigenständige und ergebnisorientierte Arbeitsweise\n- Teamfähigkeit und Flexibilität\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 65,
+          "end": 161,
+          "text": "Umfassende Betreuung sämtlicher HR-Prozesse, von der Rekrutierung bis zur Mitarbeiterentwicklung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 97,
+          "end": 108,
+          "text": "HR-Prozesse"
+        },
+        {
+          "label": "SKILL",
+          "start": 164,
+          "end": 272,
+          "text": "Sicherstellung der Einhaltung gesetzlicher Vorschriften und Unternehmensrichtlinien im Bereich Personalwesen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 259,
+          "end": 272,
+          "text": "Personalwesen"
+        },
+        {
+          "label": "SKILL",
+          "start": 275,
+          "end": 360,
+          "text": "Aktive Mitwirkung an HR-Projekten zur kontinuierlichen Optimierung der Arbeitsabläufe"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 296,
+          "end": 308,
+          "text": "HR-Projekten"
+        },
+        {
+          "label": "SKILL",
+          "start": 363,
+          "end": 445,
+          "text": "Durchführung von Mitarbeitergesprächen, Konfliktlösungen und Mitarbeiterschulungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 448,
+          "end": 529,
+          "text": "Unterstützung des Managements bei der Entwicklung und Umsetzung von HR-Strategien"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 516,
+          "end": 529,
+          "text": "HR-Strategien"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 652,
+          "end": 662,
+          "text": "HR-Bereich"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 748,
+          "end": 760,
+          "text": "Arbeitsrecht"
+        },
+        {
+          "label": "SKILL",
+          "start": 768,
+          "end": 799,
+          "text": "Umgang mit gängiger HR-Software"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 788,
+          "end": 799,
+          "text": "HR-Software"
+        },
+        {
+          "label": "SKILL",
+          "start": 802,
+          "end": 866,
+          "text": "Ausgeprägte kommunikative Fähigkeiten und hohe soziale Kompetenz"
+        },
+        {
+          "label": "SKILL",
+          "start": 869,
+          "end": 919,
+          "text": "Eigenständige und ergebnisorientierte Arbeitsweise"
+        },
+        {
+          "label": "SKILL",
+          "start": 922,
+          "end": 952,
+          "text": "Teamfähigkeit und Flexibilität"
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "source_file": "26_hr-generalist.txt",
+      "text": "HR Generalist (m/w/d)\nBeschreibung\n- Als HR Generalist (m/w/d) sind Sie Hauptansprechpartner in allen Belangen der Personalbeschaffung und -betreuung\n- Sie verantworten das Anzeigen- und Bewerbermanagement\n- Des Weiteren sind Sie zuständig für die Erstellung von Verträgen, Zeugnissen und Bescheinigungen etc.\n- Sie erstellen und analysieren regelmäßig HR-Kennzahlen\n- Sie wirken unterstützend bei der Zusammenarbeit mit dem Betriebsrat mit\n- Abschließend wirken Sie bei HR-Projekten mit\nAnforderungen\n- Sie haben eine abgeschlossene kaufmännische Ausbildung oder ein Studium mit Schwerpunkt Personalwirtschaft\n- Sie bringen mindestens 2 Jahre Berufserfahrung als HR Generalist (m/w/d) oder Personalreferent (m/w/d) mit\n- Sie verfügen über gute MS Office- und idealerweise SAP HR-Kenntnisse\n- Sie haben gute bis sehr gute Englischkenntnisse\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 72,
+          "end": 149,
+          "text": "Hauptansprechpartner in allen Belangen der Personalbeschaffung und -betreuung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 115,
+          "end": 149,
+          "text": "Personalbeschaffung und -betreuung"
+        },
+        {
+          "label": "SKILL",
+          "start": 152,
+          "end": 205,
+          "text": "Sie verantworten das Anzeigen- und Bewerbermanagement"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 173,
+          "end": 205,
+          "text": "Anzeigen- und Bewerbermanagement"
+        },
+        {
+          "label": "SKILL",
+          "start": 248,
+          "end": 304,
+          "text": "Erstellung von Verträgen, Zeugnissen und Bescheinigungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 312,
+          "end": 366,
+          "text": "Sie erstellen und analysieren regelmäßig HR-Kennzahlen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 353,
+          "end": 366,
+          "text": "HR-Kennzahlen"
+        },
+        {
+          "label": "SKILL",
+          "start": 369,
+          "end": 440,
+          "text": "Sie wirken unterstützend bei der Zusammenarbeit mit dem Betriebsrat mit"
+        },
+        {
+          "label": "SKILL",
+          "start": 456,
+          "end": 487,
+          "text": "wirken Sie bei HR-Projekten mit"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 745,
+          "end": 754,
+          "text": "MS Office"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 773,
+          "end": 779,
+          "text": "SAP HR"
+        },
+        {
+          "label": "SKILL",
+          "start": 803,
+          "end": 840,
+          "text": "gute bis sehr gute Englischkenntnisse"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 822,
+          "end": 840,
+          "text": "Englischkenntnisse"
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "source_file": "27_sicherheitsmitarbeiter.txt",
+      "text": "11 Sicherheitsmitarbeiter (m/w/d) in Voll- oder Teilzeit\nbei\nPiepenbrock Dienstleistungsgruppe GmbH & Co.KG\nIhre Aufgaben:\nSie sind als Sicherheitsmitarbeiter (m/w/d) für einen namhaften\nKunden (m/w/d) zuständig\nSie führen als Sicherheitskraft (m/w/d) Tätigkeiten wie zum Beispiel Kontrollgänge, Entgegennahme von eingehenden Telefonaten und Auf- und Verschluss durch\nSie überwachen die technischen Sicherheitseinrichtungen wie z. B. Kameras\nSie sorgen für die zuverlässige Objektbewachung\nIhre Qualifikationen:\nSie verfügen über gute PC-Kenntnisse\nSie sind zuverlässig, flexibel und teamfähig\nSie haben die Bereitschaft zum Schichtdienst\nSie besitzen eine Unterrichtung nach § 34a GewO oder eine andere höherwertige Qualifikation\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 212,
+          "end": 367,
+          "text": "Sie führen als Sicherheitskraft (m/w/d) Tätigkeiten wie zum Beispiel Kontrollgänge, Entgegennahme von eingehenden Telefonaten und Auf- und Verschluss durch"
+        },
+        {
+          "label": "SKILL",
+          "start": 368,
+          "end": 441,
+          "text": "Sie überwachen die technischen Sicherheitseinrichtungen wie z. B. Kameras"
+        },
+        {
+          "label": "SKILL",
+          "start": 442,
+          "end": 489,
+          "text": "Sie sorgen für die zuverlässige Objektbewachung"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 535,
+          "end": 548,
+          "text": "PC-Kenntnisse"
+        },
+        {
+          "label": "SKILL",
+          "start": 549,
+          "end": 593,
+          "text": "Sie sind zuverlässig, flexibel und teamfähig"
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "source_file": "28_technischer-produktdesigner.txt",
+      "text": "Technischer Produktdesigner CAD Zeichner m/w/d INGSERV GmbH\nDiese Herausforderungen übernehmen Sie:\n- Sie erstellen technische Zeichnungen, Baugruppen- und Anordnungszeichnungen sowie Schaltpläne auf Basis technischer Vorgaben\n- Sie setzen Konstruktionsvorgaben normgerecht um und stellen die Einhaltung von Qualitätsstandards sicher\n- Sie pflegen Artikelstammdaten, Stücklisten und technische Änderungen im SAP-System\n- Sie führen Zeichnungs- und Stücklistenänderungen in CAD- und SAP-Systemen durch und halten die technische Dokumentation aktuell\n- Sie entwickeln technische Detaillösungen und wählen geeignete Bauteile sowie Halbzeuge unter technischen und wirtschaftlichen Gesichtspunkten aus\n- Sie erstellen technische Dokumentationen, Stücklisten, Auswertungen und Datenaustauschdateien für Kunden, Lieferanten und interne Fachbereiche\n- Sie übernehmen den Import, die Prüfung und die Bearbeitung technischer Daten von externen Projektpartnern\n- Sie unterstützen Projekte durch die Durchführung einfacher technischer Berechnungen, beispielsweise zu Gewicht, Materialeinsatz oder Volumen\nUnsere Erwartungen an Sie:\n- Abgeschlossene als Technischer Zeichner, Technischer Produktdesigner oder eine vergleichbare Qualifikation\n- Sicherer Umgang mit einem CAD-Systemen idealerweise mit Catia V5 oder Creo\n- Erfahrung mit SAP ist von Vorteil\n- Technisches Verständnis und sicherer Umgang mit technischen Zeichnungen und Stücklisten\n- Kenntnisse relevanter Normen und Qualitätsstandards\n- Strukturierte, sorgfältige und selbstständige Arbeitsweise\n- Teamfähigkeit sowie gute Kommunikationsfähigkeit\n- Gute MS-Office-Kenntnisse\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 102,
+          "end": 226,
+          "text": "Sie erstellen technische Zeichnungen, Baugruppen- und Anordnungszeichnungen sowie Schaltpläne auf Basis technischer Vorgaben"
+        },
+        {
+          "label": "SKILL",
+          "start": 229,
+          "end": 333,
+          "text": "Sie setzen Konstruktionsvorgaben normgerecht um und stellen die Einhaltung von Qualitätsstandards sicher"
+        },
+        {
+          "label": "SKILL",
+          "start": 336,
+          "end": 418,
+          "text": "Sie pflegen Artikelstammdaten, Stücklisten und technische Änderungen im SAP-System"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 408,
+          "end": 418,
+          "text": "SAP-System"
+        },
+        {
+          "label": "SKILL",
+          "start": 421,
+          "end": 548,
+          "text": "Sie führen Zeichnungs- und Stücklistenänderungen in CAD- und SAP-Systemen durch und halten die technische Dokumentation aktuell"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 473,
+          "end": 494,
+          "text": "CAD- und SAP-Systemen"
+        },
+        {
+          "label": "SKILL",
+          "start": 551,
+          "end": 696,
+          "text": "Sie entwickeln technische Detaillösungen und wählen geeignete Bauteile sowie Halbzeuge unter technischen und wirtschaftlichen Gesichtspunkten aus"
+        },
+        {
+          "label": "SKILL",
+          "start": 699,
+          "end": 841,
+          "text": "Sie erstellen technische Dokumentationen, Stücklisten, Auswertungen und Datenaustauschdateien für Kunden, Lieferanten und interne Fachbereiche"
+        },
+        {
+          "label": "SKILL",
+          "start": 844,
+          "end": 949,
+          "text": "Sie übernehmen den Import, die Prüfung und die Bearbeitung technischer Daten von externen Projektpartnern"
+        },
+        {
+          "label": "SKILL",
+          "start": 952,
+          "end": 1092,
+          "text": "Sie unterstützen Projekte durch die Durchführung einfacher technischer Berechnungen, beispielsweise zu Gewicht, Materialeinsatz oder Volumen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1231,
+          "end": 1269,
+          "text": "Sicherer Umgang mit einem CAD-Systemen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1257,
+          "end": 1269,
+          "text": "CAD-Systemen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1287,
+          "end": 1295,
+          "text": "Catia V5"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1301,
+          "end": 1305,
+          "text": "Creo"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1322,
+          "end": 1325,
+          "text": "SAP"
+        },
+        {
+          "label": "SKILL",
+          "start": 1344,
+          "end": 1431,
+          "text": "Technisches Verständnis und sicherer Umgang mit technischen Zeichnungen und Stücklisten"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1392,
+          "end": 1431,
+          "text": "technischen Zeichnungen und Stücklisten"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1445,
+          "end": 1485,
+          "text": "relevanter Normen und Qualitätsstandards"
+        },
+        {
+          "label": "SKILL",
+          "start": 1488,
+          "end": 1546,
+          "text": "Strukturierte, sorgfältige und selbstständige Arbeitsweise"
+        },
+        {
+          "label": "SKILL",
+          "start": 1549,
+          "end": 1597,
+          "text": "Teamfähigkeit sowie gute Kommunikationsfähigkeit"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1605,
+          "end": 1614,
+          "text": "MS-Office"
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "source_file": "29_lagermitarbeiter.txt",
+      "text": "Lagermitarbeiter (m/w/d)\nbei\nSonae Arauco GmbH - Nettgau Werk Nettgau\nDie Bedeutung Ihrer Rolle\nAls Lagermitarbeiter (m/w/d) der TOOL GmbH sind Sie für die Übernahme und fachgerechte Einlagerung der Fertigwaren aus den Produktionsanlagen verantwortlich. Sie führen eigenständig\nUmlagerungen zur Optimierung der Lagerbestände durch und übernehmen die Verpackung der Fertigwaren – Sie sind somit die letzte Station im Fertigungsprozess und sorgen für einen\nreibungslosen Logistikablauf. Darüber hinaus gehören die Pflege und Wartung von Batterien sowie Gabelstaplern ebenso zu Ihrem Aufgabenbereich wie allgemeine Reinigungs- und\nOrdnungstätigkeiten. Mit Ihrer sorgfältigen Arbeitsweise tragen Sie zu sicheren Abläufen und einem reibungslosen Lagerbetrieb bei. Hauptaufgaben\n- Übernahme und Einlagerung der Fertigwaren der Produktionsanlagen\n- Eigenständige Umlagerung von Waren zur Optimierung der Lagerbestände\n- Verpackung von Fertigwaren\n- Pflege und Wartung von Batterien und Gabelstaplern\n- Reinigungstätigkeiten\nGewünschtes Profil\n- Stapler-Führerschein\n- Hohes Maß an Kommunikations- und Teamfähigkeit\n- Körperliche Fitness und ein hohes Maß an Belastbarkeit sind zwingend erforderlich\n- Bereitschaft zur Schichtarbeit\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 156,
+          "end": 237,
+          "text": "Übernahme und fachgerechte Einlagerung der Fertigwaren aus den Produktionsanlagen"
+        },
+        {
+          "label": "SKILL",
+          "start": 258,
+          "end": 376,
+          "text": "führen eigenständig\nUmlagerungen zur Optimierung der Lagerbestände durch und übernehmen die Verpackung der Fertigwaren"
+        },
+        {
+          "label": "SKILL",
+          "start": 438,
+          "end": 483,
+          "text": "sorgen für einen\nreibungslosen Logistikablauf"
+        },
+        {
+          "label": "SKILL",
+          "start": 512,
+          "end": 564,
+          "text": "Pflege und Wartung von Batterien sowie Gabelstaplern"
+        },
+        {
+          "label": "SKILL",
+          "start": 601,
+          "end": 647,
+          "text": "allgemeine Reinigungs- und\nOrdnungstätigkeiten"
+        },
+        {
+          "label": "SKILL",
+          "start": 659,
+          "end": 684,
+          "text": "sorgfältigen Arbeitsweise"
+        },
+        {
+          "label": "SKILL",
+          "start": 775,
+          "end": 839,
+          "text": "Übernahme und Einlagerung der Fertigwaren der Produktionsanlagen"
+        },
+        {
+          "label": "SKILL",
+          "start": 842,
+          "end": 910,
+          "text": "Eigenständige Umlagerung von Waren zur Optimierung der Lagerbestände"
+        },
+        {
+          "label": "SKILL",
+          "start": 913,
+          "end": 939,
+          "text": "Verpackung von Fertigwaren"
+        },
+        {
+          "label": "SKILL",
+          "start": 942,
+          "end": 992,
+          "text": "Pflege und Wartung von Batterien und Gabelstaplern"
+        },
+        {
+          "label": "SKILL",
+          "start": 995,
+          "end": 1016,
+          "text": "Reinigungstätigkeiten"
+        },
+        {
+          "label": "SKILL",
+          "start": 1074,
+          "end": 1107,
+          "text": "Kommunikations- und Teamfähigkeit"
+        },
+        {
+          "label": "SKILL",
+          "start": 1110,
+          "end": 1164,
+          "text": "Körperliche Fitness und ein hohes Maß an Belastbarkeit"
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "source_file": "30_technischer-projektleiter-elektro.txt",
+      "text": "Technischer Projektleiter Elektro- & Leittechnik (m/w/d)\nIhre Aufgaben\n- Technische Abwicklung von Kundenverträgen für elektrische und leittechnische Systeme im erweiterten Lieferumfang von Dampfturbinenanlagen\n- Verantwortung für die technische Koordination von Generatoren, Transformatoren sowie Mittel- und Hochspannungsschaltanlagen (MV/HV)\n- Spezifikation und Auslegung der Elektro- und Leittechnik auf Grundlage von Vertragsanforderungen, technischen Vorgaben und kundenspezifischen Anforderungen\n- Erstellung von Ausschreibungsunterlagen, Anfragespezifikationen und auftragsbegleitender technischer Dokumentation\n- Teilnahme an technischen Kundengesprächen sowie Koordination und Klärung projektspezifischer Fragestellungen\n- Technische Begleitung und Abnahme des verantworteten Lieferumfangs sowie nationale und internationale Reisetätigkeit\nIhre Qualifikationen\n- Abgeschlossenes Studium (Dipl.-Ing., Bachelor oder Master) bzw. Weiterbildung zum Techniker in Elektrotechnik, Elektrischen Systemen, Energietechnik, Mechatronik oder vergleichbar\n- Mindestens 2 Jahre einschlägige Berufserfahrung in einer vergleichbaren technischen Funktion\n- Erfahrung im Projektmanagement und/oder Engineering sowie in Montage- oder Inbetriebnahmetätigkeiten (IBS)\n- Kenntnisse in Kraftwerks-, Dampfturbinen- oder Energietechnik sowie im Umfeld elektrischer Energieanlagen sind von Vorteil\n- Sehr gute bzw. sichere Englischkenntnisse für internationale Projekte und Kundengespräche; Deutschkenntnisse und weitere Fremdsprachen sind von Vorteil\n- Bereitschaft zu nationalen und internationalen Dienstreisen sowie ausgeprägte Kommunikations-, Koordinations- und Schnittstellenkompetenz\n",
+      "annotations": [
+        {
+          "label": "SKILL",
+          "start": 73,
+          "end": 210,
+          "text": "Technische Abwicklung von Kundenverträgen für elektrische und leittechnische Systeme im erweiterten Lieferumfang von Dampfturbinenanlagen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 119,
+          "end": 157,
+          "text": "elektrische und leittechnische Systeme"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 190,
+          "end": 210,
+          "text": "Dampfturbinenanlagen"
+        },
+        {
+          "label": "SKILL",
+          "start": 213,
+          "end": 344,
+          "text": "Verantwortung für die technische Koordination von Generatoren, Transformatoren sowie Mittel- und Hochspannungsschaltanlagen (MV/HV)"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 263,
+          "end": 274,
+          "text": "Generatoren"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 276,
+          "end": 291,
+          "text": "Transformatoren"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 298,
+          "end": 336,
+          "text": "Mittel- und Hochspannungsschaltanlagen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 338,
+          "end": 343,
+          "text": "MV/HV"
+        },
+        {
+          "label": "SKILL",
+          "start": 347,
+          "end": 502,
+          "text": "Spezifikation und Auslegung der Elektro- und Leittechnik auf Grundlage von Vertragsanforderungen, technischen Vorgaben und kundenspezifischen Anforderungen"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 379,
+          "end": 403,
+          "text": "Elektro- und Leittechnik"
+        },
+        {
+          "label": "SKILL",
+          "start": 505,
+          "end": 619,
+          "text": "Erstellung von Ausschreibungsunterlagen, Anfragespezifikationen und auftragsbegleitender technischer Dokumentation"
+        },
+        {
+          "label": "SKILL",
+          "start": 622,
+          "end": 730,
+          "text": "Teilnahme an technischen Kundengesprächen sowie Koordination und Klärung projektspezifischer Fragestellungen"
+        },
+        {
+          "label": "SKILL",
+          "start": 733,
+          "end": 799,
+          "text": "Technische Begleitung und Abnahme des verantworteten Lieferumfangs"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1163,
+          "end": 1180,
+          "text": "Projektmanagement"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1190,
+          "end": 1201,
+          "text": "Engineering"
+        },
+        {
+          "label": "SKILL",
+          "start": 1211,
+          "end": 1250,
+          "text": "Montage- oder Inbetriebnahmetätigkeiten"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1273,
+          "end": 1320,
+          "text": "Kraftwerks-, Dampfturbinen- oder Energietechnik"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1337,
+          "end": 1364,
+          "text": "elektrischer Energieanlagen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1384,
+          "end": 1473,
+          "text": "Sehr gute bzw. sichere Englischkenntnisse für internationale Projekte und Kundengespräche"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1407,
+          "end": 1425,
+          "text": "Englischkenntnisse"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1475,
+          "end": 1492,
+          "text": "Deutschkenntnisse"
+        },
+        {
+          "label": "KNOWLEDGE",
+          "start": 1505,
+          "end": 1518,
+          "text": "Fremdsprachen"
+        },
+        {
+          "label": "SKILL",
+          "start": 1616,
+          "end": 1675,
+          "text": "Kommunikations-, Koordinations- und Schnittstellenkompetenz"
+        }
+      ]
+    }
+  ]
+}
