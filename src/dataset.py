@@ -55,6 +55,7 @@ def evaluate(model, loader, dataset, labels, layers, device, subset=None):
     model.eval()
     gold = {l: [] for l in layers}
     pred = {l: [] for l in layers}
+    index = []
     for batch in loader:
         ids = batch["input_ids"].to(device)
         att = batch["attention_mask"].to(device)
@@ -68,6 +69,8 @@ def evaluate(model, loader, dataset, labels, layers, device, subset=None):
                 word_ids = [None if w == -1 else w for w in batch["word_ids"][b].tolist()]
                 tags = to_word_level(out[l][b].tolist(), word_ids, int(batch["n_words"][b]),
                                      labels[l]["id2label"])
+                if l == layers[0]:
+                    index.append(i)
                 pred[l].append(tags)
                 gold[l].append(dataset.rows[i][f"{l}_tags"])
     results = {}
@@ -76,4 +79,34 @@ def evaluate(model, loader, dataset, labels, layers, device, subset=None):
                       "recall": recall_score(gold[l], pred[l]),
                       "f1": f1_score(gold[l], pred[l]),
                       "report": classification_report(gold[l], pred[l], digits=4, zero_division=0)}
+    pred["_index"] = index
     return results, gold, pred
+
+
+def save_predictions(dataset, gold, pred, layers, out_dir="results/predictions"):
+    """Schreibt Tokens, Gold- und vorhergesagte Tags pro Testsatz als jsonl."""
+    import json
+    import os
+    import sys
+
+    argv = sys.argv
+
+    def arg(name, default=""):
+        return argv[argv.index(name) + 1] if name in argv and argv.index(name) + 1 < len(argv) else default
+
+    cfg = os.path.splitext(os.path.basename(arg("--config", "run")))[0]
+    seed = arg("--seed", "noseed")
+    data = os.path.basename(arg("--data", "processed").rstrip("/"))
+    smoke = "_smoke" if "--smoke" in argv else ""
+    os.makedirs(out_dir, exist_ok=True)
+    path = os.path.join(out_dir, f"{cfg}_{data}_seed{seed}{smoke}.jsonl")
+    with open(path, "w", encoding="utf-8") as f:
+        for k, i in enumerate(pred["_index"]):
+            row = dataset.rows[i]
+            rec = {"id": row.get("id", i), "tokens": row["tokens"],
+                   "seen_in_train": row.get("seen_in_train")}
+            for l in layers:
+                rec[f"gold_{l}"] = gold[l][k]
+                rec[f"pred_{l}"] = pred[l][k]
+            f.write(json.dumps(rec, ensure_ascii=False) + "\n")
+    print(f"Vorhersagen gespeichert: {path}")

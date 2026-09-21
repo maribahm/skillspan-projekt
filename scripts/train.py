@@ -31,7 +31,7 @@ from transformers import AutoTokenizer, get_linear_schedule_with_warmup
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 from data import load_labels, load_split  # noqa: E402
-from dataset import SpanDataset, evaluate, make_collate  # noqa: E402
+from dataset import SpanDataset, evaluate, make_collate, save_predictions  # noqa: E402
 from model import SpanTagger  # noqa: E402
 
 
@@ -126,7 +126,8 @@ def main():
     print(f"Bestes Modell: Epoche {best['epoch']} (Dev-F1 {best['f1']:.4f})")
     model.load_state_dict(best["state"])
 
-    test, _, _ = evaluate(model, loaders["test"], sets["test"], labels, layers, device)
+    test, gold_test, pred_test = evaluate(model, loaders["test"], sets["test"], labels, layers, device)
+    save_predictions(sets["test"], gold_test, pred_test, layers)
     # Zusatzauswertung: nur Saetze, die NICHT identisch im Train-Set stehen
     unseen = [not r.get("seen_in_train", False) for r in splits["test"]]
     test_unseen, _, _ = evaluate(model, loaders["test"], sets["test"], labels, layers, device, subset=unseen)
