@@ -25,13 +25,19 @@ je 3 Seeds (3477689, 4213916, 8749520), 12 Epochen, `strategy: first`
 
 **Frage:** Bringt domänenspezifisches Pretraining auf Stellenanzeigen einen messbaren Vorteil?
 
-| Modell | Ø F1 | Bereich |
-|---|---|---|
-| bert-base-cased | 0.510 | 0.5005 – 0.5177 |
-| JobBERT | 0.549 | 0.5289 – 0.5606 |
+| Modell | Ø F1 | Bereich | Ø Precision | Ø Recall |
+|---|---|---|---|---|
+| bert-base-cased | 0.510 | 0.5005 – 0.5177 | 0.566 | 0.464 |
+| JobBERT | 0.549 | 0.5289 – 0.5606 | 0.575 | 0.526 |
 
 **Ergebnis:** +3,9 Punkte für JobBERT. Die Wertebereiche überschneiden sich nicht
 (BERT max. 0.518, JobBERT min. 0.529) — über drei Seeds ein belastbarer Unterschied.
+
+**Mechanismus:** Der Gewinn kommt fast vollständig über den Recall (+6,2 Punkte), die
+Precision steigt nur um 0,9 Punkte. Das domänenangepasste Modell findet also deutlich mehr
+Skills, statt die gefundenen nur genauer abzugrenzen. Plausibel ist, dass JobBERT durch das
+Vortraining auf Stellenanzeigen typische Formulierungen von Anforderungen bereits kennt und
+sie deshalb häufiger als Skill erkennt.
 
 **Einordnung:** Reproduziert die Kernaussage von SkillSpan. Domain-adaptives Pretraining
 auf Stellenanzeigen hilft, obwohl JobBERT dieselbe Architektur und Größe hat wie BERT.
@@ -44,17 +50,21 @@ auf Stellenanzeigen hilft, obwohl JobBERT dieselbe Architektur und Größe hat w
 
 | Decoder | Ø F1 | Ø Precision | Ø Recall |
 |---|---|---|---|
-| CRF | 0.549 | 0.571 | 0.530 |
-| linear | 0.513 | 0.515 | 0.529 |
+| CRF | 0.549 | 0.575 | 0.526 |
+| linear | 0.513 | 0.498 | 0.528 |
 
 **Ergebnis:** +3,6 Punkte für den CRF, Bereiche überschneiden sich nicht
 (linear max. 0.520, CRF min. 0.529).
 
-**Mechanismus:** Der Gewinn kommt fast vollständig über die Precision (+5,6 Punkte), der
-Recall ist praktisch identisch. Der CRF erzwingt gültige BIO-Übergänge und unterdrückt
+**Mechanismus:** Der Gewinn kommt vollständig über die Precision (+7,7 Punkte), der
+Recall ist praktisch identisch (−0,2 Punkte). Der CRF erzwingt gültige BIO-Übergänge und unterdrückt
 dadurch ungültige Sequenzen (`I-SKILL` ohne vorangehendes `B-SKILL`), die sonst als
 fehlerhafte Teilspans gezählt würden. Bei langen Spans wirkt das stärker als bei kurzen,
 weil dort mehr Übergänge pro Span stimmen müssen.
+
+**Zusammenspiel mit Experiment 1:** Beide Komponenten wirken an unterschiedlichen Stellen.
+Domänenspezifisches Vortraining verbessert das *Finden* von Skills (Recall), der CRF das
+*korrekte Abgrenzen* (Precision).
 
 ---
 
@@ -133,8 +143,11 @@ sich nur die Spangrenzen durch die Regeln R1 und R2.
 Allein die Anpassung der Spangrenzen hebt die gemessene Leistung um 11,2 Punkte.
 Gut ein Drittel des zunächst gemessenen Transferverlusts ging damit nicht auf die
 Sprache zurück, sondern darauf, wie lang und mit welchen Rahmenwörtern die Spans
-annotiert waren. Der Effekt liegt weit über der Seed-Streuung (unter 3 Punkten) und ist
-damit belastbar.
+annotiert waren. Der Effekt liegt deutlich über der Unsicherheit der Einzelläufe und ist damit
+belastbar. Diese Unsicherheit ist auf dem deutschen Testset allerdings größer als die
+Seed-Streuung allein nahelegt: Ein erneuter Lauf mit identischem Seed 3477689 ergab
+F1 0.389 statt 0.351. Die Schwankung einzelner Läufe liegt dort also bei rund
+±4 Punkten.
 
 **Einordnung:** Bei strikter Span-F1 ist jede Abweichung von der Konvention des
 Trainingsdatensatzes ein Fehler. Das Modell hat die Grenzkonventionen von SkillSpan
