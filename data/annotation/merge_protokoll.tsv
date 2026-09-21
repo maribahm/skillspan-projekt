@@ -1,0 +1,303 @@
+doc_id	layer	span	position	zuordnung
+01_performance-marketing-manager	SKILL	Erstellung und Abstimmung von Kommunikations - und Vertriebsunterlagen	709-778	exakt wie A
+01_performance-marketing-manager	SKILL	Begleitung der digitalen Weiterentwicklung des Marketings	945-1002	exakt wie B
+01_performance-marketing-manager	SKILL	Aufbau eines professionellen Produktmarketings	1024-1070	exakt wie A
+01_performance-marketing-manager	SKILL	Planung , Überwachung und Einhaltung des Marketingbudgets	1087-1143	exakt wie A
+01_performance-marketing-manager	SKILL	Kommunikationsfähigkeit	1696-1719	am strittigen Span
+01_performance-marketing-manager	KNOWLEDGE	B2B-Umfeld	332-342	exakt wie B
+01_performance-marketing-manager	KNOWLEDGE	Produktmarketings	1053-1070	exakt wie B
+01_performance-marketing-manager	KNOWLEDGE	B2B-Bezug	1257-1266	exakt wie B
+02_social-media-manager	SKILL	Bildbearbeitung mit Adobe Photoshop CC	444-482	exakt wie A
+02_social-media-manager	SKILL	Grafikdesign mit Adobe CC	533-558	exakt wie A
+02_social-media-manager	SKILL	unterrichten	165-177	am strittigen Span
+02_social-media-manager	SKILL	Vermittlung	406-417	am strittigen Span
+02_social-media-manager	KNOWLEDGE	Adobe Photoshop CC	464-482	exakt wie A
+02_social-media-manager	KNOWLEDGE	Adobe CC	550-558	exakt wie A
+02_social-media-manager	KNOWLEDGE	Künstliche Intelligenz ( KI )	485-512	am strittigen Span
+02_social-media-manager	KNOWLEDGE	Social Media Marketing	572-594	exakt wie A
+02_social-media-manager	KNOWLEDGE	Content Marketing	608-625	exakt wie A
+03_e-commerce-trainer	SKILL	unterrichten	169-181	am strittigen Span
+03_e-commerce-trainer	SKILL	Vermittlung	415-426	am strittigen Span
+03_e-commerce-trainer	KNOWLEDGE	E-Commerce	468-478	exakt wie A
+03_e-commerce-trainer	KNOWLEDGE	Online-Shop-Systeme und - Gestaltung	502-537	exakt wie B
+03_e-commerce-trainer	KNOWLEDGE	Künstliche Intelligenz ( KI )	540-567	am strittigen Span
+03_e-commerce-trainer	KNOWLEDGE	Online-Marketing	588-604	exakt wie A
+03_e-commerce-trainer	KNOWLEDGE	Kundengewinnung	609-624	exakt wie A
+03_e-commerce-trainer	KNOWLEDGE	Zahlungssysteme	627-642	exakt wie A
+03_e-commerce-trainer	KNOWLEDGE	Finanzen	647-655	exakt wie A
+03_e-commerce-trainer	KNOWLEDGE	Logistik	658-666	exakt wie A
+03_e-commerce-trainer	KNOWLEDGE	Fulfillment	671-682	exakt wie A
+03_e-commerce-trainer	KNOWLEDGE	Kundenservice	685-698	exakt wie A
+03_e-commerce-trainer	KNOWLEDGE	CRM	703-706	exakt wie A
+03_e-commerce-trainer	KNOWLEDGE	Web-Controlling	709-724	exakt wie A
+03_e-commerce-trainer	KNOWLEDGE	Datenanalyse	729-741	exakt wie A
+04_produktmanager	SKILL	Eigenverantwortliche Begleitung und Weiterentwicklung unserer Produkte von der Idee bis zur Umsetzung	1304-1405	exakt wie B
+04_produktmanager	SKILL	Mitwirkung an Produktstrategie , Roadmaps und Business Cases	1626-1685	exakt wie A
+04_produktmanager	SKILL	Entwicklung eines konsistenten , zukunftsfähigen Produktportfolios	1725-1790	exakt wie A
+04_produktmanager	SKILL	Optimierung von Go-to-Market-Prozessen	2137-2175	exakt wie A
+04_produktmanager	SKILL	Arbeit mit technischen Teams	2835-2863	am strittigen Span
+04_produktmanager	SKILL	Übersetzung von Anforderungen in umsetzbare Produktlösungen	2877-2936	exakt wie A
+04_produktmanager	SKILL	Strategische und zugleich pragmatische Arbeitsweise	2939-2990	exakt wie A
+04_produktmanager	SKILL	Vision und Umsetzung in Einklang zu bringen	3010-3053	am strittigen Span
+04_produktmanager	SKILL	kommunikative Fähigkeiten	3073-3098	am strittigen Span
+04_produktmanager	SKILL	Projekte selbstständig zu übernehmen und voranzutreiben	3120-3175	exakt wie A
+04_produktmanager	SKILL	Weiterentwicklung unserer Produkte	240-274	am strittigen Span
+04_produktmanager	SKILL	übersetzt Kundenanforderungen und Marktbedarfe in klare Produktanforderungen	360-436	am strittigen Span
+04_produktmanager	SKILL	priorisierst Features	438-459	am strittigen Span
+04_produktmanager	SKILL	begleitest Produkte von der Idee bis zur erfolgreichen Umsetzung	464-528	am strittigen Span
+04_produktmanager	SKILL	eigenverantwortlich	709-728	am strittigen Span
+04_produktmanager	SKILL	datenbasiert	730-742	am strittigen Span
+04_produktmanager	SKILL	pragmatisch	747-758	am strittigen Span
+04_produktmanager	SKILL	Unterstützung reibungsloser Abläufe	2016-2051	am strittigen Span
+04_produktmanager	KNOWLEDGE	Produktstrategie	124-140	exakt wie A
+04_produktmanager	KNOWLEDGE	technische Produktentwicklung	143-172	exakt wie A
+04_produktmanager	KNOWLEDGE	Go-to-Market	187-199	exakt wie A
+04_produktmanager	KNOWLEDGE	Business Cases	1671-1685	exakt wie A
+04_produktmanager	KNOWLEDGE	Produktmanagement	2452-2469	exakt A=B
+04_produktmanager	KNOWLEDGE	Produktstrategie	2732-2748	exakt wie A
+04_produktmanager	KNOWLEDGE	Marktmechaniken	2750-2765	exakt wie A
+04_produktmanager	KNOWLEDGE	technische Produktentwicklung	2767-2796	exakt wie A
+04_produktmanager	KNOWLEDGE	Business Cases	2801-2815	exakt wie A
+04_produktmanager	KNOWLEDGE	Go-to-Market-Prozessen	2153-2175	exakt wie B
+04_produktmanager	KNOWLEDGE	IoT - , SaaS - , Energie - oder Funktechnologie-nahen Umfeld	2507-2562	am strittigen Span
+05_marketing-allrounder-seo	SKILL	Eigenständige Betreuung und kontinuierliche Optimierung unserer Website	543-614	exakt wie A
+05_marketing-allrounder-seo	SKILL	Aufbau und Pflege von Backlinks	692-723	exakt wie A
+05_marketing-allrounder-seo	SKILL	Zusammenarbeit mit relevanten Portalen , Verbänden und Kooperationspartnern	730-804	exakt wie A
+05_marketing-allrounder-seo	SKILL	Positionierung unserer Standorte	892-924	am strittigen Span
+05_marketing-allrounder-seo	SKILL	Enge Zusammenarbeit mit der Geschäftsführung	1047-1091	am strittigen Span
+06_sozialarbeiter-psychosozialer-dienst	SKILL	Beratung von Patient : innen und deren Angehörige in Bezug auf die Sicherung der nachstationären Versorgung	2514-2619	exakt wie A
+06_sozialarbeiter-psychosozialer-dienst	SKILL	Zusammenarbeit im multiprofessionellen Team	2988-3031	exakt wie A
+06_sozialarbeiter-psychosozialer-dienst	SKILL	Strukturierte und zuverlässige Arbeitsweise	3134-3177	exakt wie A
+06_sozialarbeiter-psychosozialer-dienst	SKILL	lösungsorientiertes , selbstständiges und verantwortungsvolles Arbeiten	3184-3254	exakt wie A
+06_sozialarbeiter-psychosozialer-dienst	KNOWLEDGE	sozialrechtlichen Fragestellungen	2416-2449	exakt wie B
+06_sozialarbeiter-psychosozialer-dienst	KNOWLEDGE	psychischen Erkrankungen	2887-2911	exakt wie B
+07_heilerziehungspfleger	SKILL	Gestaltung von pädagogischen Angeboten	753-791	exakt wie A
+07_heilerziehungspfleger	SKILL	Elternarbeit	1331-1343	exakt wie A
+07_heilerziehungspfleger	SKILL	Dokumentation	1345-1358	exakt wie A
+07_heilerziehungspfleger	SKILL	Entwicklungsbegleitung	1363-1385	exakt wie A
+07_heilerziehungspfleger	SKILL	Teamfähigkeit	1388-1401	exakt wie A
+07_heilerziehungspfleger	SKILL	Kreativität	1403-1414	exakt wie A
+07_heilerziehungspfleger	SKILL	Zuverlässigkeit	1416-1431	exakt wie A
+07_heilerziehungspfleger	SKILL	Einfühlungsvermögen	1436-1455	exakt wie A
+07_heilerziehungspfleger	SKILL	Kommunikationsfähigkeit	1463-1486	exakt wie B
+07_heilerziehungspfleger	KNOWLEDGE	Krippen - oder Elementarbereich	1194-1224	exakt wie B
+08_sozialpaedagogische-assistenz-krippe	SKILL	leitest mit einer weiteren päd . Fachkraft eine Gruppe von 10-13 Krippenkindern	327-405	exakt wie A
+09_spa-sozialpaedagogischer-assistent	SKILL	förderst die Kinder im Krippenbereich oder Elementarbereich individuell nach ihren Bedürfnissen	542-637	exakt wie A
+09_spa-sozialpaedagogischer-assistent	SKILL	entwickelst und konzipierst Angebote in deinem eigenen pädagogischen Schwerpunkt	793-873	exakt wie A
+09_spa-sozialpaedagogischer-assistent	SKILL	Kinderbetreuung	1012-1027	exakt wie A
+09_spa-sozialpaedagogischer-assistent	SKILL	herzlich	1247-1255	am strittigen Span
+09_spa-sozialpaedagogischer-assistent	SKILL	engagiert	1257-1266	am strittigen Span
+09_spa-sozialpaedagogischer-assistent	SKILL	offen	1268-1273	am strittigen Span
+09_spa-sozialpaedagogischer-assistent	SKILL	Teamplayer	1289-1299	am strittigen Span
+09_spa-sozialpaedagogischer-assistent	SKILL	vertrauensvolle Bezugsperson	1408-1436	exakt wie A
+09_spa-sozialpaedagogischer-assistent	SKILL	berücksichtigst das Konzept des jeweiligen Kita oder Kindergarten	879-944	am strittigen Span
+09_spa-sozialpaedagogischer-assistent	SKILL	findest schnell Anschluss	1305-1330	am strittigen Span
+09_spa-sozialpaedagogischer-assistent	SKILL	motiviert	1348-1357	am strittigen Span
+10_pflegefachkraft-senator-neumann-haus	SKILL	ganzheitliche Pflege im Rahmen des Pflegeprozesses	570-620	exakt wie A
+10_pflegefachkraft-senator-neumann-haus	SKILL	Medikamentenmanagement	647-669	exakt wie A
+10_pflegefachkraft-senator-neumann-haus	SKILL	führst Pflegevisiten durch	674-700	exakt wie A
+10_pflegefachkraft-senator-neumann-haus	SKILL	arbeitest eng mit Kolleg : innen aus unterschiedlichen Berufsgruppen zusammen	706-781	exakt wie A
+10_pflegefachkraft-senator-neumann-haus	SKILL	unterstützt die Nutzenden dabei , ihre Lebensqualität und Eigenständigkeit zu erhalten und weiterzuentwickeln	787-895	exakt wie A
+10_pflegefachkraft-senator-neumann-haus	SKILL	berätst und motivierst die von dir begleiteten Menschen im Alltag	901-966	exakt wie A
+10_pflegefachkraft-senator-neumann-haus	SKILL	Zusammenarbeit in einem multiprofessionellen Team	1341-1390	exakt wie A
+10_pflegefachkraft-senator-neumann-haus	SKILL	begleitest Menschen mit Behinderung in Pflege und Alltag	90-146	exakt wie B
+10_pflegefachkraft-senator-neumann-haus	SKILL	Arbeit mit Menschen mit Behinderung	1166-1201	exakt wie B
+11_mechatroniker	SKILL	montierst , installierst und nimmst mechatronische Systeme und Anlagen wie Maschinen oder Roboter in Betrieb	70-177	exakt wie A
+11_mechatroniker	SKILL	stellst mechanische , elektrische und elektronische Komponenten her und baust sie zusammen	183-272	exakt wie A
+11_mechatroniker	SKILL	programmierst und konfigurierst Steuerungen und Software	278-334	exakt wie A
+11_mechatroniker	SKILL	führst Messungen , Prüfungen und Fehlerdiagnosen durch	378-431	exakt wie A
+11_mechatroniker	SKILL	Wartung , Reparaturen und Instandhaltung von Maschinen und Anlagen	452-517	am strittigen Span
+11_mechatroniker	SKILL	liest technische Zeichnungen sowie Schalt - und Montagepläne	523-582	exakt wie A
+11_mechatroniker	SKILL	Einweisung der Anwender in die Bedienung	636-676	exakt wie A
+11_mechatroniker	SKILL	Kundenbetreuung	707-722	exakt wie A
+11_mechatroniker	SKILL	dokumentierst deine Arbeit sorgfältig und nachvollziehbar	728-785	exakt wie A
+11_mechatroniker	SKILL	technisches Verständnis	1160-1183	am strittigen Span
+11_mechatroniker	SKILL	handwerklich geschickt	1190-1212	am strittigen Span
+11_mechatroniker	SKILL	lösungsorientiert	1214-1231	am strittigen Span
+11_mechatroniker	SKILL	zuverlässig	1236-1247	am strittigen Span
+11_mechatroniker	KNOWLEDGE	Steuerungs - und Automatisierungstechnik		bereits vorhanden
+11_mechatroniker	KNOWLEDGE	Mess - und Diagnosesystemen		bereits vorhanden
+11_mechatroniker	KNOWLEDGE	Deutsch		bereits vorhanden
+12_softwareentwickler	SKILL	Entwicklung und Betrieb einer modernen , cloudbasierten Plattform zur Digitalisierung interner Verwaltungsprozesse	1180-1293	exakt wie A
+12_softwareentwickler	SKILL	Optimierung der Entwicklungs - , Test - und Produktionsumgebungen	1333-1395	exakt wie A
+12_softwareentwickler	SKILL	Sicherstellung eines stabilen , sicheren und skalierbaren Betriebs	1402-1467	exakt wie A
+12_softwareentwickler	SKILL	Eigenverantwortliche Weiterentwicklung fachlicher und technischer Lösungskonzepte	1500-1581	exakt wie A
+12_softwareentwickler	SKILL	Aktive Mitgestaltung der Cloud-Architektur und digitalen Plattformen	1825-1893	exakt wie A
+12_softwareentwickler	SKILL	Selbstständigkeit	2363-2380	am strittigen Span
+12_softwareentwickler	SKILL	Verantwortungsbewusstsein	2382-2407	am strittigen Span
+12_softwareentwickler	SKILL	Teamfähigkeit	2412-2425	am strittigen Span
+12_softwareentwickler	KNOWLEDGE	Deutschkenntnisse		bereits vorhanden
+12_softwareentwickler	KNOWLEDGE	Infrastructure as Code	411-433	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Cloud-Technologien	435-453	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Clean Code	455-465	exakt wie A
+12_softwareentwickler	KNOWLEDGE	KI	519-521	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Grafana Cloud	589-602	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Kubernetes	604-614	exakt wie A
+12_softwareentwickler	KNOWLEDGE	AWS	616-619	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Terraform	621-630	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Crossplane	632-642	exakt wie A
+12_softwareentwickler	KNOWLEDGE	ArgoCD	644-650	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Tilt	652-656	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Atlas MongoDB	658-671	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Spring Boot	701-712	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Java	717-721	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Softwareentwicklung	777-796	exakt wie A
+12_softwareentwickler	KNOWLEDGE	DevOps	801-807	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Java	2119-2123	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Cloud-Technologien	2212-2230	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Automatisierung	2232-2247	exakt wie A
+12_softwareentwickler	KNOWLEDGE	Build - , Test - und Deployment-Workflows	1678-1716	exakt wie B
+13_fachinformatiker-systemintegration	SKILL	Administration und Wartung der IT-Systeme unserer Kunden	704-760	exakt wie A
+13_fachinformatiker-systemintegration	SKILL	Kundensupport und technische Beratung	1046-1083	exakt wie A
+13_fachinformatiker-systemintegration	KNOWLEDGE	Microsoft 365	1557-1570	exakt wie A
+13_fachinformatiker-systemintegration	KNOWLEDGE	VMware	1640-1646	exakt wie A
+13_fachinformatiker-systemintegration	KNOWLEDGE	Hyper-V	1648-1655	exakt wie A
+13_fachinformatiker-systemintegration	KNOWLEDGE	Firewall	1686-1694	exakt wie A
+13_fachinformatiker-systemintegration	KNOWLEDGE	Backup - und Wiederherstellungsprozessen	1184-1223	exakt wie B
+13_fachinformatiker-systemintegration	KNOWLEDGE	Cyberbedrohungen	1282-1298	exakt wie B
+14_it-support	SKILL	Unterstützung bei technischen Anfragen	1290-1328	am strittigen Span
+14_it-support	KNOWLEDGE	Deutschkenntnisse		bereits vorhanden
+14_it-support	KNOWLEDGE	Windows	1183-1190	exakt wie B
+14_it-support	KNOWLEDGE	Betriebssystemen	1271-1287	exakt wie B
+15_data-engineer	SKILL	Weiterentwicklung unserer Datenlandschaft	450-491	am strittigen Span
+15_data-engineer	SKILL	Konzeption , Umsetzung und dem Betrieb unserer modernen On-Premises-Lakehouse-Architektur	607-695	exakt wie A
+15_data-engineer	SKILL	entwickeln , betreiben und optimieren ETL - bzw . Datenpipelines zur Integration und Verarbeitung unterschiedlicher Datenquellen	707-832	exakt wie A
+15_data-engineer	SKILL	Weiterentwicklung und Modernisierung bestehender Data-Warehouse-Strukturen	857-931	exakt wie A
+15_data-engineer	SKILL	stellen eine hohe Datenqualität und Datenverfügbarkeit sicher	974-1035	exakt wie A
+15_data-engineer	SKILL	identifizieren Optimierungsmöglichkeiten	1040-1080	am strittigen Span
+15_data-engineer	SKILL	übersetzen Sie fachliche Anforderungen in praktikable Datenlösungen	1116-1183	exakt wie A
+15_data-engineer	KNOWLEDGE	Datenarchitekturen	338-356	exakt wie A
+15_data-engineer	KNOWLEDGE	Entwicklungs - und DevOps-Themen	1234-1265	am strittigen Span
+15_data-engineer	KNOWLEDGE	Datenpipelines	1556-1570	exakt wie A
+15_data-engineer	KNOWLEDGE	Data-Warehouse - oder Lakehouse-Architekturen	1673-1717	exakt wie B
+15_data-engineer	KNOWLEDGE	Snowflake	1734-1743	exakt wie A
+15_data-engineer	KNOWLEDGE	Deutsch - und Englischkenntnisse	2005-2036	exakt wie A
+16_marketing-manager-hotel	SKILL	Planung , Koordination und Steuerung integrierter Marketingkampagnen	167-234	exakt wie A
+16_marketing-manager-hotel	SKILL	Entwicklung innovativer Konzepte zur Umsatzsteigerung und Gästebindung	311-381	exakt wie A
+16_marketing-manager-hotel	SKILL	Planung und Umsetzung von Presseveranstaltungen , Hotel-Events und Marketingaktivierungen	896-984	exakt wie A
+16_marketing-manager-hotel	SKILL	Analyse von Markt - und Wettbewerbstrends	987-1027	am strittigen Span
+16_marketing-manager-hotel	SKILL	Identifikation neuer Potenziale	1034-1065	am strittigen Span
+16_marketing-manager-hotel	SKILL	Führung und Entwicklung des Sales & Marketing Coordinators sowie der Dualen Studenten und Auszubildenden	1115-1219	exakt wie B
+16_marketing-manager-hotel	SKILL	arbeitest strukturiert , eigenverantwortlich	1763-1806	exakt wie A
+16_marketing-manager-hotel	SKILL	behältst auch bei mehreren Projekten gleichzeitig den Überblick	1811-1874	am strittigen Span
+16_marketing-manager-hotel	SKILL	kommunizierst souverän in deutscher und englischer Sprache	1880-1938	exakt wie A
+16_marketing-manager-hotel	KNOWLEDGE	Marketing	434-443	exakt wie B
+16_marketing-manager-hotel	KNOWLEDGE	Social-Media-Kanäle	576-595	exakt wie B
+16_marketing-manager-hotel	KNOWLEDGE	Hotellerie - , Tourismus - oder Lifestyle-Branche	1506-1552	exakt wie B
+17_sachbearbeitung-fes	SKILL	Organisatorische Vor - und Nachbereitung von Maßnahmen der politischen Bildung und Beratung	95-185	exakt wie A
+17_sachbearbeitung-fes	SKILL	Team - und Kommunikationsfähigkeit	755-788	exakt wie B
+17_sachbearbeitung-fes	KNOWLEDGE	Social-Media	923-935	exakt wie A
+17_sachbearbeitung-fes	KNOWLEDGE	politischen Bildung	153-172	exakt wie B
+17_sachbearbeitung-fes	KNOWLEDGE	Content Management Systemen		bereits vorhanden
+17_sachbearbeitung-fes	KNOWLEDGE	Videokonferenzsystemen		bereits vorhanden
+18_buchhaltung-aurea	SKILL	Prüfung von Steuerbescheiden	130-158	am strittigen Span
+18_buchhaltung-aurea	SKILL	Sicherstellung termingerechter Vorauszahlungen	191-237	exakt wie A
+18_buchhaltung-aurea	SKILL	Erstellung von Monats - , Quartals - und Jahresabschlüssen nach HGB	254-318	exakt wie A
+18_buchhaltung-aurea	SKILL	Konsolidierung auf Gruppenebene	393-424	am strittigen Span
+18_buchhaltung-aurea	SKILL	Erstellung von Kostenstellenreports	471-506	am strittigen Span
+18_buchhaltung-aurea	SKILL	Führung des Anlagevermögens	511-538	am strittigen Span
+18_buchhaltung-aurea	SKILL	Periodengerechte Abgrenzung von Unternehmenskosten	560-610	exakt wie A
+18_buchhaltung-aurea	SKILL	Buchung von Geschäftsvorfällen	624-654	am strittigen Span
+18_buchhaltung-aurea	SKILL	Optimierung von Geschäftsprozessen	823-857	am strittigen Span
+18_buchhaltung-aurea	SKILL	Umsetzung gesetzlicher Neuerungen	862-895	am strittigen Span
+18_buchhaltung-aurea	SKILL	Durchführung von Mitarbeiterschulungen	949-987	exakt wie A
+18_buchhaltung-aurea	SKILL	Kontenabstimmungen	990-1008	exakt wie A
+18_buchhaltung-aurea	SKILL	abschlusssichere Buchungen im Rahmen des Jahresabschlusses	1062-1120	exakt wie A
+18_buchhaltung-aurea	SKILL	Bereitstellung aller Haupt - und Nebenbücher für Wirtschaftsprüfer	1123-1188	exakt wie A
+18_buchhaltung-aurea	SKILL	Begleitung der Inventur	1193-1216	exakt wie A
+18_buchhaltung-aurea	SKILL	Sachkonten-Mapping	1296-1314	am strittigen Span
+18_buchhaltung-aurea	SKILL	Abstimmung von Intercompany-Sachverhalten	1353-1394	exakt wie A
+18_buchhaltung-aurea	SKILL	Analyse von Finanzdaten	1397-1420	exakt wie A
+18_buchhaltung-aurea	SKILL	Kontrolle von Betriebskosten und Buchungen auf Sachkostenebene	1427-1489	exakt wie A
+18_buchhaltung-aurea	SKILL	Erstellung von Umsatzsteuerjahresmeldungen , K-4 Meldungen und Meldungen zur Strukturstatistik bzw . globalen Wertschöpfung	1492-1613	am strittigen Span
+18_buchhaltung-aurea	SKILL	Weiterleitung der Jahresabschlüsse	1627-1661	am strittigen Span
+18_buchhaltung-aurea	SKILL	Kommunikation mit Banken	1666-1690	exakt wie A
+18_buchhaltung-aurea	SKILL	Verwaltung von Perioden im ERP-System	1693-1730	exakt wie A
+18_buchhaltung-aurea	SKILL	Führungserfahrung	2382-2399	exakt wie A
+18_buchhaltung-aurea	SKILL	ein Team zu leiten und zu entwickeln	2419-2455	exakt wie A
+18_buchhaltung-aurea	SKILL	Kommunikationsfähigkeiten	2536-2561	am strittigen Span
+18_buchhaltung-aurea	KNOWLEDGE	HGB	1290-1293	exakt wie A
+18_buchhaltung-aurea	KNOWLEDGE	HGB	2062-2065	exakt wie A
+18_buchhaltung-aurea	KNOWLEDGE	Umsatzsteuer	2094-2106	exakt wie A
+18_buchhaltung-aurea	KNOWLEDGE	DATEV	2209-2214	exakt wie A
+18_buchhaltung-aurea	KNOWLEDGE	Excel	2252-2257	exakt wie A
+18_buchhaltung-aurea	KNOWLEDGE	Deutsch	2565-2572	exakt wie A
+18_buchhaltung-aurea	KNOWLEDGE	KöSt	239-243	exakt wie B
+18_buchhaltung-aurea	KNOWLEDGE	GewSt	245-250	exakt wie B
+18_buchhaltung-aurea	KNOWLEDGE	Finanzbuchhaltung		bereits vorhanden
+19_sachbearbeiter-controlling	SKILL	Pflege und Verwaltung von Stammdaten für Investitionsprojekte	77-138	exakt wie A
+19_sachbearbeiter-controlling	SKILL	Weiterentwicklung und Optimierung des Investitionscontrollings	554-616	exakt wie A
+19_sachbearbeiter-controlling	KNOWLEDGE	SAP-PS-Systems	510-524	exakt wie A
+19_sachbearbeiter-controlling	KNOWLEDGE	SAP PS	924-930	exakt wie A
+19_sachbearbeiter-controlling	KNOWLEDGE	MS Office	1041-1050	exakt wie A
+19_sachbearbeiter-controlling	KNOWLEDGE	Investitionscontrollings	592-616	exakt wie B
+19_sachbearbeiter-controlling	KNOWLEDGE	Deutschkenntnisse		bereits vorhanden
+20_pflegefachkraft-remacare	SKILL	Durchführung der allgemeinen Grundpflege und Behandlungspflege	64-126	am strittigen Span
+20_pflegefachkraft-remacare	SKILL	Körperpflege	151-163	exakt wie A
+20_pflegefachkraft-remacare	SKILL	Mobilisation	165-177	exakt wie A
+20_pflegefachkraft-remacare	SKILL	Medikamentengabe	179-195	exakt wie A
+20_pflegefachkraft-remacare	SKILL	Wundversorgung	197-211	exakt wie A
+20_pflegefachkraft-remacare	SKILL	Blutdruck - , Puls - und Blutzuckerkontrolle	213-254	exakt wie A
+20_pflegefachkraft-remacare	SKILL	Portversorgung	256-270	exakt wie A
+20_pflegefachkraft-remacare	SKILL	Durchführung der allgemeinen Grundpflege und Behandlungspflege		an Satzgrenze geteilt (2 Teile)
+21_erzieher	SKILL	Gestaltung eines liebevollen und sicheren Umfelds	193-242	exakt wie A
+21_erzieher	SKILL	Kreative Ideen	869-883	exakt wie A
+21_erzieher	SKILL	Kinder im Alltag zu inspirieren und zu fördern	902-948	exakt wie B
+22_sozialarbeiter-jugendhilfe	SKILL	konzeptioneller Weiterentwicklung	720-753	am strittigen Span
+22_sozialarbeiter-jugendhilfe	KNOWLEDGE	Jugendarbeit		bereits vorhanden
+23_produktionsmitarbeiter	SKILL	bestücken , steuern und überwachen unsere Anlagen und Maschinen	44-106	exakt wie A
+23_produktionsmitarbeiter	SKILL	verantworten einzelne Produktionsbereiche für die Herstellung von Reinigern und Polituren	113-202	exakt wie A
+23_produktionsmitarbeiter	SKILL	stellen Rohstoffe bereit	208-232	am strittigen Span
+23_produktionsmitarbeiter	SKILL	füllen Materialien nach	234-257	am strittigen Span
+23_produktionsmitarbeiter	SKILL	Handwerkliches Geschick	441-464	am strittigen Span
+23_produktionsmitarbeiter	SKILL	technisches Verständnis	469-492	am strittigen Span
+23_produktionsmitarbeiter	KNOWLEDGE	Deutschkenntnisse		bereits vorhanden
+23_produktionsmitarbeiter	KNOWLEDGE	Produktion	327-337	exakt wie A
+23_produktionsmitarbeiter	KNOWLEDGE	Lebensmittelverarbeitenden Gewerbe	352-386	exakt wie B
+23_produktionsmitarbeiter	KNOWLEDGE	Bäckerei	391-399	exakt wie B
+23_produktionsmitarbeiter	KNOWLEDGE	fleischverarbeitendes Gewerbe	409-438	exakt wie B
+24_customer-service-export	SKILL	Angebote und Exportdokumente erstellen	167-205	exakt wie A
+24_customer-service-export	SKILL	supporten den Inhouse Sales Manager	242-277	exakt wie A
+24_customer-service-export	SKILL	kommunikations - und überzeugungsfähig	532-569	exakt wie A
+24_customer-service-export	KNOWLEDGE	Ticketsystem		bereits vorhanden
+24_customer-service-export	KNOWLEDGE	Englisch		bereits vorhanden
+24_customer-service-export	KNOWLEDGE	SAP-Kenntnisse	506-520	exakt wie A
+25_personalreferent	KNOWLEDGE	HR-Bereich	652-662	exakt wie B
+26_hr-generalist	SKILL	Anzeigen - und Bewerbermanagement	173-205	am strittigen Span
+26_hr-generalist	SKILL	erstellen und analysieren regelmäßig HR-Kennzahlen	316-366	exakt wie A
+26_hr-generalist	SKILL	Zusammenarbeit mit dem Betriebsrat	402-436	exakt wie A
+26_hr-generalist	KNOWLEDGE	Englischkenntnisse		bereits vorhanden
+26_hr-generalist	KNOWLEDGE	SAP HR-Kenntnisse	773-790	exakt wie A
+26_hr-generalist	KNOWLEDGE	Personalbeschaffung und - betreuung	115-149	exakt wie B
+27_sicherheitsmitarbeiter	SKILL	Kontrollgänge	281-294	exakt wie A
+27_sicherheitsmitarbeiter	SKILL	Entgegennahme von eingehenden Telefonaten	296-337	exakt wie A
+27_sicherheitsmitarbeiter	SKILL	Auf - und Verschluss	342-361	exakt wie A
+27_sicherheitsmitarbeiter	SKILL	überwachen die technischen Sicherheitseinrichtungen	372-423	exakt wie A
+27_sicherheitsmitarbeiter	SKILL	zuverlässige Objektbewachung	461-489	exakt wie A
+27_sicherheitsmitarbeiter	SKILL	zuverlässig	558-569	am strittigen Span
+27_sicherheitsmitarbeiter	SKILL	flexibel	571-579	am strittigen Span
+27_sicherheitsmitarbeiter	SKILL	teamfähig	584-593	am strittigen Span
+28_technischer-produktdesigner	SKILL	erstellen technische Zeichnungen , Baugruppen - und Anordnungszeichnungen sowie Schaltpläne	106-195	exakt wie A
+28_technischer-produktdesigner	SKILL	setzen Konstruktionsvorgaben normgerecht um	233-276	exakt wie A
+28_technischer-produktdesigner	SKILL	stellen die Einhaltung von Qualitätsstandards sicher	281-333	exakt wie A
+28_technischer-produktdesigner	SKILL	pflegen Artikelstammdaten , Stücklisten und technische Änderungen im SAP-System	340-418	exakt wie A
+28_technischer-produktdesigner	SKILL	führen Zeichnungs - und Stücklistenänderungen in CAD - und SAP-Systemen durch	425-500	exakt wie A
+28_technischer-produktdesigner	SKILL	halten die technische Dokumentation aktuell	505-548	exakt wie A
+28_technischer-produktdesigner	SKILL	entwickeln technische Detaillösungen	555-591	exakt wie A
+28_technischer-produktdesigner	SKILL	wählen geeignete Bauteile sowie Halbzeuge unter technischen und wirtschaftlichen Gesichtspunkten aus	596-696	exakt wie A
+28_technischer-produktdesigner	SKILL	erstellen technische Dokumentationen , Stücklisten , Auswertungen und Datenaustauschdateien	703-792	exakt wie A
+28_technischer-produktdesigner	SKILL	Import , die Prüfung und die Bearbeitung technischer Daten	863-920	exakt wie A
+28_technischer-produktdesigner	SKILL	Durchführung einfacher technischer Berechnungen	988-1035	exakt wie A
+28_technischer-produktdesigner	KNOWLEDGE	MS-Office-Kenntnisse	1605-1625	exakt wie A
+29_lagermitarbeiter	SKILL	Umlagerungen zur Optimierung der Lagerbestände	278-324	exakt wie A
+29_lagermitarbeiter	SKILL	Verpackung der Fertigwaren	350-376	exakt wie A
+29_lagermitarbeiter	SKILL	Kommunikations - und Teamfähigkeit	1074-1107	exakt wie B
+29_lagermitarbeiter	SKILL	Reinigungs - und Ordnungstätigkeiten	612-647	am strittigen Span
+29_lagermitarbeiter	SKILL	Reinigungs - und Ordnungstätigkeiten		an Satzgrenze geteilt (2 Teile)
+30_technischer-projektleiter-elektro	SKILL	Technische Abwicklung von Kundenverträgen für elektrische und leittechnische Systeme	73-157	exakt wie A
+30_technischer-projektleiter-elektro	SKILL	technische Koordination von Generatoren , Transformatoren sowie Mittel - und Hochspannungsschaltanlagen ( MV/HV )	235-344	am strittigen Span
+30_technischer-projektleiter-elektro	SKILL	Spezifikation und Auslegung der Elektro - und Leittechnik	347-403	exakt wie A
+30_technischer-projektleiter-elektro	SKILL	Kommunikations - , Koordinations - und Schnittstellenkompetenz	1616-1675	exakt wie B
+30_technischer-projektleiter-elektro	SKILL	Montage - oder Inbetriebnahmetätigkeiten	1211-1250	exakt wie B
+30_technischer-projektleiter-elektro	KNOWLEDGE	Englischkenntnisse		bereits vorhanden
+30_technischer-projektleiter-elektro	KNOWLEDGE	elektrischer Energieanlagen	1337-1364	exakt wie B
