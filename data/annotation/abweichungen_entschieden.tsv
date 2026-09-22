@@ -1,0 +1,468 @@
+doc_id	layer	nur_bei	span	entscheidung	einigung	regel
+01_performance-marketing-manager	SKILL	nur A	Erstellung und Abstimmung von Kommunikations - und Vertriebsunterlagen	übernommen	Erstellung und Abstimmung von Kommunikations - und Vertriebsunterlagen	R1
+01_performance-marketing-manager	SKILL	nur A	Aufbau eines professionellen Produktmarketings	übernommen	Aufbau eines professionellen Produktmarketings	R1
+01_performance-marketing-manager	SKILL	nur A	Planung , Überwachung und Einhaltung des Marketingbudgets	übernommen	Planung , Überwachung und Einhaltung des Marketingbudgets	R1
+01_performance-marketing-manager	SKILL	nur A	Praxis im Einsatz gängiger Marketing - und Analyseplattformen	verworfen		R1: leeres Verb, Objekt unterbestimmt; nur Tools als KNOWLEDGE
+01_performance-marketing-manager	SKILL	nur A	Kommunikationsfähigkeit auf Deutsch und Englisch in Wort und Schrift	angepasst	[S] Kommunikationsfähigkeit	R1
+01_performance-marketing-manager	SKILL	nur B	Erstellung und Abstimmung von Kommunikations - und Vertriebsunterlagen für digitale und gedruckte Formate	angepasst	[S] Erstellung und Abstimmung von Kommunikations - und Vertriebsunterlagen	R1
+01_performance-marketing-manager	SKILL	nur B	Begleitung der digitalen Weiterentwicklung des Marketings	übernommen	Begleitung der digitalen Weiterentwicklung des Marketings	R0
+01_performance-marketing-manager	SKILL	nur B	Unterstützung beim Aufbau eines professionellen Produktmarketings	angepasst	[S] Aufbau eines professionellen Produktmarketings	R1
+01_performance-marketing-manager	SKILL	nur B	Mitarbeit bei Planung , Überwachung und Einhaltung des Marketingbudgets	angepasst	[S] Planung , Überwachung und Einhaltung des Marketingbudgets	R1
+01_performance-marketing-manager	SKILL	nur B	Einsatz gängiger Marketing - und Analyseplattformen wie Google Ads , Google Analytics , WordPress , Mailchimp oder Canva	verworfen		R1: leeres Verb; Tools als KNOWLEDGE
+01_performance-marketing-manager	SKILL	nur B	Sehr gute Kommunikationsfähigkeit auf Deutsch und Englisch in Wort und Schrift	angepasst	[S] Kommunikationsfähigkeit	R1
+01_performance-marketing-manager	KNOWLEDGE	nur B	B2B-Umfeld	übernommen	B2B-Umfeld	R3
+01_performance-marketing-manager	KNOWLEDGE	nur B	Website	verworfen		R3: Arbeitsgegenstand
+01_performance-marketing-manager	KNOWLEDGE	nur B	Produktmarketings	übernommen	Produktmarketings	R3
+01_performance-marketing-manager	KNOWLEDGE	nur B	Marketingbudgets	verworfen		R3: Arbeitsgegenstand
+01_performance-marketing-manager	KNOWLEDGE	nur B	B2B-Bezug	übernommen	B2B-Bezug	R3
+02_social-media-manager	SKILL	nur A	Bildbearbeitung mit Adobe Photoshop CC	übernommen	Bildbearbeitung mit Adobe Photoshop CC	R3
+02_social-media-manager	SKILL	nur A	Grafikdesign mit Adobe CC	übernommen	Grafikdesign mit Adobe CC	R3
+02_social-media-manager	SKILL	nur B	Sie unterrichten hochqualifizierte Personen mit abgeschlossenem Studium oder Ausbildung im Bereich Marketing , Medien , Journalismus , Betriebswirtschaft oder Geistes - und Sprachwissenschaften oder mit vergleichbarer Berufserfahrung	angepasst	[S] unterrichten	R1
+02_social-media-manager	SKILL	nur B	Qualifizierte Vermittlung der folgenden Bereiche	angepasst	[S] Vermittlung	R1
+02_social-media-manager	KNOWLEDGE	nur A	Adobe Photoshop CC	übernommen	Adobe Photoshop CC	R3
+02_social-media-manager	KNOWLEDGE	nur A	Künstliche Intelligenz	angepasst	[K] Künstliche Intelligenz ( KI )	R1
+02_social-media-manager	KNOWLEDGE	nur A	Adobe CC	übernommen	Adobe CC	R3
+02_social-media-manager	KNOWLEDGE	nur A	Social Media Marketing	übernommen	Social Media Marketing	R1
+02_social-media-manager	KNOWLEDGE	nur A	Content Marketing	übernommen	Content Marketing	R1
+02_social-media-manager	KNOWLEDGE	nur A	Projektarbeit	verworfen		R3: Kursbestandteil, kein Wissensgebiet
+02_social-media-manager	KNOWLEDGE	nur B	Bildbearbeitung mit Adobe Photoshop CC	angepasst	[K] Adobe Photoshop CC	R3
+02_social-media-manager	KNOWLEDGE	nur B	Künstliche Intelligenz ( KI ) im Arbeitsprozess	angepasst	[K] Künstliche Intelligenz ( KI )	R1
+02_social-media-manager	KNOWLEDGE	nur B	Grafikdesign mit Adobe CC	angepasst	[K] Adobe CC	R3
+02_social-media-manager	KNOWLEDGE	nur B	Fachwissen Social Media Marketing	angepasst	[K] Social Media Marketing	R1
+02_social-media-manager	KNOWLEDGE	nur B	Fachwissen Content Marketing	angepasst	[K] Content Marketing	R1
+02_social-media-manager	KNOWLEDGE	nur B	Projektarbeit , Zertifizierungsvorbereitung und Zertifizierungsprüfung	verworfen		R3: Kursbestandteile
+03_e-commerce-trainer	SKILL	nur B	Sie unterrichten Personen , die bei der Konzipierung , Gestaltung und praktischen Umsetzung von Internet - Auftritten mit E-Commerce-Funktionen verantwortlich mitwirken und die dafür notwendigen Kenntnisse und Fähigkeiten erwerben wollen	angepasst	[S] unterrichten	R1
+03_e-commerce-trainer	SKILL	nur B	Qualifizierte Vermittlung der folgenden Bereiche	angepasst	[S] Vermittlung	R1
+03_e-commerce-trainer	KNOWLEDGE	nur A	E-Commerce	übernommen	E-Commerce	R2
+03_e-commerce-trainer	KNOWLEDGE	nur A	Online-Shop-Systeme	angepasst	[K] Online-Shop-Systeme und - Gestaltung	R2
+03_e-commerce-trainer	KNOWLEDGE	nur A	Künstliche Intelligenz	angepasst	[K] Künstliche Intelligenz ( KI )	R1
+03_e-commerce-trainer	KNOWLEDGE	nur A	Online-Marketing	übernommen	Online-Marketing	R2
+03_e-commerce-trainer	KNOWLEDGE	nur A	Kundengewinnung	übernommen	Kundengewinnung	R2
+03_e-commerce-trainer	KNOWLEDGE	nur A	Zahlungssysteme	übernommen	Zahlungssysteme	R2
+03_e-commerce-trainer	KNOWLEDGE	nur A	Finanzen	übernommen	Finanzen	R2
+03_e-commerce-trainer	KNOWLEDGE	nur A	Logistik	übernommen	Logistik	R2
+03_e-commerce-trainer	KNOWLEDGE	nur A	Fulfillment	übernommen	Fulfillment	R2
+03_e-commerce-trainer	KNOWLEDGE	nur A	Kundenservice	übernommen	Kundenservice	R2
+03_e-commerce-trainer	KNOWLEDGE	nur A	CRM	übernommen	CRM	R2
+03_e-commerce-trainer	KNOWLEDGE	nur A	Web-Controlling	übernommen	Web-Controlling	R2
+03_e-commerce-trainer	KNOWLEDGE	nur A	Datenanalyse	übernommen	Datenanalyse	R2
+03_e-commerce-trainer	KNOWLEDGE	nur B	Grundlagen des E-Commerce	angepasst	[K] E-Commerce	R2
+03_e-commerce-trainer	KNOWLEDGE	nur B	Online-Shop-Systeme und - Gestaltung	übernommen	Online-Shop-Systeme und - Gestaltung	R2
+03_e-commerce-trainer	KNOWLEDGE	nur B	Künstliche Intelligenz ( KI ) im Arbeitsprozess	angepasst	[K] Künstliche Intelligenz ( KI )	R1
+03_e-commerce-trainer	KNOWLEDGE	nur B	Online-Marketing und Kundengewinnung	angepasst	[K] Online-Marketing || [K] Kundengewinnung	R2
+03_e-commerce-trainer	KNOWLEDGE	nur B	Zahlungssysteme und Finanzen	angepasst	[K] Zahlungssysteme || [K] Finanzen	R2
+03_e-commerce-trainer	KNOWLEDGE	nur B	Logistik und Fulfillment	angepasst	[K] Logistik || [K] Fulfillment	R2
+03_e-commerce-trainer	KNOWLEDGE	nur B	Kundenservice und CRM	angepasst	[K] Kundenservice || [K] CRM	R2
+03_e-commerce-trainer	KNOWLEDGE	nur B	Web-Controlling und Datenanalyse	angepasst	[K] Web-Controlling || [K] Datenanalyse	R2
+04_produktmanager	SKILL	nur A	Begleitung und Weiterentwicklung unserer Produkte von der Idee bis zur Umsetzung	angepasst	[S] Eigenverantwortliche Begleitung und Weiterentwicklung unserer Produkte von der Idee bis zur Umsetzung	R1
+04_produktmanager	SKILL	nur A	Mitwirkung an Produktstrategie , Roadmaps und Business Cases	übernommen	Mitwirkung an Produktstrategie , Roadmaps und Business Cases	R1
+04_produktmanager	SKILL	nur A	Entwicklung eines konsistenten , zukunftsfähigen Produktportfolios	übernommen	Entwicklung eines konsistenten , zukunftsfähigen Produktportfolios	R1
+04_produktmanager	SKILL	nur A	Optimierung von Go-to-Market-Prozessen	übernommen	Optimierung von Go-to-Market-Prozessen	R1
+04_produktmanager	SKILL	nur A	Fundiertes Verständnis für Produktstrategie , Marktmechaniken , technische Produktentwicklung und Business Cases	angepasst	[K] Produktstrategie || [K] technische Produktentwicklung || [K] Business Cases || [K] Produktstrategie || [K] Marktmechaniken || [K] technische Produktentwicklung || [K] Business Cases	R2,R3
+04_produktmanager	SKILL	nur A	Übersetzung von Anforderungen in umsetzbare Produktlösungen	übernommen	Übersetzung von Anforderungen in umsetzbare Produktlösungen	R2
+04_produktmanager	SKILL	nur A	Strategische und zugleich pragmatische Arbeitsweise	übernommen	Strategische und zugleich pragmatische Arbeitsweise	R2
+04_produktmanager	SKILL	nur A	Sehr ausgeprägte kommunikative Fähigkeiten	angepasst	[S] kommunikative Fähigkeiten	R1
+04_produktmanager	SKILL	nur A	Projekte selbstständig zu übernehmen und voranzutreiben	übernommen	Projekte selbstständig zu übernehmen und voranzutreiben	R2
+04_produktmanager	SKILL	nur B	gestaltest du die Weiterentwicklung unserer Produkte an der Schnittstelle von Markt , Kund : innen , Vertrieb , Entwicklung und Produktion	angepasst	[S] Weiterentwicklung unserer Produkte	R1
+04_produktmanager	SKILL	nur B	Du übersetzt Kundenanforderungen und Marktbedarfe in klare Produktanforderungen , priorisierst Features und begleitest Produkte von der Idee bis zur erfolgreichen Umsetzung	angepasst	[S] übersetzt Kundenanforderungen und Marktbedarfe in klare Produktanforderungen || [S] priorisierst Features || [S] begleitest Produkte von der Idee bis zur erfolgreichen Umsetzung	R2
+04_produktmanager	SKILL	nur B	arbeitest du eigenverantwortlich , datenbasiert und pragmatisch – mit dem Ziel , unsere Produkte technisch , wirtschaftlich und marktseitig kontinuierlich weiterzuentwickeln	angepasst	[S] eigenverantwortlich || [S] datenbasiert || [S] pragmatisch	R2
+04_produktmanager	SKILL	nur B	Eigenverantwortliche Begleitung und Weiterentwicklung unserer Produkte von der Idee bis zur Umsetzung	übernommen	Eigenverantwortliche Begleitung und Weiterentwicklung unserer Produkte von der Idee bis zur Umsetzung	R1
+04_produktmanager	SKILL	nur B	Mitwirkung an Produktstrategie , Roadmaps und Business Cases auf Basis definierter Ziele und KPIs	angepasst	[S] Mitwirkung an Produktstrategie , Roadmaps und Business Cases	R1
+04_produktmanager	SKILL	nur B	Entwicklung eines konsistenten , zukunftsfähigen Produktportfolios inklusive Build - , Improve - und Retire-Entscheidungen	angepasst	[S] Entwicklung eines konsistenten , zukunftsfähigen Produktportfolios	R1
+04_produktmanager	SKILL	nur B	Unterstützung reibungsloser Abläufe zwischen Produktmanagement , Entwicklung , Produktion und Vertrieb	angepasst	[S] Unterstützung reibungsloser Abläufe	R1
+04_produktmanager	SKILL	nur B	Mitwirkung an der Optimierung von Go-to-Market-Prozessen	angepasst	[S] Optimierung von Go-to-Market-Prozessen	R1
+04_produktmanager	SKILL	nur B	Arbeit mit technischen Teams sowie in der Übersetzung von Anforderungen in umsetzbare Produktlösungen	angepasst	[S] Arbeit mit technischen Teams || [S] Übersetzung von Anforderungen in umsetzbare Produktlösungen	R2
+04_produktmanager	SKILL	nur B	Strategische und zugleich pragmatische Arbeitsweise mit der Fähigkeit , Vision und Umsetzung in Einklang zu bringen	angepasst	[S] Strategische und zugleich pragmatische Arbeitsweise || [S] Vision und Umsetzung in Einklang zu bringen	R1,R2
+04_produktmanager	SKILL	nur B	Sehr ausgeprägte kommunikative Fähigkeiten sowie die Fähigkeit , Projekte selbstständig zu übernehmen und voranzutreiben	angepasst	[S] kommunikative Fähigkeiten || [S] Projekte selbstständig zu übernehmen und voranzutreiben	R1,R2
+04_produktmanager	KNOWLEDGE	nur A	Produktstrategie	übernommen	Produktstrategie	R3
+04_produktmanager	KNOWLEDGE	nur A	technische Produktentwicklung	übernommen	technische Produktentwicklung	R3
+04_produktmanager	KNOWLEDGE	nur A	Go-to-Market	übernommen	Go-to-Market	R3
+04_produktmanager	KNOWLEDGE	nur A	Business Cases	übernommen	Business Cases	R3
+04_produktmanager	KNOWLEDGE	nur A	Produktmanagement	übernommen	Produktmanagement	R3
+04_produktmanager	KNOWLEDGE	nur A	Produktstrategie	übernommen	Produktstrategie	R2
+04_produktmanager	KNOWLEDGE	nur A	Marktmechaniken	übernommen	Marktmechaniken	R2
+04_produktmanager	KNOWLEDGE	nur A	technische Produktentwicklung	übernommen	technische Produktentwicklung	R2
+04_produktmanager	KNOWLEDGE	nur A	Business Cases	übernommen	Business Cases	R2
+04_produktmanager	KNOWLEDGE	nur B	Produktportfolio	verworfen		R3: Arbeitsgegenstand
+04_produktmanager	KNOWLEDGE	nur B	KPIs	verworfen		R3: Arbeitsgegenstand
+04_produktmanager	KNOWLEDGE	nur B	Produktmanagement	übernommen	Produktmanagement	R3
+04_produktmanager	KNOWLEDGE	nur B	Go-to-Market-Prozessen	übernommen	Go-to-Market-Prozessen	R3
+04_produktmanager	KNOWLEDGE	nur B	Produktperformance	verworfen		R3: Arbeitsgegenstand
+04_produktmanager	KNOWLEDGE	nur B	IoT -	angepasst	[K] IoT - , SaaS - , Energie - oder Funktechnologie-nahen Umfeld	R2
+04_produktmanager	KNOWLEDGE	nur B	SaaS -	angepasst	[K] IoT - , SaaS - , Energie - oder Funktechnologie-nahen Umfeld	R2
+04_produktmanager	KNOWLEDGE	nur B	Energie -	angepasst	[K] IoT - , SaaS - , Energie - oder Funktechnologie-nahen Umfeld	R2
+04_produktmanager	KNOWLEDGE	nur B	Funktechnologie-nahen Umfeld	angepasst	[K] IoT - , SaaS - , Energie - oder Funktechnologie-nahen Umfeld	R2
+04_produktmanager	KNOWLEDGE	nur B	Produktstrategie , Marktmechaniken , technische Produktentwicklung und Business Cases	angepasst	[K] Produktstrategie || [K] technische Produktentwicklung || [K] Business Cases || [K] Produktstrategie || [K] Marktmechaniken || [K] technische Produktentwicklung || [K] Business Cases	R2,R3
+05_marketing-allrounder-seo	SKILL	nur A	Eigenständige Betreuung und kontinuierliche Optimierung unserer Website	übernommen	Eigenständige Betreuung und kontinuierliche Optimierung unserer Website	R1
+05_marketing-allrounder-seo	SKILL	nur A	Aufbau und Pflege von Backlinks	übernommen	Aufbau und Pflege von Backlinks	R2
+05_marketing-allrounder-seo	SKILL	nur A	Zusammenarbeit mit relevanten Portalen , Verbänden und Kooperationspartnern	übernommen	Zusammenarbeit mit relevanten Portalen , Verbänden und Kooperationspartnern	R2
+05_marketing-allrounder-seo	SKILL	nur B	Eigenständige Betreuung und kontinuierliche Optimierung unserer Website , insbesondere im Bereich SEO ( On-Page , technisches SEO , Content-Strategie )	angepasst	[S] Eigenständige Betreuung und kontinuierliche Optimierung unserer Website	R1
+05_marketing-allrounder-seo	SKILL	nur B	Aufbau und Pflege von Backlinks sowie Zusammenarbeit mit relevanten Portalen , Verbänden und Kooperationspartnern	angepasst	[S] Aufbau und Pflege von Backlinks || [S] Zusammenarbeit mit relevanten Portalen , Verbänden und Kooperationspartnern	R2
+05_marketing-allrounder-seo	SKILL	nur B	Unterstützung bei der Positionierung unserer Standorte Berlin und Hamburg	angepasst	[S] Positionierung unserer Standorte	R1
+05_marketing-allrounder-seo	SKILL	nur B	Enge Zusammenarbeit mit der Geschäftsführung zur Umsetzung unserer Wachstumsstrategie	angepasst	[S] Enge Zusammenarbeit mit der Geschäftsführung	R1
+05_marketing-allrounder-seo	KNOWLEDGE	nur B	Backlinks	verworfen		R3: Arbeitsgegenstand
+05_marketing-allrounder-seo	KNOWLEDGE	nur B	Website - und Social-Media-Inhalten	verworfen		R3: Arbeitsgegenstand
+06_sozialarbeiter-psychosozialer-dienst	SKILL	nur A	Beratung von Patient : innen und deren Angehörige in Bezug auf die Sicherung der nachstationären Versorgung	übernommen	Beratung von Patient : innen und deren Angehörige in Bezug auf die Sicherung der nachstationären Versorgung	R1
+06_sozialarbeiter-psychosozialer-dienst	SKILL	nur A	Zusammenarbeit im multiprofessionellen Team	übernommen	Zusammenarbeit im multiprofessionellen Team	R0
+06_sozialarbeiter-psychosozialer-dienst	SKILL	nur A	Strukturierte und zuverlässige Arbeitsweise	übernommen	Strukturierte und zuverlässige Arbeitsweise	R2
+06_sozialarbeiter-psychosozialer-dienst	SKILL	nur A	lösungsorientiertes , selbstständiges und verantwortungsvolles Arbeiten	übernommen	lösungsorientiertes , selbstständiges und verantwortungsvolles Arbeiten	R2
+06_sozialarbeiter-psychosozialer-dienst	SKILL	nur B	Sie arbeiten in einem multiprofessionellen Team am Standort Harburg	verworfen		"Beschreibt Arbeitsplatz; Skill steht in ""Zusammenarbeit im multiprofessionellen Team"""
+06_sozialarbeiter-psychosozialer-dienst	SKILL	nur B	Beratung von Patient : innen und deren Angehörige in Bezug auf die Sicherung der nachstationären Versorgung in enger Kooperation mit dem ärztlichen , therapeutischen und pflegerischen Team	angepasst	[S] Beratung von Patient : innen und deren Angehörige in Bezug auf die Sicherung der nachstationären Versorgung	R1
+06_sozialarbeiter-psychosozialer-dienst	SKILL	nur B	Strukturierte und zuverlässige Arbeitsweise sowie lösungsorientiertes , selbstständiges und verantwortungsvolles Arbeiten	angepasst	[S] Strukturierte und zuverlässige Arbeitsweise || [S] lösungsorientiertes , selbstständiges und verantwortungsvolles Arbeiten	R2
+06_sozialarbeiter-psychosozialer-dienst	KNOWLEDGE	nur B	sozialrechtlichen Fragestellungen	übernommen	sozialrechtlichen Fragestellungen	R3
+06_sozialarbeiter-psychosozialer-dienst	KNOWLEDGE	nur B	psychischen Erkrankungen	übernommen	psychischen Erkrankungen	R3
+07_heilerziehungspfleger	SKILL	nur A	Gestaltung von pädagogischen Angeboten	übernommen	Gestaltung von pädagogischen Angeboten	R1
+07_heilerziehungspfleger	SKILL	nur A	Elternarbeit	übernommen	Elternarbeit	R2
+07_heilerziehungspfleger	SKILL	nur A	Dokumentation	übernommen	Dokumentation	R2
+07_heilerziehungspfleger	SKILL	nur A	Entwicklungsbegleitung	übernommen	Entwicklungsbegleitung	R2
+07_heilerziehungspfleger	SKILL	nur A	Teamfähigkeit	übernommen	Teamfähigkeit	R2
+07_heilerziehungspfleger	SKILL	nur A	Kreativität	übernommen	Kreativität	R2
+07_heilerziehungspfleger	SKILL	nur A	Zuverlässigkeit	übernommen	Zuverlässigkeit	R2
+07_heilerziehungspfleger	SKILL	nur A	Einfühlungsvermögen	übernommen	Einfühlungsvermögen	R2
+07_heilerziehungspfleger	SKILL	nur A	Gute Kommunikationsfähigkeit	angepasst	[S] Kommunikationsfähigkeit	R1
+07_heilerziehungspfleger	SKILL	nur B	Gestaltung von pädagogischen Angeboten gemeinsam mit Deinen Kollegen	angepasst	[S] Gestaltung von pädagogischen Angeboten	R1
+07_heilerziehungspfleger	SKILL	nur B	Elternarbeit , Dokumentation und Entwicklungsbegleitung	angepasst	[S] Elternarbeit || [S] Dokumentation || [S] Entwicklungsbegleitung	R2
+07_heilerziehungspfleger	SKILL	nur B	Teamfähigkeit , Kreativität , Zuverlässigkeit und Einfühlungsvermögen	angepasst	[S] Teamfähigkeit || [S] Kreativität || [S] Zuverlässigkeit || [S] Einfühlungsvermögen	R2
+07_heilerziehungspfleger	SKILL	nur B	Kommunikationsfähigkeit	übernommen	Kommunikationsfähigkeit	R1
+07_heilerziehungspfleger	KNOWLEDGE	nur B	Krippen - oder Elementarbereich	übernommen	Krippen - oder Elementarbereich	R3
+08_sozialpaedagogische-assistenz-krippe	SKILL	nur A	leitest mit einer weiteren päd . Fachkraft eine Gruppe von 10-13 Krippenkindern	übernommen	leitest mit einer weiteren päd . Fachkraft eine Gruppe von 10-13 Krippenkindern	R2
+08_sozialpaedagogische-assistenz-krippe	SKILL	nur A	betreust diese alters - und zielgruppenspezifisch	verworfen		"R2: anaphorisch (""diese"")"
+08_sozialpaedagogische-assistenz-krippe	SKILL	nur B	Du leitest mit einer weiteren päd . Fachkraft eine Gruppe von 10-13 Krippenkindern und betreust diese alters - und zielgruppenspezifisch	angepasst	[S] leitest mit einer weiteren päd . Fachkraft eine Gruppe von 10-13 Krippenkindern	R2
+09_spa-sozialpaedagogischer-assistent	SKILL	nur A	förderst die Kinder im Krippenbereich oder Elementarbereich individuell nach ihren Bedürfnissen	übernommen	förderst die Kinder im Krippenbereich oder Elementarbereich individuell nach ihren Bedürfnissen	R1
+09_spa-sozialpaedagogischer-assistent	SKILL	nur A	entwickelst und konzipierst Angebote in deinem eigenen pädagogischen Schwerpunkt	übernommen	entwickelst und konzipierst Angebote in deinem eigenen pädagogischen Schwerpunkt	R1
+09_spa-sozialpaedagogischer-assistent	SKILL	nur A	Kinderbetreuung	übernommen	Kinderbetreuung	R0
+09_spa-sozialpaedagogischer-assistent	SKILL	nur A	herzlich , engagiert , offen und ein echter Teamplayer	angepasst	[S] herzlich || [S] engagiert || [S] offen || [S] Teamplayer	R2
+09_spa-sozialpaedagogischer-assistent	SKILL	nur A	vertrauensvolle Bezugsperson	übernommen	vertrauensvolle Bezugsperson	R0
+09_spa-sozialpaedagogischer-assistent	SKILL	nur B	Du förderst die Kinder im Krippenbereich oder Elementarbereich individuell nach ihren Bedürfnissen	angepasst	[S] förderst die Kinder im Krippenbereich oder Elementarbereich individuell nach ihren Bedürfnissen	R1
+09_spa-sozialpaedagogischer-assistent	SKILL	nur B	Du entwickelst und konzipierst Angebote in deinem eigenen pädagogischen Schwerpunkt	angepasst	[S] entwickelst und konzipierst Angebote in deinem eigenen pädagogischen Schwerpunkt	R1
+09_spa-sozialpaedagogischer-assistent	SKILL	nur B	Du berücksichtigst das Konzept des jeweiligen Kita oder Kindergarten und setzt dieses aktiv in deiner Arbeit um	angepasst	[S] berücksichtigst das Konzept des jeweiligen Kita oder Kindergarten	R1
+09_spa-sozialpaedagogischer-assistent	SKILL	nur B	Du bist herzlich , engagiert , offen und ein echter Teamplayer	angepasst	[S] herzlich || [S] engagiert || [S] offen || [S] Teamplayer	R2
+09_spa-sozialpaedagogischer-assistent	SKILL	nur B	Du findest schnell Anschluss und bringst dich motiviert in dem vielfältigen Kitaalltag ein	angepasst	[S] findest schnell Anschluss || [S] motiviert	R2
+10_pflegefachkraft-senator-neumann-haus	SKILL	nur A	ganzheitliche Pflege im Rahmen des Pflegeprozesses	übernommen	ganzheitliche Pflege im Rahmen des Pflegeprozesses	R1
+10_pflegefachkraft-senator-neumann-haus	SKILL	nur A	Medikamentenmanagement	übernommen	Medikamentenmanagement	R2
+10_pflegefachkraft-senator-neumann-haus	SKILL	nur A	führst Pflegevisiten durch	übernommen	führst Pflegevisiten durch	R2
+10_pflegefachkraft-senator-neumann-haus	SKILL	nur A	arbeitest eng mit Kolleg : innen aus unterschiedlichen Berufsgruppen zusammen	übernommen	arbeitest eng mit Kolleg : innen aus unterschiedlichen Berufsgruppen zusammen	R1
+10_pflegefachkraft-senator-neumann-haus	SKILL	nur A	unterstützt die Nutzenden dabei , ihre Lebensqualität und Eigenständigkeit zu erhalten und weiterzuentwickeln	übernommen	unterstützt die Nutzenden dabei , ihre Lebensqualität und Eigenständigkeit zu erhalten und weiterzuentwickeln	R1
+10_pflegefachkraft-senator-neumann-haus	SKILL	nur A	berätst und motivierst die von dir begleiteten Menschen im Alltag	übernommen	berätst und motivierst die von dir begleiteten Menschen im Alltag	R1
+10_pflegefachkraft-senator-neumann-haus	SKILL	nur A	Zusammenarbeit in einem multiprofessionellen Team	übernommen	Zusammenarbeit in einem multiprofessionellen Team	R0
+10_pflegefachkraft-senator-neumann-haus	SKILL	nur B	begleitest Menschen mit Behinderung in Pflege und Alltag	übernommen	begleitest Menschen mit Behinderung in Pflege und Alltag	R0
+10_pflegefachkraft-senator-neumann-haus	SKILL	nur B	Du übernimmst die ganzheitliche Pflege im Rahmen des Pflegeprozesses	angepasst	[S] ganzheitliche Pflege im Rahmen des Pflegeprozesses	R1
+10_pflegefachkraft-senator-neumann-haus	SKILL	nur B	Du kümmerst dich um das Medikamentenmanagement und führst Pflegevisiten durch	angepasst	[S] Medikamentenmanagement || [S] führst Pflegevisiten durch	R2
+10_pflegefachkraft-senator-neumann-haus	SKILL	nur B	Du arbeitest eng mit Kolleg : innen aus unterschiedlichen Berufsgruppen zusammen	angepasst	[S] arbeitest eng mit Kolleg : innen aus unterschiedlichen Berufsgruppen zusammen	R1
+10_pflegefachkraft-senator-neumann-haus	SKILL	nur B	Du unterstützt die Nutzenden dabei , ihre Lebensqualität und Eigenständigkeit zu erhalten und weiterzuentwickeln	angepasst	[S] unterstützt die Nutzenden dabei , ihre Lebensqualität und Eigenständigkeit zu erhalten und weiterzuentwickeln	R1
+10_pflegefachkraft-senator-neumann-haus	SKILL	nur B	Du berätst und motivierst die von dir begleiteten Menschen im Alltag	angepasst	[S] berätst und motivierst die von dir begleiteten Menschen im Alltag	R1
+10_pflegefachkraft-senator-neumann-haus	SKILL	nur B	Arbeit mit Menschen mit Behinderung	übernommen	Arbeit mit Menschen mit Behinderung	R0
+10_pflegefachkraft-senator-neumann-haus	KNOWLEDGE	nur B	Medikamentenmanagement	angepasst	[S] Medikamentenmanagement	R2
+11_mechatroniker	SKILL	nur A	montierst , installierst und nimmst mechatronische Systeme und Anlagen wie Maschinen oder Roboter in Betrieb	übernommen	montierst , installierst und nimmst mechatronische Systeme und Anlagen wie Maschinen oder Roboter in Betrieb	R1
+11_mechatroniker	SKILL	nur A	stellst mechanische , elektrische und elektronische Komponenten her und baust sie zusammen	übernommen	stellst mechanische , elektrische und elektronische Komponenten her und baust sie zusammen	R1
+11_mechatroniker	SKILL	nur A	programmierst und konfigurierst Steuerungen und Software	übernommen	programmierst und konfigurierst Steuerungen und Software	R1
+11_mechatroniker	SKILL	nur A	führst Messungen , Prüfungen und Fehlerdiagnosen durch	übernommen	führst Messungen , Prüfungen und Fehlerdiagnosen durch	R1
+11_mechatroniker	SKILL	nur A	übernimmst die Wartung , Reparaturen und Instandhaltung von Maschinen und Anlagen	angepasst	[S] Wartung , Reparaturen und Instandhaltung von Maschinen und Anlagen	R1
+11_mechatroniker	SKILL	nur A	liest technische Zeichnungen sowie Schalt - und Montagepläne	übernommen	liest technische Zeichnungen sowie Schalt - und Montagepläne	R1
+11_mechatroniker	SKILL	nur A	Einweisung der Anwender in die Bedienung	übernommen	Einweisung der Anwender in die Bedienung	R2
+11_mechatroniker	SKILL	nur A	Kundenbetreuung	übernommen	Kundenbetreuung	R2
+11_mechatroniker	SKILL	nur A	dokumentierst deine Arbeit sorgfältig und nachvollziehbar	übernommen	dokumentierst deine Arbeit sorgfältig und nachvollziehbar	R1
+11_mechatroniker	SKILL	nur A	stabiles technisches Verständnis	angepasst	[S] technisches Verständnis	R1
+11_mechatroniker	SKILL	nur A	handwerklich geschickt , lösungsorientiert und zuverlässig	angepasst	[S] handwerklich geschickt || [S] lösungsorientiert || [S] zuverlässig	R2
+11_mechatroniker	SKILL	nur B	Du montierst , installierst und nimmst mechatronische Systeme und Anlagen wie Maschinen oder Roboter in Betrieb	angepasst	[S] montierst , installierst und nimmst mechatronische Systeme und Anlagen wie Maschinen oder Roboter in Betrieb	R1
+11_mechatroniker	SKILL	nur B	Du stellst mechanische , elektrische und elektronische Komponenten her und baust sie zusammen	angepasst	[S] stellst mechanische , elektrische und elektronische Komponenten her und baust sie zusammen	R1
+11_mechatroniker	SKILL	nur B	Du programmierst und konfigurierst Steuerungen und Software – und testest sie auf Herz und Nieren	angepasst	[S] programmierst und konfigurierst Steuerungen und Software	R1
+11_mechatroniker	SKILL	nur B	Du führst Messungen , Prüfungen und Fehlerdiagnosen durch	angepasst	[S] führst Messungen , Prüfungen und Fehlerdiagnosen durch	R1
+11_mechatroniker	SKILL	nur B	Du übernimmst die Wartung , Reparaturen und Instandhaltung von Maschinen und Anlagen	angepasst	[S] Wartung , Reparaturen und Instandhaltung von Maschinen und Anlagen	R1
+11_mechatroniker	SKILL	nur B	Du liest technische Zeichnungen sowie Schalt - und Montagepläne – und setzt sie gekonnt um	angepasst	[S] liest technische Zeichnungen sowie Schalt - und Montagepläne	R1
+11_mechatroniker	SKILL	nur B	Du kümmerst dich um die Einweisung der Anwender in die Bedienung und übernimmst bei Bedarf die Kundenbetreuung	angepasst	[S] Einweisung der Anwender in die Bedienung || [S] Kundenbetreuung	R2
+11_mechatroniker	SKILL	nur B	Du dokumentierst deine Arbeit sorgfältig und nachvollziehbar	angepasst	[S] dokumentierst deine Arbeit sorgfältig und nachvollziehbar	R1
+11_mechatroniker	SKILL	nur B	Umgang mit Steuerungs - und Automatisierungstechnik sowie Mess - und Diagnosesystemen	angepasst	[K] Steuerungs - und Automatisierungstechnik || [K] Mess - und Diagnosesystemen	R1
+11_mechatroniker	SKILL	nur B	stabiles technisches Verständnis , bist handwerklich geschickt , lösungsorientiert und zuverlässig	angepasst	[S] technisches Verständnis || [S] handwerklich geschickt || [S] lösungsorientiert || [S] zuverlässig	R1,R2
+11_mechatroniker	SKILL	nur B	Du sprichst gut Deutsch	angepasst	[K] Deutsch	R3
+12_softwareentwickler	SKILL	nur A	Entwicklung und Betrieb einer modernen , cloudbasierten Plattform zur Digitalisierung interner Verwaltungsprozesse	übernommen	Entwicklung und Betrieb einer modernen , cloudbasierten Plattform zur Digitalisierung interner Verwaltungsprozesse	R1
+12_softwareentwickler	SKILL	nur A	Optimierung der Entwicklungs - , Test - und Produktionsumgebungen	übernommen	Optimierung der Entwicklungs - , Test - und Produktionsumgebungen	R2
+12_softwareentwickler	SKILL	nur A	Sicherstellung eines stabilen , sicheren und skalierbaren Betriebs	übernommen	Sicherstellung eines stabilen , sicheren und skalierbaren Betriebs	R2
+12_softwareentwickler	SKILL	nur A	Eigenverantwortliche Weiterentwicklung fachlicher und technischer Lösungskonzepte	übernommen	Eigenverantwortliche Weiterentwicklung fachlicher und technischer Lösungskonzepte	R1
+12_softwareentwickler	SKILL	nur A	Aktive Mitgestaltung der Cloud-Architektur und digitalen Plattformen	übernommen	Aktive Mitgestaltung der Cloud-Architektur und digitalen Plattformen	R1
+12_softwareentwickler	SKILL	nur A	Hohes Maß an Selbstständigkeit , Verantwortungsbewusstsein und Teamfähigkeit	angepasst	[S] Selbstständigkeit || [S] Verantwortungsbewusstsein || [S] Teamfähigkeit	R2
+12_softwareentwickler	SKILL	nur B	Entwicklung und Betrieb einer modernen , cloudbasierten Plattform zur Digitalisierung interner Verwaltungsprozesse in enger Zusammenarbeit mit dem Team	angepasst	[S] Entwicklung und Betrieb einer modernen , cloudbasierten Plattform zur Digitalisierung interner Verwaltungsprozesse	R1
+12_softwareentwickler	SKILL	nur B	Optimierung der Entwicklungs - , Test - und Produktionsumgebungen sowie Sicherstellung eines stabilen , sicheren und skalierbaren Betriebs in Abstimmung mit deinem Team	angepasst	[S] Optimierung der Entwicklungs - , Test - und Produktionsumgebungen || [S] Sicherstellung eines stabilen , sicheren und skalierbaren Betriebs	R2
+12_softwareentwickler	SKILL	nur B	Eigenverantwortliche Weiterentwicklung fachlicher und technischer Lösungskonzepte – von der Idee bis zur Umsetzung	angepasst	[S] Eigenverantwortliche Weiterentwicklung fachlicher und technischer Lösungskonzepte	R1
+12_softwareentwickler	SKILL	nur B	Aktive Mitgestaltung der Cloud-Architektur und digitalen Plattformen durch das Einbringen eigener Ideen	angepasst	[S] Aktive Mitgestaltung der Cloud-Architektur und digitalen Plattformen	R1
+12_softwareentwickler	SKILL	nur B	Selbstständigkeit , Verantwortungsbewusstsein und Teamfähigkeit	angepasst	[S] Selbstständigkeit || [S] Verantwortungsbewusstsein || [S] Teamfähigkeit	R2
+12_softwareentwickler	SKILL	nur B	Fließende Deutschkenntnisse in Wort und Schrift	angepasst	[K] Deutschkenntnisse	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Infrastructure as Code	übernommen	Infrastructure as Code	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Cloud-Technologien	übernommen	Cloud-Technologien	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Clean Code	übernommen	Clean Code	R3
+12_softwareentwickler	KNOWLEDGE	nur A	moderne Architekturen	verworfen		R3: unterbestimmt
+12_softwareentwickler	KNOWLEDGE	nur A	KI	übernommen	KI	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Grafana Cloud	übernommen	Grafana Cloud	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Kubernetes	übernommen	Kubernetes	R3
+12_softwareentwickler	KNOWLEDGE	nur A	AWS	übernommen	AWS	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Terraform	übernommen	Terraform	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Crossplane	übernommen	Crossplane	R3
+12_softwareentwickler	KNOWLEDGE	nur A	ArgoCD	übernommen	ArgoCD	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Tilt	übernommen	Tilt	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Atlas MongoDB	übernommen	Atlas MongoDB	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Spring Boot	übernommen	Spring Boot	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Java	übernommen	Java	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Softwareentwicklung	übernommen	Softwareentwicklung	R3
+12_softwareentwickler	KNOWLEDGE	nur A	DevOps	übernommen	DevOps	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Java	übernommen	Java	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Cloud-Technologien	übernommen	Cloud-Technologien	R3
+12_softwareentwickler	KNOWLEDGE	nur A	Automatisierung	übernommen	Automatisierung	R3
+12_softwareentwickler	KNOWLEDGE	nur B	Build - , Test - und Deployment-Workflows	übernommen	Build - , Test - und Deployment-Workflows	R2
+13_fachinformatiker-systemintegration	SKILL	nur A	Administration und Wartung der IT-Systeme unserer Kunden	übernommen	Administration und Wartung der IT-Systeme unserer Kunden	R1
+13_fachinformatiker-systemintegration	SKILL	nur A	Kundensupport und technische Beratung	übernommen	Kundensupport und technische Beratung	R1
+13_fachinformatiker-systemintegration	SKILL	nur B	Administration und Wartung der IT-Systeme unserer Kunden ( Server , Netzwerke , Clients )	angepasst	[S] Administration und Wartung der IT-Systeme unserer Kunden	R1
+13_fachinformatiker-systemintegration	SKILL	nur B	Kundensupport und technische Beratung in Bezug auf IT-Projekte und alltägliche Herausforderungen	angepasst	[S] Kundensupport und technische Beratung	R1
+13_fachinformatiker-systemintegration	KNOWLEDGE	nur A	Backup	angepasst	[K] Backup - und Wiederherstellungsprozessen	R2
+13_fachinformatiker-systemintegration	KNOWLEDGE	nur A	Microsoft 365	übernommen	Microsoft 365	R3
+13_fachinformatiker-systemintegration	KNOWLEDGE	nur A	VMware	übernommen	VMware	R3
+13_fachinformatiker-systemintegration	KNOWLEDGE	nur A	Hyper-V	übernommen	Hyper-V	R3
+13_fachinformatiker-systemintegration	KNOWLEDGE	nur A	Firewall	übernommen	Firewall	R3
+13_fachinformatiker-systemintegration	KNOWLEDGE	nur B	IT-Systeme	verworfen		R3: unterbestimmt
+13_fachinformatiker-systemintegration	KNOWLEDGE	nur B	Hardware	verworfen		R3: unterbestimmt
+13_fachinformatiker-systemintegration	KNOWLEDGE	nur B	Software	verworfen		R3: unterbestimmt
+13_fachinformatiker-systemintegration	KNOWLEDGE	nur B	Backup - und Wiederherstellungsprozessen	übernommen	Backup - und Wiederherstellungsprozessen	R2
+13_fachinformatiker-systemintegration	KNOWLEDGE	nur B	Cyberbedrohungen	übernommen	Cyberbedrohungen	R3
+14_it-support	SKILL	nur B	Gute Deutschkenntnisse	angepasst	[K] Deutschkenntnisse	R3
+14_it-support	SKILL	nur B	Unterstützung bei technischen Anfragen im IT Umfeld	angepasst	[S] Unterstützung bei technischen Anfragen	R1
+14_it-support	KNOWLEDGE	nur B	Anwenderumfeld	verworfen		R3: kein Wissensgebiet
+14_it-support	KNOWLEDGE	nur B	Hard und Softwareproblemen	verworfen		R3: unterbestimmt
+14_it-support	KNOWLEDGE	nur B	Windows	übernommen	Windows	R3
+14_it-support	KNOWLEDGE	nur B	Software	verworfen		R3: unterbestimmt
+14_it-support	KNOWLEDGE	nur B	Betriebssystemen	übernommen	Betriebssystemen	R3
+15_data-engineer	SKILL	nur A	Konzeption , Umsetzung und dem Betrieb unserer modernen On-Premises-Lakehouse-Architektur	übernommen	Konzeption , Umsetzung und dem Betrieb unserer modernen On-Premises-Lakehouse-Architektur	R1
+15_data-engineer	SKILL	nur A	entwickeln , betreiben und optimieren ETL - bzw . Datenpipelines zur Integration und Verarbeitung unterschiedlicher Datenquellen	übernommen	entwickeln , betreiben und optimieren ETL - bzw . Datenpipelines zur Integration und Verarbeitung unterschiedlicher Datenquellen	R1
+15_data-engineer	SKILL	nur A	Weiterentwicklung und Modernisierung bestehender Data-Warehouse-Strukturen	übernommen	Weiterentwicklung und Modernisierung bestehender Data-Warehouse-Strukturen	R1
+15_data-engineer	SKILL	nur A	stellen eine hohe Datenqualität und Datenverfügbarkeit sicher	übernommen	stellen eine hohe Datenqualität und Datenverfügbarkeit sicher	R2
+15_data-engineer	SKILL	nur A	übersetzen Sie fachliche Anforderungen in praktikable Datenlösungen	übernommen	übersetzen Sie fachliche Anforderungen in praktikable Datenlösungen	R1
+15_data-engineer	SKILL	nur B	wirken Sie an der Weiterentwicklung unserer Datenlandschaft mit und schaffen eine zuverlässige Grundlage für die datengetriebene Arbeit der Fachbereiche	angepasst	[S] Weiterentwicklung unserer Datenlandschaft	R1
+15_data-engineer	SKILL	nur B	Sie wirken bei der Konzeption , Umsetzung und dem Betrieb unserer modernen On-Premises-Lakehouse-Architektur mit	angepasst	[S] Konzeption , Umsetzung und dem Betrieb unserer modernen On-Premises-Lakehouse-Architektur	R1
+15_data-engineer	SKILL	nur B	Sie entwickeln , betreiben und optimieren ETL - bzw . Datenpipelines zur Integration und Verarbeitung unterschiedlicher Datenquellen	angepasst	[S] entwickeln , betreiben und optimieren ETL - bzw . Datenpipelines zur Integration und Verarbeitung unterschiedlicher Datenquellen	R1
+15_data-engineer	SKILL	nur B	Sie unterstützen die Weiterentwicklung und Modernisierung bestehender Data-Warehouse-Strukturen , unter anderem im Snowflake-Umfeld	angepasst	[S] Weiterentwicklung und Modernisierung bestehender Data-Warehouse-Strukturen	R1
+15_data-engineer	SKILL	nur B	Sie stellen eine hohe Datenqualität und Datenverfügbarkeit sicher und identifizieren Optimierungsmöglichkeiten	angepasst	[S] stellen eine hohe Datenqualität und Datenverfügbarkeit sicher || [S] identifizieren Optimierungsmöglichkeiten	R2
+15_data-engineer	SKILL	nur B	Gemeinsam mit den Fachbereichen übersetzen Sie fachliche Anforderungen in praktikable Datenlösungen	angepasst	[S] übersetzen Sie fachliche Anforderungen in praktikable Datenlösungen	R1
+15_data-engineer	SKILL	nur B	bringen Sie sich in angrenzende Entwicklungs - und DevOps-Themen ein	angepasst	[K] Entwicklungs - und DevOps-Themen	R2
+15_data-engineer	SKILL	nur B	Umgang mit Linux , GitLab oder Oracle	verworfen		"R1: ""Umgang mit"" = leeres Verb; nur KNOWLEDGE"
+15_data-engineer	SKILL	nur B	Gute Deutsch - und Englischkenntnisse	angepasst	[K] Deutsch - und Englischkenntnisse	R2
+15_data-engineer	KNOWLEDGE	nur A	Datenarchitekturen	übernommen	Datenarchitekturen	R3
+15_data-engineer	KNOWLEDGE	nur A	DevOps-Themen	angepasst	[K] Entwicklungs - und DevOps-Themen	R2
+15_data-engineer	KNOWLEDGE	nur A	Datenpipelines	übernommen	Datenpipelines	R3
+15_data-engineer	KNOWLEDGE	nur A	Data-Warehouse	angepasst	[K] Data-Warehouse - oder Lakehouse-Architekturen	R2
+15_data-engineer	KNOWLEDGE	nur A	Lakehouse-Architekturen	angepasst	[K] Data-Warehouse - oder Lakehouse-Architekturen	R2
+15_data-engineer	KNOWLEDGE	nur A	Snowflake	übernommen	Snowflake	R3
+15_data-engineer	KNOWLEDGE	nur A	Deutsch - und Englischkenntnisse	übernommen	Deutsch - und Englischkenntnisse	R2
+15_data-engineer	KNOWLEDGE	nur B	Datenlandschaft	verworfen		R3: Arbeitsgegenstand
+15_data-engineer	KNOWLEDGE	nur B	Data-Warehouse - oder Lakehouse-Architekturen	übernommen	Data-Warehouse - oder Lakehouse-Architekturen	R2
+15_data-engineer	KNOWLEDGE	nur B	Deutsch	angepasst	[K] Deutsch - und Englischkenntnisse	R2
+15_data-engineer	KNOWLEDGE	nur B	Englischkenntnisse	angepasst	[K] Deutsch - und Englischkenntnisse	R2
+16_marketing-manager-hotel	SKILL	nur A	Planung , Koordination und Steuerung integrierter Marketingkampagnen	übernommen	Planung , Koordination und Steuerung integrierter Marketingkampagnen	R1
+16_marketing-manager-hotel	SKILL	nur A	Entwicklung innovativer Konzepte zur Umsatzsteigerung und Gästebindung	übernommen	Entwicklung innovativer Konzepte zur Umsatzsteigerung und Gästebindung	R1
+16_marketing-manager-hotel	SKILL	nur A	Planung und Umsetzung von Presseveranstaltungen , Hotel-Events und Marketingaktivierungen	übernommen	Planung und Umsetzung von Presseveranstaltungen , Hotel-Events und Marketingaktivierungen	R1
+16_marketing-manager-hotel	SKILL	nur A	Analyse von Markt - und Wettbewerbstrends sowie Identifikation neuer Potenziale	angepasst	[S] Analyse von Markt - und Wettbewerbstrends || [S] Identifikation neuer Potenziale	R2
+16_marketing-manager-hotel	SKILL	nur A	Führung und Entwicklung des Sales & Marketing Coordinators	angepasst	[S] Führung und Entwicklung des Sales & Marketing Coordinators sowie der Dualen Studenten und Auszubildenden	R2
+16_marketing-manager-hotel	SKILL	nur A	arbeitest strukturiert , eigenverantwortlich	übernommen	arbeitest strukturiert , eigenverantwortlich	R2
+16_marketing-manager-hotel	SKILL	nur A	kommunizierst souverän in deutscher und englischer Sprache	übernommen	kommunizierst souverän in deutscher und englischer Sprache	R1
+16_marketing-manager-hotel	SKILL	nur B	Planung , Koordination und Steuerung integrierter Marketingkampagnen für Rooms , Food & Beverage , Meetings & Events sowie weitere Hotelbereiche	angepasst	[S] Planung , Koordination und Steuerung integrierter Marketingkampagnen	R1
+16_marketing-manager-hotel	SKILL	nur B	Entwicklung innovativer Konzepte zur Umsatzsteigerung und Gästebindung in enger Zusammenarbeit mit dem Director of Sales & Marketing	angepasst	[S] Entwicklung innovativer Konzepte zur Umsatzsteigerung und Gästebindung	R1
+16_marketing-manager-hotel	SKILL	nur B	Unterstützung bei der Planung und Umsetzung von Presseveranstaltungen , Hotel-Events und Marketingaktivierungen	angepasst	[S] Planung und Umsetzung von Presseveranstaltungen , Hotel-Events und Marketingaktivierungen	R1
+16_marketing-manager-hotel	SKILL	nur B	Analyse von Markt - und Wettbewerbstrends sowie Identifikation neuer Potenziale zur Weiterentwicklung der Marketingaktivitäten	angepasst	[S] Analyse von Markt - und Wettbewerbstrends || [S] Identifikation neuer Potenziale	R2
+16_marketing-manager-hotel	SKILL	nur B	Führung und Entwicklung des Sales & Marketing Coordinators sowie der Dualen Studenten und Auszubildenden	übernommen	Führung und Entwicklung des Sales & Marketing Coordinators sowie der Dualen Studenten und Auszubildenden	R2
+16_marketing-manager-hotel	SKILL	nur B	Du arbeitest strukturiert , eigenverantwortlich und behältst auch bei mehreren Projekten gleichzeitig den Überblick	angepasst	[S] arbeitest strukturiert , eigenverantwortlich || [S] behältst auch bei mehreren Projekten gleichzeitig den Überblick	R2
+16_marketing-manager-hotel	SKILL	nur B	Du kommunizierst souverän in deutscher und englischer Sprache – sowohl mündlich als auch schriftlich	angepasst	[S] kommunizierst souverän in deutscher und englischer Sprache	R1
+16_marketing-manager-hotel	SKILL	nur B	Umgang mit Microsoft Office sowie gängigen Marketing - und Analysetools	angepasst	[K] Marketing	R3
+16_marketing-manager-hotel	KNOWLEDGE	nur B	Marketingstrategien	verworfen		R3: Arbeitsgegenstand
+16_marketing-manager-hotel	KNOWLEDGE	nur B	Marketingkampagnen	verworfen		R3: Arbeitsgegenstand
+16_marketing-manager-hotel	KNOWLEDGE	nur B	Marketing	übernommen	Marketing	R3
+16_marketing-manager-hotel	KNOWLEDGE	nur B	Content-Maßnahmen	verworfen		R3: Arbeitsgegenstand
+16_marketing-manager-hotel	KNOWLEDGE	nur B	Social-Media-Kanäle	übernommen	Social-Media-Kanäle	R3
+16_marketing-manager-hotel	KNOWLEDGE	nur B	Hotellerie - , Tourismus - oder Lifestyle-Branche	übernommen	Hotellerie - , Tourismus - oder Lifestyle-Branche	R3
+16_marketing-manager-hotel	KNOWLEDGE	nur B	Marriott-Umfeld	verworfen		R3: Firma, kein Arbeitsfeld
+17_sachbearbeitung-fes	SKILL	nur A	Organisatorische Vor - und Nachbereitung von Maßnahmen der politischen Bildung und Beratung	übernommen	Organisatorische Vor - und Nachbereitung von Maßnahmen der politischen Bildung und Beratung	R1
+17_sachbearbeitung-fes	SKILL	nur A	Gute Team - und Kommunikationsfähigkeit	angepasst	[S] Team - und Kommunikationsfähigkeit	R1
+17_sachbearbeitung-fes	SKILL	nur B	Organisatorische Vor - und Nachbereitung von Maßnahmen der politischen Bildung und Beratung in Sachsen-Anhalt inklusive Online-Formaten	angepasst	[S] Organisatorische Vor - und Nachbereitung von Maßnahmen der politischen Bildung und Beratung	R1
+17_sachbearbeitung-fes	SKILL	nur B	Team - und Kommunikationsfähigkeit	übernommen	Team - und Kommunikationsfähigkeit	R1
+17_sachbearbeitung-fes	SKILL	nur B	Umgang mit Content Management Systemen , Videokonferenzsystemen sowie mit Social-Media	angepasst	[K] Social-Media || [K] Content Management Systemen || [K] Videokonferenzsystemen	R1,R3
+17_sachbearbeitung-fes	KNOWLEDGE	nur A	EDV-Kenntnisse	verworfen		R3: unterbestimmt
+17_sachbearbeitung-fes	KNOWLEDGE	nur A	Social-Media	übernommen	Social-Media	R3
+17_sachbearbeitung-fes	KNOWLEDGE	nur B	politischen Bildung	übernommen	politischen Bildung	R3
+17_sachbearbeitung-fes	KNOWLEDGE	nur B	Online-Formaten	verworfen		R3: Arbeitsgegenstand
+18_buchhaltung-aurea	SKILL	nur A	Prüfung von Steuerbescheiden für deutsche Gesellschaften	angepasst	[S] Prüfung von Steuerbescheiden	R1
+18_buchhaltung-aurea	SKILL	nur A	Sicherstellung termingerechter Vorauszahlungen	übernommen	Sicherstellung termingerechter Vorauszahlungen	R2
+18_buchhaltung-aurea	SKILL	nur A	Erstellung von Monats - , Quartals - und Jahresabschlüssen nach HGB	übernommen	Erstellung von Monats - , Quartals - und Jahresabschlüssen nach HGB	R1
+18_buchhaltung-aurea	SKILL	nur A	Monatliche Konsolidierung auf Gruppenebene	angepasst	[S] Konsolidierung auf Gruppenebene	R1
+18_buchhaltung-aurea	SKILL	nur A	Erstellung von Kostenstellenreports und Führung des Anlagevermögens	angepasst	[S] Erstellung von Kostenstellenreports || [S] Führung des Anlagevermögens	R2
+18_buchhaltung-aurea	SKILL	nur A	Periodengerechte Abgrenzung von Unternehmenskosten	übernommen	Periodengerechte Abgrenzung von Unternehmenskosten	R2
+18_buchhaltung-aurea	SKILL	nur A	tägliche Buchung von Geschäftsvorfällen	angepasst	[S] Buchung von Geschäftsvorfällen	R2
+18_buchhaltung-aurea	SKILL	nur A	Mitarbeit an Projekten zur Optimierung von Geschäftsprozessen	angepasst	[S] Optimierung von Geschäftsprozessen	R1
+18_buchhaltung-aurea	SKILL	nur A	Key-User-Funktion im Bereich Finanzbuchhaltung	angepasst	[K] Finanzbuchhaltung	R3
+18_buchhaltung-aurea	SKILL	nur A	Durchführung von Mitarbeiterschulungen	übernommen	Durchführung von Mitarbeiterschulungen	R2
+18_buchhaltung-aurea	SKILL	nur A	Kontenabstimmungen	übernommen	Kontenabstimmungen	R2
+18_buchhaltung-aurea	SKILL	nur A	abschlusssichere Buchungen im Rahmen des Jahresabschlusses	übernommen	abschlusssichere Buchungen im Rahmen des Jahresabschlusses	R2
+18_buchhaltung-aurea	SKILL	nur A	Bereitstellung aller Haupt - und Nebenbücher für Wirtschaftsprüfer	übernommen	Bereitstellung aller Haupt - und Nebenbücher für Wirtschaftsprüfer	R2
+18_buchhaltung-aurea	SKILL	nur A	Begleitung der Inventur	übernommen	Begleitung der Inventur	R2
+18_buchhaltung-aurea	SKILL	nur A	Sachkonten-Mapping für internationale Gesellschaften	angepasst	[S] Sachkonten-Mapping	R1
+18_buchhaltung-aurea	SKILL	nur A	Abstimmung von Intercompany-Sachverhalten	übernommen	Abstimmung von Intercompany-Sachverhalten	R2
+18_buchhaltung-aurea	SKILL	nur A	Analyse von Finanzdaten	übernommen	Analyse von Finanzdaten	R2
+18_buchhaltung-aurea	SKILL	nur A	Kontrolle von Betriebskosten und Buchungen auf Sachkostenebene	übernommen	Kontrolle von Betriebskosten und Buchungen auf Sachkostenebene	R2
+18_buchhaltung-aurea	SKILL	nur A	Erstellung von Umsatzsteuerjahresmeldungen , K-4 Meldungen und Meldungen zur Strukturstatistik	angepasst	[S] Erstellung von Umsatzsteuerjahresmeldungen , K-4 Meldungen und Meldungen zur Strukturstatistik bzw . globalen Wertschöpfung	R2
+18_buchhaltung-aurea	SKILL	nur A	Kommunikation mit Banken	übernommen	Kommunikation mit Banken	R2
+18_buchhaltung-aurea	SKILL	nur A	Verwaltung von Perioden im ERP-System	übernommen	Verwaltung von Perioden im ERP-System	R1
+18_buchhaltung-aurea	SKILL	nur A	Führungserfahrung	übernommen	Führungserfahrung	R0
+18_buchhaltung-aurea	SKILL	nur A	ein Team zu leiten und zu entwickeln	übernommen	ein Team zu leiten und zu entwickeln	R1
+18_buchhaltung-aurea	SKILL	nur A	Gute Kommunikationsfähigkeiten in Deutsch und Englisch	angepasst	[S] Kommunikationsfähigkeiten	R1
+18_buchhaltung-aurea	SKILL	nur B	Prüfung von Steuerbescheiden für deutsche Gesellschaften und Sicherstellung termingerechter Vorauszahlungen ( KöSt , GewSt )	angepasst	[S] Prüfung von Steuerbescheiden || [S] Sicherstellung termingerechter Vorauszahlungen	R1,R2
+18_buchhaltung-aurea	SKILL	nur B	Erstellung von Monats - , Quartals - und Jahresabschlüssen nach HGB ( Bilanz , GuV , BWA ) für deutsche und belgische Gesellschaften	angepasst	[S] Erstellung von Monats - , Quartals - und Jahresabschlüssen nach HGB	R1
+18_buchhaltung-aurea	SKILL	nur B	Monatliche Konsolidierung auf Gruppenebene ( Deutschland , Belgien , Schweiz , Österreich )	angepasst	[S] Konsolidierung auf Gruppenebene	R1
+18_buchhaltung-aurea	SKILL	nur B	Erstellung von Kostenstellenreports und Führung des Anlagevermögens in DATEV und Excel	angepasst	[S] Erstellung von Kostenstellenreports || [S] Führung des Anlagevermögens	R2
+18_buchhaltung-aurea	SKILL	nur B	Periodengerechte Abgrenzung von Unternehmenskosten und tägliche Buchung von Geschäftsvorfällen	angepasst	[S] Periodengerechte Abgrenzung von Unternehmenskosten || [S] Buchung von Geschäftsvorfällen	R2
+18_buchhaltung-aurea	SKILL	nur B	Mitarbeit an Projekten zur Optimierung von Geschäftsprozessen und Umsetzung gesetzlicher Neuerungen	angepasst	[S] Optimierung von Geschäftsprozessen || [S] Umsetzung gesetzlicher Neuerungen	R1,R2
+18_buchhaltung-aurea	SKILL	nur B	Key-User-Funktion im Bereich Finanzbuchhaltung und Durchführung von Mitarbeiterschulungen	angepasst	[S] Durchführung von Mitarbeiterschulungen	R2
+18_buchhaltung-aurea	SKILL	nur B	Kontenabstimmungen ( OP-geführte Sachkonten , Bilanz - und GuV-Konten ) und abschlusssichere Buchungen im Rahmen des Jahresabschlusses	angepasst	[S] Kontenabstimmungen || [S] abschlusssichere Buchungen im Rahmen des Jahresabschlusses	R2
+18_buchhaltung-aurea	SKILL	nur B	Bereitstellung aller Haupt - und Nebenbücher für Wirtschaftsprüfer und Begleitung der Inventur	angepasst	[S] Bereitstellung aller Haupt - und Nebenbücher für Wirtschaftsprüfer || [S] Begleitung der Inventur	R2
+18_buchhaltung-aurea	SKILL	nur B	Sachkonten-Mapping für internationale Gesellschaften und Abstimmung von Intercompany-Sachverhalten	angepasst	[S] Sachkonten-Mapping || [S] Abstimmung von Intercompany-Sachverhalten	R1,R2
+18_buchhaltung-aurea	SKILL	nur B	Analyse von Finanzdaten sowie Kontrolle von Betriebskosten und Buchungen auf Sachkostenebene	angepasst	[S] Analyse von Finanzdaten || [S] Kontrolle von Betriebskosten und Buchungen auf Sachkostenebene	R2
+18_buchhaltung-aurea	SKILL	nur B	Erstellung von Umsatzsteuerjahresmeldungen , K-4 Meldungen und Meldungen zur Strukturstatistik bzw . globalen Wertschöpfung ( Destatis )	angepasst	[S] Erstellung von Umsatzsteuerjahresmeldungen , K-4 Meldungen und Meldungen zur Strukturstatistik bzw . globalen Wertschöpfung	R2
+18_buchhaltung-aurea	SKILL	nur B	Weiterleitung der Jahresabschlüsse und Kommunikation mit Banken	angepasst	[S] Weiterleitung der Jahresabschlüsse || [S] Kommunikation mit Banken	R2
+18_buchhaltung-aurea	SKILL	nur B	Verwaltung von Perioden im ERP-System für alle Abteilungen und Gesellschaften	angepasst	[S] Verwaltung von Perioden im ERP-System	R1
+18_buchhaltung-aurea	SKILL	nur B	Fähigkeit , ein Team zu leiten und zu entwickeln	angepasst	[S] ein Team zu leiten und zu entwickeln	R1
+18_buchhaltung-aurea	SKILL	nur B	Kommunikationsfähigkeiten in Deutsch und Englisch , insbesondere für internationale Gesellschaften	angepasst	[S] Kommunikationsfähigkeiten	R1
+18_buchhaltung-aurea	KNOWLEDGE	nur A	HGB	übernommen	HGB	R3
+18_buchhaltung-aurea	KNOWLEDGE	nur A	HGB	übernommen	HGB	R3
+18_buchhaltung-aurea	KNOWLEDGE	nur A	Umsatzsteuer	übernommen	Umsatzsteuer	R3
+18_buchhaltung-aurea	KNOWLEDGE	nur A	DATEV	übernommen	DATEV	R3
+18_buchhaltung-aurea	KNOWLEDGE	nur A	Excel	übernommen	Excel	R3
+18_buchhaltung-aurea	KNOWLEDGE	nur A	Deutsch	übernommen	Deutsch	R3
+18_buchhaltung-aurea	KNOWLEDGE	nur B	KöSt	übernommen	KöSt	R3
+18_buchhaltung-aurea	KNOWLEDGE	nur B	GewSt	übernommen	GewSt	R3
+18_buchhaltung-aurea	KNOWLEDGE	nur B	Destatis	verworfen		R3: Organisation
+18_buchhaltung-aurea	KNOWLEDGE	nur B	Reporting	verworfen		R3: Tätigkeit, kein Wissen
+19_sachbearbeiter-controlling	SKILL	nur A	Pflege und Verwaltung von Stammdaten für Investitionsprojekte	übernommen	Pflege und Verwaltung von Stammdaten für Investitionsprojekte	R1
+19_sachbearbeiter-controlling	SKILL	nur A	Weiterentwicklung und Optimierung des Investitionscontrollings	übernommen	Weiterentwicklung und Optimierung des Investitionscontrollings	R1
+19_sachbearbeiter-controlling	SKILL	nur B	Pflege und Verwaltung von Stammdaten für Investitionsprojekte sowie bauliche Instandhaltungs - und Unterhaltungsmaßnahmen	angepasst	[S] Pflege und Verwaltung von Stammdaten für Investitionsprojekte	R1
+19_sachbearbeiter-controlling	SKILL	nur B	Mitarbeit an Projekten zur Weiterentwicklung und Optimierung des Investitionscontrollings	angepasst	[S] Weiterentwicklung und Optimierung des Investitionscontrollings	R1
+19_sachbearbeiter-controlling	SKILL	nur B	sicherer Umgang mit den gängigen MS Office Anwendungen	angepasst	[K] MS Office	R1
+19_sachbearbeiter-controlling	SKILL	nur B	Verhandlungssichere Deutschkenntnisse in Wort und Schrift	angepasst	[K] Deutschkenntnisse	R3
+19_sachbearbeiter-controlling	KNOWLEDGE	nur A	SAP-PS-Systems	übernommen	SAP-PS-Systems	R3
+19_sachbearbeiter-controlling	KNOWLEDGE	nur A	SAP PS	übernommen	SAP PS	R3
+19_sachbearbeiter-controlling	KNOWLEDGE	nur A	MS Office	übernommen	MS Office	R1
+19_sachbearbeiter-controlling	KNOWLEDGE	nur B	Investitionscontrollings	übernommen	Investitionscontrollings	R3
+19_sachbearbeiter-controlling	KNOWLEDGE	nur B	MS Office Anwendungen	angepasst	[K] MS Office	R1
+20_pflegefachkraft-remacare	SKILL	nur A	Durchführung der allgemeinen Grundpflege	angepasst	[S] Durchführung der allgemeinen Grundpflege und Behandlungspflege	R2
+20_pflegefachkraft-remacare	SKILL	nur A	Behandlungspflege unserer Klienten	angepasst	[S] Durchführung der allgemeinen Grundpflege und Behandlungspflege	R2
+20_pflegefachkraft-remacare	SKILL	nur A	Körperpflege	übernommen	Körperpflege	R2
+20_pflegefachkraft-remacare	SKILL	nur A	Mobilisation	übernommen	Mobilisation	R2
+20_pflegefachkraft-remacare	SKILL	nur A	Medikamentengabe	übernommen	Medikamentengabe	R2
+20_pflegefachkraft-remacare	SKILL	nur A	Wundversorgung	übernommen	Wundversorgung	R2
+20_pflegefachkraft-remacare	SKILL	nur A	Blutdruck - , Puls - und Blutzuckerkontrolle	übernommen	Blutdruck - , Puls - und Blutzuckerkontrolle	R2
+20_pflegefachkraft-remacare	SKILL	nur A	Portversorgung	übernommen	Portversorgung	R2
+20_pflegefachkraft-remacare	SKILL	nur B	Durchführung der allgemeinen Grundpflege und Behandlungspflege unserer Klienten ( z . B . Körperpflege , Mobilisation , Medikamentengabe , Wundversorgung , Blutdruck - , Puls - und Blutzuckerkontrolle , Portversorgung etc . )	angepasst	[S] Durchführung der allgemeinen Grundpflege und Behandlungspflege || [S] Körperpflege || [S] Mobilisation || [S] Medikamentengabe || [S] Wundversorgung || [S] Blutdruck - , Puls - und Blutzuckerkontrolle || [S] Portversorgung	R2
+20_pflegefachkraft-remacare	KNOWLEDGE	nur B	Grundpflege	verworfen		R3: Tätigkeit → SKILL
+20_pflegefachkraft-remacare	KNOWLEDGE	nur B	Behandlungspflege	verworfen		R3: Tätigkeit → SKILL
+20_pflegefachkraft-remacare	KNOWLEDGE	nur B	Körperpflege	angepasst	[S] Körperpflege	R2
+20_pflegefachkraft-remacare	KNOWLEDGE	nur B	Mobilisation	angepasst	[S] Mobilisation	R2
+20_pflegefachkraft-remacare	KNOWLEDGE	nur B	Medikamentengabe	angepasst	[S] Medikamentengabe	R2
+20_pflegefachkraft-remacare	KNOWLEDGE	nur B	Wundversorgung	angepasst	[S] Wundversorgung	R2
+20_pflegefachkraft-remacare	KNOWLEDGE	nur B	Blutdruck - , Puls - und Blutzuckerkontrolle	angepasst	[S] Blutdruck - , Puls - und Blutzuckerkontrolle	R2
+20_pflegefachkraft-remacare	KNOWLEDGE	nur B	Portversorgung	angepasst	[S] Portversorgung	R2
+21_erzieher	SKILL	nur A	Gestaltung eines liebevollen und sicheren Umfelds	übernommen	Gestaltung eines liebevollen und sicheren Umfelds	R1
+21_erzieher	SKILL	nur A	Kreative Ideen	übernommen	Kreative Ideen	R0
+21_erzieher	SKILL	nur B	Gestaltung eines liebevollen und sicheren Umfelds , in dem sich Kinder geborgen fühlen	angepasst	[S] Gestaltung eines liebevollen und sicheren Umfelds	R1
+21_erzieher	SKILL	nur B	Kinder im Alltag zu inspirieren und zu fördern	übernommen	Kinder im Alltag zu inspirieren und zu fördern	R0
+22_sozialarbeiter-jugendhilfe	SKILL	nur A	Interesse an konzeptioneller Weiterentwicklung und innovativen Ansätzen in der Jugendarbeit	angepasst	[S] konzeptioneller Weiterentwicklung	R1
+23_produktionsmitarbeiter	SKILL	nur A	bestücken , steuern und überwachen unsere Anlagen und Maschinen	übernommen	bestücken , steuern und überwachen unsere Anlagen und Maschinen	R1
+23_produktionsmitarbeiter	SKILL	nur A	verantworten einzelne Produktionsbereiche für die Herstellung von Reinigern und Polituren	übernommen	verantworten einzelne Produktionsbereiche für die Herstellung von Reinigern und Polituren	R1
+23_produktionsmitarbeiter	SKILL	nur A	stellen Rohstoffe bereit , füllen Materialien nach	angepasst	[S] stellen Rohstoffe bereit || [S] füllen Materialien nach	R2
+23_produktionsmitarbeiter	SKILL	nur A	Handwerkliches Geschick und technisches Verständnis	angepasst	[S] Handwerkliches Geschick || [S] technisches Verständnis	R2
+23_produktionsmitarbeiter	SKILL	nur B	Sie bestücken , steuern und überwachen unsere Anlagen und Maschinen	angepasst	[S] bestücken , steuern und überwachen unsere Anlagen und Maschinen	R1
+23_produktionsmitarbeiter	SKILL	nur B	Sie verantworten einzelne Produktionsbereiche für die Herstellung von Reinigern und Polituren	angepasst	[S] verantworten einzelne Produktionsbereiche für die Herstellung von Reinigern und Polituren	R1
+23_produktionsmitarbeiter	SKILL	nur B	Sie stellen Rohstoffe bereit , füllen Materialien nach und sorgen für Ihren Arbeitsplatz	angepasst	[S] stellen Rohstoffe bereit || [S] füllen Materialien nach	R2
+23_produktionsmitarbeiter	SKILL	nur B	Handwerkliches Geschick und technisches Verständnis für unser Maschinen und Anlagen	angepasst	[S] Handwerkliches Geschick || [S] technisches Verständnis	R2
+23_produktionsmitarbeiter	SKILL	nur B	Deutschkenntnisse	angepasst	[K] Deutschkenntnisse	R3
+23_produktionsmitarbeiter	KNOWLEDGE	nur A	Produktion	übernommen	Produktion	R3
+23_produktionsmitarbeiter	KNOWLEDGE	nur B	Lebensmittelverarbeitenden Gewerbe	übernommen	Lebensmittelverarbeitenden Gewerbe	R3
+23_produktionsmitarbeiter	KNOWLEDGE	nur B	Bäckerei	übernommen	Bäckerei	R3
+23_produktionsmitarbeiter	KNOWLEDGE	nur B	fleischverarbeitendes Gewerbe	übernommen	fleischverarbeitendes Gewerbe	R3
+24_customer-service-export	SKILL	nur A	arbeiten mit einem Ticketsystem	angepasst	[K] Ticketsystem	R1
+24_customer-service-export	SKILL	nur A	Angebote und Exportdokumente erstellen	übernommen	Angebote und Exportdokumente erstellen	R1
+24_customer-service-export	SKILL	nur A	supporten den Inhouse Sales Manager	übernommen	supporten den Inhouse Sales Manager	R1
+24_customer-service-export	SKILL	nur A	kommunikations - und überzeugungsfähig	übernommen	kommunikations - und überzeugungsfähig	R1
+24_customer-service-export	SKILL	nur B	Sie arbeiten mit einem Ticketsystem	angepasst	[K] Ticketsystem	R1
+24_customer-service-export	SKILL	nur B	Angebote und Exportdokumente erstellen ( Maschinen , Ersatzteile etc . )	angepasst	[S] Angebote und Exportdokumente erstellen	R1
+24_customer-service-export	SKILL	nur B	Sie supporten den Inhouse Sales Manager	angepasst	[S] supporten den Inhouse Sales Manager	R1
+24_customer-service-export	SKILL	nur B	gute Sprachkenntnisse in Englisch in Wort und Schrift	angepasst	[K] Englisch	R3
+24_customer-service-export	SKILL	nur B	Sie sind kommunikations - und überzeugungsfähig	angepasst	[S] kommunikations - und überzeugungsfähig	R1
+24_customer-service-export	KNOWLEDGE	nur A	SAP-Kenntnisse	übernommen	SAP-Kenntnisse	R3
+25_personalreferent	SKILL	nur B	Umgang mit gängiger HR-Software	verworfen		R1: leeres Verb, unterbestimmt
+25_personalreferent	KNOWLEDGE	nur B	HR-Projekten	verworfen		R3: Arbeitsgegenstand
+25_personalreferent	KNOWLEDGE	nur B	HR-Strategien	verworfen		R3: Arbeitsgegenstand
+25_personalreferent	KNOWLEDGE	nur B	HR-Bereich	übernommen	HR-Bereich	R3
+26_hr-generalist	SKILL	nur A	verantworten das Anzeigen - und Bewerbermanagement	angepasst	[S] Anzeigen - und Bewerbermanagement	R1
+26_hr-generalist	SKILL	nur A	erstellen und analysieren regelmäßig HR-Kennzahlen	übernommen	erstellen und analysieren regelmäßig HR-Kennzahlen	R1
+26_hr-generalist	SKILL	nur A	Zusammenarbeit mit dem Betriebsrat	übernommen	Zusammenarbeit mit dem Betriebsrat	R1
+26_hr-generalist	SKILL	nur B	Sie verantworten das Anzeigen - und Bewerbermanagement	angepasst	[S] Anzeigen - und Bewerbermanagement	R1
+26_hr-generalist	SKILL	nur B	Sie erstellen und analysieren regelmäßig HR-Kennzahlen	angepasst	[S] erstellen und analysieren regelmäßig HR-Kennzahlen	R1
+26_hr-generalist	SKILL	nur B	Sie wirken unterstützend bei der Zusammenarbeit mit dem Betriebsrat mit	angepasst	[S] Zusammenarbeit mit dem Betriebsrat	R1
+26_hr-generalist	SKILL	nur B	gute bis sehr gute Englischkenntnisse	angepasst	[K] Englischkenntnisse	R3
+26_hr-generalist	KNOWLEDGE	nur A	SAP HR-Kenntnisse	übernommen	SAP HR-Kenntnisse	R3
+26_hr-generalist	KNOWLEDGE	nur B	Personalbeschaffung und - betreuung	übernommen	Personalbeschaffung und - betreuung	R2
+26_hr-generalist	KNOWLEDGE	nur B	Anzeigen - und Bewerbermanagement	angepasst	[S] Anzeigen - und Bewerbermanagement	R1
+26_hr-generalist	KNOWLEDGE	nur B	SAP	angepasst	[K] SAP HR-Kenntnisse	R3
+27_sicherheitsmitarbeiter	SKILL	nur A	Kontrollgänge	übernommen	Kontrollgänge	R2
+27_sicherheitsmitarbeiter	SKILL	nur A	Entgegennahme von eingehenden Telefonaten	übernommen	Entgegennahme von eingehenden Telefonaten	R2
+27_sicherheitsmitarbeiter	SKILL	nur A	Auf - und Verschluss	übernommen	Auf - und Verschluss	R2
+27_sicherheitsmitarbeiter	SKILL	nur A	überwachen die technischen Sicherheitseinrichtungen	übernommen	überwachen die technischen Sicherheitseinrichtungen	R1
+27_sicherheitsmitarbeiter	SKILL	nur A	zuverlässige Objektbewachung	übernommen	zuverlässige Objektbewachung	R1
+27_sicherheitsmitarbeiter	SKILL	nur A	zuverlässig , flexibel und teamfähig	angepasst	[S] zuverlässig || [S] flexibel || [S] teamfähig	R2
+27_sicherheitsmitarbeiter	SKILL	nur B	Sie führen als Sicherheitskraft ( m/w/d ) Tätigkeiten wie zum Beispiel Kontrollgänge , Entgegennahme von eingehenden Telefonaten und Auf - und Verschluss durch	angepasst	[S] Kontrollgänge || [S] Entgegennahme von eingehenden Telefonaten || [S] Auf - und Verschluss	R2
+27_sicherheitsmitarbeiter	SKILL	nur B	Sie überwachen die technischen Sicherheitseinrichtungen wie z . B . Kameras	angepasst	[S] überwachen die technischen Sicherheitseinrichtungen	R1
+27_sicherheitsmitarbeiter	SKILL	nur B	Sie sorgen für die zuverlässige Objektbewachung	angepasst	[S] zuverlässige Objektbewachung	R1
+27_sicherheitsmitarbeiter	SKILL	nur B	Sie sind zuverlässig , flexibel und teamfähig	angepasst	[S] zuverlässig || [S] flexibel || [S] teamfähig	R2
+28_technischer-produktdesigner	SKILL	nur A	erstellen technische Zeichnungen , Baugruppen - und Anordnungszeichnungen sowie Schaltpläne	übernommen	erstellen technische Zeichnungen , Baugruppen - und Anordnungszeichnungen sowie Schaltpläne	R1
+28_technischer-produktdesigner	SKILL	nur A	setzen Konstruktionsvorgaben normgerecht um	übernommen	setzen Konstruktionsvorgaben normgerecht um	R2
+28_technischer-produktdesigner	SKILL	nur A	stellen die Einhaltung von Qualitätsstandards sicher	übernommen	stellen die Einhaltung von Qualitätsstandards sicher	R2
+28_technischer-produktdesigner	SKILL	nur A	pflegen Artikelstammdaten , Stücklisten und technische Änderungen im SAP-System	übernommen	pflegen Artikelstammdaten , Stücklisten und technische Änderungen im SAP-System	R1
+28_technischer-produktdesigner	SKILL	nur A	führen Zeichnungs - und Stücklistenänderungen in CAD - und SAP-Systemen durch	übernommen	führen Zeichnungs - und Stücklistenänderungen in CAD - und SAP-Systemen durch	R2
+28_technischer-produktdesigner	SKILL	nur A	halten die technische Dokumentation aktuell	übernommen	halten die technische Dokumentation aktuell	R2
+28_technischer-produktdesigner	SKILL	nur A	entwickeln technische Detaillösungen	übernommen	entwickeln technische Detaillösungen	R2
+28_technischer-produktdesigner	SKILL	nur A	wählen geeignete Bauteile sowie Halbzeuge unter technischen und wirtschaftlichen Gesichtspunkten aus	übernommen	wählen geeignete Bauteile sowie Halbzeuge unter technischen und wirtschaftlichen Gesichtspunkten aus	R2
+28_technischer-produktdesigner	SKILL	nur A	erstellen technische Dokumentationen , Stücklisten , Auswertungen und Datenaustauschdateien	übernommen	erstellen technische Dokumentationen , Stücklisten , Auswertungen und Datenaustauschdateien	R1
+28_technischer-produktdesigner	SKILL	nur A	Import , die Prüfung und die Bearbeitung technischer Daten	übernommen	Import , die Prüfung und die Bearbeitung technischer Daten	R1
+28_technischer-produktdesigner	SKILL	nur A	Durchführung einfacher technischer Berechnungen	übernommen	Durchführung einfacher technischer Berechnungen	R1
+28_technischer-produktdesigner	SKILL	nur B	Sie erstellen technische Zeichnungen , Baugruppen - und Anordnungszeichnungen sowie Schaltpläne auf Basis technischer Vorgaben	angepasst	[S] erstellen technische Zeichnungen , Baugruppen - und Anordnungszeichnungen sowie Schaltpläne	R1
+28_technischer-produktdesigner	SKILL	nur B	Sie setzen Konstruktionsvorgaben normgerecht um und stellen die Einhaltung von Qualitätsstandards sicher	angepasst	[S] setzen Konstruktionsvorgaben normgerecht um || [S] stellen die Einhaltung von Qualitätsstandards sicher	R2
+28_technischer-produktdesigner	SKILL	nur B	Sie pflegen Artikelstammdaten , Stücklisten und technische Änderungen im SAP-System	angepasst	[S] pflegen Artikelstammdaten , Stücklisten und technische Änderungen im SAP-System	R1
+28_technischer-produktdesigner	SKILL	nur B	Sie führen Zeichnungs - und Stücklistenänderungen in CAD - und SAP-Systemen durch und halten die technische Dokumentation aktuell	angepasst	[S] führen Zeichnungs - und Stücklistenänderungen in CAD - und SAP-Systemen durch || [S] halten die technische Dokumentation aktuell	R2
+28_technischer-produktdesigner	SKILL	nur B	Sie entwickeln technische Detaillösungen und wählen geeignete Bauteile sowie Halbzeuge unter technischen und wirtschaftlichen Gesichtspunkten aus	angepasst	[S] entwickeln technische Detaillösungen || [S] wählen geeignete Bauteile sowie Halbzeuge unter technischen und wirtschaftlichen Gesichtspunkten aus	R2
+28_technischer-produktdesigner	SKILL	nur B	Sie erstellen technische Dokumentationen , Stücklisten , Auswertungen und Datenaustauschdateien für Kunden , Lieferanten und interne Fachbereiche	angepasst	[S] erstellen technische Dokumentationen , Stücklisten , Auswertungen und Datenaustauschdateien	R1
+28_technischer-produktdesigner	SKILL	nur B	Sie übernehmen den Import , die Prüfung und die Bearbeitung technischer Daten von externen Projektpartnern	angepasst	[S] Import , die Prüfung und die Bearbeitung technischer Daten	R1
+28_technischer-produktdesigner	SKILL	nur B	Sie unterstützen Projekte durch die Durchführung einfacher technischer Berechnungen , beispielsweise zu Gewicht , Materialeinsatz oder Volumen	angepasst	[S] Durchführung einfacher technischer Berechnungen	R1
+28_technischer-produktdesigner	KNOWLEDGE	nur A	Qualitätsstandards	verworfen		R3: unterbestimmt
+28_technischer-produktdesigner	KNOWLEDGE	nur A	Normen	verworfen		R3: unterbestimmt
+28_technischer-produktdesigner	KNOWLEDGE	nur A	Qualitätsstandards	verworfen		R3: unterbestimmt
+28_technischer-produktdesigner	KNOWLEDGE	nur A	MS-Office-Kenntnisse	übernommen	MS-Office-Kenntnisse	R3
+28_technischer-produktdesigner	KNOWLEDGE	nur B	technischen Zeichnungen und Stücklisten	verworfen		R3: Arbeitsgegenstand
+28_technischer-produktdesigner	KNOWLEDGE	nur B	relevanter Normen und Qualitätsstandards	verworfen		R3: unterbestimmt
+29_lagermitarbeiter	SKILL	nur A	Umlagerungen zur Optimierung der Lagerbestände	übernommen	Umlagerungen zur Optimierung der Lagerbestände	R2
+29_lagermitarbeiter	SKILL	nur A	Verpackung der Fertigwaren	übernommen	Verpackung der Fertigwaren	R2
+29_lagermitarbeiter	SKILL	nur A	Hohes Maß an Kommunikations - und Teamfähigkeit	angepasst	[S] Kommunikations - und Teamfähigkeit	R1
+29_lagermitarbeiter	SKILL	nur B	führen eigenständig Umlagerungen zur Optimierung der Lagerbestände durch und übernehmen die Verpackung der Fertigwaren	angepasst	[S] Umlagerungen zur Optimierung der Lagerbestände || [S] Verpackung der Fertigwaren	R2
+29_lagermitarbeiter	SKILL	nur B	sorgen für einen reibungslosen Logistikablauf	verworfen		R1: leeres Verb, Ergebnis statt Tätigkeit
+29_lagermitarbeiter	SKILL	nur B	allgemeine Reinigungs - und Ordnungstätigkeiten	angepasst	[S] Reinigungs - und Ordnungstätigkeiten	R1
+29_lagermitarbeiter	SKILL	nur B	Kommunikations - und Teamfähigkeit	übernommen	Kommunikations - und Teamfähigkeit	R1
+30_technischer-projektleiter-elektro	SKILL	nur A	Technische Abwicklung von Kundenverträgen für elektrische und leittechnische Systeme	übernommen	Technische Abwicklung von Kundenverträgen für elektrische und leittechnische Systeme	R1
+30_technischer-projektleiter-elektro	SKILL	nur A	Verantwortung für die technische Koordination von Generatoren , Transformatoren sowie Mittel - und Hochspannungsschaltanlagen	angepasst	[S] technische Koordination von Generatoren , Transformatoren sowie Mittel - und Hochspannungsschaltanlagen ( MV/HV )	R1
+30_technischer-projektleiter-elektro	SKILL	nur A	Spezifikation und Auslegung der Elektro - und Leittechnik	übernommen	Spezifikation und Auslegung der Elektro - und Leittechnik	R1
+30_technischer-projektleiter-elektro	SKILL	nur A	ausgeprägte Kommunikations - , Koordinations - und Schnittstellenkompetenz	angepasst	[S] Kommunikations - , Koordinations - und Schnittstellenkompetenz	R1
+30_technischer-projektleiter-elektro	SKILL	nur B	Technische Abwicklung von Kundenverträgen für elektrische und leittechnische Systeme im erweiterten Lieferumfang von Dampfturbinenanlagen	angepasst	[S] Technische Abwicklung von Kundenverträgen für elektrische und leittechnische Systeme	R1
+30_technischer-projektleiter-elektro	SKILL	nur B	Verantwortung für die technische Koordination von Generatoren , Transformatoren sowie Mittel - und Hochspannungsschaltanlagen ( MV/HV )	angepasst	[S] technische Koordination von Generatoren , Transformatoren sowie Mittel - und Hochspannungsschaltanlagen ( MV/HV )	R1
+30_technischer-projektleiter-elektro	SKILL	nur B	Spezifikation und Auslegung der Elektro - und Leittechnik auf Grundlage von Vertragsanforderungen , technischen Vorgaben und kundenspezifischen Anforderungen	angepasst	[S] Spezifikation und Auslegung der Elektro - und Leittechnik	R1
+30_technischer-projektleiter-elektro	SKILL	nur B	Montage - oder Inbetriebnahmetätigkeiten	übernommen	Montage - oder Inbetriebnahmetätigkeiten	R3
+30_technischer-projektleiter-elektro	SKILL	nur B	Sehr gute bzw . sichere Englischkenntnisse für internationale Projekte und Kundengespräche	angepasst	[K] Englischkenntnisse	R3
+30_technischer-projektleiter-elektro	SKILL	nur B	Kommunikations - , Koordinations - und Schnittstellenkompetenz	übernommen	Kommunikations - , Koordinations - und Schnittstellenkompetenz	R1
+30_technischer-projektleiter-elektro	KNOWLEDGE	nur A	Montage - oder Inbetriebnahmetätigkeiten	angepasst	[S] Montage - oder Inbetriebnahmetätigkeiten	R3
+30_technischer-projektleiter-elektro	KNOWLEDGE	nur B	elektrische und leittechnische Systeme	verworfen		R3: Arbeitsgegenstand
+30_technischer-projektleiter-elektro	KNOWLEDGE	nur B	Dampfturbinenanlagen	verworfen		R3: Arbeitsgegenstand
+30_technischer-projektleiter-elektro	KNOWLEDGE	nur B	Generatoren	verworfen		R3: Arbeitsgegenstand
+30_technischer-projektleiter-elektro	KNOWLEDGE	nur B	Transformatoren	verworfen		R3: Arbeitsgegenstand
+30_technischer-projektleiter-elektro	KNOWLEDGE	nur B	MV/HV	verworfen		R3: Abkürzung im Skill-Span
+30_technischer-projektleiter-elektro	KNOWLEDGE	nur B	elektrischer Energieanlagen	übernommen	elektrischer Energieanlagen	R3
+30_technischer-projektleiter-elektro	KNOWLEDGE	nur B	Fremdsprachen	verworfen		R3: unterbestimmt

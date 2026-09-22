@@ -1,0 +1,301 @@
+doc_id	layer	span	herkunft	regel	hinweis
+01_performance-marketing-manager	SKILL	Erstellung und Abstimmung von Kommunikations - und Vertriebsunterlagen	wie A	R1	
+01_performance-marketing-manager	SKILL	Begleitung der digitalen Weiterentwicklung des Marketings	wie B	R0	
+01_performance-marketing-manager	SKILL	Aufbau eines professionellen Produktmarketings	wie A	R1	
+01_performance-marketing-manager	SKILL	Planung , Überwachung und Einhaltung des Marketingbudgets	wie A	R1	
+01_performance-marketing-manager	SKILL	Kommunikationsfähigkeit	angepasst	R1	
+01_performance-marketing-manager	KNOWLEDGE	B2B-Umfeld	wie B	R3	
+01_performance-marketing-manager	KNOWLEDGE	Produktmarketings	wie B	R3	in Skill verschachtelt
+01_performance-marketing-manager	KNOWLEDGE	B2B-Bezug	wie B	R3	
+02_social-media-manager	SKILL	Bildbearbeitung mit Adobe Photoshop CC	wie A	R3	
+02_social-media-manager	SKILL	Grafikdesign mit Adobe CC	wie A	R3	
+02_social-media-manager	SKILL	unterrichten	angepasst	R1	Grenzfall
+02_social-media-manager	SKILL	Vermittlung	angepasst	R1	Grenzfall: Objekt anaphorisch
+02_social-media-manager	KNOWLEDGE	Adobe Photoshop CC	wie A	R3	
+02_social-media-manager	KNOWLEDGE	Adobe CC	wie A	R3	
+02_social-media-manager	KNOWLEDGE	Künstliche Intelligenz ( KI )	angepasst	R1	
+02_social-media-manager	KNOWLEDGE	Social Media Marketing	wie A	R1	
+02_social-media-manager	KNOWLEDGE	Content Marketing	wie A	R1	
+03_e-commerce-trainer	SKILL	unterrichten	angepasst	R1	Grenzfall
+03_e-commerce-trainer	SKILL	Vermittlung	angepasst	R1	Grenzfall: Objekt anaphorisch
+03_e-commerce-trainer	KNOWLEDGE	E-Commerce	wie A	R2	
+03_e-commerce-trainer	KNOWLEDGE	Online-Shop-Systeme und - Gestaltung	wie B	R2	
+03_e-commerce-trainer	KNOWLEDGE	Künstliche Intelligenz ( KI )	angepasst	R1	
+03_e-commerce-trainer	KNOWLEDGE	Online-Marketing	wie A	R2	
+03_e-commerce-trainer	KNOWLEDGE	Kundengewinnung	wie A	R2	
+03_e-commerce-trainer	KNOWLEDGE	Zahlungssysteme	wie A	R2	
+03_e-commerce-trainer	KNOWLEDGE	Finanzen	wie A	R2	
+03_e-commerce-trainer	KNOWLEDGE	Logistik	wie A	R2	
+03_e-commerce-trainer	KNOWLEDGE	Fulfillment	wie A	R2	
+03_e-commerce-trainer	KNOWLEDGE	Kundenservice	wie A	R2	
+03_e-commerce-trainer	KNOWLEDGE	CRM	wie A	R2	
+03_e-commerce-trainer	KNOWLEDGE	Web-Controlling	wie A	R2	
+03_e-commerce-trainer	KNOWLEDGE	Datenanalyse	wie A	R2	
+04_produktmanager	SKILL	Eigenverantwortliche Begleitung und Weiterentwicklung unserer Produkte von der Idee bis zur Umsetzung	wie B	R1	Art-und-Weise bleibt
+04_produktmanager	SKILL	Mitwirkung an Produktstrategie , Roadmaps und Business Cases	wie A	R1	Rahmen bleibt: einziger Kopf
+04_produktmanager	SKILL	Entwicklung eines konsistenten , zukunftsfähigen Produktportfolios	wie A	R1	
+04_produktmanager	SKILL	Optimierung von Go-to-Market-Prozessen	wie A	R1	
+04_produktmanager	SKILL	Arbeit mit technischen Teams	angepasst	R2	
+04_produktmanager	SKILL	Übersetzung von Anforderungen in umsetzbare Produktlösungen	wie A	R2	
+04_produktmanager	SKILL	Strategische und zugleich pragmatische Arbeitsweise	wie A	R2	
+04_produktmanager	SKILL	Vision und Umsetzung in Einklang zu bringen	angepasst	R1	
+04_produktmanager	SKILL	kommunikative Fähigkeiten	angepasst	R1	
+04_produktmanager	SKILL	Projekte selbstständig zu übernehmen und voranzutreiben	wie A	R2	
+04_produktmanager	SKILL	Weiterentwicklung unserer Produkte	angepasst	R1	Pronomen mitten im Span → ab Nomen
+04_produktmanager	SKILL	übersetzt Kundenanforderungen und Marktbedarfe in klare Produktanforderungen	angepasst	R2	
+04_produktmanager	SKILL	priorisierst Features	angepasst	R2	
+04_produktmanager	SKILL	begleitest Produkte von der Idee bis zur erfolgreichen Umsetzung	angepasst	R2	
+04_produktmanager	SKILL	eigenverantwortlich	angepasst	R2	
+04_produktmanager	SKILL	datenbasiert	angepasst	R2	
+04_produktmanager	SKILL	pragmatisch	angepasst	R2	
+04_produktmanager	SKILL	Unterstützung reibungsloser Abläufe	angepasst	R1	Rahmen bleibt: einziger Kopf
+04_produktmanager	KNOWLEDGE	Produktstrategie	wie A	R3	
+04_produktmanager	KNOWLEDGE	technische Produktentwicklung	wie A	R3	
+04_produktmanager	KNOWLEDGE	Go-to-Market	wie A	R3	
+04_produktmanager	KNOWLEDGE	Business Cases	wie A	R3	
+04_produktmanager	KNOWLEDGE	Produktmanagement	A=B	R3	A-Vorkommen; B-Vorkommen = Abteilung, prüfen
+04_produktmanager	KNOWLEDGE	Produktstrategie	wie A	R2	
+04_produktmanager	KNOWLEDGE	Marktmechaniken	wie A	R2	
+04_produktmanager	KNOWLEDGE	technische Produktentwicklung	wie A	R2	
+04_produktmanager	KNOWLEDGE	Business Cases	wie A	R2	
+04_produktmanager	KNOWLEDGE	Go-to-Market-Prozessen	wie B	R3	
+04_produktmanager	KNOWLEDGE	IoT - , SaaS - , Energie - oder Funktechnologie-nahen Umfeld	angepasst	R2	"Grenzen: von ""IoT"" bis ""Umfeld"", Tokenfolge am Original prüfen"
+05_marketing-allrounder-seo	SKILL	Eigenständige Betreuung und kontinuierliche Optimierung unserer Website	wie A	R1	
+05_marketing-allrounder-seo	SKILL	Aufbau und Pflege von Backlinks	wie A	R2	
+05_marketing-allrounder-seo	SKILL	Zusammenarbeit mit relevanten Portalen , Verbänden und Kooperationspartnern	wie A	R2	
+05_marketing-allrounder-seo	SKILL	Positionierung unserer Standorte	angepasst	R1	
+05_marketing-allrounder-seo	SKILL	Enge Zusammenarbeit mit der Geschäftsführung	angepasst	R1	
+06_sozialarbeiter-psychosozialer-dienst	SKILL	Beratung von Patient : innen und deren Angehörige in Bezug auf die Sicherung der nachstationären Versorgung	wie A	R1	
+06_sozialarbeiter-psychosozialer-dienst	SKILL	Zusammenarbeit im multiprofessionellen Team	wie A	R0	
+06_sozialarbeiter-psychosozialer-dienst	SKILL	Strukturierte und zuverlässige Arbeitsweise	wie A	R2	
+06_sozialarbeiter-psychosozialer-dienst	SKILL	lösungsorientiertes , selbstständiges und verantwortungsvolles Arbeiten	wie A	R2	
+06_sozialarbeiter-psychosozialer-dienst	KNOWLEDGE	sozialrechtlichen Fragestellungen	wie B	R3	
+06_sozialarbeiter-psychosozialer-dienst	KNOWLEDGE	psychischen Erkrankungen	wie B	R3	
+07_heilerziehungspfleger	SKILL	Gestaltung von pädagogischen Angeboten	wie A	R1	
+07_heilerziehungspfleger	SKILL	Elternarbeit	wie A	R2	
+07_heilerziehungspfleger	SKILL	Dokumentation	wie A	R2	
+07_heilerziehungspfleger	SKILL	Entwicklungsbegleitung	wie A	R2	
+07_heilerziehungspfleger	SKILL	Teamfähigkeit	wie A	R2	
+07_heilerziehungspfleger	SKILL	Kreativität	wie A	R2	
+07_heilerziehungspfleger	SKILL	Zuverlässigkeit	wie A	R2	
+07_heilerziehungspfleger	SKILL	Einfühlungsvermögen	wie A	R2	
+07_heilerziehungspfleger	SKILL	Kommunikationsfähigkeit	wie B	R1	
+07_heilerziehungspfleger	KNOWLEDGE	Krippen - oder Elementarbereich	wie B	R3	
+08_sozialpaedagogische-assistenz-krippe	SKILL	leitest mit einer weiteren päd . Fachkraft eine Gruppe von 10-13 Krippenkindern	wie A	R2	"2. Teil anaphorisch (""diese"") → entfällt"
+09_spa-sozialpaedagogischer-assistent	SKILL	förderst die Kinder im Krippenbereich oder Elementarbereich individuell nach ihren Bedürfnissen	wie A	R1	
+09_spa-sozialpaedagogischer-assistent	SKILL	entwickelst und konzipierst Angebote in deinem eigenen pädagogischen Schwerpunkt	wie A	R1	
+09_spa-sozialpaedagogischer-assistent	SKILL	Kinderbetreuung	wie A	R0	
+09_spa-sozialpaedagogischer-assistent	SKILL	herzlich	angepasst	R2	
+09_spa-sozialpaedagogischer-assistent	SKILL	engagiert	angepasst	R2	
+09_spa-sozialpaedagogischer-assistent	SKILL	offen	angepasst	R2	
+09_spa-sozialpaedagogischer-assistent	SKILL	Teamplayer	angepasst	R2	
+09_spa-sozialpaedagogischer-assistent	SKILL	vertrauensvolle Bezugsperson	wie A	R0	
+09_spa-sozialpaedagogischer-assistent	SKILL	berücksichtigst das Konzept des jeweiligen Kita oder Kindergarten	angepasst	R1	2. Teil anaphorisch → entfällt
+09_spa-sozialpaedagogischer-assistent	SKILL	findest schnell Anschluss	angepasst	R2	
+09_spa-sozialpaedagogischer-assistent	SKILL	motiviert	angepasst	R2	
+10_pflegefachkraft-senator-neumann-haus	SKILL	ganzheitliche Pflege im Rahmen des Pflegeprozesses	wie A	R1	
+10_pflegefachkraft-senator-neumann-haus	SKILL	Medikamentenmanagement	wie A	R2	
+10_pflegefachkraft-senator-neumann-haus	SKILL	führst Pflegevisiten durch	wie A	R2	
+10_pflegefachkraft-senator-neumann-haus	SKILL	arbeitest eng mit Kolleg : innen aus unterschiedlichen Berufsgruppen zusammen	wie A	R1	
+10_pflegefachkraft-senator-neumann-haus	SKILL	unterstützt die Nutzenden dabei , ihre Lebensqualität und Eigenständigkeit zu erhalten und weiterzuentwickeln	wie A	R1	
+10_pflegefachkraft-senator-neumann-haus	SKILL	berätst und motivierst die von dir begleiteten Menschen im Alltag	wie A	R1	
+10_pflegefachkraft-senator-neumann-haus	SKILL	Zusammenarbeit in einem multiprofessionellen Team	wie A	R0	
+10_pflegefachkraft-senator-neumann-haus	SKILL	begleitest Menschen mit Behinderung in Pflege und Alltag	wie B	R0	
+10_pflegefachkraft-senator-neumann-haus	SKILL	Arbeit mit Menschen mit Behinderung	wie B	R0	
+11_mechatroniker	SKILL	montierst , installierst und nimmst mechatronische Systeme und Anlagen wie Maschinen oder Roboter in Betrieb	wie A	R1	
+11_mechatroniker	SKILL	stellst mechanische , elektrische und elektronische Komponenten her und baust sie zusammen	wie A	R1	
+11_mechatroniker	SKILL	programmierst und konfigurierst Steuerungen und Software	wie A	R1	"Anhang anaphorisch (""sie"")"
+11_mechatroniker	SKILL	führst Messungen , Prüfungen und Fehlerdiagnosen durch	wie A	R1	
+11_mechatroniker	SKILL	Wartung , Reparaturen und Instandhaltung von Maschinen und Anlagen	angepasst	R1	"leeres Verb ""übernimmst"" raus"
+11_mechatroniker	SKILL	liest technische Zeichnungen sowie Schalt - und Montagepläne	wie A	R1	"Anhang anaphorisch (""sie"")"
+11_mechatroniker	SKILL	Einweisung der Anwender in die Bedienung	wie A	R2	
+11_mechatroniker	SKILL	Kundenbetreuung	wie A	R2	
+11_mechatroniker	SKILL	dokumentierst deine Arbeit sorgfältig und nachvollziehbar	wie A	R1	
+11_mechatroniker	SKILL	technisches Verständnis	angepasst	R1	
+11_mechatroniker	SKILL	handwerklich geschickt	angepasst	R2	
+11_mechatroniker	SKILL	lösungsorientiert	angepasst	R2	
+11_mechatroniker	SKILL	zuverlässig	angepasst	R2	
+11_mechatroniker	KNOWLEDGE	Steuerungs - und Automatisierungstechnik	angepasst	R1	"neu aus ""Umgang mit …""; prüfen, ob schon vorhanden"
+11_mechatroniker	KNOWLEDGE	Mess - und Diagnosesystemen	angepasst	R1	"neu aus ""Umgang mit …""; prüfen, ob schon vorhanden"
+11_mechatroniker	KNOWLEDGE	Deutsch	angepasst	R3	Sprache = KNOWLEDGE
+12_softwareentwickler	SKILL	Entwicklung und Betrieb einer modernen , cloudbasierten Plattform zur Digitalisierung interner Verwaltungsprozesse	wie A	R1	
+12_softwareentwickler	SKILL	Optimierung der Entwicklungs - , Test - und Produktionsumgebungen	wie A	R2	
+12_softwareentwickler	SKILL	Sicherstellung eines stabilen , sicheren und skalierbaren Betriebs	wie A	R2	
+12_softwareentwickler	SKILL	Eigenverantwortliche Weiterentwicklung fachlicher und technischer Lösungskonzepte	wie A	R1	
+12_softwareentwickler	SKILL	Aktive Mitgestaltung der Cloud-Architektur und digitalen Plattformen	wie A	R1	
+12_softwareentwickler	SKILL	Selbstständigkeit	angepasst	R2	
+12_softwareentwickler	SKILL	Verantwortungsbewusstsein	angepasst	R2	
+12_softwareentwickler	SKILL	Teamfähigkeit	angepasst	R2	
+12_softwareentwickler	KNOWLEDGE	Deutschkenntnisse	angepasst	R3	"Sprache = KNOWLEDGE; ""-kenntnisse"" im Token"
+12_softwareentwickler	KNOWLEDGE	Infrastructure as Code	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Cloud-Technologien	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Clean Code	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	KI	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Grafana Cloud	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Kubernetes	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	AWS	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Terraform	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Crossplane	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	ArgoCD	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Tilt	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Atlas MongoDB	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Spring Boot	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Java	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Softwareentwicklung	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	DevOps	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Java	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Cloud-Technologien	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Automatisierung	wie A	R3	
+12_softwareentwickler	KNOWLEDGE	Build - , Test - und Deployment-Workflows	wie B	R2	
+13_fachinformatiker-systemintegration	SKILL	Administration und Wartung der IT-Systeme unserer Kunden	wie A	R1	
+13_fachinformatiker-systemintegration	SKILL	Kundensupport und technische Beratung	wie A	R1	
+13_fachinformatiker-systemintegration	KNOWLEDGE	Microsoft 365	wie A	R3	
+13_fachinformatiker-systemintegration	KNOWLEDGE	VMware	wie A	R3	
+13_fachinformatiker-systemintegration	KNOWLEDGE	Hyper-V	wie A	R3	
+13_fachinformatiker-systemintegration	KNOWLEDGE	Firewall	wie A	R3	
+13_fachinformatiker-systemintegration	KNOWLEDGE	Backup - und Wiederherstellungsprozessen	wie B	R2	
+13_fachinformatiker-systemintegration	KNOWLEDGE	Cyberbedrohungen	wie B	R3	
+14_it-support	SKILL	Unterstützung bei technischen Anfragen	angepasst	R1	Rahmen bleibt: einziger Kopf
+14_it-support	KNOWLEDGE	Deutschkenntnisse	angepasst	R3	Sprache = KNOWLEDGE
+14_it-support	KNOWLEDGE	Windows	wie B	R3	
+14_it-support	KNOWLEDGE	Betriebssystemen	wie B	R3	Grenzfall
+15_data-engineer	SKILL	Weiterentwicklung unserer Datenlandschaft	angepasst	R1	
+15_data-engineer	SKILL	Konzeption , Umsetzung und dem Betrieb unserer modernen On-Premises-Lakehouse-Architektur	wie A	R1	
+15_data-engineer	SKILL	entwickeln , betreiben und optimieren ETL - bzw . Datenpipelines zur Integration und Verarbeitung unterschiedlicher Datenquellen	wie A	R1	
+15_data-engineer	SKILL	Weiterentwicklung und Modernisierung bestehender Data-Warehouse-Strukturen	wie A	R1	
+15_data-engineer	SKILL	stellen eine hohe Datenqualität und Datenverfügbarkeit sicher	wie A	R2	
+15_data-engineer	SKILL	identifizieren Optimierungsmöglichkeiten	angepasst	R2	
+15_data-engineer	SKILL	übersetzen Sie fachliche Anforderungen in praktikable Datenlösungen	wie A	R1	Pronomen mitten im Span bleibt
+15_data-engineer	KNOWLEDGE	Datenarchitekturen	wie A	R3	
+15_data-engineer	KNOWLEDGE	Entwicklungs - und DevOps-Themen	angepasst	R2	
+15_data-engineer	KNOWLEDGE	Datenpipelines	wie A	R3	
+15_data-engineer	KNOWLEDGE	Data-Warehouse - oder Lakehouse-Architekturen	wie B	R2	
+15_data-engineer	KNOWLEDGE	Snowflake	wie A	R3	
+15_data-engineer	KNOWLEDGE	Deutsch - und Englischkenntnisse	wie A	R2	
+16_marketing-manager-hotel	SKILL	Planung , Koordination und Steuerung integrierter Marketingkampagnen	wie A	R1	
+16_marketing-manager-hotel	SKILL	Entwicklung innovativer Konzepte zur Umsatzsteigerung und Gästebindung	wie A	R1	
+16_marketing-manager-hotel	SKILL	Planung und Umsetzung von Presseveranstaltungen , Hotel-Events und Marketingaktivierungen	wie A	R1	
+16_marketing-manager-hotel	SKILL	Analyse von Markt - und Wettbewerbstrends	angepasst	R2	
+16_marketing-manager-hotel	SKILL	Identifikation neuer Potenziale	angepasst	R2	
+16_marketing-manager-hotel	SKILL	Führung und Entwicklung des Sales & Marketing Coordinators sowie der Dualen Studenten und Auszubildenden	wie B	R2	gemeinsames Objekt → ein Span
+16_marketing-manager-hotel	SKILL	arbeitest strukturiert , eigenverantwortlich	wie A	R2	
+16_marketing-manager-hotel	SKILL	behältst auch bei mehreren Projekten gleichzeitig den Überblick	angepasst	R2	
+16_marketing-manager-hotel	SKILL	kommunizierst souverän in deutscher und englischer Sprache	wie A	R1	
+16_marketing-manager-hotel	KNOWLEDGE	Marketing	wie B	R3	
+16_marketing-manager-hotel	KNOWLEDGE	Social-Media-Kanäle	wie B	R3	Grenzfall
+16_marketing-manager-hotel	KNOWLEDGE	Hotellerie - , Tourismus - oder Lifestyle-Branche	wie B	R3	
+17_sachbearbeitung-fes	SKILL	Organisatorische Vor - und Nachbereitung von Maßnahmen der politischen Bildung und Beratung	wie A	R1	
+17_sachbearbeitung-fes	SKILL	Team - und Kommunikationsfähigkeit	wie B	R1	
+17_sachbearbeitung-fes	KNOWLEDGE	Social-Media	wie A	R3	
+17_sachbearbeitung-fes	KNOWLEDGE	politischen Bildung	wie B	R3	Arbeitsfeld
+17_sachbearbeitung-fes	KNOWLEDGE	Content Management Systemen	angepasst	R1	"neu aus ""Umgang mit …""; prüfen, ob schon vorhanden"
+17_sachbearbeitung-fes	KNOWLEDGE	Videokonferenzsystemen	angepasst	R1	"neu aus ""Umgang mit …""; prüfen, ob schon vorhanden"
+18_buchhaltung-aurea	SKILL	Prüfung von Steuerbescheiden	angepasst	R1	
+18_buchhaltung-aurea	SKILL	Sicherstellung termingerechter Vorauszahlungen	wie A	R2	
+18_buchhaltung-aurea	SKILL	Erstellung von Monats - , Quartals - und Jahresabschlüssen nach HGB	wie A	R1	
+18_buchhaltung-aurea	SKILL	Konsolidierung auf Gruppenebene	angepasst	R1	Häufigkeit raus
+18_buchhaltung-aurea	SKILL	Erstellung von Kostenstellenreports	angepasst	R2	
+18_buchhaltung-aurea	SKILL	Führung des Anlagevermögens	angepasst	R2	
+18_buchhaltung-aurea	SKILL	Periodengerechte Abgrenzung von Unternehmenskosten	wie A	R2	
+18_buchhaltung-aurea	SKILL	Buchung von Geschäftsvorfällen	angepasst	R2	Häufigkeit raus
+18_buchhaltung-aurea	SKILL	Optimierung von Geschäftsprozessen	angepasst	R1	
+18_buchhaltung-aurea	SKILL	Umsetzung gesetzlicher Neuerungen	angepasst	R2	
+18_buchhaltung-aurea	SKILL	Durchführung von Mitarbeiterschulungen	wie A	R2	
+18_buchhaltung-aurea	SKILL	Kontenabstimmungen	wie A	R2	
+18_buchhaltung-aurea	SKILL	abschlusssichere Buchungen im Rahmen des Jahresabschlusses	wie A	R2	
+18_buchhaltung-aurea	SKILL	Bereitstellung aller Haupt - und Nebenbücher für Wirtschaftsprüfer	wie A	R2	
+18_buchhaltung-aurea	SKILL	Begleitung der Inventur	wie A	R2	
+18_buchhaltung-aurea	SKILL	Sachkonten-Mapping	angepasst	R1	
+18_buchhaltung-aurea	SKILL	Abstimmung von Intercompany-Sachverhalten	wie A	R2	
+18_buchhaltung-aurea	SKILL	Analyse von Finanzdaten	wie A	R2	
+18_buchhaltung-aurea	SKILL	Kontrolle von Betriebskosten und Buchungen auf Sachkostenebene	wie A	R2	
+18_buchhaltung-aurea	SKILL	Erstellung von Umsatzsteuerjahresmeldungen , K-4 Meldungen und Meldungen zur Strukturstatistik bzw . globalen Wertschöpfung	angepasst	R2	"""bzw."" innerhalb eines Arguments"
+18_buchhaltung-aurea	SKILL	Weiterleitung der Jahresabschlüsse	angepasst	R2	
+18_buchhaltung-aurea	SKILL	Kommunikation mit Banken	wie A	R2	
+18_buchhaltung-aurea	SKILL	Verwaltung von Perioden im ERP-System	wie A	R1	
+18_buchhaltung-aurea	SKILL	Führungserfahrung	wie A	R0	
+18_buchhaltung-aurea	SKILL	ein Team zu leiten und zu entwickeln	wie A	R1	
+18_buchhaltung-aurea	SKILL	Kommunikationsfähigkeiten	angepasst	R1	
+18_buchhaltung-aurea	KNOWLEDGE	HGB	wie A	R3	
+18_buchhaltung-aurea	KNOWLEDGE	HGB	wie A	R3	
+18_buchhaltung-aurea	KNOWLEDGE	Umsatzsteuer	wie A	R3	
+18_buchhaltung-aurea	KNOWLEDGE	DATEV	wie A	R3	
+18_buchhaltung-aurea	KNOWLEDGE	Excel	wie A	R3	
+18_buchhaltung-aurea	KNOWLEDGE	Deutsch	wie A	R3	
+18_buchhaltung-aurea	KNOWLEDGE	KöSt	wie B	R3	
+18_buchhaltung-aurea	KNOWLEDGE	GewSt	wie B	R3	
+18_buchhaltung-aurea	KNOWLEDGE	Finanzbuchhaltung	angepasst	R3	"statt Skill ""Key-User-Funktion …"" (Rolle, kein Skill)"
+19_sachbearbeiter-controlling	SKILL	Pflege und Verwaltung von Stammdaten für Investitionsprojekte	wie A	R1	fachlicher Zusatz bleibt
+19_sachbearbeiter-controlling	SKILL	Weiterentwicklung und Optimierung des Investitionscontrollings	wie A	R1	
+19_sachbearbeiter-controlling	KNOWLEDGE	SAP-PS-Systems	wie A	R3	
+19_sachbearbeiter-controlling	KNOWLEDGE	SAP PS	wie A	R3	
+19_sachbearbeiter-controlling	KNOWLEDGE	MS Office	wie A	R1	
+19_sachbearbeiter-controlling	KNOWLEDGE	Investitionscontrollings	wie B	R3	
+19_sachbearbeiter-controlling	KNOWLEDGE	Deutschkenntnisse	angepasst	R3	Sprache = KNOWLEDGE
+20_pflegefachkraft-remacare	SKILL	Durchführung der allgemeinen Grundpflege und Behandlungspflege	angepasst	R2	"ein Argument von ""Durchführung"""
+20_pflegefachkraft-remacare	SKILL	Körperpflege	wie A	R2	Beispielklammer aufgelöst
+20_pflegefachkraft-remacare	SKILL	Mobilisation	wie A	R2	Beispielklammer aufgelöst
+20_pflegefachkraft-remacare	SKILL	Medikamentengabe	wie A	R2	Beispielklammer aufgelöst
+20_pflegefachkraft-remacare	SKILL	Wundversorgung	wie A	R2	Beispielklammer aufgelöst
+20_pflegefachkraft-remacare	SKILL	Blutdruck - , Puls - und Blutzuckerkontrolle	wie A	R2	Beispielklammer aufgelöst
+20_pflegefachkraft-remacare	SKILL	Portversorgung	wie A	R2	Beispielklammer aufgelöst
+21_erzieher	SKILL	Gestaltung eines liebevollen und sicheren Umfelds	wie A	R1	
+21_erzieher	SKILL	Kreative Ideen	wie A	R0	
+21_erzieher	SKILL	Kinder im Alltag zu inspirieren und zu fördern	wie B	R0	
+22_sozialarbeiter-jugendhilfe	SKILL	konzeptioneller Weiterentwicklung	angepasst	R1	"""Interesse an"" raus"
+22_sozialarbeiter-jugendhilfe	KNOWLEDGE	Jugendarbeit	neu	R3	neu; prüfen, ob schon vorhanden
+23_produktionsmitarbeiter	SKILL	bestücken , steuern und überwachen unsere Anlagen und Maschinen	wie A	R1	
+23_produktionsmitarbeiter	SKILL	verantworten einzelne Produktionsbereiche für die Herstellung von Reinigern und Polituren	wie A	R1	
+23_produktionsmitarbeiter	SKILL	stellen Rohstoffe bereit	angepasst	R2	
+23_produktionsmitarbeiter	SKILL	füllen Materialien nach	angepasst	R2	
+23_produktionsmitarbeiter	SKILL	Handwerkliches Geschick	angepasst	R2	
+23_produktionsmitarbeiter	SKILL	technisches Verständnis	angepasst	R2	
+23_produktionsmitarbeiter	KNOWLEDGE	Deutschkenntnisse	angepasst	R3	Sprache = KNOWLEDGE
+23_produktionsmitarbeiter	KNOWLEDGE	Produktion	wie A	R3	
+23_produktionsmitarbeiter	KNOWLEDGE	Lebensmittelverarbeitenden Gewerbe	wie B	R3	
+23_produktionsmitarbeiter	KNOWLEDGE	Bäckerei	wie B	R3	
+23_produktionsmitarbeiter	KNOWLEDGE	fleischverarbeitendes Gewerbe	wie B	R3	
+24_customer-service-export	SKILL	Angebote und Exportdokumente erstellen	wie A	R1	
+24_customer-service-export	SKILL	supporten den Inhouse Sales Manager	wie A	R1	
+24_customer-service-export	SKILL	kommunikations - und überzeugungsfähig	wie A	R1	
+24_customer-service-export	KNOWLEDGE	Ticketsystem	angepasst	R1	"statt Skill ""arbeiten mit …""; Grenzfall"
+24_customer-service-export	KNOWLEDGE	Englisch	angepasst	R3	Sprache = KNOWLEDGE
+24_customer-service-export	KNOWLEDGE	SAP-Kenntnisse	wie A	R3	
+25_personalreferent	KNOWLEDGE	HR-Bereich	wie B	R3	
+26_hr-generalist	SKILL	Anzeigen - und Bewerbermanagement	angepasst	R1	"""verantworten"" als Rahmen raus"
+26_hr-generalist	SKILL	erstellen und analysieren regelmäßig HR-Kennzahlen	wie A	R1	
+26_hr-generalist	SKILL	Zusammenarbeit mit dem Betriebsrat	wie A	R1	
+26_hr-generalist	KNOWLEDGE	Englischkenntnisse	angepasst	R3	Sprache = KNOWLEDGE
+26_hr-generalist	KNOWLEDGE	SAP HR-Kenntnisse	wie A	R3	
+26_hr-generalist	KNOWLEDGE	Personalbeschaffung und - betreuung	wie B	R2	
+27_sicherheitsmitarbeiter	SKILL	Kontrollgänge	wie A	R2	
+27_sicherheitsmitarbeiter	SKILL	Entgegennahme von eingehenden Telefonaten	wie A	R2	
+27_sicherheitsmitarbeiter	SKILL	Auf - und Verschluss	wie A	R2	
+27_sicherheitsmitarbeiter	SKILL	überwachen die technischen Sicherheitseinrichtungen	wie A	R1	
+27_sicherheitsmitarbeiter	SKILL	zuverlässige Objektbewachung	wie A	R1	
+27_sicherheitsmitarbeiter	SKILL	zuverlässig	angepasst	R2	
+27_sicherheitsmitarbeiter	SKILL	flexibel	angepasst	R2	
+27_sicherheitsmitarbeiter	SKILL	teamfähig	angepasst	R2	
+28_technischer-produktdesigner	SKILL	erstellen technische Zeichnungen , Baugruppen - und Anordnungszeichnungen sowie Schaltpläne	wie A	R1	
+28_technischer-produktdesigner	SKILL	setzen Konstruktionsvorgaben normgerecht um	wie A	R2	
+28_technischer-produktdesigner	SKILL	stellen die Einhaltung von Qualitätsstandards sicher	wie A	R2	
+28_technischer-produktdesigner	SKILL	pflegen Artikelstammdaten , Stücklisten und technische Änderungen im SAP-System	wie A	R1	
+28_technischer-produktdesigner	SKILL	führen Zeichnungs - und Stücklistenänderungen in CAD - und SAP-Systemen durch	wie A	R2	
+28_technischer-produktdesigner	SKILL	halten die technische Dokumentation aktuell	wie A	R2	
+28_technischer-produktdesigner	SKILL	entwickeln technische Detaillösungen	wie A	R2	
+28_technischer-produktdesigner	SKILL	wählen geeignete Bauteile sowie Halbzeuge unter technischen und wirtschaftlichen Gesichtspunkten aus	wie A	R2	
+28_technischer-produktdesigner	SKILL	erstellen technische Dokumentationen , Stücklisten , Auswertungen und Datenaustauschdateien	wie A	R1	
+28_technischer-produktdesigner	SKILL	Import , die Prüfung und die Bearbeitung technischer Daten	wie A	R1	
+28_technischer-produktdesigner	SKILL	Durchführung einfacher technischer Berechnungen	wie A	R1	
+28_technischer-produktdesigner	KNOWLEDGE	MS-Office-Kenntnisse	wie A	R3	
+29_lagermitarbeiter	SKILL	Umlagerungen zur Optimierung der Lagerbestände	wie A	R2	
+29_lagermitarbeiter	SKILL	Verpackung der Fertigwaren	wie A	R2	
+29_lagermitarbeiter	SKILL	Kommunikations - und Teamfähigkeit	wie B	R1	
+29_lagermitarbeiter	SKILL	Reinigungs - und Ordnungstätigkeiten	angepasst	R1	
+30_technischer-projektleiter-elektro	SKILL	Technische Abwicklung von Kundenverträgen für elektrische und leittechnische Systeme	wie A	R1	
+30_technischer-projektleiter-elektro	SKILL	technische Koordination von Generatoren , Transformatoren sowie Mittel - und Hochspannungsschaltanlagen ( MV/HV )	angepasst	R1	"""Verantwortung für"" raus, Abkürzungsklammer rein"
+30_technischer-projektleiter-elektro	SKILL	Spezifikation und Auslegung der Elektro - und Leittechnik	wie A	R1	
+30_technischer-projektleiter-elektro	SKILL	Kommunikations - , Koordinations - und Schnittstellenkompetenz	wie B	R1	
+30_technischer-projektleiter-elektro	SKILL	Montage - oder Inbetriebnahmetätigkeiten	wie B	R3	Tätigkeit → SKILL
+30_technischer-projektleiter-elektro	KNOWLEDGE	Englischkenntnisse	angepasst	R3	Sprache = KNOWLEDGE
+30_technischer-projektleiter-elektro	KNOWLEDGE	elektrischer Energieanlagen	wie B	R3	

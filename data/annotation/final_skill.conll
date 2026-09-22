@@ -1,0 +1,7475 @@
+# doc_id = 01_performance-marketing-manager
+# sent_id = 01_performance-marketing-manager-0001-1
+Performance	O
+Marketing	O
+Manager	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 01_performance-marketing-manager-0002-1
+bei	O
+
+# sent_id = 01_performance-marketing-manager-0003-1
+s	O
+w	O
+personalmanagement	O
+GmbH	O
+
+# sent_id = 01_performance-marketing-manager-0004-1
+Das	O
+wird	O
+gesucht	O
+:	O
+
+# sent_id = 01_performance-marketing-manager-0005-1
+Für	O
+unseren	O
+langjährigen	O
+Kunden	O
+in	O
+der	O
+Nähe	O
+von	O
+Quickborn	O
+suchen	O
+wir	O
+einen	O
+Performance	O
+Marketing	O
+Manager	O
+(	O
+m/w/d	O
+)	O
+.	O
+
+# sent_id = 01_performance-marketing-manager-0006-1
+Welche	O
+Aufgaben	O
+erwarten	O
+Sie	O
+?	O
+
+# sent_id = 01_performance-marketing-manager-0007-1
+-	O
+Konzeption	B-SKILL
+und	I-SKILL
+Realisierung	I-SKILL
+digitaler	I-SKILL
+Maßnahmen	I-SKILL
+zur	I-SKILL
+Leadgenerierung	I-SKILL
+und	I-SKILL
+Vertriebsunterstützung	I-SKILL
+im	I-SKILL
+B2B-Umfeld	I-SKILL
+
+# sent_id = 01_performance-marketing-manager-0008-1
+-	O
+Verantwortung	B-SKILL
+für	I-SKILL
+Inhalte	I-SKILL
+,	I-SKILL
+Aktualität	I-SKILL
+und	I-SKILL
+Weiterentwicklung	I-SKILL
+der	I-SKILL
+Unternehmenswebsite	I-SKILL
+
+# sent_id = 01_performance-marketing-manager-0009-1
+-	O
+Ausbau	B-SKILL
+der	I-SKILL
+Online-Sichtbarkeit	I-SKILL
+durch	I-SKILL
+gezielte	I-SKILL
+Maßnahmen	I-SKILL
+in	I-SKILL
+Suchmaschinenmarketing	I-SKILL
+und	I-SKILL
+Suchmaschinenoptimierung	I-SKILL
+
+# sent_id = 01_performance-marketing-manager-0010-1
+-	O
+Analyse	B-SKILL
+und	I-SKILL
+Verbesserung	I-SKILL
+der	I-SKILL
+Performance	I-SKILL
+digitaler	I-SKILL
+Kanäle	I-SKILL
+und	I-SKILL
+Kampagnen	I-SKILL
+
+# sent_id = 01_performance-marketing-manager-0011-1
+-	O
+Entwicklung	B-SKILL
+und	I-SKILL
+Aufbereitung	I-SKILL
+von	I-SKILL
+Inhalten	I-SKILL
+für	I-SKILL
+Website	I-SKILL
+,	I-SKILL
+Social	I-SKILL
+Media	I-SKILL
+und	I-SKILL
+E-Mail-Marketing	I-SKILL
+
+# sent_id = 01_performance-marketing-manager-0012-1
+-	O
+Erstellung	B-SKILL
+und	I-SKILL
+Abstimmung	I-SKILL
+von	I-SKILL
+Kommunikations	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Vertriebsunterlagen	I-SKILL
+für	O
+digitale	O
+und	O
+gedruckte	O
+Formate	O
+
+# sent_id = 01_performance-marketing-manager-0013-1
+-	O
+Steuerung	B-SKILL
+externer	I-SKILL
+Partner	I-SKILL
+,	I-SKILL
+Agenturen	I-SKILL
+und	I-SKILL
+Dienstleister	I-SKILL
+
+# sent_id = 01_performance-marketing-manager-0014-1
+-	O
+Enge	B-SKILL
+Zusammenarbeit	I-SKILL
+mit	I-SKILL
+Vertrieb	I-SKILL
+und	I-SKILL
+weiteren	I-SKILL
+internen	I-SKILL
+Fachbereichen	I-SKILL
+
+# sent_id = 01_performance-marketing-manager-0015-1
+-	O
+Begleitung	B-SKILL
+der	I-SKILL
+digitalen	I-SKILL
+Weiterentwicklung	I-SKILL
+des	I-SKILL
+Marketings	I-SKILL
+
+# sent_id = 01_performance-marketing-manager-0016-1
+-	O
+Unterstützung	O
+beim	O
+Aufbau	B-SKILL
+eines	I-SKILL
+professionellen	I-SKILL
+Produktmarketings	I-SKILL
+
+# sent_id = 01_performance-marketing-manager-0017-1
+-	O
+Mitarbeit	O
+bei	O
+Planung	B-SKILL
+,	I-SKILL
+Überwachung	I-SKILL
+und	I-SKILL
+Einhaltung	I-SKILL
+des	I-SKILL
+Marketingbudgets	I-SKILL
+
+# sent_id = 01_performance-marketing-manager-0018-1
+Was	O
+bringen	O
+Sie	O
+mit	O
+?	O
+
+# sent_id = 01_performance-marketing-manager-0019-1
+-	O
+Erste	O
+Berufserfahrung	O
+von	O
+mindestens	O
+zwei	O
+Jahren	O
+im	O
+digitalen	O
+Marketing	O
+,	O
+idealerweise	O
+mit	O
+B2B-Bezug	O
+
+# sent_id = 01_performance-marketing-manager-0020-1
+-	O
+Praxis	O
+im	O
+Einsatz	O
+gängiger	O
+Marketing	O
+-	O
+und	O
+Analyseplattformen	O
+wie	O
+Google	O
+Ads	O
+,	O
+Google	O
+Analytics	O
+,	O
+WordPress	O
+,	O
+Mailchimp	O
+oder	O
+Canva	O
+
+# sent_id = 01_performance-marketing-manager-0021-1
+-	O
+Erfahrung	O
+in	O
+der	O
+redaktionellen	B-SKILL
+Pflege	I-SKILL
+von	I-SKILL
+Webseiten	I-SKILL
+und	I-SKILL
+digitalen	I-SKILL
+Inhalten	I-SKILL
+
+# sent_id = 01_performance-marketing-manager-0022-1
+-	O
+Basiswissen	O
+in	O
+der	O
+Bearbeitung	B-SKILL
+von	I-SKILL
+Bildern	I-SKILL
+und	I-SKILL
+Videos	I-SKILL
+
+# sent_id = 01_performance-marketing-manager-0023-1
+-	O
+Gespür	B-SKILL
+für	I-SKILL
+zielgruppengerechte	I-SKILL
+Kommunikation	I-SKILL
+,	I-SKILL
+überzeugende	I-SKILL
+Texte	I-SKILL
+und	I-SKILL
+kreative	I-SKILL
+Inhalte	I-SKILL
+
+# sent_id = 01_performance-marketing-manager-0024-1
+-	O
+Selbstständige	B-SKILL
+,	I-SKILL
+strukturierte	I-SKILL
+und	I-SKILL
+umsetzungsstarke	I-SKILL
+Arbeitsweise	I-SKILL
+
+# sent_id = 01_performance-marketing-manager-0025-1
+-	O
+Sehr	O
+gute	O
+Kommunikationsfähigkeit	B-SKILL
+auf	O
+Deutsch	O
+und	O
+Englisch	O
+in	O
+Wort	O
+und	O
+Schrift	O
+
+# doc_id = 02_social-media-manager
+# sent_id = 02_social-media-manager-0001-1
+Social	O
+Media	O
+Manager	O
+:	O
+in	O
+
+# sent_id = 02_social-media-manager-0002-1
+bei	O
+
+# sent_id = 02_social-media-manager-0003-1
+alfatraining	O
+Bildungszentrum	O
+GmbH	O
+
+# sent_id = 02_social-media-manager-0004-1
+ertenwissen	O
+weiter	O
+und	O
+gestalten	O
+Sie	O
+die	O
+Weiterbildung	O
+der	O
+neuesten	O
+Generation	O
+!	O
+
+# sent_id = 02_social-media-manager-0005-1
+Ihr	O
+Einsatzbereich	O
+
+# sent_id = 02_social-media-manager-0006-1
+Sie	O
+unterrichten	B-SKILL
+hochqualifizierte	O
+Personen	O
+mit	O
+abgeschlossenem	O
+Studium	O
+oder	O
+Ausbildung	O
+im	O
+Bereich	O
+Marketing	O
+,	O
+Medien	O
+,	O
+Journalismus	O
+,	O
+Betriebswirtschaft	O
+oder	O
+Geistes	O
+-	O
+und	O
+Sprachwissenschaften	O
+oder	O
+mit	O
+vergleichbarer	O
+Berufserfahrung	O
+.	O
+
+# sent_id = 02_social-media-manager-0007-1
+Qualifizierte	O
+Vermittlung	B-SKILL
+der	O
+folgenden	O
+Bereiche	O
+:	O
+
+# sent_id = 02_social-media-manager-0008-1
+-	O
+Bildbearbeitung	B-SKILL
+mit	I-SKILL
+Adobe	I-SKILL
+Photoshop	I-SKILL
+CC	I-SKILL
+
+# sent_id = 02_social-media-manager-0009-1
+-	O
+Künstliche	O
+Intelligenz	O
+(	O
+KI	O
+)	O
+im	O
+Arbeitsprozess	O
+
+# sent_id = 02_social-media-manager-0010-1
+-	O
+Grafikdesign	B-SKILL
+mit	I-SKILL
+Adobe	I-SKILL
+CC	I-SKILL
+
+# sent_id = 02_social-media-manager-0011-1
+-	O
+Fachwissen	O
+Social	O
+Media	O
+Marketing	O
+
+# sent_id = 02_social-media-manager-0012-1
+-	O
+Fachwissen	O
+Content	O
+Marketing	O
+
+# sent_id = 02_social-media-manager-0013-1
+-	O
+Projektarbeit	O
+,	O
+Zertifizierungsvorbereitung	O
+und	O
+Zertifizierungsprüfung	O
+
+# sent_id = 02_social-media-manager-0014-1
+Ihr	O
+Profil	O
+
+# sent_id = 02_social-media-manager-0015-1
+-	O
+Ausbildung	O
+oder	O
+Studium	O
+und	O
+praktische	O
+Expertise	O
+
+# sent_id = 02_social-media-manager-0016-1
+-	O
+Erfahrung	O
+als	O
+Trainer	O
+(	O
+w/m/d	O
+)	O
+vorteilhaft	O
+
+# sent_id = 02_social-media-manager-0017-1
+-	O
+Kenntnisse	O
+im	O
+Videopräsenzunterricht	O
+optional	O
+
+# doc_id = 03_e-commerce-trainer
+# sent_id = 03_e-commerce-trainer-0001-1
+E-Commerce	O
+
+# sent_id = 03_e-commerce-trainer-0002-1
+bei	O
+
+# sent_id = 03_e-commerce-trainer-0003-1
+alfatraining	O
+Bildungszentrum	O
+GmbH	O
+
+# sent_id = 03_e-commerce-trainer-0004-1
+Geben	O
+Sie	O
+Ihr	O
+Expertenwissen	O
+weiter	O
+und	O
+gestalten	O
+Sie	O
+die	O
+Weiterbildung	O
+der	O
+neuesten	O
+Generation	O
+!	O
+
+# sent_id = 03_e-commerce-trainer-0004-2
+Ihr	O
+Einsatzbereich	O
+
+# sent_id = 03_e-commerce-trainer-0005-1
+Sie	O
+unterrichten	B-SKILL
+Personen	O
+,	O
+die	O
+bei	O
+der	O
+Konzipierung	O
+,	O
+Gestaltung	O
+und	O
+praktischen	O
+Umsetzung	O
+von	O
+Internet	O
+-	O
+Auftritten	O
+mit	O
+E-Commerce-Funktionen	O
+verantwortlich	O
+mitwirken	O
+und	O
+die	O
+dafür	O
+notwendigen	O
+Kenntnisse	O
+und	O
+Fähigkeiten	O
+erwerben	O
+wollen	O
+.	O
+
+# sent_id = 03_e-commerce-trainer-0006-1
+Qualifizierte	O
+Vermittlung	B-SKILL
+der	O
+folgenden	O
+Bereiche	O
+:	O
+
+# sent_id = 03_e-commerce-trainer-0007-1
+-	O
+Grundlagen	O
+des	O
+E-Commerce	O
+
+# sent_id = 03_e-commerce-trainer-0008-1
+-	O
+Rechtliche	O
+Aspekte	O
+
+# sent_id = 03_e-commerce-trainer-0009-1
+-	O
+Online-Shop-Systeme	O
+und	O
+-	O
+Gestaltung	O
+
+# sent_id = 03_e-commerce-trainer-0010-1
+-	O
+Künstliche	O
+Intelligenz	O
+(	O
+KI	O
+)	O
+im	O
+Arbeitsprozess	O
+
+# sent_id = 03_e-commerce-trainer-0011-1
+-	O
+Online-Marketing	O
+und	O
+Kundengewinnung	O
+
+# sent_id = 03_e-commerce-trainer-0012-1
+-	O
+Zahlungssysteme	O
+und	O
+Finanzen	O
+
+# sent_id = 03_e-commerce-trainer-0013-1
+-	O
+Logistik	O
+und	O
+Fulfillment	O
+
+# sent_id = 03_e-commerce-trainer-0014-1
+-	O
+Kundenservice	O
+und	O
+CRM	O
+
+# sent_id = 03_e-commerce-trainer-0015-1
+-	O
+Web-Controlling	O
+und	O
+Datenanalyse	O
+
+# sent_id = 03_e-commerce-trainer-0016-1
+-	O
+Projektarbeit	O
+
+# sent_id = 03_e-commerce-trainer-0017-1
+Ihr	O
+Profil	O
+
+# sent_id = 03_e-commerce-trainer-0018-1
+-	O
+Ausbildung	O
+oder	O
+Studium	O
+und	O
+praktische	O
+Expertise	O
+
+# sent_id = 03_e-commerce-trainer-0019-1
+-	O
+Erfahrung	O
+als	O
+Trainer	O
+(	O
+w/m/d	O
+)	O
+vorteilhaft	O
+
+# sent_id = 03_e-commerce-trainer-0020-1
+-	O
+Kenntnisse	O
+im	O
+Videopräsenzunterricht	O
+optional	O
+
+# doc_id = 04_produktmanager
+# sent_id = 04_produktmanager-0001-1
+Produktmanager	O
+*	O
+in	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 04_produktmanager-0002-1
+bei	O
+
+# sent_id = 04_produktmanager-0003-1
+ENQT	O
+GmbH	O
+
+# sent_id = 04_produktmanager-0004-1
+Das	O
+Wichtigste	O
+im	O
+Überblick	O
+
+# sent_id = 04_produktmanager-0005-1
+Besondere	O
+Merkmale	O
+
+# sent_id = 04_produktmanager-0006-1
+Produktmanager	O
+*	O
+in	O
+(	O
+m/w/d	O
+)	O
+in	O
+Hamburg	O
+
+# sent_id = 04_produktmanager-0007-1
+Produktstrategie	O
+•	O
+technische	O
+Produktentwicklung	O
+•	O
+Portfolio	O
+&	O
+Go-to-Market	O
+
+# sent_id = 04_produktmanager-0008-1
+Als	O
+Produktmanager	O
+:	O
+in	O
+gestaltest	O
+du	O
+die	O
+Weiterentwicklung	B-SKILL
+unserer	I-SKILL
+Produkte	I-SKILL
+an	O
+der	O
+Schnittstelle	O
+von	O
+Markt	O
+,	O
+Kund	O
+:	O
+innen	O
+,	O
+Vertrieb	O
+,	O
+Entwicklung	O
+und	O
+Produktion	O
+.	O
+
+# sent_id = 04_produktmanager-0008-2
+Du	O
+übersetzt	B-SKILL
+Kundenanforderungen	I-SKILL
+und	I-SKILL
+Marktbedarfe	I-SKILL
+in	I-SKILL
+klare	I-SKILL
+Produktanforderungen	I-SKILL
+,	O
+priorisierst	B-SKILL
+Features	I-SKILL
+und	O
+begleitest	B-SKILL
+Produkte	I-SKILL
+von	I-SKILL
+der	I-SKILL
+Idee	I-SKILL
+bis	I-SKILL
+zur	I-SKILL
+erfolgreichen	I-SKILL
+Umsetzung	I-SKILL
+.	O
+
+# sent_id = 04_produktmanager-0009-1
+Dein	O
+Fokus	O
+liegt	O
+auf	O
+einem	O
+zukunftsfähigen	O
+Produktportfolio	O
+,	O
+belastbaren	O
+Business	O
+Cases	O
+und	O
+einer	O
+engen	O
+Verzahnung	O
+zwischen	O
+Strategie	O
+und	O
+operativer	O
+Umsetzung	O
+.	O
+
+# sent_id = 04_produktmanager-0009-2
+Dabei	O
+arbeitest	O
+du	O
+eigenverantwortlich	B-SKILL
+,	O
+datenbasiert	B-SKILL
+und	O
+pragmatisch	B-SKILL
+–	O
+mit	O
+dem	O
+Ziel	O
+,	O
+unsere	O
+Produkte	O
+technisch	O
+,	O
+wirtschaftlich	O
+und	O
+marktseitig	O
+kontinuierlich	O
+weiterzuentwickeln	O
+.	O
+
+# sent_id = 04_produktmanager-0010-1
+Darauf	O
+hast	O
+du	O
+Lust	O
+?	O
+
+# sent_id = 04_produktmanager-0010-2
+Dann	O
+komm	O
+zu	O
+ENQT	O
+!	O
+
+# sent_id = 04_produktmanager-0011-1
+Wir	O
+entwickeln	O
+und	O
+fertigen	O
+hochwertige	O
+Testgeräte	O
+für	O
+Mobilfunknetze	O
+(	O
+4G	O
+,	O
+5G	O
+,	O
+WLAN	O
+,	O
+IoT	O
+)	O
+und	O
+
+# sent_id = 04_produktmanager-0012-1
+unterstützen	O
+europaweit	O
+über	O
+500	O
+Kunden	O
+bei	O
+der	O
+sicheren	O
+Vernetzung	O
+von	O
+Energieinfrastruktur	O
+und	O
+Industrieanwendungen	O
+.	O
+
+# sent_id = 04_produktmanager-0012-2
+Unsere	O
+Kunden	O
+verlassen	O
+sich	O
+auf	O
+unsere	O
+Expertise	O
+,	O
+wenn	O
+es	O
+darum	O
+geht	O
+,	O
+moderne	O
+Mobilfunklösungen	O
+effizient	O
+umzusetzen	O
+.	O
+
+# sent_id = 04_produktmanager-0013-1
+Dein	O
+zukünftiges	O
+Aufgabengebiet	O
+als	O
+Produktmanager	O
+*	O
+in	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 04_produktmanager-0014-1
+-	O
+Eigenverantwortliche	B-SKILL
+Begleitung	I-SKILL
+und	I-SKILL
+Weiterentwicklung	I-SKILL
+unserer	I-SKILL
+Produkte	I-SKILL
+von	I-SKILL
+der	I-SKILL
+Idee	I-SKILL
+bis	I-SKILL
+zur	I-SKILL
+Umsetzung	I-SKILL
+
+# sent_id = 04_produktmanager-0015-1
+-	O
+Übersetzung	B-SKILL
+von	I-SKILL
+Kundenanforderungen	I-SKILL
+,	I-SKILL
+Marktbedarfen	I-SKILL
+und	I-SKILL
+internen	I-SKILL
+Anforderungen	I-SKILL
+in	I-SKILL
+klare	I-SKILL
+Produktanforderungen	I-SKILL
+
+# sent_id = 04_produktmanager-0016-1
+-	O
+Priorisierung	B-SKILL
+von	I-SKILL
+Features	I-SKILL
+und	I-SKILL
+Abstimmung	I-SKILL
+mit	I-SKILL
+Entwicklung	I-SKILL
+,	I-SKILL
+Produktion	I-SKILL
+,	I-SKILL
+Vertrieb	I-SKILL
+und	I-SKILL
+weiteren	I-SKILL
+Stakeholdern	I-SKILL
+
+# sent_id = 04_produktmanager-0017-1
+-	O
+Mitwirkung	B-SKILL
+an	I-SKILL
+Produktstrategie	I-SKILL
+,	I-SKILL
+Roadmaps	I-SKILL
+und	I-SKILL
+Business	I-SKILL
+Cases	I-SKILL
+auf	O
+Basis	O
+definierter	O
+Ziele	O
+und	O
+KPIs	O
+
+# sent_id = 04_produktmanager-0018-1
+-	O
+Entwicklung	B-SKILL
+eines	I-SKILL
+konsistenten	I-SKILL
+,	I-SKILL
+zukunftsfähigen	I-SKILL
+Produktportfolios	I-SKILL
+inklusive	O
+Build	O
+-	O
+,	O
+Improve	O
+-	O
+und	O
+Retire-Entscheidungen	O
+
+# sent_id = 04_produktmanager-0019-1
+-	O
+Bewertung	B-SKILL
+neuer	I-SKILL
+Produktideen	I-SKILL
+,	I-SKILL
+Geschäftsmodelle	I-SKILL
+und	I-SKILL
+Innovationsfelder	I-SKILL
+
+# sent_id = 04_produktmanager-0020-1
+-	O
+Steuerung	B-SKILL
+bereichsübergreifender	I-SKILL
+Initiativen	I-SKILL
+und	I-SKILL
+Priorisierung	I-SKILL
+von	I-SKILL
+Projekten	I-SKILL
+auf	I-SKILL
+Portfolio-Ebene	I-SKILL
+
+# sent_id = 04_produktmanager-0021-1
+-	O
+Unterstützung	B-SKILL
+reibungsloser	I-SKILL
+Abläufe	I-SKILL
+zwischen	O
+Produktmanagement	O
+,	O
+Entwicklung	O
+,	O
+Produktion	O
+und	O
+Vertrieb	O
+
+# sent_id = 04_produktmanager-0022-1
+-	O
+Mitwirkung	O
+an	O
+der	O
+Optimierung	B-SKILL
+von	I-SKILL
+Go-to-Market-Prozessen	I-SKILL
+
+# sent_id = 04_produktmanager-0023-1
+-	O
+Analyse	B-SKILL
+der	I-SKILL
+Produktperformance	I-SKILL
+sowie	I-SKILL
+Ableitung	I-SKILL
+konkreter	I-SKILL
+Maßnahmen	I-SKILL
+zur	I-SKILL
+Weiterentwicklung	I-SKILL
+
+# sent_id = 04_produktmanager-0024-1
+Dein	O
+Profil	O
+als	O
+Produktmanager	O
+*	O
+in	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 04_produktmanager-0025-1
+-	O
+Erfahrung	O
+als	O
+Product	O
+Owner	O
+oder	O
+in	O
+einer	O
+vergleichbaren	O
+Schnittstellenrolle	O
+zwischen	O
+Fachbereich	O
+und	O
+Entwicklung	O
+
+# sent_id = 04_produktmanager-0026-1
+-	O
+Mehrjährige	O
+Erfahrung	O
+im	O
+Produktmanagement	O
+,	O
+idealerweise	O
+in	O
+einem	O
+technologie	O
+-	O
+,	O
+IoT	O
+-	O
+,	O
+SaaS	O
+-	O
+,	O
+Energie	O
+-	O
+oder	O
+Funktechnologie-nahen	O
+Umfeld	O
+
+# sent_id = 04_produktmanager-0027-1
+-	O
+Abgeschlossenes	O
+Studium	O
+im	O
+Bereich	O
+Elektrotechnik	O
+,	O
+Ingenieurwesen	O
+,	O
+Informatik	O
+oder	O
+eine	O
+vergleichbare	O
+technisch	O
+fokussierte	O
+Qualifikation	O
+
+# sent_id = 04_produktmanager-0028-1
+-	O
+Fundiertes	O
+Verständnis	O
+für	O
+Produktstrategie	O
+,	O
+Marktmechaniken	O
+,	O
+technische	O
+Produktentwicklung	O
+und	O
+Business	O
+Cases	O
+
+# sent_id = 04_produktmanager-0029-1
+-	O
+Erfahrung	O
+in	O
+der	O
+Arbeit	B-SKILL
+mit	I-SKILL
+technischen	I-SKILL
+Teams	I-SKILL
+sowie	O
+in	O
+der	O
+Übersetzung	B-SKILL
+von	I-SKILL
+Anforderungen	I-SKILL
+in	I-SKILL
+umsetzbare	I-SKILL
+Produktlösungen	I-SKILL
+
+# sent_id = 04_produktmanager-0030-1
+-	O
+Strategische	B-SKILL
+und	I-SKILL
+zugleich	I-SKILL
+pragmatische	I-SKILL
+Arbeitsweise	I-SKILL
+mit	O
+der	O
+Fähigkeit	O
+,	O
+Vision	B-SKILL
+und	I-SKILL
+Umsetzung	I-SKILL
+in	I-SKILL
+Einklang	I-SKILL
+zu	I-SKILL
+bringen	I-SKILL
+
+# sent_id = 04_produktmanager-0031-1
+-	O
+Sehr	O
+ausgeprägte	O
+kommunikative	B-SKILL
+Fähigkeiten	I-SKILL
+sowie	O
+die	O
+Fähigkeit	O
+,	O
+Projekte	B-SKILL
+selbstständig	I-SKILL
+zu	I-SKILL
+übernehmen	I-SKILL
+und	I-SKILL
+voranzutreiben	I-SKILL
+
+# sent_id = 04_produktmanager-0032-1
+-	O
+Zusatzqualifikationen	O
+oder	O
+Zertifizierungen	O
+,	O
+z	O
+.	O
+B	O
+.	O
+
+# sent_id = 04_produktmanager-0032-2
+A-CSPO	O
+,	O
+Product	O
+Owner	O
+,	O
+OKR-Coach	O
+o	O
+.	O
+Ä	O
+.	O
+,	O
+sind	O
+von	O
+Vorteil	O
+,	O
+aber	O
+kein	O
+Muss	O
+
+# doc_id = 05_marketing-allrounder-seo
+# sent_id = 05_marketing-allrounder-seo-0001-1
+Marketing-Allrounder	O
+mit	O
+Schwerpunkt	O
+SEO	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 05_marketing-allrounder-seo-0002-1
+bei	O
+
+# sent_id = 05_marketing-allrounder-seo-0003-1
+Horizonia	O
+GmbH	O
+
+# sent_id = 05_marketing-allrounder-seo-0004-1
+Das	O
+Wichtigste	O
+im	O
+Überblick	O
+
+# sent_id = 05_marketing-allrounder-seo-0005-1
+Besondere	O
+Merkmale	O
+
+# sent_id = 05_marketing-allrounder-seo-0006-1
+Die	O
+Horizonia	O
+GmbH	O
+ist	O
+ein	O
+AZAV-zertifizierter	O
+Bildungsträger	O
+mit	O
+Standorten	O
+in	O
+Berlin	O
+und	O
+Hamburg	O
+.	O
+
+# sent_id = 05_marketing-allrounder-seo-0006-2
+Wir	O
+bieten	O
+AVGS-gefördertes	O
+Einzelcoaching	O
+zur	O
+beruflichen	O
+Aktivierung	O
+und	O
+Eingliederung	O
+an	O
+und	O
+begleiten	O
+Menschen	O
+dabei	O
+,	O
+den	O
+Weg	O
+zurück	O
+in	O
+den	O
+Arbeitsmarkt	O
+zu	O
+finden	O
+.	O
+
+# sent_id = 05_marketing-allrounder-seo-0006-3
+Zur	O
+Verstärkung	O
+unseres	O
+Teams	O
+suchen	O
+wir	O
+eine	O
+engagierte	O
+Marketing-Persönlichkeit	O
+,	O
+die	O
+unsere	O
+Sichtbarkeit	O
+online	O
+wie	O
+offline	O
+gezielt	O
+ausbaut	O
+.	O
+
+# sent_id = 05_marketing-allrounder-seo-0006-4
+Ihre	O
+Aufgaben	O
+:	O
+
+# sent_id = 05_marketing-allrounder-seo-0007-1
+-	O
+Eigenständige	B-SKILL
+Betreuung	I-SKILL
+und	I-SKILL
+kontinuierliche	I-SKILL
+Optimierung	I-SKILL
+unserer	I-SKILL
+Website	I-SKILL
+,	O
+insbesondere	O
+im	O
+Bereich	O
+SEO	O
+(	O
+On-Page	O
+,	O
+technisches	O
+SEO	O
+,	O
+Content-Strategie	O
+)	O
+
+# sent_id = 05_marketing-allrounder-seo-0008-1
+-	O
+Aufbau	B-SKILL
+und	I-SKILL
+Pflege	I-SKILL
+von	I-SKILL
+Backlinks	I-SKILL
+sowie	O
+Zusammenarbeit	B-SKILL
+mit	I-SKILL
+relevanten	I-SKILL
+Portalen	I-SKILL
+,	I-SKILL
+Verbänden	I-SKILL
+und	I-SKILL
+Kooperationspartnern	I-SKILL
+
+# sent_id = 05_marketing-allrounder-seo-0009-1
+-	O
+Erstellung	B-SKILL
+und	I-SKILL
+Pflege	I-SKILL
+von	I-SKILL
+Website	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Social-Media-Inhalten	I-SKILL
+
+# sent_id = 05_marketing-allrounder-seo-0010-1
+-	O
+Unterstützung	O
+bei	O
+der	O
+Positionierung	B-SKILL
+unserer	I-SKILL
+Standorte	I-SKILL
+Berlin	O
+und	O
+Hamburg	O
+
+# sent_id = 05_marketing-allrounder-seo-0011-1
+-	O
+Beobachtung	B-SKILL
+von	I-SKILL
+Wettbewerb	I-SKILL
+und	I-SKILL
+Markttrends	I-SKILL
+sowie	I-SKILL
+datenbasierte	I-SKILL
+Ableitung	I-SKILL
+von	I-SKILL
+Handlungsempfehlungen	I-SKILL
+
+# sent_id = 05_marketing-allrounder-seo-0012-1
+-	O
+Enge	B-SKILL
+Zusammenarbeit	I-SKILL
+mit	I-SKILL
+der	I-SKILL
+Geschäftsführung	I-SKILL
+zur	O
+Umsetzung	O
+unserer	O
+Wachstumsstrategie	O
+
+# sent_id = 05_marketing-allrounder-seo-0013-1
+Ihr	O
+Profil	O
+:	O
+
+# sent_id = 05_marketing-allrounder-seo-0014-1
+-	O
+Erfahrung	O
+im	O
+Online-Marketing	O
+,	O
+idealerweise	O
+mit	O
+Schwerpunkt	O
+SEO	O
+
+# sent_id = 05_marketing-allrounder-seo-0015-1
+-	O
+Selbstständige	B-SKILL
+,	I-SKILL
+strukturierte	I-SKILL
+Arbeitsweise	I-SKILL
+und	O
+Freude	O
+an	O
+vielseitigen	O
+Aufgaben	O
+
+# sent_id = 05_marketing-allrounder-seo-0016-1
+-	O
+Sicherer	B-SKILL
+Umgang	I-SKILL
+mit	I-SKILL
+gängigen	I-SKILL
+SEO	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Analyse-Tools	I-SKILL
+
+# sent_id = 05_marketing-allrounder-seo-0017-1
+-	O
+Kommunikationsstärke	B-SKILL
+in	I-SKILL
+Wort	I-SKILL
+und	I-SKILL
+Schrift	I-SKILL
+
+# doc_id = 06_sozialarbeiter-psychosozialer-dienst
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0001-1
+Sozialarbeiter	O
+/	O
+Sozialpädagoge	O
+(	O
+w/m/d	O
+)	O
+Psychosozialer	O
+Dienst	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0002-1
+bei	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0003-1
+Asklepios	O
+Kliniken	O
+Hamburg	O
+GmbH	O
+ASK	O
+Harburg	O
+Personalabteilung	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0004-1
+Das	O
+Wichtigste	O
+im	O
+Überblick	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0005-1
+Besondere	O
+Merkmale	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0006-1
+ASKLEPIOS	O
+Als	O
+einer	O
+der	O
+größten	O
+privaten	O
+Klinikbetreiber	O
+in	O
+Deutschland	O
+verstehen	O
+wir	O
+uns	O
+als	O
+Begleiter	O
+unserer	O
+Patient	O
+:	O
+innen	O
+-	O
+und	O
+als	O
+Partner	O
+unserer	O
+Mitarbeitenden	O
+.	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0006-2
+Wir	O
+bringen	O
+zusammen	O
+,	O
+was	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0007-1
+zusammengehört	O
+:	O
+Nähe	O
+und	O
+Fortschritt	O
+,	O
+Herzlichkeit	O
+und	O
+hohe	O
+Ansprüche	O
+,	O
+Teamwork	O
+und	O
+Wertschätzung	O
+,	O
+Menschen	O
+und	O
+Innovationen	O
+.	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0008-1
+Das	O
+Asklepios	O
+Klinikum	O
+Harburg	O
+ist	O
+ein	O
+Haus	O
+der	O
+Schwerpunktversorgung	O
+für	O
+den	O
+Hamburger	O
+Süden	O
+und	O
+die	O
+Metropolregion	O
+.	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0008-2
+Von	O
+der	O
+Allgemein	O
+-	O
+bis	O
+zur	O
+Wirbelsäulenchirurgie	O
+verfügen	O
+wir	O
+über	O
+24	O
+spezialisierte	O
+Fachabteilungen	O
+mit	O
+insgesamt	O
+852	O
+Betten	O
+und	O
+162	O
+Plätzen	O
+in	O
+unseren	O
+Tageskliniken	O
+.	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0008-3
+Schwerpunkt	O
+unseres	O
+Klinikums	O
+ist	O
+die	O
+Versorgung	O
+von	O
+Patient	O
+:	O
+innen	O
+mit	O
+komplexen	O
+Erkrankungen	O
+.	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0008-4
+Pro	O
+Jahr	O
+versorgen	O
+mehr	O
+als	O
+2.860	O
+Mitarbeiter	O
+:	O
+innen	O
+rund	O
+110.000	O
+Patient	O
+:	O
+innen	O
+.	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0009-1
+Die	O
+Klinik	O
+für	O
+Psychiatrie	O
+,	O
+Psychotherapie	O
+und	O
+Psychosomatik	O
+in	O
+Harburg	O
+umfasst	O
+zwei	O
+Sektorstationen	O
+für	O
+das	O
+südlich	O
+der	O
+Elbe	O
+gelegene	O
+Hamburg	O
+,	O
+zwei	O
+Stationen	O
+für	O
+affektive	O
+Erkrankungen	O
+,	O
+eine	O
+Station	O
+für	O
+die	O
+Behandlung	O
+von	O
+Abhängigkeitserkrankungen	O
+,	O
+eine	O
+Station	O
+für	O
+bipolare	O
+Störungen	O
+und	O
+psychotische	O
+Erkrankungen	O
+,	O
+eine	O
+Station	O
+zur	O
+Behandlung	O
+von	O
+Traumafolgestörungen	O
+,	O
+eine	O
+Station	O
+für	O
+junge	O
+Erwachsene	O
+und	O
+eine	O
+Eltern-Kind-Station	O
+.	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0009-2
+Fünf	O
+Tageskliniken	O
+,	O
+spezialisierte	O
+Institutsambulanzen	O
+,	O
+das	O
+MVZ	O
+und	O
+ein	O
+STÄB-Team	O
+ergänzen	O
+das	O
+Angebot	O
+.	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0009-3
+Die	O
+Abteilung	O
+arbeitet	O
+eng	O
+mit	O
+den	O
+im	O
+Harburger	O
+Gebiet	O
+vorhandenen	O
+ambulanten	O
+und	O
+stationären	O
+Einrichtungen	O
+zusammen	O
+.	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0009-4
+Es	O
+bestehen	O
+diagnosespezifische	O
+integrierte	O
+Behandlungsprogramme	O
+mit	O
+stationär/teilstationär/ambulanter	O
+Beziehungskontinuität	O
+.	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0009-5
+Das	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0010-1
+sozialpsychiatrisch	O
+ausgelegte	O
+Behandlungskonzept	O
+wird	O
+multiprofessionell	O
+und	O
+integrativ	O
+umgesetzt	O
+.	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0010-2
+Wöchentliche	O
+Fallkonferenzen	O
+,	O
+Fortbildungen	O
+und	O
+Supervision	O
+sind	O
+selbstverständlich	O
+,	O
+die	O
+volle	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0011-1
+Weiterbildungsermächtigung	O
+ist	O
+vorhanden	O
+.	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0012-1
+Wir	O
+suchen	O
+Sie	O
+zum	O
+nächstmöglichen	O
+Zeitpunkt	O
+als	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0013-1
+Sozialarbeiter	O
+/	O
+Sozialpädagoge	O
+(	O
+w/m/d	O
+)	O
+Psychosozialer	O
+Dienst	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0014-1
+in	O
+Voll	O
+-	O
+oder	O
+Teilzeit	O
+.	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0015-1
+IHR	O
+AUFGABENGEBIET	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0016-1
+-	O
+Sie	O
+arbeiten	O
+in	O
+einem	O
+multiprofessionellen	O
+Team	O
+am	O
+Standort	O
+Harburg	O
+,	O
+welches	O
+sich	O
+durch	O
+hervorragende	O
+psychiatrisch-psychotherapeutische	O
+Kompetenzen	O
+und	O
+eine	O
+ausgeprägte	O
+Kollegialität	O
+auszeichnet	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0017-1
+-	O
+Umfassende	B-SKILL
+Beratung	I-SKILL
+und	I-SKILL
+Unterstützung	I-SKILL
+der	I-SKILL
+Patient	I-SKILL
+:	I-SKILL
+innen	I-SKILL
+und	I-SKILL
+deren	I-SKILL
+Angehörigen	I-SKILL
+in	I-SKILL
+sozialrechtlichen	I-SKILL
+Fragestellungen	I-SKILL
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0018-1
+-	O
+Beantragung	B-SKILL
+von	I-SKILL
+Leistungen	I-SKILL
+innerhalb	I-SKILL
+der	I-SKILL
+Sozialgesetzbücher	I-SKILL
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0019-1
+-	O
+Beratung	B-SKILL
+von	I-SKILL
+Patient	I-SKILL
+:	I-SKILL
+innen	I-SKILL
+und	I-SKILL
+deren	I-SKILL
+Angehörige	I-SKILL
+in	I-SKILL
+Bezug	I-SKILL
+auf	I-SKILL
+die	I-SKILL
+Sicherung	I-SKILL
+der	I-SKILL
+nachstationären	I-SKILL
+Versorgung	I-SKILL
+in	O
+enger	O
+Kooperation	O
+mit	O
+dem	O
+ärztlichen	O
+,	O
+therapeutischen	O
+und	O
+pflegerischen	O
+Team	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0020-1
+-	O
+Kooperation	B-SKILL
+mit	I-SKILL
+außerklinischen	I-SKILL
+Einrichtungen	I-SKILL
+und	I-SKILL
+Diensten	I-SKILL
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0021-1
+IHR	O
+PROFIL	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0022-1
+-	O
+Sie	O
+haben	O
+einen	O
+staatlich	O
+anerkannten	O
+Abschluss	O
+mit	O
+staatlicher	O
+Anerkennung	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0023-1
+-	O
+Berufserfahrungen	O
+mit	O
+Menschen	O
+mit	O
+psychischen	O
+Erkrankungen	O
+wären	O
+von	O
+Vorteil	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0024-1
+-	O
+Kenntnisse	O
+in	O
+der	O
+Sozialgesetzgebung	O
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0025-1
+-	O
+Bereitschaft	O
+zur	O
+Zusammenarbeit	B-SKILL
+im	I-SKILL
+multiprofessionellen	I-SKILL
+Team	I-SKILL
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0026-1
+-	O
+Empathie	B-SKILL
+und	I-SKILL
+Offenheit	I-SKILL
+für	I-SKILL
+Menschen	I-SKILL
+mit	I-SKILL
+psychischen	I-SKILL
+Erkrankungen	I-SKILL
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0027-1
+-	O
+Flexibilität	B-SKILL
+und	I-SKILL
+Belastbarkeit	I-SKILL
+
+# sent_id = 06_sozialarbeiter-psychosozialer-dienst-0028-1
+-	O
+Strukturierte	B-SKILL
+und	I-SKILL
+zuverlässige	I-SKILL
+Arbeitsweise	I-SKILL
+sowie	O
+lösungsorientiertes	B-SKILL
+,	I-SKILL
+selbstständiges	I-SKILL
+und	I-SKILL
+verantwortungsvolles	I-SKILL
+Arbeiten	I-SKILL
+
+# doc_id = 07_heilerziehungspfleger
+# sent_id = 07_heilerziehungspfleger-0001-1
+Heilerziehungspfleger	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 07_heilerziehungspfleger-0002-1
+bei	O
+
+# sent_id = 07_heilerziehungspfleger-0003-1
+Personal-Service	O
+Westermann	O
+GmbH	O
+
+# sent_id = 07_heilerziehungspfleger-0004-1
+Du	O
+bist	O
+Heilerziehungspfleger	O
+(	O
+m/w/d	O
+)	O
+?	O
+
+# sent_id = 07_heilerziehungspfleger-0004-2
+Im	O
+Rahmen	O
+der	O
+Arbeitnehmerüberlassung	O
+bist	O
+Du	O
+bei	O
+uns	O
+in	O
+Voll	O
+-	O
+und	O
+Teilzeit	O
+herzlich	O
+willkommen	O
+!	O
+
+# sent_id = 07_heilerziehungspfleger-0005-1
+Wir	O
+sind	O
+als	O
+Personaldienstleister	O
+für	O
+Sozialberufe	O
+bereits	O
+seit	O
+2002	O
+am	O
+Markt	O
+und	O
+arbeiten	O
+erfolgreich	O
+mit	O
+mehr	O
+als	O
+500	O
+Einrichtungen	O
+zusammen	O
+.	O
+
+# sent_id = 07_heilerziehungspfleger-0005-2
+Aktuell	O
+suchen	O
+wir	O
+Heilerziehungspfleger	O
+(	O
+m/w/d	O
+)	O
+für	O
+den	O
+Krippen	O
+-	O
+und	O
+Elementarbereich	O
+,	O
+im	O
+Bereich	O
+Inklusion	O
+und	O
+in	O
+weiteren	O
+Einsatzfeldern	O
+in	O
+Hamburg	O
+und	O
+Umgebung	O
+.	O
+
+# sent_id = 07_heilerziehungspfleger-0005-3
+Du	O
+kannst	O
+über	O
+uns	O
+verschiedene	O
+Einrichtungen	O
+und	O
+Träger	O
+kennenlernen	O
+–	O
+und	O
+wenn	O
+Dein	O
+Traumjob	O
+dabei	O
+ist	O
+,	O
+Zu	O
+Deinen	O
+Aufgaben	O
+gehören	O
+:	O
+
+# sent_id = 07_heilerziehungspfleger-0006-1
+-	O
+Die	O
+Betreuung	B-SKILL
+und	I-SKILL
+Entwicklungsbegleitung	I-SKILL
+von	I-SKILL
+Kindern	I-SKILL
+im	I-SKILL
+Alter	I-SKILL
+zwischen	I-SKILL
+0	I-SKILL
+Jahren	I-SKILL
+bis	I-SKILL
+Schuleintritt	I-SKILL
+
+# sent_id = 07_heilerziehungspfleger-0007-1
+-	O
+Die	O
+Gestaltung	B-SKILL
+von	I-SKILL
+pädagogischen	I-SKILL
+Angeboten	I-SKILL
+gemeinsam	O
+mit	O
+Deinen	O
+Kollegen	O
+
+# sent_id = 07_heilerziehungspfleger-0008-1
+-	O
+Ausflüge	B-SKILL
+organisieren	I-SKILL
+und	I-SKILL
+begleiten	I-SKILL
+
+# sent_id = 07_heilerziehungspfleger-0009-1
+-	O
+Enge	B-SKILL
+Zusammenarbeit	I-SKILL
+mit	I-SKILL
+den	I-SKILL
+Kollegen	I-SKILL
+sowie	I-SKILL
+den	I-SKILL
+Eltern	I-SKILL
+
+# sent_id = 07_heilerziehungspfleger-0010-1
+Wir	O
+wünschen	O
+uns	O
+:	O
+
+# sent_id = 07_heilerziehungspfleger-0011-1
+-	O
+Dass	O
+Du	O
+mit	O
+viel	O
+Freude	O
+in	O
+Deinem	O
+Beruf	O
+bist	O
+und	O
+Kinder	B-SKILL
+gerne	I-SKILL
+in	I-SKILL
+ihrer	I-SKILL
+Entwicklung	I-SKILL
+unterstützt	I-SKILL
+
+# sent_id = 07_heilerziehungspfleger-0012-1
+-	O
+Eine	O
+abgeschlossene	O
+Berufsausbildung	O
+als	O
+staatlich	O
+anerkannter	O
+Heilerziehungspfleger	O
+(	O
+m/w	O
+/	O
+d	O
+)	O
+oder	O
+eine	O
+vergleichbare	O
+Qualifikation	O
+
+# sent_id = 07_heilerziehungspfleger-0013-1
+-	O
+Erste	O
+Berufserfahrungen	O
+im	O
+Krippen	O
+-	O
+oder	O
+Elementarbereich	O
+von	O
+Vorteil	O
+,	O
+aber	O
+auch	O
+Berufseinsteiger	O
+sind	O
+herzlich	O
+willkommen	O
+
+# sent_id = 07_heilerziehungspfleger-0014-1
+-	O
+Gute	O
+Fähigkeiten	O
+und	O
+Kenntnisse	O
+in	O
+der	O
+Elternarbeit	B-SKILL
+,	O
+Dokumentation	B-SKILL
+und	O
+Entwicklungsbegleitung	B-SKILL
+
+# sent_id = 07_heilerziehungspfleger-0015-1
+-	O
+Teamfähigkeit	B-SKILL
+,	O
+Kreativität	B-SKILL
+,	O
+Zuverlässigkeit	B-SKILL
+und	O
+Einfühlungsvermögen	B-SKILL
+
+# sent_id = 07_heilerziehungspfleger-0016-1
+-	O
+Gute	O
+Kommunikationsfähigkeit	B-SKILL
+
+# doc_id = 08_sozialpaedagogische-assistenz-krippe
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0001-1
+Sozialpädagogische	O
+Assistenz	O
+/	O
+SPA	O
+(	O
+w/m/d	O
+)	O
+für	O
+Krippengruppe	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0002-1
+bei	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0003-1
+Pflegediakonie	O
+Alten	O
+Eichen	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0004-1
+Wir	O
+suchen	O
+dich	O
+für	O
+unsere	O
+Kita	O
+Hohe	O
+Weide	O
+:	O
+Sozialpädagogische	O
+Assistenz	O
+(	O
+w/m/d	O
+)	O
+ab	O
+Oktober	O
+2026	O
+oder	O
+nächstmöglicher	O
+Termin	O
+für	O
+37-39	O
+Std/Woche	O
+als	O
+festes	O
+Mitglied	O
+in	O
+einer	O
+Krippengruppe	O
+,	O
+zentral	O
+gelegen	O
+im	O
+Das	O
+tust	O
+du	O
+für	O
+uns	O
+:	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0005-1
+-	O
+Du	O
+leitest	B-SKILL
+mit	I-SKILL
+einer	I-SKILL
+weiteren	I-SKILL
+päd	I-SKILL
+.	I-SKILL
+Fachkraft	I-SKILL
+eine	I-SKILL
+Gruppe	I-SKILL
+von	I-SKILL
+10-13	I-SKILL
+Krippenkindern	I-SKILL
+und	O
+betreust	O
+diese	O
+alters	O
+-	O
+und	O
+zielgruppenspezifisch	O
+.	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0006-1
+-	O
+Du	O
+bist	O
+mitverantwortlich	O
+für	O
+die	O
+päd	B-SKILL
+.	I-SKILL
+Planung	I-SKILL
+und	I-SKILL
+Organisation	I-SKILL
+des	I-SKILL
+Tages	I-SKILL
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0007-1
+-	O
+Auch	O
+die	O
+kooperative	B-SKILL
+Zusammenarbeit	I-SKILL
+mit	I-SKILL
+den	I-SKILL
+Eltern	I-SKILL
+gehört	O
+dabei	O
+zu	O
+deinen	O
+Aufgaben	O
+.	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0008-1
+Das	O
+bringst	O
+du	O
+mit	O
+:	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0009-1
+-	O
+Du	O
+verfügst	O
+über	O
+eine	O
+abgeschlossene	O
+pädagogische	O
+Ausbildung	O
+zur	O
+*	O
+m	O
+Sozialpädagogischen	O
+Assistent	O
+*	O
+in	O
+.	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0010-1
+-	O
+Außerdem	O
+identifizierst	O
+du	O
+dich	O
+mit	O
+den	O
+Werten	O
+der	O
+Diakonie	O
+Alten	O
+Eichen	O
+und	O
+unserem	O
+Teambild	O
+.	O
+
+# sent_id = 08_sozialpaedagogische-assistenz-krippe-0011-1
+-	O
+Ein	O
+Herz	O
+für	O
+Kinder	O
+und	O
+viel	O
+Freude	O
+an	O
+den	O
+Aufgaben	O
+in	O
+einer	O
+Kita	O
+runden	O
+dein	O
+Profil	O
+ab	O
+.	O
+
+# doc_id = 09_spa-sozialpaedagogischer-assistent
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0001-1
+SPA	O
+(	O
+m/w/d	O
+)	O
+Sozialpädagogischer	O
+Assistent	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0002-1
+bei	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0003-1
+Permacon	O
+GmbH	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0004-1
+Das	O
+Wichtigste	O
+im	O
+Überblick	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0005-1
+Besondere	O
+Merkmale	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0006-1
+Über	O
+uns	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0007-1
+Sie	O
+möchten	O
+sich	O
+voll	O
+und	O
+ganz	O
+auf	O
+die	O
+pädagogische	O
+Arbeit	O
+konzentrieren	O
+?	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0007-2
+Sie	O
+suchen	O
+ein	O
+Team	O
+,	O
+das	O
+Offenheit	O
+,	O
+eine	O
+klare	O
+Kommunikation	O
+und	O
+Zusammenhalt	O
+im	O
+Team	O
+lebt	O
+?	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0007-3
+Für	O
+verschiedene	O
+Kitas	O
+und	O
+Kindergarten	O
+in	O
+Hamburg	O
+suchen	O
+wir	O
+zum	O
+nächstmöglichen	O
+Zeitpunkt	O
+in	O
+Vollzeit	O
+,	O
+Teilzeit	O
+oder	O
+als	O
+Minijob	O
+einen	O
+SPA	O
+/	O
+Sozialpädagogische	O
+Assistent	O
+(	O
+m/w/d	O
+)	O
+für	O
+den	O
+Krippen	O
+-	O
+und/oder	O
+Elementarbereich	O
+.	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0007-4
+Deine	O
+Aufgaben	O
+als	O
+SPA	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0008-1
+-	O
+Du	O
+förderst	B-SKILL
+die	I-SKILL
+Kinder	I-SKILL
+im	I-SKILL
+Krippenbereich	I-SKILL
+oder	I-SKILL
+Elementarbereich	I-SKILL
+individuell	I-SKILL
+nach	I-SKILL
+ihren	I-SKILL
+Bedürfnissen	I-SKILL
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0009-1
+-	O
+Du	O
+bist	O
+liebevoller	O
+Begleiter	O
+,	O
+Vorbild	O
+,	O
+Zuhörer	O
+,	O
+Geschichten-Erzähler	O
+,	O
+und	O
+baust	B-SKILL
+eine	I-SKILL
+liebevolle	I-SKILL
+entwicklungsfördernde	I-SKILL
+Beziehung	I-SKILL
+zu	I-SKILL
+den	I-SKILL
+Kindern	I-SKILL
+auf	I-SKILL
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0010-1
+-	O
+Du	O
+entwickelst	B-SKILL
+und	I-SKILL
+konzipierst	I-SKILL
+Angebote	I-SKILL
+in	I-SKILL
+deinem	I-SKILL
+eigenen	I-SKILL
+pädagogischen	I-SKILL
+Schwerpunkt	I-SKILL
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0011-1
+-	O
+Du	O
+berücksichtigst	B-SKILL
+das	I-SKILL
+Konzept	I-SKILL
+des	I-SKILL
+jeweiligen	I-SKILL
+Kita	I-SKILL
+oder	I-SKILL
+Kindergarten	I-SKILL
+und	O
+setzt	O
+dieses	O
+aktiv	O
+in	O
+deiner	O
+Arbeit	O
+um	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0012-1
+-	O
+Du	O
+hast	O
+Freude	O
+an	O
+der	O
+Kinderbetreuung	B-SKILL
+in	O
+einem	O
+Kindergarten	O
+oder	O
+Kita	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0013-1
+Dein	O
+Profil	O
+als	O
+SPA	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0014-1
+-	O
+Du	O
+hast	O
+eine	O
+abgeschlossene	O
+Ausbildung	O
+als	O
+SPA	O
+/	O
+Sozialpädagogischer	O
+Assistent	O
+(	O
+m/w/d	O
+)	O
+oder	O
+eine	O
+vergleichbare	O
+Ausbildung	O
+im	O
+pädagogischen	O
+Bereich	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0015-1
+-	O
+Du	O
+bist	O
+herzlich	B-SKILL
+,	O
+engagiert	B-SKILL
+,	O
+offen	B-SKILL
+und	O
+ein	O
+echter	O
+Teamplayer	B-SKILL
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0016-1
+-	O
+Du	O
+findest	B-SKILL
+schnell	I-SKILL
+Anschluss	I-SKILL
+und	O
+bringst	O
+dich	O
+motiviert	B-SKILL
+in	O
+dem	O
+vielfältigen	O
+Kitaalltag	O
+ein	O
+
+# sent_id = 09_spa-sozialpaedagogischer-assistent-0017-1
+-	O
+Du	O
+bist	O
+eine	O
+vertrauensvolle	B-SKILL
+Bezugsperson	I-SKILL
+für	O
+die	O
+kleinen	O
+im	O
+Krippen	O
+-	O
+und	O
+Elementarbereich	O
+
+# doc_id = 10_pflegefachkraft-senator-neumann-haus
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0001-1
+Als	O
+Pflegefachkraft	O
+(	O
+m/w/d	O
+)	O
+in	O
+Hamburg-Bergstedt	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0002-1
+arbeitest	O
+du	O
+im	O
+Senator-Neumann-Haus	O
+und	O
+begleitest	B-SKILL
+Menschen	I-SKILL
+mit	I-SKILL
+Behinderung	I-SKILL
+in	I-SKILL
+Pflege	I-SKILL
+und	I-SKILL
+Alltag	I-SKILL
+.	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0002-2
+Die	O
+Stelle	O
+ist	O
+in	O
+Teilzeit	O
+oder	O
+Vollzeit	O
+,	O
+mit	O
+20	O
+bis	O
+38	O
+,	O
+5	O
+Wochenstunden	O
+,	O
+zu	O
+besetzen	O
+.	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0002-3
+Dein	O
+Einstieg	O
+ist	O
+ab	O
+sofort	O
+oder	O
+nach	O
+Vereinbarung	O
+möglich	O
+.	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0002-4
+Im	O
+Senator-Neumann-Haus	O
+wohnen	O
+Menschen	O
+mit	O
+neurologischen	O
+Erkrankungen	O
+,	O
+erworbenen	O
+Hirnschäden	O
+und	O
+schweren	O
+Körperbehinderungen	O
+,	O
+welche	O
+dort	O
+umfassende	O
+Leistungen	O
+der	O
+Eingliederungshilfe	O
+,	O
+Pflege	O
+und	O
+Therapie	O
+erhalten	O
+.	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0003-1
+Aufgaben	O
+Zu	O
+deinen	O
+Aufgaben	O
+gehören	O
+:	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0004-1
+-	O
+Du	O
+übernimmst	O
+die	O
+ganzheitliche	B-SKILL
+Pflege	I-SKILL
+im	I-SKILL
+Rahmen	I-SKILL
+des	I-SKILL
+Pflegeprozesses	I-SKILL
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0005-1
+-	O
+Du	O
+kümmerst	O
+dich	O
+um	O
+das	O
+Medikamentenmanagement	B-SKILL
+und	O
+führst	B-SKILL
+Pflegevisiten	I-SKILL
+durch	I-SKILL
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0006-1
+-	O
+Du	O
+arbeitest	B-SKILL
+eng	I-SKILL
+mit	I-SKILL
+Kolleg	I-SKILL
+:	I-SKILL
+innen	I-SKILL
+aus	I-SKILL
+unterschiedlichen	I-SKILL
+Berufsgruppen	I-SKILL
+zusammen	I-SKILL
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0007-1
+-	O
+Du	O
+unterstützt	B-SKILL
+die	I-SKILL
+Nutzenden	I-SKILL
+dabei	I-SKILL
+,	I-SKILL
+ihre	I-SKILL
+Lebensqualität	I-SKILL
+und	I-SKILL
+Eigenständigkeit	I-SKILL
+zu	I-SKILL
+erhalten	I-SKILL
+und	I-SKILL
+weiterzuentwickeln	I-SKILL
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0008-1
+-	O
+Du	O
+berätst	B-SKILL
+und	I-SKILL
+motivierst	I-SKILL
+die	I-SKILL
+von	I-SKILL
+dir	I-SKILL
+begleiteten	I-SKILL
+Menschen	I-SKILL
+im	I-SKILL
+Alltag	I-SKILL
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0009-1
+Profil	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0010-1
+Außerdem	O
+wünschen	O
+wir	O
+uns	O
+von	O
+dir	O
+:	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0011-1
+-	O
+Abgeschlossene	O
+Ausbildung	O
+in	O
+der	O
+Gesundheits	O
+-	O
+und	O
+Krankenpflege	O
+,	O
+in	O
+der	O
+Altenpflege	O
+oder	O
+eine	O
+vergleichbare	O
+Qualifikation	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0012-1
+-	O
+Erste	O
+Berufserfahrungen	O
+in	O
+der	O
+Arbeit	B-SKILL
+mit	I-SKILL
+Menschen	I-SKILL
+mit	I-SKILL
+Behinderung	I-SKILL
+sind	O
+wünschenswert	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0013-1
+-	O
+Wertschätzende	B-SKILL
+Haltung	I-SKILL
+und	I-SKILL
+Kommunikation	I-SKILL
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0014-1
+-	O
+Einfühlungsvermögen	B-SKILL
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0015-1
+-	O
+Freude	O
+an	O
+der	O
+Arbeit	O
+mit	O
+Menschen	O
+
+# sent_id = 10_pflegefachkraft-senator-neumann-haus-0016-1
+-	O
+Interesse	O
+an	O
+der	O
+Zusammenarbeit	B-SKILL
+in	I-SKILL
+einem	I-SKILL
+multiprofessionellen	I-SKILL
+Team	I-SKILL
+
+# doc_id = 11_mechatroniker
+# sent_id = 11_mechatroniker-0001-1
+Mechatroniker	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 11_mechatroniker-0002-1
+Standort	O
+:	O
+Hamburg	O
+
+# sent_id = 11_mechatroniker-0003-1
+Dein	O
+neuer	O
+Arbeitsalltag	O
+
+# sent_id = 11_mechatroniker-0004-1
+-	O
+Du	O
+montierst	B-SKILL
+,	I-SKILL
+installierst	I-SKILL
+und	I-SKILL
+nimmst	I-SKILL
+mechatronische	I-SKILL
+Systeme	I-SKILL
+und	I-SKILL
+Anlagen	I-SKILL
+wie	I-SKILL
+Maschinen	I-SKILL
+oder	I-SKILL
+Roboter	I-SKILL
+in	I-SKILL
+Betrieb	I-SKILL
+
+# sent_id = 11_mechatroniker-0005-1
+-	O
+Du	O
+stellst	B-SKILL
+mechanische	I-SKILL
+,	I-SKILL
+elektrische	I-SKILL
+und	I-SKILL
+elektronische	I-SKILL
+Komponenten	I-SKILL
+her	I-SKILL
+und	I-SKILL
+baust	I-SKILL
+sie	I-SKILL
+zusammen	I-SKILL
+
+# sent_id = 11_mechatroniker-0006-1
+-	O
+Du	O
+programmierst	B-SKILL
+und	I-SKILL
+konfigurierst	I-SKILL
+Steuerungen	I-SKILL
+und	I-SKILL
+Software	I-SKILL
+–	O
+und	O
+testest	O
+sie	O
+auf	O
+Herz	O
+und	O
+Nieren	O
+
+# sent_id = 11_mechatroniker-0007-1
+-	O
+Du	O
+führst	B-SKILL
+Messungen	I-SKILL
+,	I-SKILL
+Prüfungen	I-SKILL
+und	I-SKILL
+Fehlerdiagnosen	I-SKILL
+durch	I-SKILL
+
+# sent_id = 11_mechatroniker-0008-1
+-	O
+Du	O
+übernimmst	O
+die	O
+Wartung	B-SKILL
+,	I-SKILL
+Reparaturen	I-SKILL
+und	I-SKILL
+Instandhaltung	I-SKILL
+von	I-SKILL
+Maschinen	I-SKILL
+und	I-SKILL
+Anlagen	I-SKILL
+
+# sent_id = 11_mechatroniker-0009-1
+-	O
+Du	O
+liest	B-SKILL
+technische	I-SKILL
+Zeichnungen	I-SKILL
+sowie	I-SKILL
+Schalt	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Montagepläne	I-SKILL
+–	O
+und	O
+setzt	O
+sie	O
+gekonnt	O
+um	O
+
+# sent_id = 11_mechatroniker-0010-1
+-	O
+Du	O
+kümmerst	O
+dich	O
+um	O
+die	O
+Einweisung	B-SKILL
+der	I-SKILL
+Anwender	I-SKILL
+in	I-SKILL
+die	I-SKILL
+Bedienung	I-SKILL
+und	O
+übernimmst	O
+bei	O
+Bedarf	O
+die	O
+Kundenbetreuung	B-SKILL
+
+# sent_id = 11_mechatroniker-0011-1
+-	O
+Du	O
+dokumentierst	B-SKILL
+deine	I-SKILL
+Arbeit	I-SKILL
+sorgfältig	I-SKILL
+und	I-SKILL
+nachvollziehbar	I-SKILL
+
+# sent_id = 11_mechatroniker-0012-1
+Was	O
+wir	O
+uns	O
+von	O
+dir	O
+wünschen	O
+
+# sent_id = 11_mechatroniker-0013-1
+-	O
+Eine	O
+abgeschlossene	O
+Ausbildung	O
+als	O
+Mechatroniker	O
+(	O
+m/w/d	O
+)	O
+oder	O
+eine	O
+vergleichbare	O
+Qualifikation	O
+,	O
+z.B	O
+.	O
+als	O
+Elektriker	O
+für	O
+Betriebstechnik	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 11_mechatroniker-0014-1
+-	O
+Fundierte	O
+Kenntnisse	O
+in	O
+Mechanik	O
+,	O
+Elektronik	O
+,	O
+Elektrotechnik	O
+und	O
+Pneumatik	O
+
+# sent_id = 11_mechatroniker-0015-1
+-	O
+Erfahrung	O
+im	O
+Umgang	O
+mit	O
+Steuerungs	O
+-	O
+und	O
+Automatisierungstechnik	O
+sowie	O
+Mess	O
+-	O
+und	O
+Diagnosesystemen	O
+
+# sent_id = 11_mechatroniker-0016-1
+-	O
+Du	O
+hast	O
+ein	O
+stabiles	O
+technisches	B-SKILL
+Verständnis	I-SKILL
+,	O
+bist	O
+handwerklich	B-SKILL
+geschickt	I-SKILL
+,	O
+lösungsorientiert	B-SKILL
+und	O
+zuverlässig	B-SKILL
+
+# sent_id = 11_mechatroniker-0017-1
+-	O
+Eine	O
+selbstständige	B-SKILL
+,	I-SKILL
+teamorientierte	I-SKILL
+und	I-SKILL
+verantwortungsbewusste	I-SKILL
+Arbeitsweise	I-SKILL
+
+# sent_id = 11_mechatroniker-0018-1
+-	O
+Du	O
+sprichst	O
+gut	O
+Deutsch	O
+(	O
+min	O
+.	O
+B1	O
+)	O
+,	O
+Englischkenntnisse	O
+sind	O
+von	O
+Vorteil	O
+–	O
+aber	O
+kein	O
+Muss	O
+!	O
+
+# doc_id = 12_softwareentwickler
+# sent_id = 12_softwareentwickler-0001-1
+Softwareentwickler	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 12_softwareentwickler-0002-1
+bei	O
+
+# sent_id = 12_softwareentwickler-0003-1
+Hamburger	O
+Pensionsverwaltung	O
+eGPersonalverwaltung	O
+
+# sent_id = 12_softwareentwickler-0004-1
+Das	O
+Wichtigste	O
+im	O
+Überblick	O
+
+# sent_id = 12_softwareentwickler-0005-1
+Besondere	O
+Merkmale	O
+
+# sent_id = 12_softwareentwickler-0006-1
+In	O
+unserem	O
+Team	O
+entwickeln	O
+wir	O
+moderne	O
+Softwarelösungen	O
+,	O
+Web-Anwendungen	O
+und	O
+digitale	O
+Services	O
+.	O
+
+# sent_id = 12_softwareentwickler-0006-2
+Wir	O
+arbeiten	O
+mit	O
+einem	O
+aktuellen	O
+Technologie-Stack	O
+und	O
+setzen	O
+auf	O
+agile	O
+Zusammenarbeit	O
+in	O
+Scrum-Teams	O
+.	O
+
+# sent_id = 12_softwareentwickler-0006-3
+Die	O
+enge	O
+Abstimmung	O
+mit	O
+unseren	O
+Fachbereichen	O
+gehört	O
+für	O
+uns	O
+zum	O
+Alltag	O
+.	O
+
+# sent_id = 12_softwareentwickler-0007-1
+Themen	O
+wie	O
+Infrastructure	O
+as	O
+Code	O
+,	O
+Cloud-Technologien	O
+,	O
+Clean	O
+Code	O
+,	O
+moderne	O
+Architekturen	O
+und	O
+der	O
+sinnvolle	O
+Einsatz	O
+von	O
+KI	O
+sind	O
+bei	O
+uns	O
+gelebte	O
+Praxis	O
+.	O
+
+# sent_id = 12_softwareentwickler-0007-2
+Unser	O
+Technologie-Stack	O
+umfasst	O
+u	O
+.	O
+a	O
+.	O
+Grafana	O
+Cloud	O
+,	O
+Kubernetes	O
+,	O
+AWS	O
+,	O
+Terraform	O
+,	O
+Crossplane	O
+,	O
+ArgoCD	O
+,	O
+Tilt	O
+,	O
+Atlas	O
+MongoDB	O
+sowie	O
+aktuelle	O
+Versionen	O
+von	O
+Spring	O
+Boot	O
+und	O
+Java	O
+.	O
+
+# sent_id = 12_softwareentwickler-0008-1
+Gesucht	O
+wird	O
+eine	O
+Persönlichkeit	O
+mit	O
+Leidenschaft	O
+für	O
+Softwareentwicklung	O
+und	O
+DevOps	O
+,	O
+die	O
+gemeinsam	O
+mit	O
+uns	O
+neue	O
+Lösungen	O
+entwickelt	O
+und	O
+bestehende	O
+Systeme	O
+modernisiert	O
+.	O
+
+# sent_id = 12_softwareentwickler-0008-2
+Entscheidend	O
+sind	O
+Lernbereitschaft	O
+,	O
+
+# sent_id = 12_softwareentwickler-0009-1
+Qualitätsbewusstsein	O
+und	O
+der	O
+Wille	O
+,	O
+sich	O
+kontinuierlich	O
+weiterzuentwickeln	O
+–	O
+nicht	O
+das	O
+Beherrschen	O
+aller	O
+
+# sent_id = 12_softwareentwickler-0010-1
+Technologien	O
+von	O
+Beginn	O
+an	O
+.	O
+
+# sent_id = 12_softwareentwickler-0011-1
+Bei	O
+Interesse	O
+an	O
+nachhaltiger	O
+Softwareentwicklung	O
+bewirb	O
+dich	O
+bei	O
+uns	O
+als	O
+
+# sent_id = 12_softwareentwickler-0012-1
+Softwareentwickler	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 12_softwareentwickler-0013-1
+Deine	O
+Aufgaben	O
+
+# sent_id = 12_softwareentwickler-0014-1
+-	O
+Entwicklung	B-SKILL
+und	I-SKILL
+Betrieb	I-SKILL
+einer	I-SKILL
+modernen	I-SKILL
+,	I-SKILL
+cloudbasierten	I-SKILL
+Plattform	I-SKILL
+zur	I-SKILL
+Digitalisierung	I-SKILL
+interner	I-SKILL
+Verwaltungsprozesse	I-SKILL
+in	O
+enger	O
+Zusammenarbeit	O
+mit	O
+dem	O
+Team	O
+
+# sent_id = 12_softwareentwickler-0015-1
+-	O
+Optimierung	B-SKILL
+der	I-SKILL
+Entwicklungs	I-SKILL
+-	I-SKILL
+,	I-SKILL
+Test	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Produktionsumgebungen	I-SKILL
+sowie	O
+Sicherstellung	B-SKILL
+eines	I-SKILL
+stabilen	I-SKILL
+,	I-SKILL
+sicheren	I-SKILL
+und	I-SKILL
+skalierbaren	I-SKILL
+Betriebs	I-SKILL
+in	O
+Abstimmung	O
+mit	O
+deinem	O
+Team	O
+
+# sent_id = 12_softwareentwickler-0016-1
+-	O
+Eigenverantwortliche	B-SKILL
+Weiterentwicklung	I-SKILL
+fachlicher	I-SKILL
+und	I-SKILL
+technischer	I-SKILL
+Lösungskonzepte	I-SKILL
+–	O
+von	O
+der	O
+Idee	O
+bis	O
+zur	O
+Umsetzung	O
+
+# sent_id = 12_softwareentwickler-0017-1
+-	O
+Weiterentwicklung	B-SKILL
+von	I-SKILL
+CI/CD-Pipelines	I-SKILL
+sowie	I-SKILL
+Verbesserung	I-SKILL
+von	I-SKILL
+Build	I-SKILL
+-	I-SKILL
+,	I-SKILL
+Test	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Deployment-Workflows	I-SKILL
+
+# sent_id = 12_softwareentwickler-0018-1
+-	O
+Umsetzung	B-SKILL
+neuer	I-SKILL
+fachlicher	I-SKILL
+Anforderungen	I-SKILL
+und	I-SKILL
+technischer	I-SKILL
+Schnittstellen	I-SKILL
+in	I-SKILL
+Java-basierten	I-SKILL
+Microservices	I-SKILL
+
+# sent_id = 12_softwareentwickler-0019-1
+-	O
+Aktive	B-SKILL
+Mitgestaltung	I-SKILL
+der	I-SKILL
+Cloud-Architektur	I-SKILL
+und	I-SKILL
+digitalen	I-SKILL
+Plattformen	I-SKILL
+durch	O
+das	O
+Einbringen	O
+eigener	O
+Ideen	O
+
+# sent_id = 12_softwareentwickler-0020-1
+Dein	O
+Profil	O
+
+# sent_id = 12_softwareentwickler-0021-1
+-	O
+(	O
+Fach	O
+-	O
+)	O
+Hochschulstudium	O
+im	O
+Bereich	O
+Informatik	O
+mit	O
+gutem	O
+Abschluss	O
+oder	O
+eine	O
+vergleichbare	O
+Qualifikation	O
+
+# sent_id = 12_softwareentwickler-0022-1
+-	O
+Sicherer	B-SKILL
+Umgang	I-SKILL
+mit	I-SKILL
+einer	I-SKILL
+objektorientierten	I-SKILL
+Programmiersprache	I-SKILL
+(	O
+z.B	O
+.	O
+
+# sent_id = 12_softwareentwickler-0022-2
+Java	O
+)	O
+
+# sent_id = 12_softwareentwickler-0023-1
+-	O
+Idealerweise	O
+Erfahrung	O
+mit	O
+AWS	O
+,	O
+CI/CD	O
+und	O
+modernen	O
+DevOps-Methoden	O
+.	O
+
+# sent_id = 12_softwareentwickler-0023-2
+Begeisterung	O
+für	O
+Cloud-Technologien	O
+,	O
+Automatisierung	O
+und	O
+technische	O
+Herausforderungen	O
+.	O
+
+# sent_id = 12_softwareentwickler-0024-1
+-	O
+Idealerweise	O
+erste	O
+Berührungspunkte	O
+mit	O
+künstlicher	O
+Intelligenz	O
+
+# sent_id = 12_softwareentwickler-0025-1
+-	O
+Hohes	O
+Maß	O
+an	O
+Selbstständigkeit	B-SKILL
+,	O
+Verantwortungsbewusstsein	B-SKILL
+und	O
+Teamfähigkeit	B-SKILL
+
+# sent_id = 12_softwareentwickler-0026-1
+-	O
+Fließende	O
+Deutschkenntnisse	O
+in	O
+Wort	O
+und	O
+Schrift	O
+
+# doc_id = 13_fachinformatiker-systemintegration
+# sent_id = 13_fachinformatiker-systemintegration-0001-1
+Fachinformatiker	O
+Systemintegration	O
+/	O
+IT-Systemadmin	O
+.	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0002-1
+bei	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0003-1
+Sambus	O
+GmbH	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0004-1
+Das	O
+Wichtigste	O
+im	O
+Überblick	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0005-1
+Besondere	O
+Merkmale	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0006-1
+Seit	O
+1992	O
+sind	O
+wir	O
+das	O
+IT-Systemhaus	O
+deines	O
+Vertrauens	O
+und	O
+betreuen	O
+kleinere	O
+und	O
+mittelständische	O
+Unternehmen	O
+in	O
+sämtlichen	O
+IT-Fragen	O
+.	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0006-2
+Unser	O
+Team	O
+setzt	O
+auf	O
+Kommunikation	O
+,	O
+Gemeinschaft	O
+,	O
+Empathie	O
+und	O
+Zuverlässigkeit	O
+-	O
+Werte	O
+,	O
+die	O
+bei	O
+uns	O
+gelebt	O
+werden	O
+.	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0006-3
+Unsere	O
+Expertise	O
+reicht	O
+von	O
+Microsoft-Anwendungen	O
+über	O
+Hardware	O
+,	O
+Cloud-Produkte	O
+bis	O
+hin	O
+zu	O
+innovativen	O
+Sicherheits	O
+-	O
+und	O
+Storage-Lösungen	O
+.	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0006-4
+Wenn	O
+du	O
+Lust	O
+hast	O
+,	O
+maßgeschneiderte	O
+IT-Lösungen	O
+zu	O
+entwickeln	O
+und	O
+umzusetzen	O
+,	O
+dann	O
+bist	O
+du	O
+bei	O
+uns	O
+genau	O
+richtig	O
+.	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0006-5
+Werde	O
+Teil	O
+unseres	O
+Teams	O
+und	O
+gestalte	O
+die	O
+digitale	O
+Zukunft	O
+mit	O
+uns	O
+!	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0007-1
+Aufgaben	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0008-1
+-	O
+Administration	B-SKILL
+und	I-SKILL
+Wartung	I-SKILL
+der	I-SKILL
+IT-Systeme	I-SKILL
+unserer	I-SKILL
+Kunden	I-SKILL
+(	O
+Server	O
+,	O
+Netzwerke	O
+,	O
+Clients	O
+)	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0009-1
+-	O
+Installation	B-SKILL
+,	I-SKILL
+Konfiguration	I-SKILL
+und	I-SKILL
+Updates	I-SKILL
+von	I-SKILL
+Hardware	I-SKILL
+und	I-SKILL
+Software	I-SKILL
+bei	I-SKILL
+Kunden	I-SKILL
+(	O
+Schwerpunkt	O
+:	O
+Windows	O
+Server	O
+,	O
+Hyper-V	O
+,	O
+VMware	O
+,	O
+Microsoft	O
+365	O
+)	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0010-1
+-	O
+Sicherstellung	B-SKILL
+der	I-SKILL
+IT-Sicherheit	I-SKILL
+bei	I-SKILL
+Kunden	I-SKILL
+durch	I-SKILL
+Implementierung	I-SKILL
+von	I-SKILL
+Firewall	I-SKILL
+-	I-SKILL
+,	I-SKILL
+Backup	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Recovery-Lösungen	I-SKILL
+
+# sent_id = 13_fachinformatiker-systemintegration-0011-1
+-	O
+Kundensupport	B-SKILL
+und	I-SKILL
+technische	I-SKILL
+Beratung	I-SKILL
+in	O
+Bezug	O
+auf	O
+IT-Projekte	O
+und	O
+alltägliche	O
+Herausforderungen	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0012-1
+-	O
+Planung	B-SKILL
+,	I-SKILL
+Beratung	I-SKILL
+und	I-SKILL
+Durchführung	I-SKILL
+von	I-SKILL
+Backup	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Wiederherstellungsprozessen	I-SKILL
+
+# sent_id = 13_fachinformatiker-systemintegration-0013-1
+-	O
+Kontinuierliche	B-SKILL
+Anpassung	I-SKILL
+von	I-SKILL
+Sicherheitslösungen	I-SKILL
+gegen	I-SKILL
+Cyberbedrohungen	I-SKILL
+
+# sent_id = 13_fachinformatiker-systemintegration-0014-1
+Qualifikation	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0015-1
+-	O
+Abgeschlossene	O
+Ausbildung	O
+zum	O
+Fachinformatiker	O
+Systemintegration	O
+/	O
+-	O
+administration	O
+oder	O
+vergleichbare	O
+Qualifikation	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0016-1
+-	O
+Mindestens	O
+3	O
+Jahre	O
+Berufserfahrung	O
+als	O
+IT-Systemadministrator	O
+oder	O
+in	O
+einer	O
+vergleichbaren	O
+Position	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0017-1
+-	O
+Sehr	O
+gute	O
+Kenntnisse	O
+in	O
+Microsoft	O
+365	O
+sowie	O
+Erfahrung	O
+mit	O
+Active	O
+Directory	O
+und	O
+Virtualisierungstools	O
+(	O
+z.B	O
+.	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0017-2
+VMware	O
+,	O
+Hyper-V	O
+)	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0018-1
+-	O
+Kenntnisse	O
+in	O
+IT-Security	O
+(	O
+Firewall	O
+,	O
+VPN	O
+,	O
+Verschlüsselung	O
+)	O
+und	O
+Datenschutzrichtlinien	O
+,	O
+idealerweise	O
+im	O
+Kontext	O
+verschiedener	O
+Kundenprojekte	O
+
+# sent_id = 13_fachinformatiker-systemintegration-0019-1
+-	O
+Selbstständige	B-SKILL
+und	I-SKILL
+strukturierte	I-SKILL
+Arbeitsweise	I-SKILL
+mit	I-SKILL
+hohem	I-SKILL
+Kundenfokus	I-SKILL
+
+# sent_id = 13_fachinformatiker-systemintegration-0020-1
+-	O
+Kommunikationsstärke	B-SKILL
+und	O
+Freude	O
+daran	O
+,	O
+kundenorientierte	B-SKILL
+IT-Lösungen	I-SKILL
+zu	I-SKILL
+entwickeln	I-SKILL
+
+# sent_id = 13_fachinformatiker-systemintegration-0021-1
+-	O
+Mindestens	O
+C1-Niveau	O
+in	O
+Deutsch	O
+
+# doc_id = 14_it-support
+# sent_id = 14_it-support-0001-1
+IT	O
+Support	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 14_it-support-0002-1
+bei	O
+
+# sent_id = 14_it-support-0003-1
+puro	O
+Personaldienstleistung	O
+GmbH	O
+
+# sent_id = 14_it-support-0004-1
+IT	O
+Support	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 14_it-support-0005-1
+Diese	O
+Position	O
+ist	O
+im	O
+Rahmen	O
+der	O
+Arbeitnehmerüberlassung	O
+mit	O
+Option	O
+auf	O
+Übernahme	O
+zu	O
+besetzen	O
+.	O
+
+# sent_id = 14_it-support-0006-1
+Du	O
+möchtest	O
+Anwender	O
+im	O
+IT	O
+Alltag	O
+unterstützen	O
+und	O
+dafür	O
+sorgen	O
+,	O
+dass	O
+Technik	O
+einfach	O
+funktioniert	O
+?	O
+
+# sent_id = 14_it-support-0006-2
+Dann	O
+werde	O
+IT	O
+Supporter	O
+(	O
+m/w/d	O
+)	O
+in	O
+Hamburg	O
+und	O
+hilf	O
+dabei	O
+,	O
+IT	O
+Probleme	O
+schnell	O
+zu	O
+lösen	O
+und	O
+den	O
+Betrieb	O
+stabil	O
+zu	O
+halten	O
+.	O
+
+# sent_id = 14_it-support-0007-1
+Dich	O
+zeichnet	O
+aus	O
+:	O
+
+# sent_id = 14_it-support-0008-1
+-	O
+Abgeschlossene	O
+Ausbildung	O
+im	O
+IT	O
+Bereich	O
+oder	O
+gleichwertige	O
+Qualifikation	O
+
+# sent_id = 14_it-support-0009-1
+-	O
+Erfahrung	O
+im	O
+IT	O
+Support	O
+oder	O
+Anwenderumfeld	O
+
+# sent_id = 14_it-support-0010-1
+-	O
+Gute	O
+Kenntnisse	O
+in	O
+Windows	O
+Systemen	O
+und	O
+IT	O
+Hardware	O
+
+# sent_id = 14_it-support-0011-1
+-	O
+Serviceorientierte	B-SKILL
+und	I-SKILL
+lösungsfokussierte	I-SKILL
+Arbeitsweise	I-SKILL
+
+# sent_id = 14_it-support-0012-1
+-	O
+Strukturierte	B-SKILL
+Herangehensweise	I-SKILL
+bei	I-SKILL
+technischen	I-SKILL
+Problemen	I-SKILL
+
+# sent_id = 14_it-support-0013-1
+-	O
+Gute	O
+Deutschkenntnisse	O
+mindestens	O
+B2	O
+,	O
+idealerweise	O
+C1	O
+
+# sent_id = 14_it-support-0014-1
+-	O
+Teamfähigkeit	B-SKILL
+und	I-SKILL
+Kommunikationsstärke	I-SKILL
+
+# sent_id = 14_it-support-0015-1
+In	O
+Deinem	O
+neuen	O
+Job	O
+gibt	O
+es	O
+für	O
+Dich	O
+:	O
+
+# sent_id = 14_it-support-0016-1
+-	O
+Abwechslungsreiche	O
+Tätigkeit	O
+im	O
+IT	O
+Support	O
+Umfeld	O
+
+# sent_id = 14_it-support-0017-1
+-	O
+Moderne	O
+IT	O
+Arbeitsumgebung	O
+
+# sent_id = 14_it-support-0018-1
+-	O
+Strukturierte	O
+Einarbeitung	O
+und	O
+Team	O
+Unterstützung	O
+
+# sent_id = 14_it-support-0019-1
+-	O
+Entwicklungsmöglichkeiten	O
+im	O
+IT	O
+Bereich	O
+
+# sent_id = 14_it-support-0020-1
+Deine	O
+Aufgaben	O
+als	O
+IT	O
+Support	O
+(	O
+m/w/d	O
+)	O
+:	O
+
+# sent_id = 14_it-support-0021-1
+-	O
+Unterstützung	B-SKILL
+von	I-SKILL
+Anwendern	I-SKILL
+im	I-SKILL
+First	I-SKILL
+und	I-SKILL
+Second	I-SKILL
+Level	I-SKILL
+Support	I-SKILL
+
+# sent_id = 14_it-support-0022-1
+-	O
+Analyse	B-SKILL
+und	I-SKILL
+Lösung	I-SKILL
+von	I-SKILL
+Hard	I-SKILL
+und	I-SKILL
+Softwareproblemen	I-SKILL
+
+# sent_id = 14_it-support-0023-1
+-	O
+Betreuung	B-SKILL
+von	I-SKILL
+Windows	I-SKILL
+Arbeitsplätzen	I-SKILL
+und	I-SKILL
+Endgeräten	I-SKILL
+
+# sent_id = 14_it-support-0024-1
+-	O
+Installation	B-SKILL
+und	I-SKILL
+Konfiguration	I-SKILL
+von	I-SKILL
+Software	I-SKILL
+und	I-SKILL
+Betriebssystemen	I-SKILL
+
+# sent_id = 14_it-support-0025-1
+-	O
+Unterstützung	B-SKILL
+bei	I-SKILL
+technischen	I-SKILL
+Anfragen	I-SKILL
+im	O
+IT	O
+Umfeld	O
+
+# sent_id = 14_it-support-0026-1
+-	O
+Dokumentation	B-SKILL
+aller	I-SKILL
+Vorgänge	I-SKILL
+im	I-SKILL
+Ticketsystem	I-SKILL
+
+# doc_id = 15_data-engineer
+# sent_id = 15_data-engineer-0001-1
+Data	O
+Engineer	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 15_data-engineer-0002-1
+bei	O
+
+# sent_id = 15_data-engineer-0003-1
+expertum	O
+GmbH	O
+
+# sent_id = 15_data-engineer-0004-1
+Know-how	O
+erforderlich	O
+.	O
+
+# sent_id = 15_data-engineer-0004-2
+Diese	O
+Werft	O
+verfügt	O
+über	O
+diese	O
+Kompetenzen	O
+und	O
+liefert	O
+intelligente	O
+Lösungen	O
+.	O
+
+# sent_id = 15_data-engineer-0004-3
+Wir	O
+suchen	O
+zum	O
+nächstmöglichen	O
+Zeitpunkt	O
+einen	O
+Data	O
+Engineer	O
+(	O
+m/w/d	O
+)	O
+in	O
+Vollzeit	O
+.	O
+
+# sent_id = 15_data-engineer-0005-1
+>	O
+>	O
+Die	O
+Vergütung	O
+erfolgt	O
+nach	O
+Branchenzuschlagstarif	O
+Metall	O
+&	O
+Elektro	O
+
+# sent_id = 15_data-engineer-0006-1
+DIES	O
+SIND	O
+IHRE	O
+AUFGABEN	O
+:	O
+
+# sent_id = 15_data-engineer-0007-1
+Sie	O
+möchten	O
+moderne	O
+Datenarchitekturen	O
+nicht	O
+nur	O
+betreiben	O
+,	O
+sondern	O
+aktiv	O
+mitgestalten	O
+?	O
+
+# sent_id = 15_data-engineer-0007-2
+Als	O
+Data	O
+
+# sent_id = 15_data-engineer-0008-1
+Engineer	O
+(	O
+m/w/d	O
+)	O
+wirken	O
+Sie	O
+an	O
+der	O
+Weiterentwicklung	B-SKILL
+unserer	I-SKILL
+Datenlandschaft	I-SKILL
+mit	O
+und	O
+schaffen	O
+eine	O
+zuverlässige	O
+Grundlage	O
+für	O
+die	O
+datengetriebene	O
+Arbeit	O
+der	O
+Fachbereiche	O
+.	O
+
+# sent_id = 15_data-engineer-0009-1
+-	O
+Sie	O
+wirken	O
+bei	O
+der	O
+Konzeption	B-SKILL
+,	I-SKILL
+Umsetzung	I-SKILL
+und	I-SKILL
+dem	I-SKILL
+Betrieb	I-SKILL
+unserer	I-SKILL
+modernen	I-SKILL
+On-Premises-Lakehouse-Architektur	I-SKILL
+mit	O
+.	O
+
+# sent_id = 15_data-engineer-0010-1
+-	O
+Sie	O
+entwickeln	B-SKILL
+,	I-SKILL
+betreiben	I-SKILL
+und	I-SKILL
+optimieren	I-SKILL
+ETL	I-SKILL
+-	I-SKILL
+bzw	I-SKILL
+.	I-SKILL
+Datenpipelines	I-SKILL
+zur	I-SKILL
+Integration	I-SKILL
+und	I-SKILL
+Verarbeitung	I-SKILL
+unterschiedlicher	I-SKILL
+Datenquellen	I-SKILL
+.	O
+
+# sent_id = 15_data-engineer-0011-1
+-	O
+Sie	O
+unterstützen	O
+die	O
+Weiterentwicklung	B-SKILL
+und	I-SKILL
+Modernisierung	I-SKILL
+bestehender	I-SKILL
+Data-Warehouse-Strukturen	I-SKILL
+,	O
+unter	O
+anderem	O
+im	O
+Snowflake-Umfeld	O
+.	O
+
+# sent_id = 15_data-engineer-0012-1
+-	O
+Sie	O
+stellen	B-SKILL
+eine	I-SKILL
+hohe	I-SKILL
+Datenqualität	I-SKILL
+und	I-SKILL
+Datenverfügbarkeit	I-SKILL
+sicher	I-SKILL
+und	O
+identifizieren	B-SKILL
+Optimierungsmöglichkeiten	I-SKILL
+.	O
+
+# sent_id = 15_data-engineer-0013-1
+-	O
+Gemeinsam	O
+mit	O
+den	O
+Fachbereichen	O
+übersetzen	B-SKILL
+Sie	I-SKILL
+fachliche	I-SKILL
+Anforderungen	I-SKILL
+in	I-SKILL
+praktikable	I-SKILL
+Datenlösungen	I-SKILL
+.	O
+
+# sent_id = 15_data-engineer-0014-1
+-	O
+Darüber	O
+hinaus	O
+bringen	O
+Sie	O
+sich	O
+in	O
+angrenzende	O
+Entwicklungs	O
+-	O
+und	O
+DevOps-Themen	O
+ein	O
+.	O
+
+# sent_id = 15_data-engineer-0015-1
+DAS	O
+BRINGEN	O
+SIE	O
+MIT	O
+:	O
+
+# sent_id = 15_data-engineer-0016-1
+-	O
+Ein	O
+abgeschlossenes	O
+Studium	O
+im	O
+Bereich	O
+Informatik	O
+,	O
+Wirtschaftsinformatik	O
+,	O
+Data	O
+Science	O
+oder	O
+eine	O
+vergleichbare	O
+Qualifikation	O
+mit	O
+entsprechender	O
+Berufserfahrung	O
+
+# sent_id = 15_data-engineer-0017-1
+-	O
+Berufserfahrung	O
+im	O
+Data	O
+Engineering	O
+sowie	O
+in	O
+der	O
+Entwicklung	B-SKILL
+und	I-SKILL
+Optimierung	I-SKILL
+von	I-SKILL
+ETL-Prozessen	I-SKILL
+bzw	I-SKILL
+.	I-SKILL
+Datenpipelines	I-SKILL
+
+# sent_id = 15_data-engineer-0018-1
+-	O
+Sehr	O
+gute	O
+Kenntnisse	O
+in	O
+SQL	O
+und	O
+Erfahrung	O
+in	O
+der	O
+Programmierung	B-SKILL
+mit	I-SKILL
+Python	I-SKILL
+
+# sent_id = 15_data-engineer-0019-1
+-	O
+Erfahrung	O
+mit	O
+modernen	O
+Data-Warehouse	O
+-	O
+oder	O
+Lakehouse-Architekturen	O
+
+# sent_id = 15_data-engineer-0020-1
+-	O
+Kenntnisse	O
+in	O
+Snowflake	O
+,	O
+Apache	O
+Iceberg	O
+,	O
+Trino	O
+,	O
+Nessie	O
+,	O
+Lakekeeper	O
+,	O
+SQLMesh	O
+oder	O
+vergleichbaren	O
+Technologien	O
+sind	O
+von	O
+Vorteil	O
+
+# sent_id = 15_data-engineer-0021-1
+-	O
+Kenntnisse	O
+im	O
+Umgang	O
+mit	O
+Linux	O
+,	O
+GitLab	O
+oder	O
+Oracle	O
+sind	O
+ebenfalls	O
+willkommen	O
+
+# sent_id = 15_data-engineer-0022-1
+-	O
+Eine	O
+selbstständige	B-SKILL
+,	I-SKILL
+strukturierte	I-SKILL
+und	I-SKILL
+lösungsorientierte	I-SKILL
+Arbeitsweise	I-SKILL
+
+# sent_id = 15_data-engineer-0023-1
+-	O
+Gute	O
+Deutsch	O
+-	O
+und	O
+Englischkenntnisse	O
+sowie	O
+Freude	O
+an	O
+der	O
+Zusammenarbeit	B-SKILL
+mit	I-SKILL
+unterschiedlichen	I-SKILL
+Fachbereichen	I-SKILL
+
+# doc_id = 16_marketing-manager-hotel
+# sent_id = 16_marketing-manager-hotel-0001-1
+Marketing	O
+Manager	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 16_marketing-manager-hotel-0002-1
+bei	O
+
+# sent_id = 16_marketing-manager-hotel-0003-1
+The	O
+Westin	O
+Hamburg	O
+Elbphilharmonie	O
+SE	O
+
+# sent_id = 16_marketing-manager-hotel-0004-1
+So	O
+sieht	O
+Dein	O
+(	O
+zukünftiger	O
+)	O
+Tag	O
+aus	O
+.	O
+.	O
+.	O
+
+# sent_id = 16_marketing-manager-hotel-0005-1
+-	O
+Entwicklung	B-SKILL
+und	I-SKILL
+Umsetzung	I-SKILL
+kreativer	I-SKILL
+Marketingstrategien	I-SKILL
+
+# sent_id = 16_marketing-manager-hotel-0006-1
+-	O
+Planung	B-SKILL
+,	I-SKILL
+Koordination	I-SKILL
+und	I-SKILL
+Steuerung	I-SKILL
+integrierter	I-SKILL
+Marketingkampagnen	I-SKILL
+für	O
+Rooms	O
+,	O
+Food	O
+&	O
+Beverage	O
+,	O
+Meetings	O
+&	O
+Events	O
+sowie	O
+weitere	O
+Hotelbereiche	O
+
+# sent_id = 16_marketing-manager-hotel-0007-1
+-	O
+Entwicklung	B-SKILL
+innovativer	I-SKILL
+Konzepte	I-SKILL
+zur	I-SKILL
+Umsatzsteigerung	I-SKILL
+und	I-SKILL
+Gästebindung	I-SKILL
+in	O
+enger	O
+Zusammenarbeit	O
+mit	O
+dem	O
+Director	O
+of	O
+Sales	O
+&	O
+Marketing	O
+
+# sent_id = 16_marketing-manager-hotel-0008-1
+-	O
+Planung	B-SKILL
+und	I-SKILL
+Steuerung	I-SKILL
+von	I-SKILL
+Content-Maßnahmen	I-SKILL
+für	I-SKILL
+digitale	I-SKILL
+Kanäle	I-SKILL
+
+# sent_id = 16_marketing-manager-hotel-0009-1
+-	O
+Betreuung	B-SKILL
+,	I-SKILL
+Optimierung	I-SKILL
+und	I-SKILL
+Performance-Analyse	I-SKILL
+der	I-SKILL
+Websites	I-SKILL
+und	I-SKILL
+Social-Media-Kanäle	I-SKILL
+
+# sent_id = 16_marketing-manager-hotel-0010-1
+-	O
+Koordination	B-SKILL
+der	I-SKILL
+Erstellung	I-SKILL
+von	I-SKILL
+Marketingmaterialien	I-SKILL
+
+# sent_id = 16_marketing-manager-hotel-0011-1
+-	O
+Umsetzung	B-SKILL
+von	I-SKILL
+Fotoshootings	I-SKILL
+,	I-SKILL
+Videoproduktionen	I-SKILL
+und	I-SKILL
+weiteren	I-SKILL
+Kommunikationsmaßnahmen	I-SKILL
+
+# sent_id = 16_marketing-manager-hotel-0012-1
+-	O
+Aufbau	B-SKILL
+,	I-SKILL
+Pflege	I-SKILL
+und	I-SKILL
+Weiterentwicklung	I-SKILL
+von	I-SKILL
+Beziehungen	I-SKILL
+zu	I-SKILL
+Medienvertretern	I-SKILL
+,	I-SKILL
+Influencern	I-SKILL
+,	I-SKILL
+Agenturen	I-SKILL
+und	I-SKILL
+regionalen	I-SKILL
+Kooperationspartnern	I-SKILL
+
+# sent_id = 16_marketing-manager-hotel-0013-1
+-	O
+Unterstützung	O
+bei	O
+der	O
+Planung	B-SKILL
+und	I-SKILL
+Umsetzung	I-SKILL
+von	I-SKILL
+Presseveranstaltungen	I-SKILL
+,	I-SKILL
+Hotel-Events	I-SKILL
+und	I-SKILL
+Marketingaktivierungen	I-SKILL
+
+# sent_id = 16_marketing-manager-hotel-0014-1
+-	O
+Analyse	B-SKILL
+von	I-SKILL
+Markt	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Wettbewerbstrends	I-SKILL
+sowie	O
+Identifikation	B-SKILL
+neuer	I-SKILL
+Potenziale	I-SKILL
+zur	O
+Weiterentwicklung	O
+der	O
+Marketingaktivitäten	O
+
+# sent_id = 16_marketing-manager-hotel-0015-1
+-	O
+Führung	B-SKILL
+und	I-SKILL
+Entwicklung	I-SKILL
+des	I-SKILL
+Sales	I-SKILL
+&	I-SKILL
+Marketing	I-SKILL
+Coordinators	I-SKILL
+sowie	I-SKILL
+der	I-SKILL
+Dualen	I-SKILL
+Studenten	I-SKILL
+und	I-SKILL
+Auszubildenden	I-SKILL
+
+# sent_id = 16_marketing-manager-hotel-0016-1
+Das	O
+wünschen	O
+wir	O
+uns	O
+von	O
+Dir	O
+.	O
+.	O
+.	O
+
+# sent_id = 16_marketing-manager-hotel-0017-1
+-	O
+Du	O
+verfügst	O
+über	O
+eine	O
+abgeschlossene	O
+Ausbildung	O
+oder	O
+ein	O
+Studium	O
+mit	O
+Schwerpunkt	O
+Marketing	O
+,	O
+Kommunikation	O
+,	O
+Hotellerie	O
+,	O
+Tourismus	O
+oder	O
+einem	O
+vergleichbaren	O
+Bereich	O
+
+# sent_id = 16_marketing-manager-hotel-0018-1
+-	O
+Du	O
+konntest	O
+bereits	O
+mehrjährige	O
+praktische	O
+Erfahrung	O
+im	O
+Marketing	O
+,	O
+idealerweise	O
+in	O
+der	O
+Hotellerie	O
+-	O
+,	O
+Tourismus	O
+-	O
+oder	O
+Lifestyle-Branche	O
+sammeln	O
+
+# sent_id = 16_marketing-manager-hotel-0019-1
+-	O
+Du	O
+begeisterst	O
+dich	O
+für	O
+Markenkommunikation	O
+,	O
+Storytelling	O
+und	O
+aktuelle	O
+Marketingtrends	O
+
+# sent_id = 16_marketing-manager-hotel-0020-1
+-	O
+Du	O
+verfügst	O
+über	O
+ein	O
+ausgeprägtes	B-SKILL
+Gespür	I-SKILL
+für	I-SKILL
+hochwertige	I-SKILL
+Inhalte	I-SKILL
+sowie	I-SKILL
+eine	I-SKILL
+zielgruppengerechte	I-SKILL
+Ansprache	I-SKILL
+
+# sent_id = 16_marketing-manager-hotel-0021-1
+-	O
+Du	O
+arbeitest	B-SKILL
+strukturiert	I-SKILL
+,	I-SKILL
+eigenverantwortlich	I-SKILL
+und	O
+behältst	B-SKILL
+auch	I-SKILL
+bei	I-SKILL
+mehreren	I-SKILL
+Projekten	I-SKILL
+gleichzeitig	I-SKILL
+den	I-SKILL
+Überblick	I-SKILL
+
+# sent_id = 16_marketing-manager-hotel-0022-1
+-	O
+Du	O
+kommunizierst	B-SKILL
+souverän	I-SKILL
+in	I-SKILL
+deutscher	I-SKILL
+und	I-SKILL
+englischer	I-SKILL
+Sprache	I-SKILL
+–	O
+sowohl	O
+mündlich	O
+als	O
+auch	O
+schriftlich	O
+
+# sent_id = 16_marketing-manager-hotel-0023-1
+-	O
+Du	O
+überzeugst	O
+durch	O
+Kreativität	B-SKILL
+,	I-SKILL
+Organisationsgeschick	I-SKILL
+sowie	I-SKILL
+ein	I-SKILL
+hohes	I-SKILL
+Maß	I-SKILL
+an	I-SKILL
+Eigeninitiative	I-SKILL
+
+# sent_id = 16_marketing-manager-hotel-0024-1
+-	O
+Du	O
+besitzt	O
+sehr	O
+gute	O
+Kenntnisse	O
+im	O
+Umgang	O
+mit	O
+Microsoft	O
+Office	O
+sowie	O
+gängigen	O
+Marketing	O
+-	O
+und	O
+Analysetools	O
+
+# sent_id = 16_marketing-manager-hotel-0025-1
+-	O
+Idealerweise	O
+hast	O
+Du	O
+bereits	O
+praktische	O
+Erfahrung	O
+mit	O
+Canva	O
+Pro	O
+und	O
+KI-gestützten	O
+Tools	O
+wie	O
+Microsoft	O
+Copilot	O
+oder	O
+ChatGPT	O
+
+# sent_id = 16_marketing-manager-hotel-0026-1
+-	O
+Kenntnisse	O
+im	O
+Marriott-Umfeld	O
+sind	O
+von	O
+Vorteil	O
+,	O
+aber	O
+keine	O
+Voraussetzung	O
+
+# doc_id = 17_sachbearbeitung-fes
+# sent_id = 17_sachbearbeitung-fes-0001-1
+Stellenangebot	O
+10	O
+
+# sent_id = 17_sachbearbeitung-fes-0002-1
+Sachbearbeitung	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 17_sachbearbeitung-fes-0003-1
+bei	O
+
+# sent_id = 17_sachbearbeitung-fes-0004-1
+FRIEDRICH-EBERT-STIFTUNG	O
+e.V	O
+.	O
+
+# sent_id = 17_sachbearbeitung-fes-0005-1
+Aufgabenbereich	O
+:	O
+
+# sent_id = 17_sachbearbeitung-fes-0006-1
+-	O
+Organisatorische	B-SKILL
+Vor	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Nachbereitung	I-SKILL
+von	I-SKILL
+Maßnahmen	I-SKILL
+der	I-SKILL
+politischen	I-SKILL
+Bildung	I-SKILL
+und	I-SKILL
+Beratung	I-SKILL
+in	O
+Sachsen-Anhalt	O
+inklusive	O
+Online-Formaten	O
+
+# sent_id = 17_sachbearbeitung-fes-0007-1
+-	O
+Projektsachbearbeitung	B-SKILL
+
+# sent_id = 17_sachbearbeitung-fes-0008-1
+-	O
+Finanzsachbearbeitung	B-SKILL
+,	I-SKILL
+Haushaltsplanung	I-SKILL
+und	I-SKILL
+-	I-SKILL
+kontrolle	I-SKILL
+
+# sent_id = 17_sachbearbeitung-fes-0009-1
+-	O
+Redaktionelle	B-SKILL
+Betreuung	I-SKILL
+der	I-SKILL
+Website	I-SKILL
+,	I-SKILL
+des	I-SKILL
+Newsletters	I-SKILL
+und	I-SKILL
+der	I-SKILL
+Social-Media-Kanäle	I-SKILL
+
+# sent_id = 17_sachbearbeitung-fes-0010-1
+-	O
+Pflege	B-SKILL
+der	I-SKILL
+Adress	I-SKILL
+-	I-SKILL
+/	I-SKILL
+Teilnehmerdatenbank	I-SKILL
+
+# sent_id = 17_sachbearbeitung-fes-0011-1
+-	O
+Allgemeine	B-SKILL
+Verwaltungsaufgaben	I-SKILL
+
+# sent_id = 17_sachbearbeitung-fes-0012-1
+Anforderungen	O
+:	O
+
+# sent_id = 17_sachbearbeitung-fes-0013-1
+-	O
+Abgeschlossene	O
+Kaufmännische	O
+Ausbildung	O
+oder	O
+vergleichbare	O
+Kenntnisse	O
+und	O
+Erfahrungen	O
+
+# sent_id = 17_sachbearbeitung-fes-0014-1
+-	O
+Gründliche	O
+und	O
+vielseitige	O
+Fachkenntnisse	O
+
+# sent_id = 17_sachbearbeitung-fes-0015-1
+-	O
+Gute	O
+Fähigkeiten	O
+und	O
+Erfahrungen	O
+in	O
+der	O
+Veranstaltungsorganisation	B-SKILL
+
+# sent_id = 17_sachbearbeitung-fes-0016-1
+-	O
+Gute	O
+Kenntnisse	O
+und	O
+Erfahrungen	O
+in	O
+der	O
+Finanzsachbearbeitung	B-SKILL
+
+# sent_id = 17_sachbearbeitung-fes-0017-1
+-	O
+Gute	O
+Team	B-SKILL
+-	I-SKILL
+und	I-SKILL
+Kommunikationsfähigkeit	I-SKILL
+
+# sent_id = 17_sachbearbeitung-fes-0018-1
+-	O
+Sehr	O
+gute	O
+EDV-Kenntnisse	O
+sowie	O
+Erfahrung	O
+und	O
+Kenntnisse	O
+im	O
+Umgang	O
+mit	O
+Content	O
+Management	O
+Systemen	O
+,	O
+Videokonferenzsystemen	O
+sowie	O
+mit	O
+Social-Media	O
+
+# sent_id = 17_sachbearbeitung-fes-0019-1
+-	O
+Bereitschaft	O
+zu	O
+Dienstreisen	O
+in	O
+Sachsen-Anhalt	O
+und	O
+zum	O
+überregionalen	O
+Einsatz	O
+
+# sent_id = 17_sachbearbeitung-fes-0020-1
+-	O
+Kenntnisse	O
+der	O
+politischen	O
+Verhältnisse	O
+in	O
+Sachsen-Anhalt	O
+
+# doc_id = 18_buchhaltung-aurea
+# sent_id = 18_buchhaltung-aurea-0001-1
+Stellenangebot	O
+11	O
+
+# sent_id = 18_buchhaltung-aurea-0002-1
+buchhaltung	O
+(	O
+m/w/d	O
+AUREA	O
+GmbH	O
+
+# sent_id = 18_buchhaltung-aurea-0003-1
+Ihre	O
+Aufgaben	O
+:	O
+
+# sent_id = 18_buchhaltung-aurea-0004-1
+-	O
+Planung	B-SKILL
+der	I-SKILL
+Liquidität	I-SKILL
+und	I-SKILL
+tägliche	I-SKILL
+Überwachung	I-SKILL
+der	I-SKILL
+Bankkonten	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0005-1
+-	O
+Prüfung	B-SKILL
+von	I-SKILL
+Steuerbescheiden	I-SKILL
+für	O
+deutsche	O
+Gesellschaften	O
+und	O
+Sicherstellung	B-SKILL
+termingerechter	I-SKILL
+Vorauszahlungen	I-SKILL
+(	O
+KöSt	O
+,	O
+GewSt	O
+)	O
+
+# sent_id = 18_buchhaltung-aurea-0006-1
+-	O
+Erstellung	B-SKILL
+von	I-SKILL
+Monats	I-SKILL
+-	I-SKILL
+,	I-SKILL
+Quartals	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Jahresabschlüssen	I-SKILL
+nach	I-SKILL
+HGB	I-SKILL
+(	O
+Bilanz	O
+,	O
+GuV	O
+,	O
+BWA	O
+)	O
+für	O
+deutsche	O
+und	O
+belgische	O
+Gesellschaften	O
+
+# sent_id = 18_buchhaltung-aurea-0007-1
+-	O
+Monatliche	O
+Konsolidierung	B-SKILL
+auf	I-SKILL
+Gruppenebene	I-SKILL
+(	O
+Deutschland	O
+,	O
+Belgien	O
+,	O
+Schweiz	O
+,	O
+Österreich	O
+)	O
+
+# sent_id = 18_buchhaltung-aurea-0008-1
+-	O
+Erstellung	B-SKILL
+von	I-SKILL
+Kostenstellenreports	I-SKILL
+und	O
+Führung	B-SKILL
+des	I-SKILL
+Anlagevermögens	I-SKILL
+in	O
+DATEV	O
+und	O
+Excel	O
+
+# sent_id = 18_buchhaltung-aurea-0009-1
+-	O
+Periodengerechte	B-SKILL
+Abgrenzung	I-SKILL
+von	I-SKILL
+Unternehmenskosten	I-SKILL
+und	O
+tägliche	O
+Buchung	B-SKILL
+von	I-SKILL
+Geschäftsvorfällen	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0010-1
+-	O
+Erstellung	B-SKILL
+und	I-SKILL
+Abgabe	I-SKILL
+von	I-SKILL
+Umsatzsteuervoranmeldungen	I-SKILL
+,	I-SKILL
+Zusammenfassenden	I-SKILL
+Meldungen	I-SKILL
+,	I-SKILL
+Intrastat-Meldungen	I-SKILL
+sowie	I-SKILL
+Kundenlistenjahresmeldungen	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0011-1
+-	O
+Mitarbeit	O
+an	O
+Projekten	O
+zur	O
+Optimierung	B-SKILL
+von	I-SKILL
+Geschäftsprozessen	I-SKILL
+und	O
+Umsetzung	B-SKILL
+gesetzlicher	I-SKILL
+Neuerungen	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0012-1
+-	O
+Key-User-Funktion	O
+im	O
+Bereich	O
+Finanzbuchhaltung	O
+und	O
+Durchführung	B-SKILL
+von	I-SKILL
+Mitarbeiterschulungen	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0013-1
+-	O
+Kontenabstimmungen	B-SKILL
+(	O
+OP-geführte	O
+Sachkonten	O
+,	O
+Bilanz	O
+-	O
+und	O
+GuV-Konten	O
+)	O
+und	O
+abschlusssichere	B-SKILL
+Buchungen	I-SKILL
+im	I-SKILL
+Rahmen	I-SKILL
+des	I-SKILL
+Jahresabschlusses	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0014-1
+-	O
+Bereitstellung	B-SKILL
+aller	I-SKILL
+Haupt	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Nebenbücher	I-SKILL
+für	I-SKILL
+Wirtschaftsprüfer	I-SKILL
+und	O
+Begleitung	B-SKILL
+der	I-SKILL
+Inventur	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0015-1
+-	O
+Buchung	B-SKILL
+und	I-SKILL
+Bewertung	I-SKILL
+von	I-SKILL
+Rückstellungen	I-SKILL
+sowie	I-SKILL
+Wertberichtigungen	I-SKILL
+nach	I-SKILL
+HGB	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0016-1
+-	O
+Sachkonten-Mapping	B-SKILL
+für	O
+internationale	O
+Gesellschaften	O
+und	O
+Abstimmung	B-SKILL
+von	I-SKILL
+Intercompany-Sachverhalten	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0017-1
+-	O
+Analyse	B-SKILL
+von	I-SKILL
+Finanzdaten	I-SKILL
+sowie	O
+Kontrolle	B-SKILL
+von	I-SKILL
+Betriebskosten	I-SKILL
+und	I-SKILL
+Buchungen	I-SKILL
+auf	I-SKILL
+Sachkostenebene	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0018-1
+-	O
+Erstellung	B-SKILL
+von	I-SKILL
+Umsatzsteuerjahresmeldungen	I-SKILL
+,	I-SKILL
+K-4	I-SKILL
+Meldungen	I-SKILL
+und	I-SKILL
+Meldungen	I-SKILL
+zur	I-SKILL
+Strukturstatistik	I-SKILL
+bzw	I-SKILL
+.	I-SKILL
+globalen	I-SKILL
+Wertschöpfung	I-SKILL
+(	O
+Destatis	O
+)	O
+
+# sent_id = 18_buchhaltung-aurea-0019-1
+-	O
+Weiterleitung	B-SKILL
+der	I-SKILL
+Jahresabschlüsse	I-SKILL
+und	O
+Kommunikation	B-SKILL
+mit	I-SKILL
+Banken	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0020-1
+-	O
+Verwaltung	B-SKILL
+von	I-SKILL
+Perioden	I-SKILL
+im	I-SKILL
+ERP-System	I-SKILL
+für	O
+alle	O
+Abteilungen	O
+und	O
+Gesellschaften	O
+
+# sent_id = 18_buchhaltung-aurea-0021-1
+Ihr	O
+Profil	O
+:	O
+
+# sent_id = 18_buchhaltung-aurea-0022-1
+-	O
+Abgeschlossene	O
+kaufmännische	O
+Ausbildung	O
+,	O
+idealerweise	O
+mit	O
+Weiterbildung	O
+zum	O
+Bilanzbuchhalter	O
+oder	O
+ein	O
+betriebswirtschaftliches	O
+Studium	O
+mit	O
+Schwerpunkt	O
+Finanzen	O
+/	O
+Accounting	O
+
+# sent_id = 18_buchhaltung-aurea-0023-1
+-	O
+Mehrjährige	O
+Erfahrung	O
+in	O
+der	O
+Buchhaltung	O
+,	O
+idealerweise	O
+in	O
+leitender	O
+Funktion	O
+
+# sent_id = 18_buchhaltung-aurea-0024-1
+-	O
+Fundierte	O
+Kenntnisse	O
+in	O
+HGB	O
+,	O
+Steuerrecht	O
+,	O
+Bilanzierung	O
+,	O
+Umsatzsteuer	O
+und	O
+internationalen	O
+Rechnungslegungsvorschriften	O
+
+# sent_id = 18_buchhaltung-aurea-0025-1
+-	O
+Erfahrung	O
+mit	O
+ERP	O
+-	O
+und	O
+Buchhaltungssystemen	O
+(	O
+z	O
+.	O
+B	O
+.	O
+
+# sent_id = 18_buchhaltung-aurea-0025-2
+DATEV	O
+,	O
+SAP	O
+,	O
+Lexware	O
+)	O
+
+# sent_id = 18_buchhaltung-aurea-0026-1
+-	O
+Sicherer	B-SKILL
+Umgang	I-SKILL
+mit	I-SKILL
+Excel	I-SKILL
+,	I-SKILL
+insbesondere	I-SKILL
+für	I-SKILL
+Konsolidierungen	I-SKILL
+und	I-SKILL
+Reporting	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0027-1
+-	O
+Analytisches	B-SKILL
+Denkvermögen	I-SKILL
+,	I-SKILL
+strukturiertes	I-SKILL
+Arbeiten	I-SKILL
+und	I-SKILL
+Zahlenaffinität	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0028-1
+-	O
+Führungserfahrung	B-SKILL
+und	O
+die	O
+Fähigkeit	O
+,	O
+ein	B-SKILL
+Team	I-SKILL
+zu	I-SKILL
+leiten	I-SKILL
+und	I-SKILL
+zu	I-SKILL
+entwickeln	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0029-1
+-	O
+Proaktive	B-SKILL
+und	I-SKILL
+lösungsorientierte	I-SKILL
+Arbeitsweise	I-SKILL
+,	I-SKILL
+hohe	I-SKILL
+Eigenverantwortung	I-SKILL
+
+# sent_id = 18_buchhaltung-aurea-0030-1
+-	O
+Gute	O
+Kommunikationsfähigkeiten	B-SKILL
+in	O
+Deutsch	O
+und	O
+Englisch	O
+,	O
+insbesondere	O
+für	O
+internationale	O
+Gesellschaften	O
+
+# doc_id = 19_sachbearbeiter-controlling
+# sent_id = 19_sachbearbeiter-controlling-0001-1
+Sachbearbeiter	O
+(	O
+m/w/d	O
+)	O
+Controlling	O
+univativ	O
+GmbH	O
+
+# sent_id = 19_sachbearbeiter-controlling-0002-1
+Das	O
+erwartet	O
+Dich	O
+bei	O
+uns	O
+
+# sent_id = 19_sachbearbeiter-controlling-0003-1
+-	O
+Pflege	B-SKILL
+und	I-SKILL
+Verwaltung	I-SKILL
+von	I-SKILL
+Stammdaten	I-SKILL
+für	I-SKILL
+Investitionsprojekte	I-SKILL
+sowie	O
+bauliche	O
+Instandhaltungs	O
+-	O
+und	O
+Unterhaltungsmaßnahmen	O
+
+# sent_id = 19_sachbearbeiter-controlling-0004-1
+-	O
+Laufende	B-SKILL
+Aktualisierung	I-SKILL
+und	I-SKILL
+Überwachung	I-SKILL
+von	I-SKILL
+Projektständen	I-SKILL
+inklusive	I-SKILL
+Analyse	I-SKILL
+von	I-SKILL
+Abweichungen	I-SKILL
+in	I-SKILL
+SAP	I-SKILL
+PS	I-SKILL
+
+# sent_id = 19_sachbearbeiter-controlling-0005-1
+-	O
+Erstellung	B-SKILL
+von	I-SKILL
+Projektauswertungen	I-SKILL
+sowie	I-SKILL
+Ableitung	I-SKILL
+geeigneter	I-SKILL
+Maßnahmen	I-SKILL
+zur	I-SKILL
+gezielten	I-SKILL
+Projektsteuerung	I-SKILL
+
+# sent_id = 19_sachbearbeiter-controlling-0006-1
+-	O
+Durchführung	B-SKILL
+von	I-SKILL
+Statikprüfungen	I-SKILL
+,	I-SKILL
+Aktualisierung	I-SKILL
+von	I-SKILL
+Datenbeständen	I-SKILL
+und	I-SKILL
+kontinuierliche	I-SKILL
+Pflege	I-SKILL
+des	I-SKILL
+SAP-PS-Systems	I-SKILL
+
+# sent_id = 19_sachbearbeiter-controlling-0007-1
+-	O
+Mitarbeit	O
+an	O
+Projekten	O
+zur	O
+Weiterentwicklung	B-SKILL
+und	I-SKILL
+Optimierung	I-SKILL
+des	I-SKILL
+Investitionscontrollings	I-SKILL
+
+# sent_id = 19_sachbearbeiter-controlling-0008-1
+-	O
+Unterstützung	B-SKILL
+bei	I-SKILL
+der	I-SKILL
+Budgetplanung	I-SKILL
+sowie	I-SKILL
+Erfassung	I-SKILL
+und	I-SKILL
+Verwaltung	I-SKILL
+von	I-SKILL
+Investitionsaufträgen	I-SKILL
+
+# sent_id = 19_sachbearbeiter-controlling-0009-1
+Das	O
+bringst	O
+Du	O
+mit	O
+
+# sent_id = 19_sachbearbeiter-controlling-0010-1
+-	O
+Ein	O
+abgeschlossenes	O
+Studium	O
+der	O
+Wirtschaftswissenschaften	O
+,	O
+BWL	O
+oder	O
+vergleichbar	O
+
+# sent_id = 19_sachbearbeiter-controlling-0011-1
+-	O
+Praktische	O
+Erfahrung	O
+in	O
+der	O
+Sachbearbeitung	O
+und/oder	O
+im	O
+Controlling	O
+wünschenswert	O
+
+# sent_id = 19_sachbearbeiter-controlling-0012-1
+-	O
+Fundierte	O
+Kenntnisse	O
+in	O
+SAP	O
+PS	O
+,	O
+alternativ	O
+in	O
+MS	O
+Dynamics	O
+oder	O
+vergleichbare	O
+Projektmanagementsysteme	O
+
+# sent_id = 19_sachbearbeiter-controlling-0013-1
+-	O
+Ein	O
+sicherer	O
+Umgang	O
+mit	O
+den	O
+gängigen	O
+MS	O
+Office	O
+Anwendungen	O
+
+# sent_id = 19_sachbearbeiter-controlling-0014-1
+-	O
+Verhandlungssichere	O
+Deutschkenntnisse	O
+in	O
+Wort	O
+und	O
+Schrift	O
+
+# sent_id = 19_sachbearbeiter-controlling-0015-1
+-	O
+Ein	O
+hohes	O
+Maß	O
+an	O
+Eigeninitiative	B-SKILL
+sowie	I-SKILL
+eine	I-SKILL
+selbstständige	I-SKILL
+und	I-SKILL
+strukturierte	I-SKILL
+Arbeitsweise	I-SKILL
+
+# doc_id = 20_pflegefachkraft-remacare
+# sent_id = 20_pflegefachkraft-remacare-0001-1
+Pflegefachkraft	O
+
+# sent_id = 20_pflegefachkraft-remacare-0002-1
+ReMaCare	O
+Pflegedienst	O
+
+# sent_id = 20_pflegefachkraft-remacare-0003-1
+Das	O
+sind	O
+Deine	O
+Aufgaben	O
+:	O
+
+# sent_id = 20_pflegefachkraft-remacare-0004-1
+-	O
+Durchführung	B-SKILL
+der	I-SKILL
+allgemeinen	I-SKILL
+Grundpflege	I-SKILL
+und	I-SKILL
+
+# sent_id = 20_pflegefachkraft-remacare-0005-1
+Behandlungspflege	B-SKILL
+unserer	O
+Klienten	O
+(	O
+z	O
+.	O
+B	O
+.	O
+
+# sent_id = 20_pflegefachkraft-remacare-0005-2
+Körperpflege	B-SKILL
+,	O
+
+# sent_id = 20_pflegefachkraft-remacare-0006-1
+Mobilisation	B-SKILL
+,	O
+Medikamentengabe	B-SKILL
+,	O
+Wundversorgung	B-SKILL
+,	O
+Blutdruck	B-SKILL
+-	I-SKILL
+,	I-SKILL
+Puls	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Blutzuckerkontrolle	I-SKILL
+,	O
+Portversorgung	B-SKILL
+etc	O
+.	O
+)	O
+
+# sent_id = 20_pflegefachkraft-remacare-0007-1
+-	O
+Pflegedokumentation	B-SKILL
+und	I-SKILL
+Pflegeplanung	I-SKILL
+
+# sent_id = 20_pflegefachkraft-remacare-0008-1
+-	O
+Anleitung	B-SKILL
+und	I-SKILL
+Beratung	I-SKILL
+von	I-SKILL
+Angehörigen	I-SKILL
+
+# sent_id = 20_pflegefachkraft-remacare-0009-1
+Das	O
+solltest	O
+Du	O
+mitbringen	O
+:	O
+
+# sent_id = 20_pflegefachkraft-remacare-0010-1
+-	O
+Abschluss	O
+als	O
+examinierte/r	O
+Gesundheits	O
+-	O
+und	O
+Krankenpfleger	O
+/	O
+Krankenschwester	O
+(	O
+m/w/d	O
+)	O
+,	O
+examinierte/r	O
+Gesundheits	O
+-	O
+und	O
+
+# sent_id = 20_pflegefachkraft-remacare-0011-1
+Kinderkrankenpfleger	O
+/	O
+Kinderkrankenschwester	O
+(	O
+m/w/d	O
+)	O
+,	O
+
+# sent_id = 20_pflegefachkraft-remacare-0012-1
+Pflegefachfrau	O
+/	O
+Pflegefachmann	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 20_pflegefachkraft-remacare-0013-1
+-	O
+Du	O
+möchtest	O
+nicht	O
+nur	O
+pflegen	O
+,	O
+sondern	O
+das	O
+Leben	O
+unserer	O
+Klienten	O
+bereichern	O
+
+# sent_id = 20_pflegefachkraft-remacare-0014-1
+-	O
+Hohe	B-SKILL
+pflegerische	I-SKILL
+und	I-SKILL
+soziale	I-SKILL
+Kompetenz	I-SKILL
+
+# sent_id = 20_pflegefachkraft-remacare-0015-1
+-	O
+Du	O
+besitzt	O
+einen	O
+Führerschein	O
+der	O
+Klasse	O
+B	O
+
+# doc_id = 21_erzieher
+# sent_id = 21_erzieher-0001-1
+Erzieher	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 21_erzieher-0002-1
+MANPOWER	O
+GmbH	O
+&	O
+Co	O
+.	O
+
+# sent_id = 21_erzieher-0002-2
+KG	O
+
+# sent_id = 21_erzieher-0003-1
+Deine	O
+Aufgaben	O
+
+# sent_id = 21_erzieher-0004-1
+-	O
+Planung	B-SKILL
+und	I-SKILL
+Umsetzung	I-SKILL
+kreativer	I-SKILL
+Spiel	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Lernangebote	I-SKILL
+
+# sent_id = 21_erzieher-0005-1
+-	O
+Förderung	B-SKILL
+der	I-SKILL
+individuellen	I-SKILL
+Entwicklung	I-SKILL
+und	I-SKILL
+sozialen	I-SKILL
+Kompetenzen	I-SKILL
+der	I-SKILL
+Kinder	I-SKILL
+
+# sent_id = 21_erzieher-0006-1
+-	O
+Gestaltung	B-SKILL
+eines	I-SKILL
+liebevollen	I-SKILL
+und	I-SKILL
+sicheren	I-SKILL
+Umfelds	I-SKILL
+,	O
+in	O
+dem	O
+sich	O
+Kinder	O
+geborgen	O
+fühlen	O
+
+# sent_id = 21_erzieher-0007-1
+-	O
+Enge	B-SKILL
+Zusammenarbeit	I-SKILL
+mit	I-SKILL
+Eltern	I-SKILL
+und	I-SKILL
+Kolleg	I-SKILL
+:	I-SKILL
+innen	I-SKILL
+
+# sent_id = 21_erzieher-0008-1
+-	O
+Dokumentation	B-SKILL
+der	I-SKILL
+pädagogischen	I-SKILL
+Arbeit	I-SKILL
+und	I-SKILL
+Entwicklungsfortschritte	I-SKILL
+
+# sent_id = 21_erzieher-0009-1
+Das	O
+bringst	O
+du	O
+mit	O
+
+# sent_id = 21_erzieher-0010-1
+-	O
+Du	O
+hast	O
+eine	O
+erfolgreich	O
+abgeschlossene	O
+Ausbildung	O
+als	O
+Erzieher	O
+(	O
+m/w/d	O
+)	O
+oder	O
+eine	O
+vergleichbare	O
+pädagogische	O
+Qualifikation	O
+(	O
+z	O
+.	O
+B	O
+.	O
+staatlich	O
+anerkannte	O
+Heilpädagogik	O
+,	O
+Kindheitspädagogik	O
+oder	O
+ein	O
+Studium	O
+der	O
+Erziehungswissenschaften	O
+mit	O
+einschlägiger	O
+Praxiserfahrung	O
+im	O
+frühkindlichen	O
+Bereich	O
+)	O
+
+# sent_id = 21_erzieher-0011-1
+-	O
+Begeisterung	O
+für	O
+die	O
+Begleitung	B-SKILL
+und	I-SKILL
+Förderung	I-SKILL
+von	I-SKILL
+Kindern	I-SKILL
+in	I-SKILL
+ihrer	I-SKILL
+individuellen	I-SKILL
+Entwicklung	I-SKILL
+
+# sent_id = 21_erzieher-0012-1
+-	O
+Einfühlungsvermögen	B-SKILL
+,	I-SKILL
+Geduld	I-SKILL
+und	I-SKILL
+Verantwortungsbewusstsein	I-SKILL
+
+# sent_id = 21_erzieher-0013-1
+-	O
+Kreative	B-SKILL
+Ideen	I-SKILL
+und	O
+Freude	O
+daran	O
+,	O
+Kinder	B-SKILL
+im	I-SKILL
+Alltag	I-SKILL
+zu	I-SKILL
+inspirieren	I-SKILL
+und	I-SKILL
+zu	I-SKILL
+fördern	I-SKILL
+
+# sent_id = 21_erzieher-0014-1
+-	O
+Teamfähigkeit	B-SKILL
+,	I-SKILL
+Zuverlässigkeit	I-SKILL
+und	I-SKILL
+eine	I-SKILL
+wertschätzende	I-SKILL
+Kommunikation	I-SKILL
+
+# sent_id = 21_erzieher-0015-1
+-	O
+Eigeninitiative	B-SKILL
+sowie	I-SKILL
+eine	I-SKILL
+selbstständige	I-SKILL
+und	I-SKILL
+lösungsorientierte	I-SKILL
+Arbeitsweise	I-SKILL
+
+# sent_id = 21_erzieher-0016-1
+-	O
+Berufserfahrung	O
+ist	O
+von	O
+Vorteil	O
+,	O
+aber	O
+keine	O
+Voraussetzung	O
+
+# doc_id = 22_sozialarbeiter-jugendhilfe
+# sent_id = 22_sozialarbeiter-jugendhilfe-0001-1
+Sozialarbeiter	O
+/	O
+Sozialpädagoge	O
+(	O
+m/w	O
+/	O
+d	O
+)	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0002-1
+Jugendberatung	O
+und	O
+Jugendhilfe	O
+e.V	O
+.	O
+(	O
+JJ	O
+)	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0003-1
+Ihre	O
+Aufgaben	O
+:	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0004-1
+-	O
+Gestaltung	B-SKILL
+und	I-SKILL
+Begleitung	I-SKILL
+freizeitpädagogischer	I-SKILL
+Angebote	I-SKILL
+,	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0005-1
+-	O
+Aufbau	B-SKILL
+und	I-SKILL
+Pflege	I-SKILL
+von	I-SKILL
+Kontakten	I-SKILL
+zu	I-SKILL
+Kindern	I-SKILL
+und	I-SKILL
+Jugendlichen	I-SKILL
+im	I-SKILL
+öffentlichen	I-SKILL
+Raum	I-SKILL
+,	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0006-1
+-	O
+Beratung	B-SKILL
+und	I-SKILL
+Unterstützung	I-SKILL
+von	I-SKILL
+Kindern	I-SKILL
+,	I-SKILL
+Jugendlichen	I-SKILL
+und	I-SKILL
+jungen	I-SKILL
+Erwachsenen	I-SKILL
+in	I-SKILL
+unterschiedlichen	I-SKILL
+Lebenslagen	I-SKILL
+,	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0007-1
+-	O
+Förderung	B-SKILL
+gesundheitsbewussten	I-SKILL
+und	I-SKILL
+verantwortungsvollen	I-SKILL
+Verhaltens	I-SKILL
+.	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0008-1
+-	O
+Mitwirkung	B-SKILL
+an	I-SKILL
+der	I-SKILL
+Weiterentwicklung	I-SKILL
+konzeptioneller	I-SKILL
+Angebote	I-SKILL
+der	I-SKILL
+Mobilen	I-SKILL
+Beratung	I-SKILL
+.	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0009-1
+Ihr	O
+Profil	O
+:	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0010-1
+-	O
+Abgeschlossenes	O
+Studium	O
+der	O
+Sozialen	O
+Arbeit	O
+,	O
+Sozialpädagogik	O
+(	O
+Dipl	O
+.	O
+/	O
+B.A	O
+.	O
+/	O
+M.A	O
+.	O
+)	O
+oder	O
+eine	O
+vergleichbare	O
+Qualifikation	O
+,	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0011-1
+-	O
+Fähigkeit	B-SKILL
+zum	I-SKILL
+selbstständigen	I-SKILL
+,	I-SKILL
+eigenverantwortlichen	I-SKILL
+Arbeiten	I-SKILL
+,	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0012-1
+-	O
+Interesse	O
+an	O
+konzeptioneller	B-SKILL
+Weiterentwicklung	I-SKILL
+und	O
+innovativen	O
+Ansätzen	O
+in	O
+der	O
+Jugendarbeit	O
+,	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0013-1
+-	O
+Bereitschaft	O
+zur	O
+Fort	O
+-	O
+und	O
+Weiterbildung	O
+,	O
+
+# sent_id = 22_sozialarbeiter-jugendhilfe-0014-1
+-	O
+Führerschein	O
+der	O
+Klasse	O
+B	O
+.	O
+
+# doc_id = 23_produktionsmitarbeiter
+# sent_id = 23_produktionsmitarbeiter-0001-1
+Produktionsmitarbeiter	O
+
+# sent_id = 23_produktionsmitarbeiter-0002-1
+Ihre	O
+Aufgaben	O
+:	O
+
+# sent_id = 23_produktionsmitarbeiter-0003-1
+-	O
+Sie	O
+bestücken	B-SKILL
+,	I-SKILL
+steuern	I-SKILL
+und	I-SKILL
+überwachen	I-SKILL
+unsere	I-SKILL
+Anlagen	I-SKILL
+und	I-SKILL
+Maschinen	I-SKILL
+
+# sent_id = 23_produktionsmitarbeiter-0004-1
+-	O
+Sie	O
+verantworten	B-SKILL
+einzelne	I-SKILL
+Produktionsbereiche	I-SKILL
+für	I-SKILL
+die	I-SKILL
+Herstellung	I-SKILL
+von	I-SKILL
+Reinigern	I-SKILL
+und	I-SKILL
+Polituren	I-SKILL
+
+# sent_id = 23_produktionsmitarbeiter-0005-1
+-	O
+Sie	O
+stellen	B-SKILL
+Rohstoffe	I-SKILL
+bereit	I-SKILL
+,	O
+füllen	B-SKILL
+Materialien	I-SKILL
+nach	I-SKILL
+und	O
+sorgen	O
+für	O
+Ihren	O
+Arbeitsplatz	O
+
+# sent_id = 23_produktionsmitarbeiter-0006-1
+Ihr	O
+Profil	O
+:	O
+
+# sent_id = 23_produktionsmitarbeiter-0007-1
+-	O
+Erfahrung	O
+im	O
+Bereich	O
+Produktion	O
+,	O
+z.B	O
+.	O
+aus	O
+dem	O
+Lebensmittelverarbeitenden	O
+Gewerbe	O
+wie	O
+Bäckerei	O
+und/oder	O
+fleischverarbeitendes	O
+Gewerbe	O
+
+# sent_id = 23_produktionsmitarbeiter-0008-1
+-	O
+Handwerkliches	B-SKILL
+Geschick	I-SKILL
+und	O
+technisches	B-SKILL
+Verständnis	I-SKILL
+für	O
+unser	O
+Maschinen	O
+und	O
+Anlagen	O
+
+# sent_id = 23_produktionsmitarbeiter-0009-1
+-	O
+Zuverlässigkeit	B-SKILL
+,	I-SKILL
+Sorgfalt	I-SKILL
+,	I-SKILL
+Verantwortungsbewusstsein	I-SKILL
+,	I-SKILL
+Flexibilität	I-SKILL
+,	I-SKILL
+Belastbarkeit	I-SKILL
+und	I-SKILL
+Teamfähigkeit	I-SKILL
+zeichnen	O
+Sie	O
+aus	O
+.	O
+
+# sent_id = 23_produktionsmitarbeiter-0010-1
+-	O
+Der	O
+Umgang	B-SKILL
+mit	I-SKILL
+modernen	I-SKILL
+Kommunikationsmedien	I-SKILL
+ist	O
+für	O
+Sie	O
+selbstverständlich	O
+(	O
+EDV-Kenntnisse	O
+)	O
+.	O
+
+# sent_id = 23_produktionsmitarbeiter-0011-1
+-	O
+Ein	O
+Staplerschein	O
+wäre	O
+wünschenswert	O
+.	O
+
+# sent_id = 23_produktionsmitarbeiter-0012-1
+-	O
+Deutschkenntnisse	O
+ab	O
+B2	O
+wären	O
+wünschenswert	O
+
+# doc_id = 24_customer-service-export
+# sent_id = 24_customer-service-export-0001-1
+Customer	O
+Service	O
+Mitarbeiter	O
+Export	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 24_customer-service-export-0002-1
+bei	O
+
+# sent_id = 24_customer-service-export-0003-1
+adesta	O
+GmbH	O
+&	O
+Co	O
+.	O
+
+# sent_id = 24_customer-service-export-0003-2
+KG	O
+
+# sent_id = 24_customer-service-export-0004-1
+Beschreibung	O
+
+# sent_id = 24_customer-service-export-0005-1
+-	O
+Auftragseingang	B-SKILL
+wird	I-SKILL
+von	I-SKILL
+Ihnen	I-SKILL
+abgewickelt	I-SKILL
+
+# sent_id = 24_customer-service-export-0006-1
+-	O
+Sie	O
+arbeiten	O
+mit	O
+einem	O
+Ticketsystem	O
+
+# sent_id = 24_customer-service-export-0007-1
+-	O
+Angebote	B-SKILL
+und	I-SKILL
+Exportdokumente	I-SKILL
+erstellen	I-SKILL
+(	O
+Maschinen	O
+,	O
+Ersatzteile	O
+etc	O
+.	O
+)	O
+
+# sent_id = 24_customer-service-export-0008-1
+-	O
+Sie	O
+supporten	B-SKILL
+den	I-SKILL
+Inhouse	I-SKILL
+Sales	I-SKILL
+Manager	I-SKILL
+
+# sent_id = 24_customer-service-export-0009-1
+-	O
+Ansprechpartner	B-SKILL
+für	I-SKILL
+die	I-SKILL
+Terminverfolgung	I-SKILL
+
+# sent_id = 24_customer-service-export-0010-1
+Anforderungen	O
+
+# sent_id = 24_customer-service-export-0011-1
+-	O
+Eine	O
+kaufmännische	O
+Ausbildung	O
+oder	O
+eine	O
+vergleichbare	O
+Qualifikation	O
+
+# sent_id = 24_customer-service-export-0012-1
+-	O
+Über	O
+gute	O
+Sprachkenntnisse	O
+in	O
+Englisch	O
+in	O
+Wort	O
+und	O
+Schrift	O
+
+# sent_id = 24_customer-service-export-0013-1
+-	O
+Technisches	B-SKILL
+Verständnis	I-SKILL
+
+# sent_id = 24_customer-service-export-0014-1
+-	O
+MS-Office	O
+&	O
+SAP-Kenntnisse	O
+
+# sent_id = 24_customer-service-export-0015-1
+-	O
+Sie	O
+sind	O
+kommunikations	B-SKILL
+-	I-SKILL
+und	I-SKILL
+überzeugungsfähig	I-SKILL
+
+# doc_id = 25_personalreferent
+# sent_id = 25_personalreferent-0001-1
+Personalreferent	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 25_personalreferent-0002-1
+bei	O
+
+# sent_id = 25_personalreferent-0003-1
+adesta	O
+GmbH	O
+&	O
+Co	O
+.	O
+
+# sent_id = 25_personalreferent-0003-2
+KG	O
+
+# sent_id = 25_personalreferent-0004-1
+Beschreibung	O
+
+# sent_id = 25_personalreferent-0005-1
+-	O
+Umfassende	B-SKILL
+Betreuung	I-SKILL
+sämtlicher	I-SKILL
+HR-Prozesse	I-SKILL
+,	I-SKILL
+von	I-SKILL
+der	I-SKILL
+Rekrutierung	I-SKILL
+bis	I-SKILL
+zur	I-SKILL
+Mitarbeiterentwicklung	I-SKILL
+
+# sent_id = 25_personalreferent-0006-1
+-	O
+Sicherstellung	B-SKILL
+der	I-SKILL
+Einhaltung	I-SKILL
+gesetzlicher	I-SKILL
+Vorschriften	I-SKILL
+und	I-SKILL
+Unternehmensrichtlinien	I-SKILL
+im	I-SKILL
+Bereich	I-SKILL
+Personalwesen	I-SKILL
+
+# sent_id = 25_personalreferent-0007-1
+-	O
+Aktive	B-SKILL
+Mitwirkung	I-SKILL
+an	I-SKILL
+HR-Projekten	I-SKILL
+zur	I-SKILL
+kontinuierlichen	I-SKILL
+Optimierung	I-SKILL
+der	I-SKILL
+Arbeitsabläufe	I-SKILL
+
+# sent_id = 25_personalreferent-0008-1
+-	O
+Durchführung	B-SKILL
+von	I-SKILL
+Mitarbeitergesprächen	I-SKILL
+,	I-SKILL
+Konfliktlösungen	I-SKILL
+und	I-SKILL
+Mitarbeiterschulungen	I-SKILL
+
+# sent_id = 25_personalreferent-0009-1
+-	O
+Unterstützung	B-SKILL
+des	I-SKILL
+Managements	I-SKILL
+bei	I-SKILL
+der	I-SKILL
+Entwicklung	I-SKILL
+und	I-SKILL
+Umsetzung	I-SKILL
+von	I-SKILL
+HR-Strategien	I-SKILL
+
+# sent_id = 25_personalreferent-0010-1
+Anforderungen	O
+
+# sent_id = 25_personalreferent-0011-1
+-	O
+Abgeschlossenes	O
+Studium	O
+oder	O
+eine	O
+vergleichbare	O
+Ausbildung	O
+im	O
+Bereich	O
+HR	O
+
+# sent_id = 25_personalreferent-0012-1
+-	O
+Mehrjährige	O
+Berufserfahrung	O
+im	O
+HR-Bereich	O
+,	O
+idealerweise	O
+in	O
+einem	O
+technologieorientierten	O
+Unternehmen	O
+
+# sent_id = 25_personalreferent-0013-1
+-	O
+Fundierte	O
+Kenntnisse	O
+im	O
+Arbeitsrecht	O
+und	O
+im	O
+Umgang	O
+mit	O
+gängiger	O
+HR-Software	O
+
+# sent_id = 25_personalreferent-0014-1
+-	O
+Ausgeprägte	B-SKILL
+kommunikative	I-SKILL
+Fähigkeiten	I-SKILL
+und	I-SKILL
+hohe	I-SKILL
+soziale	I-SKILL
+Kompetenz	I-SKILL
+
+# sent_id = 25_personalreferent-0015-1
+-	O
+Eigenständige	B-SKILL
+und	I-SKILL
+ergebnisorientierte	I-SKILL
+Arbeitsweise	I-SKILL
+
+# sent_id = 25_personalreferent-0016-1
+-	O
+Teamfähigkeit	B-SKILL
+und	I-SKILL
+Flexibilität	I-SKILL
+
+# doc_id = 26_hr-generalist
+# sent_id = 26_hr-generalist-0001-1
+HR	O
+Generalist	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 26_hr-generalist-0002-1
+Beschreibung	O
+
+# sent_id = 26_hr-generalist-0003-1
+-	O
+Als	O
+HR	O
+Generalist	O
+(	O
+m/w/d	O
+)	O
+sind	O
+Sie	O
+Hauptansprechpartner	B-SKILL
+in	I-SKILL
+allen	I-SKILL
+Belangen	I-SKILL
+der	I-SKILL
+Personalbeschaffung	I-SKILL
+und	I-SKILL
+-	I-SKILL
+betreuung	I-SKILL
+
+# sent_id = 26_hr-generalist-0004-1
+-	O
+Sie	O
+verantworten	O
+das	O
+Anzeigen	B-SKILL
+-	I-SKILL
+und	I-SKILL
+Bewerbermanagement	I-SKILL
+
+# sent_id = 26_hr-generalist-0005-1
+-	O
+Des	O
+Weiteren	O
+sind	O
+Sie	O
+zuständig	O
+für	O
+die	O
+Erstellung	B-SKILL
+von	I-SKILL
+Verträgen	I-SKILL
+,	I-SKILL
+Zeugnissen	I-SKILL
+und	I-SKILL
+Bescheinigungen	I-SKILL
+etc	O
+.	O
+
+# sent_id = 26_hr-generalist-0006-1
+-	O
+Sie	O
+erstellen	B-SKILL
+und	I-SKILL
+analysieren	I-SKILL
+regelmäßig	I-SKILL
+HR-Kennzahlen	I-SKILL
+
+# sent_id = 26_hr-generalist-0007-1
+-	O
+Sie	O
+wirken	O
+unterstützend	O
+bei	O
+der	O
+Zusammenarbeit	B-SKILL
+mit	I-SKILL
+dem	I-SKILL
+Betriebsrat	I-SKILL
+mit	O
+
+# sent_id = 26_hr-generalist-0008-1
+-	O
+Abschließend	O
+wirken	B-SKILL
+Sie	I-SKILL
+bei	I-SKILL
+HR-Projekten	I-SKILL
+mit	I-SKILL
+
+# sent_id = 26_hr-generalist-0009-1
+Anforderungen	O
+
+# sent_id = 26_hr-generalist-0010-1
+-	O
+Sie	O
+haben	O
+eine	O
+abgeschlossene	O
+kaufmännische	O
+Ausbildung	O
+oder	O
+ein	O
+Studium	O
+mit	O
+Schwerpunkt	O
+Personalwirtschaft	O
+
+# sent_id = 26_hr-generalist-0011-1
+-	O
+Sie	O
+bringen	O
+mindestens	O
+2	O
+Jahre	O
+Berufserfahrung	O
+als	O
+HR	O
+Generalist	O
+(	O
+m/w/d	O
+)	O
+oder	O
+Personalreferent	O
+(	O
+m/w/d	O
+)	O
+mit	O
+
+# sent_id = 26_hr-generalist-0012-1
+-	O
+Sie	O
+verfügen	O
+über	O
+gute	O
+MS	O
+Office	O
+-	O
+und	O
+idealerweise	O
+SAP	O
+HR-Kenntnisse	O
+
+# sent_id = 26_hr-generalist-0013-1
+-	O
+Sie	O
+haben	O
+gute	O
+bis	O
+sehr	O
+gute	O
+Englischkenntnisse	O
+
+# doc_id = 27_sicherheitsmitarbeiter
+# sent_id = 27_sicherheitsmitarbeiter-0001-1
+11	O
+Sicherheitsmitarbeiter	O
+(	O
+m/w/d	O
+)	O
+in	O
+Voll	O
+-	O
+oder	O
+Teilzeit	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0002-1
+bei	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0003-1
+Piepenbrock	O
+Dienstleistungsgruppe	O
+GmbH	O
+&	O
+Co.KG	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0004-1
+Ihre	O
+Aufgaben	O
+:	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0005-1
+Sie	O
+sind	O
+als	O
+Sicherheitsmitarbeiter	O
+(	O
+m/w/d	O
+)	O
+für	O
+einen	O
+namhaften	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0006-1
+Kunden	O
+(	O
+m/w/d	O
+)	O
+zuständig	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0007-1
+Sie	O
+führen	O
+als	O
+Sicherheitskraft	O
+(	O
+m/w/d	O
+)	O
+Tätigkeiten	O
+wie	O
+zum	O
+Beispiel	O
+Kontrollgänge	B-SKILL
+,	O
+Entgegennahme	B-SKILL
+von	I-SKILL
+eingehenden	I-SKILL
+Telefonaten	I-SKILL
+und	O
+Auf	B-SKILL
+-	I-SKILL
+und	I-SKILL
+Verschluss	I-SKILL
+durch	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0008-1
+Sie	O
+überwachen	B-SKILL
+die	I-SKILL
+technischen	I-SKILL
+Sicherheitseinrichtungen	I-SKILL
+wie	O
+z	O
+.	O
+B	O
+.	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0008-2
+Kameras	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0009-1
+Sie	O
+sorgen	O
+für	O
+die	O
+zuverlässige	B-SKILL
+Objektbewachung	I-SKILL
+
+# sent_id = 27_sicherheitsmitarbeiter-0010-1
+Ihre	O
+Qualifikationen	O
+:	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0011-1
+Sie	O
+verfügen	O
+über	O
+gute	O
+PC-Kenntnisse	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0012-1
+Sie	O
+sind	O
+zuverlässig	B-SKILL
+,	O
+flexibel	B-SKILL
+und	O
+teamfähig	B-SKILL
+
+# sent_id = 27_sicherheitsmitarbeiter-0013-1
+Sie	O
+haben	O
+die	O
+Bereitschaft	O
+zum	O
+Schichtdienst	O
+
+# sent_id = 27_sicherheitsmitarbeiter-0014-1
+Sie	O
+besitzen	O
+eine	O
+Unterrichtung	O
+nach	O
+§	O
+34a	O
+GewO	O
+oder	O
+eine	O
+andere	O
+höherwertige	O
+Qualifikation	O
+
+# doc_id = 28_technischer-produktdesigner
+# sent_id = 28_technischer-produktdesigner-0001-1
+Technischer	O
+Produktdesigner	O
+CAD	O
+Zeichner	O
+m/w/d	O
+INGSERV	O
+GmbH	O
+
+# sent_id = 28_technischer-produktdesigner-0002-1
+Diese	O
+Herausforderungen	O
+übernehmen	O
+Sie	O
+:	O
+
+# sent_id = 28_technischer-produktdesigner-0003-1
+-	O
+Sie	O
+erstellen	B-SKILL
+technische	I-SKILL
+Zeichnungen	I-SKILL
+,	I-SKILL
+Baugruppen	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Anordnungszeichnungen	I-SKILL
+sowie	I-SKILL
+Schaltpläne	I-SKILL
+auf	O
+Basis	O
+technischer	O
+Vorgaben	O
+
+# sent_id = 28_technischer-produktdesigner-0004-1
+-	O
+Sie	O
+setzen	B-SKILL
+Konstruktionsvorgaben	I-SKILL
+normgerecht	I-SKILL
+um	I-SKILL
+und	O
+stellen	B-SKILL
+die	I-SKILL
+Einhaltung	I-SKILL
+von	I-SKILL
+Qualitätsstandards	I-SKILL
+sicher	I-SKILL
+
+# sent_id = 28_technischer-produktdesigner-0005-1
+-	O
+Sie	O
+pflegen	B-SKILL
+Artikelstammdaten	I-SKILL
+,	I-SKILL
+Stücklisten	I-SKILL
+und	I-SKILL
+technische	I-SKILL
+Änderungen	I-SKILL
+im	I-SKILL
+SAP-System	I-SKILL
+
+# sent_id = 28_technischer-produktdesigner-0006-1
+-	O
+Sie	O
+führen	B-SKILL
+Zeichnungs	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Stücklistenänderungen	I-SKILL
+in	I-SKILL
+CAD	I-SKILL
+-	I-SKILL
+und	I-SKILL
+SAP-Systemen	I-SKILL
+durch	I-SKILL
+und	O
+halten	B-SKILL
+die	I-SKILL
+technische	I-SKILL
+Dokumentation	I-SKILL
+aktuell	I-SKILL
+
+# sent_id = 28_technischer-produktdesigner-0007-1
+-	O
+Sie	O
+entwickeln	B-SKILL
+technische	I-SKILL
+Detaillösungen	I-SKILL
+und	O
+wählen	B-SKILL
+geeignete	I-SKILL
+Bauteile	I-SKILL
+sowie	I-SKILL
+Halbzeuge	I-SKILL
+unter	I-SKILL
+technischen	I-SKILL
+und	I-SKILL
+wirtschaftlichen	I-SKILL
+Gesichtspunkten	I-SKILL
+aus	I-SKILL
+
+# sent_id = 28_technischer-produktdesigner-0008-1
+-	O
+Sie	O
+erstellen	B-SKILL
+technische	I-SKILL
+Dokumentationen	I-SKILL
+,	I-SKILL
+Stücklisten	I-SKILL
+,	I-SKILL
+Auswertungen	I-SKILL
+und	I-SKILL
+Datenaustauschdateien	I-SKILL
+für	O
+Kunden	O
+,	O
+Lieferanten	O
+und	O
+interne	O
+Fachbereiche	O
+
+# sent_id = 28_technischer-produktdesigner-0009-1
+-	O
+Sie	O
+übernehmen	O
+den	O
+Import	B-SKILL
+,	I-SKILL
+die	I-SKILL
+Prüfung	I-SKILL
+und	I-SKILL
+die	I-SKILL
+Bearbeitung	I-SKILL
+technischer	I-SKILL
+Daten	I-SKILL
+von	O
+externen	O
+Projektpartnern	O
+
+# sent_id = 28_technischer-produktdesigner-0010-1
+-	O
+Sie	O
+unterstützen	O
+Projekte	O
+durch	O
+die	O
+Durchführung	B-SKILL
+einfacher	I-SKILL
+technischer	I-SKILL
+Berechnungen	I-SKILL
+,	O
+beispielsweise	O
+zu	O
+Gewicht	O
+,	O
+Materialeinsatz	O
+oder	O
+Volumen	O
+
+# sent_id = 28_technischer-produktdesigner-0011-1
+Unsere	O
+Erwartungen	O
+an	O
+Sie	O
+:	O
+
+# sent_id = 28_technischer-produktdesigner-0012-1
+-	O
+Abgeschlossene	O
+als	O
+Technischer	O
+Zeichner	O
+,	O
+Technischer	O
+Produktdesigner	O
+oder	O
+eine	O
+vergleichbare	O
+Qualifikation	O
+
+# sent_id = 28_technischer-produktdesigner-0013-1
+-	O
+Sicherer	B-SKILL
+Umgang	I-SKILL
+mit	I-SKILL
+einem	I-SKILL
+CAD-Systemen	I-SKILL
+idealerweise	O
+mit	O
+Catia	O
+V5	O
+oder	O
+Creo	O
+
+# sent_id = 28_technischer-produktdesigner-0014-1
+-	O
+Erfahrung	O
+mit	O
+SAP	O
+ist	O
+von	O
+Vorteil	O
+
+# sent_id = 28_technischer-produktdesigner-0015-1
+-	O
+Technisches	B-SKILL
+Verständnis	I-SKILL
+und	I-SKILL
+sicherer	I-SKILL
+Umgang	I-SKILL
+mit	I-SKILL
+technischen	I-SKILL
+Zeichnungen	I-SKILL
+und	I-SKILL
+Stücklisten	I-SKILL
+
+# sent_id = 28_technischer-produktdesigner-0016-1
+-	O
+Kenntnisse	O
+relevanter	O
+Normen	O
+und	O
+Qualitätsstandards	O
+
+# sent_id = 28_technischer-produktdesigner-0017-1
+-	O
+Strukturierte	B-SKILL
+,	I-SKILL
+sorgfältige	I-SKILL
+und	I-SKILL
+selbstständige	I-SKILL
+Arbeitsweise	I-SKILL
+
+# sent_id = 28_technischer-produktdesigner-0018-1
+-	O
+Teamfähigkeit	B-SKILL
+sowie	I-SKILL
+gute	I-SKILL
+Kommunikationsfähigkeit	I-SKILL
+
+# sent_id = 28_technischer-produktdesigner-0019-1
+-	O
+Gute	O
+MS-Office-Kenntnisse	O
+
+# doc_id = 29_lagermitarbeiter
+# sent_id = 29_lagermitarbeiter-0001-1
+Lagermitarbeiter	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 29_lagermitarbeiter-0002-1
+bei	O
+
+# sent_id = 29_lagermitarbeiter-0003-1
+Sonae	O
+Arauco	O
+GmbH	O
+-	O
+Nettgau	O
+Werk	O
+Nettgau	O
+
+# sent_id = 29_lagermitarbeiter-0004-1
+Die	O
+Bedeutung	O
+Ihrer	O
+Rolle	O
+
+# sent_id = 29_lagermitarbeiter-0005-1
+Als	O
+Lagermitarbeiter	O
+(	O
+m/w/d	O
+)	O
+der	O
+TOOL	O
+GmbH	O
+sind	O
+Sie	O
+für	O
+die	O
+Übernahme	B-SKILL
+und	I-SKILL
+fachgerechte	I-SKILL
+Einlagerung	I-SKILL
+der	I-SKILL
+Fertigwaren	I-SKILL
+aus	I-SKILL
+den	I-SKILL
+Produktionsanlagen	I-SKILL
+verantwortlich	O
+.	O
+
+# sent_id = 29_lagermitarbeiter-0005-2
+Sie	O
+führen	O
+eigenständig	O
+
+# sent_id = 29_lagermitarbeiter-0006-1
+Umlagerungen	B-SKILL
+zur	I-SKILL
+Optimierung	I-SKILL
+der	I-SKILL
+Lagerbestände	I-SKILL
+durch	O
+und	O
+übernehmen	O
+die	O
+Verpackung	B-SKILL
+der	I-SKILL
+Fertigwaren	I-SKILL
+–	O
+Sie	O
+sind	O
+somit	O
+die	O
+letzte	O
+Station	O
+im	O
+Fertigungsprozess	O
+und	O
+sorgen	O
+für	O
+einen	O
+
+# sent_id = 29_lagermitarbeiter-0007-1
+reibungslosen	O
+Logistikablauf	O
+.	O
+
+# sent_id = 29_lagermitarbeiter-0007-2
+Darüber	O
+hinaus	O
+gehören	O
+die	O
+Pflege	B-SKILL
+und	I-SKILL
+Wartung	I-SKILL
+von	I-SKILL
+Batterien	I-SKILL
+sowie	I-SKILL
+Gabelstaplern	I-SKILL
+ebenso	O
+zu	O
+Ihrem	O
+Aufgabenbereich	O
+wie	O
+allgemeine	O
+Reinigungs	B-SKILL
+-	I-SKILL
+und	I-SKILL
+
+# sent_id = 29_lagermitarbeiter-0008-1
+Ordnungstätigkeiten	B-SKILL
+.	O
+
+# sent_id = 29_lagermitarbeiter-0008-2
+Mit	O
+Ihrer	O
+sorgfältigen	B-SKILL
+Arbeitsweise	I-SKILL
+tragen	O
+Sie	O
+zu	O
+sicheren	O
+Abläufen	O
+und	O
+einem	O
+reibungslosen	O
+Lagerbetrieb	O
+bei	O
+.	O
+
+# sent_id = 29_lagermitarbeiter-0008-3
+Hauptaufgaben	O
+
+# sent_id = 29_lagermitarbeiter-0009-1
+-	O
+Übernahme	B-SKILL
+und	I-SKILL
+Einlagerung	I-SKILL
+der	I-SKILL
+Fertigwaren	I-SKILL
+der	I-SKILL
+Produktionsanlagen	I-SKILL
+
+# sent_id = 29_lagermitarbeiter-0010-1
+-	O
+Eigenständige	B-SKILL
+Umlagerung	I-SKILL
+von	I-SKILL
+Waren	I-SKILL
+zur	I-SKILL
+Optimierung	I-SKILL
+der	I-SKILL
+Lagerbestände	I-SKILL
+
+# sent_id = 29_lagermitarbeiter-0011-1
+-	O
+Verpackung	B-SKILL
+von	I-SKILL
+Fertigwaren	I-SKILL
+
+# sent_id = 29_lagermitarbeiter-0012-1
+-	O
+Pflege	B-SKILL
+und	I-SKILL
+Wartung	I-SKILL
+von	I-SKILL
+Batterien	I-SKILL
+und	I-SKILL
+Gabelstaplern	I-SKILL
+
+# sent_id = 29_lagermitarbeiter-0013-1
+-	O
+Reinigungstätigkeiten	B-SKILL
+
+# sent_id = 29_lagermitarbeiter-0014-1
+Gewünschtes	O
+Profil	O
+
+# sent_id = 29_lagermitarbeiter-0015-1
+-	O
+Stapler-Führerschein	O
+
+# sent_id = 29_lagermitarbeiter-0016-1
+-	O
+Hohes	O
+Maß	O
+an	O
+Kommunikations	B-SKILL
+-	I-SKILL
+und	I-SKILL
+Teamfähigkeit	I-SKILL
+
+# sent_id = 29_lagermitarbeiter-0017-1
+-	O
+Körperliche	B-SKILL
+Fitness	I-SKILL
+und	I-SKILL
+ein	I-SKILL
+hohes	I-SKILL
+Maß	I-SKILL
+an	I-SKILL
+Belastbarkeit	I-SKILL
+sind	O
+zwingend	O
+erforderlich	O
+
+# sent_id = 29_lagermitarbeiter-0018-1
+-	O
+Bereitschaft	O
+zur	O
+Schichtarbeit	O
+
+# doc_id = 30_technischer-projektleiter-elektro
+# sent_id = 30_technischer-projektleiter-elektro-0001-1
+Technischer	O
+Projektleiter	O
+Elektro	O
+-	O
+&	O
+Leittechnik	O
+(	O
+m/w/d	O
+)	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0002-1
+Ihre	O
+Aufgaben	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0003-1
+-	O
+Technische	B-SKILL
+Abwicklung	I-SKILL
+von	I-SKILL
+Kundenverträgen	I-SKILL
+für	I-SKILL
+elektrische	I-SKILL
+und	I-SKILL
+leittechnische	I-SKILL
+Systeme	I-SKILL
+im	O
+erweiterten	O
+Lieferumfang	O
+von	O
+Dampfturbinenanlagen	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0004-1
+-	O
+Verantwortung	O
+für	O
+die	O
+technische	B-SKILL
+Koordination	I-SKILL
+von	I-SKILL
+Generatoren	I-SKILL
+,	I-SKILL
+Transformatoren	I-SKILL
+sowie	I-SKILL
+Mittel	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Hochspannungsschaltanlagen	I-SKILL
+(	I-SKILL
+MV/HV	I-SKILL
+)	I-SKILL
+
+# sent_id = 30_technischer-projektleiter-elektro-0005-1
+-	O
+Spezifikation	B-SKILL
+und	I-SKILL
+Auslegung	I-SKILL
+der	I-SKILL
+Elektro	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Leittechnik	I-SKILL
+auf	O
+Grundlage	O
+von	O
+Vertragsanforderungen	O
+,	O
+technischen	O
+Vorgaben	O
+und	O
+kundenspezifischen	O
+Anforderungen	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0006-1
+-	O
+Erstellung	B-SKILL
+von	I-SKILL
+Ausschreibungsunterlagen	I-SKILL
+,	I-SKILL
+Anfragespezifikationen	I-SKILL
+und	I-SKILL
+auftragsbegleitender	I-SKILL
+technischer	I-SKILL
+Dokumentation	I-SKILL
+
+# sent_id = 30_technischer-projektleiter-elektro-0007-1
+-	O
+Teilnahme	B-SKILL
+an	I-SKILL
+technischen	I-SKILL
+Kundengesprächen	I-SKILL
+sowie	I-SKILL
+Koordination	I-SKILL
+und	I-SKILL
+Klärung	I-SKILL
+projektspezifischer	I-SKILL
+Fragestellungen	I-SKILL
+
+# sent_id = 30_technischer-projektleiter-elektro-0008-1
+-	O
+Technische	B-SKILL
+Begleitung	I-SKILL
+und	I-SKILL
+Abnahme	I-SKILL
+des	I-SKILL
+verantworteten	I-SKILL
+Lieferumfangs	I-SKILL
+sowie	O
+nationale	O
+und	O
+internationale	O
+Reisetätigkeit	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0009-1
+Ihre	O
+Qualifikationen	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0010-1
+-	O
+Abgeschlossenes	O
+Studium	O
+(	O
+Dipl	O
+.	O
+-	O
+Ing	O
+.	O
+,	O
+Bachelor	O
+oder	O
+Master	O
+)	O
+bzw	O
+.	O
+Weiterbildung	O
+zum	O
+Techniker	O
+in	O
+Elektrotechnik	O
+,	O
+Elektrischen	O
+Systemen	O
+,	O
+Energietechnik	O
+,	O
+Mechatronik	O
+oder	O
+vergleichbar	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0011-1
+-	O
+Mindestens	O
+2	O
+Jahre	O
+einschlägige	O
+Berufserfahrung	O
+in	O
+einer	O
+vergleichbaren	O
+technischen	O
+Funktion	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0012-1
+-	O
+Erfahrung	O
+im	O
+Projektmanagement	O
+und/oder	O
+Engineering	O
+sowie	O
+in	O
+Montage	B-SKILL
+-	I-SKILL
+oder	I-SKILL
+Inbetriebnahmetätigkeiten	I-SKILL
+(	O
+IBS	O
+)	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0013-1
+-	O
+Kenntnisse	O
+in	O
+Kraftwerks	O
+-	O
+,	O
+Dampfturbinen	O
+-	O
+oder	O
+Energietechnik	O
+sowie	O
+im	O
+Umfeld	O
+elektrischer	O
+Energieanlagen	O
+sind	O
+von	O
+Vorteil	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0014-1
+-	O
+Sehr	O
+gute	O
+bzw	O
+.	O
+sichere	O
+Englischkenntnisse	O
+für	O
+internationale	O
+Projekte	O
+und	O
+Kundengespräche	O
+;	O
+Deutschkenntnisse	O
+und	O
+weitere	O
+Fremdsprachen	O
+sind	O
+von	O
+Vorteil	O
+
+# sent_id = 30_technischer-projektleiter-elektro-0015-1
+-	O
+Bereitschaft	O
+zu	O
+nationalen	O
+und	O
+internationalen	O
+Dienstreisen	O
+sowie	O
+ausgeprägte	O
+Kommunikations	B-SKILL
+-	I-SKILL
+,	I-SKILL
+Koordinations	I-SKILL
+-	I-SKILL
+und	I-SKILL
+Schnittstellenkompetenz	I-SKILL
+
