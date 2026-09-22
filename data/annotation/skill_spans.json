@@ -1,713 +1,679 @@
 {
-  "_comment": "Manuelle Annotation: pro Dokument die Oberflaechenformen der SKILL-Spans. skip_lines = Quellzeilen (1-basiert), die nicht annotiert werden (Titel, Firmenname, Benefits). block = einzelne Treffer, die in einer bestimmten Zeile NICHT annotiert werden. Matching: tokenweise, laengster Treffer zuerst, case-insensitive.",
+  "_comment": "v2. Pro Dokument: skip_lines = Quellzeilen ohne Annotation (Titel, Firma, Benefits). spans = [Layer, Oberflaeche], Layer S = SKILL (Faehigkeit/Taetigkeit), K = KNOWLEDGE (Werkzeug, Technologie, Domaene, Sprache). Die Layer sind unabhaengig: ein K-Span darf innerhalb eines S-Spans liegen (SkillSpan annotiert genau so). Innerhalb eines Layers: laengster Treffer zuerst, keine Ueberlappung.",
+
   "01_performance-marketing-manager": {
-    "skip_lines": [
-      1,
-      2,
-      3,
-      5
-    ],
+    "skip_lines": [1, 2, 3, 5],
     "spans": [
-      "Leadgenerierung",
-      "Suchmaschinenmarketing",
-      "Suchmaschinenoptimierung",
-      "E-Mail-Marketing",
-      "Produktmarketings",
-      "digitalen Marketing",
-      "Marketing- und Analyseplattformen",
-      "Google Ads",
-      "Google Analytics",
-      "WordPress",
-      "Mailchimp",
-      "Canva",
-      "redaktionellen Pflege von Webseiten und digitalen Inhalten",
-      "Bearbeitung von Bildern und Videos",
-      "zielgruppengerechte Kommunikation",
-      "Selbstständige, strukturierte und umsetzungsstarke Arbeitsweise",
-      "Kommunikationsfähigkeit",
-      "Deutsch",
-      "Englisch"
+      ["S", "Konzeption und Realisierung digitaler Maßnahmen zur Leadgenerierung und Vertriebsunterstützung im B2B-Umfeld"],
+      ["S", "Verantwortung für Inhalte, Aktualität und Weiterentwicklung der Unternehmenswebsite"],
+      ["S", "Ausbau der Online-Sichtbarkeit durch gezielte Maßnahmen in Suchmaschinenmarketing und Suchmaschinenoptimierung"],
+      ["K", "Suchmaschinenmarketing"],
+      ["K", "Suchmaschinenoptimierung"],
+      ["S", "Analyse und Verbesserung der Performance digitaler Kanäle und Kampagnen"],
+      ["S", "Entwicklung und Aufbereitung von Inhalten für Website, Social Media und E-Mail-Marketing"],
+      ["K", "Social Media"],
+      ["K", "E-Mail-Marketing"],
+      ["S", "Erstellung und Abstimmung von Kommunikations- und Vertriebsunterlagen"],
+      ["S", "Steuerung externer Partner, Agenturen und Dienstleister"],
+      ["S", "Enge Zusammenarbeit mit Vertrieb und weiteren internen Fachbereichen"],
+      ["S", "Aufbau eines professionellen Produktmarketings"],
+      ["S", "Planung, Überwachung und Einhaltung des Marketingbudgets"],
+      ["K", "digitalen Marketing"],
+      ["S", "Praxis im Einsatz gängiger Marketing- und Analyseplattformen"],
+      ["K", "Marketing- und Analyseplattformen"],
+      ["K", "Google Ads"],
+      ["K", "Google Analytics"],
+      ["K", "WordPress"],
+      ["K", "Mailchimp"],
+      ["K", "Canva"],
+      ["S", "redaktionellen Pflege von Webseiten und digitalen Inhalten"],
+      ["S", "Bearbeitung von Bildern und Videos"],
+      ["S", "Gespür für zielgruppengerechte Kommunikation, überzeugende Texte und kreative Inhalte"],
+      ["S", "Selbstständige, strukturierte und umsetzungsstarke Arbeitsweise"],
+      ["S", "Kommunikationsfähigkeit auf Deutsch und Englisch in Wort und Schrift"],
+      ["K", "Deutsch"],
+      ["K", "Englisch"]
     ]
   },
+
   "02_social-media-manager": {
-    "skip_lines": [
-      1,
-      2,
-      3
-    ],
+    "skip_lines": [1, 2, 3],
     "spans": [
-      "Bildbearbeitung",
-      "Adobe Photoshop CC",
-      "Künstliche Intelligenz",
-      "Grafikdesign",
-      "Adobe CC",
-      "Social Media Marketing",
-      "Content Marketing",
-      "Projektarbeit",
-      "Videopräsenzunterricht"
+      ["S", "Bildbearbeitung mit Adobe Photoshop CC"],
+      ["K", "Adobe Photoshop CC"],
+      ["K", "Künstliche Intelligenz"],
+      ["S", "Grafikdesign mit Adobe CC"],
+      ["K", "Adobe CC"],
+      ["K", "Social Media Marketing"],
+      ["K", "Content Marketing"],
+      ["K", "Projektarbeit"],
+      ["K", "Videopräsenzunterricht"]
     ]
   },
+
   "03_e-commerce-trainer": {
-    "skip_lines": [
-      1,
-      2,
-      3
-    ],
+    "skip_lines": [1, 2, 3],
     "spans": [
-      "E-Commerce",
-      "Rechtliche Aspekte",
-      "Online-Shop-Systeme",
-      "Künstliche Intelligenz",
-      "Online-Marketing",
-      "Kundengewinnung",
-      "Zahlungssysteme",
-      "Finanzen",
-      "Logistik",
-      "Fulfillment",
-      "Kundenservice",
-      "CRM",
-      "Web-Controlling",
-      "Datenanalyse",
-      "Projektarbeit",
-      "Videopräsenzunterricht"
+      ["K", "E-Commerce"],
+      ["K", "Rechtliche Aspekte"],
+      ["K", "Online-Shop-Systeme"],
+      ["K", "Künstliche Intelligenz"],
+      ["K", "Online-Marketing"],
+      ["K", "Kundengewinnung"],
+      ["K", "Zahlungssysteme"],
+      ["K", "Finanzen"],
+      ["K", "Logistik"],
+      ["K", "Fulfillment"],
+      ["K", "Kundenservice"],
+      ["K", "CRM"],
+      ["K", "Web-Controlling"],
+      ["K", "Datenanalyse"],
+      ["K", "Projektarbeit"],
+      ["K", "Videopräsenzunterricht"]
     ]
   },
+
   "04_produktmanager": {
-    "skip_lines": [
-      1,
-      2,
-      3,
-      6,
-      13,
-      24
-    ],
-    "spans": [
-      "Produktstrategie",
-      "technische Produktentwicklung",
-      "Go-to-Market",
-      "Go-to-Market-Prozessen",
-      "Business Cases",
-      "Roadmaps",
-      "Priorisierung von Features",
-      "Produktmanagement",
-      "kommunikative Fähigkeiten",
-      "Strategische und zugleich pragmatische Arbeitsweise"
-    ]
-  },
-  "05_marketing-allrounder-seo": {
-    "skip_lines": [
-      1,
-      2,
-      3
-    ],
-    "spans": [
-      "technisches SEO",
-      "SEO- und Analyse-Tools",
-      "SEO",
-      "On-Page",
-      "Content-Strategie",
-      "Backlinks",
-      "Online-Marketing",
-      "Selbstständige, strukturierte Arbeitsweise",
-      "Kommunikationsstärke"
-    ]
-  },
-  "06_sozialarbeiter-psychosozialer-dienst": {
-    "skip_lines": [
-      1,
-      2,
-      3,
-      13
-    ],
-    "spans": [
-      "sozialrechtlichen Fragestellungen",
-      "Sozialgesetzbücher",
-      "Sozialgesetzgebung",
-      "Zusammenarbeit im multiprofessionellen Team",
-      "Empathie",
-      "Offenheit",
-      "Flexibilität",
-      "Belastbarkeit",
-      "Strukturierte und zuverlässige Arbeitsweise",
-      "lösungsorientiertes, selbstständiges und verantwortungsvolles Arbeiten"
-    ]
-  },
-  "07_heilerziehungspfleger": {
-    "skip_lines": [
-      1,
-      2,
-      3
-    ],
-    "spans": [
-      "Betreuung und Entwicklungsbegleitung von Kindern",
-      "Gestaltung von pädagogischen Angeboten",
-      "Elternarbeit",
-      "Dokumentation",
-      "Entwicklungsbegleitung",
-      "Teamfähigkeit",
-      "Kreativität",
-      "Zuverlässigkeit",
-      "Einfühlungsvermögen",
-      "Kommunikationsfähigkeit"
-    ]
-  },
-  "08_sozialpaedagogische-assistenz-krippe": {
-    "skip_lines": [
-      1,
-      2,
-      3
-    ],
-    "spans": [
-      "päd. Planung und Organisation des Tages",
-      "kooperative Zusammenarbeit mit den Eltern"
-    ]
-  },
-  "09_spa-sozialpaedagogischer-assistent": {
-    "skip_lines": [
-      1,
-      2,
-      3,
-      7,
-      13
-    ],
-    "spans": [
-      "Kinderbetreuung",
-      "Teamplayer"
-    ]
-  },
-  "10_pflegefachkraft-senator-neumann-haus": {
-    "skip_lines": [
-      1
-    ],
-    "spans": [
-      "ganzheitliche Pflege",
-      "Medikamentenmanagement",
-      "Pflegevisiten",
-      "Wertschätzende Haltung und Kommunikation",
-      "Einfühlungsvermögen",
-      "Zusammenarbeit in einem multiprofessionellen Team"
-    ]
-  },
-  "11_mechatroniker": {
-    "skip_lines": [
-      1,
-      2
-    ],
-    "spans": [
-      "Fehlerdiagnosen",
-      "Wartung",
-      "Reparaturen",
-      "Instandhaltung",
-      "technische Zeichnungen",
-      "Schalt- und Montagepläne",
-      "Kundenbetreuung",
-      "Mechanik",
-      "Elektronik",
-      "Elektrotechnik",
-      "Pneumatik",
-      "Steuerungs- und Automatisierungstechnik",
-      "Mess- und Diagnosesystemen",
-      "technisches Verständnis",
-      "selbstständige, teamorientierte und verantwortungsbewusste Arbeitsweise",
-      "Deutsch",
-      "Englischkenntnisse"
-    ]
-  },
-  "12_softwareentwickler": {
-    "skip_lines": [
-      1,
-      2,
-      3,
-      11,
-      12
-    ],
-    "spans": [
-      "Infrastructure as Code",
-      "Cloud-Technologien",
-      "Clean Code",
-      "moderne Architekturen",
-      "KI",
-      "Grafana Cloud",
-      "Kubernetes",
-      "AWS",
-      "Terraform",
-      "Crossplane",
-      "ArgoCD",
-      "Tilt",
-      "Atlas MongoDB",
-      "Spring Boot",
-      "Java",
-      "Softwareentwicklung",
-      "DevOps",
-      "DevOps-Methoden",
-      "CI/CD",
-      "CI/CD-Pipelines",
-      "Build-, Test- und Deployment-Workflows",
-      "Microservices",
-      "Cloud-Architektur",
-      "objektorientierten Programmiersprache",
-      "Automatisierung",
-      "künstlicher Intelligenz",
-      "Selbstständigkeit",
-      "Verantwortungsbewusstsein",
-      "Teamfähigkeit",
-      "Fließende Deutschkenntnisse"
-    ]
-  },
-  "13_fachinformatiker-systemintegration": {
-    "skip_lines": [
-      1,
-      2,
-      3,
-      6
-    ],
-    "spans": [
-      "IT-Systeme",
-      "Server",
-      "Netzwerke",
-      "Clients",
-      "Windows Server",
-      "Hyper-V",
-      "VMware",
-      "Microsoft 365",
-      "IT-Sicherheit",
-      "Firewall",
-      "Backup",
-      "Recovery-Lösungen",
-      "Kundensupport",
-      "technische Beratung",
-      "Backup- und Wiederherstellungsprozessen",
-      "Active Directory",
-      "Virtualisierungstools",
-      "IT-Security",
-      "VPN",
-      "Verschlüsselung",
-      "Datenschutzrichtlinien",
-      "Selbstständige und strukturierte Arbeitsweise",
-      "Kommunikationsstärke",
-      "Deutsch"
-    ]
-  },
-  "14_it-support": {
-    "skip_lines": [
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      15,
-      16,
-      17,
-      18,
-      19,
-      20
-    ],
-    "spans": [
-      "IT Support",
-      "Windows Systemen",
-      "IT Hardware",
-      "Serviceorientierte und lösungsfokussierte Arbeitsweise",
-      "Strukturierte Herangehensweise bei technischen Problemen",
-      "Deutschkenntnisse",
-      "Teamfähigkeit",
-      "Kommunikationsstärke",
-      "First und Second Level Support",
-      "Analyse und Lösung von Hard und Softwareproblemen",
-      "Betreuung von Windows Arbeitsplätzen und Endgeräten",
-      "Installation und Konfiguration von Software und Betriebssystemen",
-      "Dokumentation",
-      "Ticketsystem"
-    ]
-  },
-  "15_data-engineer": {
-    "skip_lines": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ],
-    "spans": [
-      "Datenarchitekturen",
-      "On-Premises-Lakehouse-Architektur",
-      "ETL",
-      "ETL-Prozessen",
-      "Datenpipelines",
-      "Data-Warehouse-Strukturen",
-      "Data-Warehouse",
-      "Lakehouse-Architekturen",
-      "Snowflake",
-      "Datenqualität",
-      "Datenverfügbarkeit",
-      "DevOps-Themen",
-      "Data Engineering",
-      "SQL",
-      "Python",
-      "Apache Iceberg",
-      "Trino",
-      "Nessie",
-      "Lakekeeper",
-      "SQLMesh",
-      "Linux",
-      "GitLab",
-      "Oracle",
-      "selbstständige, strukturierte und lösungsorientierte Arbeitsweise",
-      "Deutsch- und Englischkenntnisse"
-    ]
-  },
-  "16_marketing-manager-hotel": {
-    "skip_lines": [
-      1,
-      2,
-      3
-    ],
-    "spans": [
-      "Marketingstrategien",
-      "Marketingkampagnen",
-      "Content-Maßnahmen",
-      "Performance-Analyse",
-      "Fotoshootings",
-      "Videoproduktionen",
-      "Markenkommunikation",
-      "Storytelling",
-      "Marketingtrends",
-      "zielgruppengerechte Ansprache",
-      "Microsoft Office",
-      "Marketing- und Analysetools",
-      "Canva Pro",
-      "KI-gestützten Tools",
-      "Microsoft Copilot",
-      "ChatGPT",
-      "Kreativität",
-      "Organisationsgeschick",
-      "Eigeninitiative",
-      "deutscher und englischer Sprache"
-    ]
-  },
-  "17_sachbearbeitung-fes": {
-    "skip_lines": [
-      1,
-      2,
-      3,
-      4
-    ],
-    "spans": [
-      "Veranstaltungsorganisation",
-      "Projektsachbearbeitung",
-      "Finanzsachbearbeitung",
-      "Haushaltsplanung",
-      "Redaktionelle Betreuung der Website",
-      "Verwaltungsaufgaben",
-      "Fachkenntnisse",
-      "EDV-Kenntnisse",
-      "Content Management Systemen",
-      "Videokonferenzsystemen",
-      "Social-Media",
-      "Team- und Kommunikationsfähigkeit",
-      "politischen Verhältnisse in Sachsen-Anhalt"
-    ]
-  },
-  "18_buchhaltung-aurea": {
-    "skip_lines": [
-      1,
-      2
-    ],
+    "skip_lines": [1, 2, 3, 6, 13, 24],
     "block": [
-      {
-        "line": 13,
-        "span": "Bilanz"
-      }
+      { "line": 21, "span": "Produktmanagement" }
     ],
     "spans": [
-      "Planung der Liquidität",
-      "Jahresabschlüssen",
-      "HGB",
-      "Bilanz",
-      "GuV",
-      "BWA",
-      "Konsolidierung",
-      "Konsolidierungen",
-      "Kostenstellenreports",
-      "DATEV",
-      "Excel",
-      "Umsatzsteuervoranmeldungen",
-      "Zusammenfassenden Meldungen",
-      "Intrastat-Meldungen",
-      "Finanzbuchhaltung",
-      "Kontenabstimmungen",
-      "Rückstellungen",
-      "Wertberichtigungen",
-      "Intercompany-Sachverhalten",
-      "Analyse von Finanzdaten",
-      "ERP-System",
-      "Buchhaltung",
-      "Steuerrecht",
-      "Bilanzierung",
-      "Umsatzsteuer",
-      "internationalen Rechnungslegungsvorschriften",
-      "ERP- und Buchhaltungssystemen",
-      "SAP",
-      "Lexware",
-      "Reporting",
-      "Analytisches Denkvermögen",
-      "strukturiertes Arbeiten",
-      "Zahlenaffinität",
-      "Führungserfahrung",
-      "Proaktive und lösungsorientierte Arbeitsweise",
-      "Eigenverantwortung",
-      "Kommunikationsfähigkeiten",
-      "Deutsch",
-      "Englisch"
+      ["K", "Produktstrategie"],
+      ["K", "technische Produktentwicklung"],
+      ["K", "Go-to-Market"],
+      ["S", "Begleitung und Weiterentwicklung unserer Produkte von der Idee bis zur Umsetzung"],
+      ["S", "Übersetzung von Kundenanforderungen, Marktbedarfen und internen Anforderungen in klare Produktanforderungen"],
+      ["S", "Priorisierung von Features und Abstimmung mit Entwicklung, Produktion, Vertrieb und weiteren Stakeholdern"],
+      ["S", "Mitwirkung an Produktstrategie, Roadmaps und Business Cases"],
+      ["K", "Roadmaps"],
+      ["K", "Business Cases"],
+      ["S", "Entwicklung eines konsistenten, zukunftsfähigen Produktportfolios"],
+      ["S", "Bewertung neuer Produktideen, Geschäftsmodelle und Innovationsfelder"],
+      ["S", "Steuerung bereichsübergreifender Initiativen und Priorisierung von Projekten auf Portfolio-Ebene"],
+      ["S", "Optimierung von Go-to-Market-Prozessen"],
+      ["S", "Analyse der Produktperformance sowie Ableitung konkreter Maßnahmen zur Weiterentwicklung"],
+      ["K", "Produktmanagement"],
+      ["S", "Fundiertes Verständnis für Produktstrategie, Marktmechaniken, technische Produktentwicklung und Business Cases"],
+      ["K", "Marktmechaniken"],
+      ["S", "Übersetzung von Anforderungen in umsetzbare Produktlösungen"],
+      ["S", "Strategische und zugleich pragmatische Arbeitsweise"],
+      ["S", "Sehr ausgeprägte kommunikative Fähigkeiten"],
+      ["S", "Projekte selbstständig zu übernehmen und voranzutreiben"]
     ]
   },
+
+  "05_marketing-allrounder-seo": {
+    "skip_lines": [1, 2, 3],
+    "spans": [
+      ["S", "Eigenständige Betreuung und kontinuierliche Optimierung unserer Website"],
+      ["K", "technisches SEO"],
+      ["K", "SEO"],
+      ["K", "On-Page"],
+      ["K", "Content-Strategie"],
+      ["S", "Aufbau und Pflege von Backlinks"],
+      ["S", "Zusammenarbeit mit relevanten Portalen, Verbänden und Kooperationspartnern"],
+      ["S", "Erstellung und Pflege von Website- und Social-Media-Inhalten"],
+      ["S", "Beobachtung von Wettbewerb und Markttrends sowie datenbasierte Ableitung von Handlungsempfehlungen"],
+      ["K", "Online-Marketing"],
+      ["S", "Selbstständige, strukturierte Arbeitsweise"],
+      ["S", "Sicherer Umgang mit gängigen SEO- und Analyse-Tools"],
+      ["K", "SEO- und Analyse-Tools"],
+      ["S", "Kommunikationsstärke in Wort und Schrift"]
+    ]
+  },
+
+  "06_sozialarbeiter-psychosozialer-dienst": {
+    "skip_lines": [1, 2, 3, 13],
+    "spans": [
+      ["S", "Umfassende Beratung und Unterstützung der Patient:innen und deren Angehörigen in sozialrechtlichen Fragestellungen"],
+      ["S", "Beantragung von Leistungen innerhalb der Sozialgesetzbücher"],
+      ["K", "Sozialgesetzbücher"],
+      ["S", "Beratung von Patient:innen und deren Angehörige in Bezug auf die Sicherung der nachstationären Versorgung"],
+      ["S", "Kooperation mit außerklinischen Einrichtungen und Diensten"],
+      ["K", "Sozialgesetzgebung"],
+      ["S", "Zusammenarbeit im multiprofessionellen Team"],
+      ["S", "Empathie und Offenheit für Menschen mit psychischen Erkrankungen"],
+      ["S", "Flexibilität und Belastbarkeit"],
+      ["S", "Strukturierte und zuverlässige Arbeitsweise"],
+      ["S", "lösungsorientiertes, selbstständiges und verantwortungsvolles Arbeiten"]
+    ]
+  },
+
+  "07_heilerziehungspfleger": {
+    "skip_lines": [1, 2, 3],
+    "spans": [
+      ["S", "Betreuung und Entwicklungsbegleitung von Kindern im Alter zwischen 0 Jahren bis Schuleintritt"],
+      ["S", "Gestaltung von pädagogischen Angeboten"],
+      ["S", "Ausflüge organisieren und begleiten"],
+      ["S", "Enge Zusammenarbeit mit den Kollegen sowie den Eltern"],
+      ["S", "Kinder gerne in ihrer Entwicklung unterstützt"],
+      ["S", "Elternarbeit"],
+      ["S", "Dokumentation"],
+      ["S", "Entwicklungsbegleitung"],
+      ["S", "Teamfähigkeit"],
+      ["S", "Kreativität"],
+      ["S", "Zuverlässigkeit"],
+      ["S", "Einfühlungsvermögen"],
+      ["S", "Gute Kommunikationsfähigkeit"]
+    ]
+  },
+
+  "08_sozialpaedagogische-assistenz-krippe": {
+    "skip_lines": [1, 2, 3],
+    "spans": [
+      ["S", "leitest mit einer weiteren päd. Fachkraft eine Gruppe von 10-13 Krippenkindern"],
+      ["S", "betreust diese alters- und zielgruppenspezifisch"],
+      ["S", "päd. Planung und Organisation des Tages"],
+      ["S", "kooperative Zusammenarbeit mit den Eltern"]
+    ]
+  },
+
+  "09_spa-sozialpaedagogischer-assistent": {
+    "skip_lines": [1, 2, 3, 7, 13],
+    "spans": [
+      ["S", "förderst die Kinder im Krippenbereich oder Elementarbereich individuell nach ihren Bedürfnissen"],
+      ["S", "baust eine liebevolle entwicklungsfördernde Beziehung zu den Kindern auf"],
+      ["S", "entwickelst und konzipierst Angebote in deinem eigenen pädagogischen Schwerpunkt"],
+      ["S", "Kinderbetreuung"],
+      ["S", "herzlich, engagiert, offen und ein echter Teamplayer"],
+      ["S", "vertrauensvolle Bezugsperson"]
+    ]
+  },
+
+  "10_pflegefachkraft-senator-neumann-haus": {
+    "skip_lines": [1],
+    "spans": [
+      ["S", "ganzheitliche Pflege im Rahmen des Pflegeprozesses"],
+      ["S", "Medikamentenmanagement"],
+      ["S", "führst Pflegevisiten durch"],
+      ["S", "arbeitest eng mit Kolleg:innen aus unterschiedlichen Berufsgruppen zusammen"],
+      ["S", "unterstützt die Nutzenden dabei, ihre Lebensqualität und Eigenständigkeit zu erhalten und weiterzuentwickeln"],
+      ["S", "berätst und motivierst die von dir begleiteten Menschen im Alltag"],
+      ["S", "Wertschätzende Haltung und Kommunikation"],
+      ["S", "Einfühlungsvermögen"],
+      ["S", "Zusammenarbeit in einem multiprofessionellen Team"]
+    ]
+  },
+
+  "11_mechatroniker": {
+    "skip_lines": [1, 2],
+    "spans": [
+      ["S", "montierst, installierst und nimmst mechatronische Systeme und Anlagen wie Maschinen oder Roboter in Betrieb"],
+      ["S", "stellst mechanische, elektrische und elektronische Komponenten her und baust sie zusammen"],
+      ["S", "programmierst und konfigurierst Steuerungen und Software"],
+      ["S", "führst Messungen, Prüfungen und Fehlerdiagnosen durch"],
+      ["S", "übernimmst die Wartung, Reparaturen und Instandhaltung von Maschinen und Anlagen"],
+      ["S", "liest technische Zeichnungen sowie Schalt- und Montagepläne"],
+      ["S", "Einweisung der Anwender in die Bedienung"],
+      ["S", "Kundenbetreuung"],
+      ["S", "dokumentierst deine Arbeit sorgfältig und nachvollziehbar"],
+      ["K", "Mechanik"],
+      ["K", "Elektronik"],
+      ["K", "Elektrotechnik"],
+      ["K", "Pneumatik"],
+      ["K", "Steuerungs- und Automatisierungstechnik"],
+      ["K", "Mess- und Diagnosesystemen"],
+      ["S", "stabiles technisches Verständnis"],
+      ["S", "handwerklich geschickt, lösungsorientiert und zuverlässig"],
+      ["S", "selbstständige, teamorientierte und verantwortungsbewusste Arbeitsweise"],
+      ["K", "Deutsch"],
+      ["K", "Englischkenntnisse"]
+    ]
+  },
+
+  "12_softwareentwickler": {
+    "skip_lines": [1, 2, 3, 11, 12],
+    "spans": [
+      ["K", "Infrastructure as Code"],
+      ["K", "Cloud-Technologien"],
+      ["K", "Clean Code"],
+      ["K", "moderne Architekturen"],
+      ["K", "KI"],
+      ["K", "Grafana Cloud"],
+      ["K", "Kubernetes"],
+      ["K", "AWS"],
+      ["K", "Terraform"],
+      ["K", "Crossplane"],
+      ["K", "ArgoCD"],
+      ["K", "Tilt"],
+      ["K", "Atlas MongoDB"],
+      ["K", "Spring Boot"],
+      ["K", "Java"],
+      ["K", "Softwareentwicklung"],
+      ["K", "DevOps"],
+      ["S", "Entwicklung und Betrieb einer modernen, cloudbasierten Plattform zur Digitalisierung interner Verwaltungsprozesse"],
+      ["S", "Optimierung der Entwicklungs-, Test- und Produktionsumgebungen"],
+      ["S", "Sicherstellung eines stabilen, sicheren und skalierbaren Betriebs"],
+      ["S", "Eigenverantwortliche Weiterentwicklung fachlicher und technischer Lösungskonzepte"],
+      ["S", "Weiterentwicklung von CI/CD-Pipelines sowie Verbesserung von Build-, Test- und Deployment-Workflows"],
+      ["K", "CI/CD-Pipelines"],
+      ["S", "Umsetzung neuer fachlicher Anforderungen und technischer Schnittstellen in Java-basierten Microservices"],
+      ["K", "Microservices"],
+      ["S", "Aktive Mitgestaltung der Cloud-Architektur und digitalen Plattformen"],
+      ["K", "Cloud-Architektur"],
+      ["S", "Sicherer Umgang mit einer objektorientierten Programmiersprache"],
+      ["K", "objektorientierten Programmiersprache"],
+      ["K", "CI/CD"],
+      ["K", "DevOps-Methoden"],
+      ["K", "Automatisierung"],
+      ["K", "künstlicher Intelligenz"],
+      ["S", "Hohes Maß an Selbstständigkeit, Verantwortungsbewusstsein und Teamfähigkeit"],
+      ["K", "Deutschkenntnisse"]
+    ]
+  },
+
+  "13_fachinformatiker-systemintegration": {
+    "skip_lines": [1, 2, 3, 6],
+    "spans": [
+      ["S", "Administration und Wartung der IT-Systeme unserer Kunden"],
+      ["K", "Server"],
+      ["K", "Netzwerke"],
+      ["K", "Clients"],
+      ["S", "Installation, Konfiguration und Updates von Hardware und Software bei Kunden"],
+      ["K", "Windows Server"],
+      ["K", "Hyper-V"],
+      ["K", "VMware"],
+      ["K", "Microsoft 365"],
+      ["S", "Sicherstellung der IT-Sicherheit bei Kunden durch Implementierung von Firewall-, Backup- und Recovery-Lösungen"],
+      ["K", "IT-Sicherheit"],
+      ["K", "Firewall"],
+      ["K", "Backup"],
+      ["K", "Recovery-Lösungen"],
+      ["S", "Kundensupport und technische Beratung"],
+      ["S", "Planung, Beratung und Durchführung von Backup- und Wiederherstellungsprozessen"],
+      ["S", "Kontinuierliche Anpassung von Sicherheitslösungen gegen Cyberbedrohungen"],
+      ["K", "Active Directory"],
+      ["K", "Virtualisierungstools"],
+      ["K", "IT-Security"],
+      ["K", "VPN"],
+      ["K", "Verschlüsselung"],
+      ["K", "Datenschutzrichtlinien"],
+      ["S", "Selbstständige und strukturierte Arbeitsweise mit hohem Kundenfokus"],
+      ["S", "Kommunikationsstärke"],
+      ["S", "kundenorientierte IT-Lösungen zu entwickeln"],
+      ["K", "Deutsch"]
+    ]
+  },
+
+  "14_it-support": {
+    "skip_lines": [1, 2, 3, 4, 5, 6, 15, 16, 17, 18, 19, 20],
+    "spans": [
+      ["K", "IT Support"],
+      ["K", "Windows Systemen"],
+      ["K", "IT Hardware"],
+      ["S", "Serviceorientierte und lösungsfokussierte Arbeitsweise"],
+      ["S", "Strukturierte Herangehensweise bei technischen Problemen"],
+      ["K", "Deutschkenntnisse"],
+      ["S", "Teamfähigkeit und Kommunikationsstärke"],
+      ["S", "Unterstützung von Anwendern im First und Second Level Support"],
+      ["K", "First und Second Level Support"],
+      ["S", "Analyse und Lösung von Hard und Softwareproblemen"],
+      ["S", "Betreuung von Windows Arbeitsplätzen und Endgeräten"],
+      ["S", "Installation und Konfiguration von Software und Betriebssystemen"],
+      ["S", "Dokumentation aller Vorgänge im Ticketsystem"],
+      ["K", "Ticketsystem"]
+    ]
+  },
+
+  "15_data-engineer": {
+    "skip_lines": [1, 2, 3, 4, 5],
+    "spans": [
+      ["K", "Datenarchitekturen"],
+      ["S", "Konzeption, Umsetzung und dem Betrieb unserer modernen On-Premises-Lakehouse-Architektur"],
+      ["K", "On-Premises-Lakehouse-Architektur"],
+      ["S", "entwickeln, betreiben und optimieren ETL- bzw. Datenpipelines zur Integration und Verarbeitung unterschiedlicher Datenquellen"],
+      ["K", "ETL"],
+      ["K", "Datenpipelines"],
+      ["S", "Weiterentwicklung und Modernisierung bestehender Data-Warehouse-Strukturen"],
+      ["K", "Data-Warehouse-Strukturen"],
+      ["S", "stellen eine hohe Datenqualität und Datenverfügbarkeit sicher"],
+      ["S", "übersetzen Sie fachliche Anforderungen in praktikable Datenlösungen"],
+      ["K", "DevOps-Themen"],
+      ["K", "Data Engineering"],
+      ["S", "Entwicklung und Optimierung von ETL-Prozessen bzw. Datenpipelines"],
+      ["K", "ETL-Prozessen"],
+      ["K", "SQL"],
+      ["S", "Programmierung mit Python"],
+      ["K", "Python"],
+      ["K", "Data-Warehouse"],
+      ["K", "Lakehouse-Architekturen"],
+      ["K", "Snowflake"],
+      ["K", "Apache Iceberg"],
+      ["K", "Trino"],
+      ["K", "Nessie"],
+      ["K", "Lakekeeper"],
+      ["K", "SQLMesh"],
+      ["K", "Linux"],
+      ["K", "GitLab"],
+      ["K", "Oracle"],
+      ["S", "selbstständige, strukturierte und lösungsorientierte Arbeitsweise"],
+      ["K", "Deutsch- und Englischkenntnisse"],
+      ["S", "Zusammenarbeit mit unterschiedlichen Fachbereichen"]
+    ]
+  },
+
+  "16_marketing-manager-hotel": {
+    "skip_lines": [1, 2, 3],
+    "spans": [
+      ["S", "Entwicklung und Umsetzung kreativer Marketingstrategien"],
+      ["S", "Planung, Koordination und Steuerung integrierter Marketingkampagnen"],
+      ["S", "Entwicklung innovativer Konzepte zur Umsatzsteigerung und Gästebindung"],
+      ["S", "Planung und Steuerung von Content-Maßnahmen für digitale Kanäle"],
+      ["S", "Betreuung, Optimierung und Performance-Analyse der Websites und Social-Media-Kanäle"],
+      ["S", "Koordination der Erstellung von Marketingmaterialien"],
+      ["S", "Umsetzung von Fotoshootings, Videoproduktionen und weiteren Kommunikationsmaßnahmen"],
+      ["S", "Aufbau, Pflege und Weiterentwicklung von Beziehungen zu Medienvertretern, Influencern, Agenturen und regionalen Kooperationspartnern"],
+      ["S", "Planung und Umsetzung von Presseveranstaltungen, Hotel-Events und Marketingaktivierungen"],
+      ["S", "Analyse von Markt- und Wettbewerbstrends sowie Identifikation neuer Potenziale"],
+      ["S", "Führung und Entwicklung des Sales & Marketing Coordinators"],
+      ["K", "Markenkommunikation"],
+      ["K", "Storytelling"],
+      ["K", "Marketingtrends"],
+      ["S", "ausgeprägtes Gespür für hochwertige Inhalte sowie eine zielgruppengerechte Ansprache"],
+      ["S", "arbeitest strukturiert, eigenverantwortlich"],
+      ["S", "kommunizierst souverän in deutscher und englischer Sprache"],
+      ["K", "deutscher und englischer Sprache"],
+      ["S", "Kreativität, Organisationsgeschick sowie ein hohes Maß an Eigeninitiative"],
+      ["K", "Microsoft Office"],
+      ["K", "Marketing- und Analysetools"],
+      ["K", "Canva Pro"],
+      ["K", "KI-gestützten Tools"],
+      ["K", "Microsoft Copilot"],
+      ["K", "ChatGPT"]
+    ]
+  },
+
+  "17_sachbearbeitung-fes": {
+    "skip_lines": [1, 2, 3, 4],
+    "spans": [
+      ["S", "Organisatorische Vor- und Nachbereitung von Maßnahmen der politischen Bildung und Beratung"],
+      ["S", "Projektsachbearbeitung"],
+      ["S", "Finanzsachbearbeitung, Haushaltsplanung und -kontrolle"],
+      ["S", "Redaktionelle Betreuung der Website, des Newsletters und der Social-Media-Kanäle"],
+      ["S", "Pflege der Adress-/Teilnehmerdatenbank"],
+      ["S", "Allgemeine Verwaltungsaufgaben"],
+      ["S", "Veranstaltungsorganisation"],
+      ["S", "Finanzsachbearbeitung"],
+      ["S", "Gute Team- und Kommunikationsfähigkeit"],
+      ["K", "EDV-Kenntnisse"],
+      ["K", "Content Management Systemen"],
+      ["K", "Videokonferenzsystemen"],
+      ["K", "Social-Media"],
+      ["K", "politischen Verhältnisse in Sachsen-Anhalt"]
+    ]
+  },
+
+  "18_buchhaltung-aurea": {
+    "skip_lines": [1, 2],
+    "block": [
+      { "line": 13, "span": "Bilanz" }
+    ],
+    "spans": [
+      ["S", "Planung der Liquidität und tägliche Überwachung der Bankkonten"],
+      ["S", "Prüfung von Steuerbescheiden für deutsche Gesellschaften"],
+      ["S", "Sicherstellung termingerechter Vorauszahlungen"],
+      ["S", "Erstellung von Monats-, Quartals- und Jahresabschlüssen nach HGB"],
+      ["K", "HGB"],
+      ["K", "Bilanz"],
+      ["K", "GuV"],
+      ["K", "BWA"],
+      ["S", "Monatliche Konsolidierung auf Gruppenebene"],
+      ["S", "Erstellung von Kostenstellenreports und Führung des Anlagevermögens"],
+      ["K", "DATEV"],
+      ["K", "Excel"],
+      ["S", "Periodengerechte Abgrenzung von Unternehmenskosten"],
+      ["S", "tägliche Buchung von Geschäftsvorfällen"],
+      ["S", "Erstellung und Abgabe von Umsatzsteuervoranmeldungen, Zusammenfassenden Meldungen, Intrastat-Meldungen sowie Kundenlistenjahresmeldungen"],
+      ["S", "Mitarbeit an Projekten zur Optimierung von Geschäftsprozessen"],
+      ["S", "Key-User-Funktion im Bereich Finanzbuchhaltung"],
+      ["K", "Finanzbuchhaltung"],
+      ["S", "Durchführung von Mitarbeiterschulungen"],
+      ["S", "Kontenabstimmungen"],
+      ["S", "abschlusssichere Buchungen im Rahmen des Jahresabschlusses"],
+      ["S", "Bereitstellung aller Haupt- und Nebenbücher für Wirtschaftsprüfer"],
+      ["S", "Begleitung der Inventur"],
+      ["S", "Buchung und Bewertung von Rückstellungen sowie Wertberichtigungen nach HGB"],
+      ["S", "Sachkonten-Mapping für internationale Gesellschaften"],
+      ["S", "Abstimmung von Intercompany-Sachverhalten"],
+      ["S", "Analyse von Finanzdaten"],
+      ["S", "Kontrolle von Betriebskosten und Buchungen auf Sachkostenebene"],
+      ["S", "Erstellung von Umsatzsteuerjahresmeldungen, K-4 Meldungen und Meldungen zur Strukturstatistik"],
+      ["S", "Kommunikation mit Banken"],
+      ["S", "Verwaltung von Perioden im ERP-System"],
+      ["K", "ERP-System"],
+      ["K", "Buchhaltung"],
+      ["K", "Steuerrecht"],
+      ["K", "Bilanzierung"],
+      ["K", "Umsatzsteuer"],
+      ["K", "internationalen Rechnungslegungsvorschriften"],
+      ["K", "ERP- und Buchhaltungssystemen"],
+      ["K", "SAP"],
+      ["K", "Lexware"],
+      ["S", "Sicherer Umgang mit Excel, insbesondere für Konsolidierungen und Reporting"],
+      ["S", "Analytisches Denkvermögen, strukturiertes Arbeiten und Zahlenaffinität"],
+      ["S", "Führungserfahrung"],
+      ["S", "ein Team zu leiten und zu entwickeln"],
+      ["S", "Proaktive und lösungsorientierte Arbeitsweise, hohe Eigenverantwortung"],
+      ["S", "Gute Kommunikationsfähigkeiten in Deutsch und Englisch"],
+      ["K", "Deutsch"],
+      ["K", "Englisch"]
+    ]
+  },
+
   "19_sachbearbeiter-controlling": {
-    "skip_lines": [
-      1
-    ],
+    "skip_lines": [1],
     "spans": [
-      "Stammdaten",
-      "Analyse von Abweichungen",
-      "SAP PS",
-      "SAP-PS-Systems",
-      "Projektauswertungen",
-      "Projektsteuerung",
-      "Statikprüfungen",
-      "Investitionscontrollings",
-      "Budgetplanung",
-      "Sachbearbeitung",
-      "Controlling",
-      "MS Dynamics",
-      "Projektmanagementsysteme",
-      "MS Office",
-      "Deutschkenntnisse",
-      "Eigeninitiative",
-      "selbstständige und strukturierte Arbeitsweise"
+      ["S", "Pflege und Verwaltung von Stammdaten für Investitionsprojekte"],
+      ["S", "Laufende Aktualisierung und Überwachung von Projektständen inklusive Analyse von Abweichungen in SAP PS"],
+      ["K", "SAP PS"],
+      ["S", "Erstellung von Projektauswertungen sowie Ableitung geeigneter Maßnahmen zur gezielten Projektsteuerung"],
+      ["S", "Durchführung von Statikprüfungen, Aktualisierung von Datenbeständen und kontinuierliche Pflege des SAP-PS-Systems"],
+      ["K", "SAP-PS-Systems"],
+      ["S", "Weiterentwicklung und Optimierung des Investitionscontrollings"],
+      ["S", "Unterstützung bei der Budgetplanung sowie Erfassung und Verwaltung von Investitionsaufträgen"],
+      ["K", "Sachbearbeitung"],
+      ["K", "Controlling"],
+      ["K", "MS Dynamics"],
+      ["K", "Projektmanagementsysteme"],
+      ["K", "MS Office"],
+      ["K", "Deutschkenntnisse"],
+      ["S", "Eigeninitiative sowie eine selbstständige und strukturierte Arbeitsweise"]
     ]
   },
+
   "20_pflegefachkraft-remacare": {
-    "skip_lines": [
-      1,
-      2
-    ],
+    "skip_lines": [1, 2],
     "spans": [
-      "Grundpflege",
-      "Behandlungspflege",
-      "Körperpflege",
-      "Mobilisation",
-      "Medikamentengabe",
-      "Wundversorgung",
-      "Blutdruck-, Puls- und Blutzuckerkontrolle",
-      "Portversorgung",
-      "Pflegedokumentation",
-      "Pflegeplanung",
-      "Anleitung und Beratung von Angehörigen",
-      "pflegerische und soziale Kompetenz"
+      ["S", "Durchführung der allgemeinen Grundpflege"],
+      ["S", "Behandlungspflege unserer Klienten"],
+      ["S", "Körperpflege"],
+      ["S", "Mobilisation"],
+      ["S", "Medikamentengabe"],
+      ["S", "Wundversorgung"],
+      ["S", "Blutdruck-, Puls- und Blutzuckerkontrolle"],
+      ["S", "Portversorgung"],
+      ["S", "Pflegedokumentation und Pflegeplanung"],
+      ["S", "Anleitung und Beratung von Angehörigen"],
+      ["S", "Hohe pflegerische und soziale Kompetenz"]
     ]
   },
+
   "21_erzieher": {
-    "skip_lines": [
-      1,
-      2
-    ],
+    "skip_lines": [1, 2],
     "spans": [
-      "Planung und Umsetzung kreativer Spiel- und Lernangebote",
-      "Förderung der individuellen Entwicklung und sozialen Kompetenzen der Kinder",
-      "Gestaltung eines liebevollen und sicheren Umfelds",
-      "Zusammenarbeit mit Eltern und Kolleg:innen",
-      "Dokumentation der pädagogischen Arbeit",
-      "Einfühlungsvermögen",
-      "Geduld",
-      "Verantwortungsbewusstsein",
-      "Teamfähigkeit",
-      "Zuverlässigkeit",
-      "wertschätzende Kommunikation",
-      "Eigeninitiative",
-      "selbstständige und lösungsorientierte Arbeitsweise"
+      ["S", "Planung und Umsetzung kreativer Spiel- und Lernangebote"],
+      ["S", "Förderung der individuellen Entwicklung und sozialen Kompetenzen der Kinder"],
+      ["S", "Gestaltung eines liebevollen und sicheren Umfelds"],
+      ["S", "Enge Zusammenarbeit mit Eltern und Kolleg:innen"],
+      ["S", "Dokumentation der pädagogischen Arbeit und Entwicklungsfortschritte"],
+      ["S", "Begleitung und Förderung von Kindern in ihrer individuellen Entwicklung"],
+      ["S", "Einfühlungsvermögen, Geduld und Verantwortungsbewusstsein"],
+      ["S", "Kreative Ideen"],
+      ["S", "Teamfähigkeit, Zuverlässigkeit und eine wertschätzende Kommunikation"],
+      ["S", "Eigeninitiative sowie eine selbstständige und lösungsorientierte Arbeitsweise"]
     ]
   },
+
   "22_sozialarbeiter-jugendhilfe": {
-    "skip_lines": [
-      1,
-      2
-    ],
+    "skip_lines": [1, 2],
     "spans": [
-      "Gestaltung und Begleitung freizeitpädagogischer Angebote",
-      "Aufbau und Pflege von Kontakten zu Kindern und Jugendlichen",
-      "Beratung und Unterstützung von Kindern, Jugendlichen und jungen Erwachsenen",
-      "Förderung gesundheitsbewussten und verantwortungsvollen Verhaltens",
-      "selbstständigen, eigenverantwortlichen Arbeiten",
-      "konzeptioneller Weiterentwicklung",
-      "Jugendarbeit"
+      ["S", "Gestaltung und Begleitung freizeitpädagogischer Angebote"],
+      ["S", "Aufbau und Pflege von Kontakten zu Kindern und Jugendlichen im öffentlichen Raum"],
+      ["S", "Beratung und Unterstützung von Kindern, Jugendlichen und jungen Erwachsenen in unterschiedlichen Lebenslagen"],
+      ["S", "Förderung gesundheitsbewussten und verantwortungsvollen Verhaltens"],
+      ["S", "Mitwirkung an der Weiterentwicklung konzeptioneller Angebote der Mobilen Beratung"],
+      ["S", "Fähigkeit zum selbstständigen, eigenverantwortlichen Arbeiten"],
+      ["S", "Interesse an konzeptioneller Weiterentwicklung und innovativen Ansätzen in der Jugendarbeit"],
+      ["K", "Jugendarbeit"]
     ]
   },
+
   "23_produktionsmitarbeiter": {
-    "skip_lines": [
-      1
-    ],
+    "skip_lines": [1],
     "spans": [
-      "Produktion",
-      "Handwerkliches Geschick",
-      "technisches Verständnis",
-      "Zuverlässigkeit",
-      "Sorgfalt",
-      "Verantwortungsbewusstsein",
-      "Flexibilität",
-      "Belastbarkeit",
-      "Teamfähigkeit",
-      "Umgang mit modernen Kommunikationsmedien",
-      "EDV-Kenntnisse",
-      "Deutschkenntnisse"
+      ["S", "bestücken, steuern und überwachen unsere Anlagen und Maschinen"],
+      ["S", "verantworten einzelne Produktionsbereiche für die Herstellung von Reinigern und Polituren"],
+      ["S", "stellen Rohstoffe bereit, füllen Materialien nach"],
+      ["K", "Produktion"],
+      ["S", "Handwerkliches Geschick und technisches Verständnis"],
+      ["S", "Zuverlässigkeit, Sorgfalt, Verantwortungsbewusstsein, Flexibilität, Belastbarkeit und Teamfähigkeit"],
+      ["S", "Umgang mit modernen Kommunikationsmedien"],
+      ["K", "EDV-Kenntnisse"],
+      ["K", "Deutschkenntnisse"]
     ]
   },
+
   "24_customer-service-export": {
-    "skip_lines": [
-      1,
-      2,
-      3
-    ],
+    "skip_lines": [1, 2, 3],
     "spans": [
-      "Auftragseingang",
-      "Ticketsystem",
-      "Angebote und Exportdokumente erstellen",
-      "Terminverfolgung",
-      "Englisch",
-      "Technisches Verständnis",
-      "MS-Office",
-      "SAP-Kenntnisse"
+      ["S", "Auftragseingang wird von Ihnen abgewickelt"],
+      ["S", "arbeiten mit einem Ticketsystem"],
+      ["K", "Ticketsystem"],
+      ["S", "Angebote und Exportdokumente erstellen"],
+      ["S", "supporten den Inhouse Sales Manager"],
+      ["S", "Ansprechpartner für die Terminverfolgung"],
+      ["K", "Englisch"],
+      ["S", "Technisches Verständnis"],
+      ["K", "MS-Office"],
+      ["K", "SAP-Kenntnisse"],
+      ["S", "kommunikations- und überzeugungsfähig"]
     ]
   },
+
   "25_personalreferent": {
-    "skip_lines": [
-      1,
-      2,
-      3
-    ],
+    "skip_lines": [1, 2, 3],
     "spans": [
-      "HR-Prozesse",
-      "Rekrutierung",
-      "Mitarbeiterentwicklung",
-      "Personalwesen",
-      "HR-Projekten",
-      "Mitarbeitergesprächen",
-      "Konfliktlösungen",
-      "Mitarbeiterschulungen",
-      "HR-Strategien",
-      "Arbeitsrecht",
-      "HR-Software",
-      "kommunikative Fähigkeiten",
-      "soziale Kompetenz",
-      "Eigenständige und ergebnisorientierte Arbeitsweise",
-      "Teamfähigkeit",
-      "Flexibilität"
+      ["S", "Umfassende Betreuung sämtlicher HR-Prozesse, von der Rekrutierung bis zur Mitarbeiterentwicklung"],
+      ["K", "HR-Prozesse"],
+      ["S", "Sicherstellung der Einhaltung gesetzlicher Vorschriften und Unternehmensrichtlinien im Bereich Personalwesen"],
+      ["K", "Personalwesen"],
+      ["S", "Aktive Mitwirkung an HR-Projekten zur kontinuierlichen Optimierung der Arbeitsabläufe"],
+      ["S", "Durchführung von Mitarbeitergesprächen, Konfliktlösungen und Mitarbeiterschulungen"],
+      ["S", "Unterstützung des Managements bei der Entwicklung und Umsetzung von HR-Strategien"],
+      ["K", "Arbeitsrecht"],
+      ["K", "HR-Software"],
+      ["S", "Ausgeprägte kommunikative Fähigkeiten und hohe soziale Kompetenz"],
+      ["S", "Eigenständige und ergebnisorientierte Arbeitsweise"],
+      ["S", "Teamfähigkeit und Flexibilität"]
     ]
   },
+
   "26_hr-generalist": {
-    "skip_lines": [
-      1,
-      2
-    ],
+    "skip_lines": [1, 2],
     "spans": [
-      "Personalbeschaffung",
-      "Anzeigen- und Bewerbermanagement",
-      "Erstellung von Verträgen, Zeugnissen und Bescheinigungen",
-      "HR-Kennzahlen",
-      "Zusammenarbeit mit dem Betriebsrat",
-      "HR-Projekten",
-      "MS Office",
-      "SAP HR-Kenntnisse",
-      "Englischkenntnisse"
+      ["S", "Hauptansprechpartner in allen Belangen der Personalbeschaffung und -betreuung"],
+      ["S", "verantworten das Anzeigen- und Bewerbermanagement"],
+      ["S", "Erstellung von Verträgen, Zeugnissen und Bescheinigungen"],
+      ["S", "erstellen und analysieren regelmäßig HR-Kennzahlen"],
+      ["K", "HR-Kennzahlen"],
+      ["S", "Zusammenarbeit mit dem Betriebsrat"],
+      ["S", "wirken Sie bei HR-Projekten mit"],
+      ["K", "MS Office"],
+      ["K", "SAP HR-Kenntnisse"],
+      ["K", "Englischkenntnisse"]
     ]
   },
+
   "27_sicherheitsmitarbeiter": {
-    "skip_lines": [
-      1,
-      2,
-      3,
-      5,
-      6
-    ],
+    "skip_lines": [1, 2, 3, 5, 6],
     "spans": [
-      "Kontrollgänge",
-      "Entgegennahme von eingehenden Telefonaten",
-      "Auf- und Verschluss",
-      "technischen Sicherheitseinrichtungen",
-      "Objektbewachung",
-      "PC-Kenntnisse"
+      ["S", "Kontrollgänge"],
+      ["S", "Entgegennahme von eingehenden Telefonaten"],
+      ["S", "Auf- und Verschluss"],
+      ["S", "überwachen die technischen Sicherheitseinrichtungen"],
+      ["S", "zuverlässige Objektbewachung"],
+      ["K", "PC-Kenntnisse"],
+      ["S", "zuverlässig, flexibel und teamfähig"]
     ]
   },
+
   "28_technischer-produktdesigner": {
-    "skip_lines": [
-      1
-    ],
+    "skip_lines": [1],
     "spans": [
-      "technische Zeichnungen",
-      "technischen Zeichnungen",
-      "Baugruppen- und Anordnungszeichnungen",
-      "Schaltpläne",
-      "Konstruktionsvorgaben",
-      "Qualitätsstandards",
-      "Artikelstammdaten",
-      "Stücklisten",
-      "SAP-System",
-      "Zeichnungs- und Stücklistenänderungen",
-      "CAD- und SAP-Systemen",
-      "technische Dokumentation",
-      "technische Dokumentationen",
-      "technische Detaillösungen",
-      "Auswertungen",
-      "Datenaustauschdateien",
-      "technischer Berechnungen",
-      "CAD-Systemen",
-      "Catia V5",
-      "Creo",
-      "SAP",
-      "Technisches Verständnis",
-      "Normen",
-      "Strukturierte, sorgfältige und selbstständige Arbeitsweise",
-      "Teamfähigkeit",
-      "Kommunikationsfähigkeit",
-      "MS-Office-Kenntnisse"
+      ["S", "erstellen technische Zeichnungen, Baugruppen- und Anordnungszeichnungen sowie Schaltpläne"],
+      ["S", "setzen Konstruktionsvorgaben normgerecht um"],
+      ["S", "stellen die Einhaltung von Qualitätsstandards sicher"],
+      ["S", "pflegen Artikelstammdaten, Stücklisten und technische Änderungen im SAP-System"],
+      ["K", "SAP-System"],
+      ["S", "führen Zeichnungs- und Stücklistenänderungen in CAD- und SAP-Systemen durch"],
+      ["K", "CAD- und SAP-Systemen"],
+      ["S", "halten die technische Dokumentation aktuell"],
+      ["S", "entwickeln technische Detaillösungen"],
+      ["S", "wählen geeignete Bauteile sowie Halbzeuge unter technischen und wirtschaftlichen Gesichtspunkten aus"],
+      ["S", "erstellen technische Dokumentationen, Stücklisten, Auswertungen und Datenaustauschdateien"],
+      ["S", "Import, die Prüfung und die Bearbeitung technischer Daten"],
+      ["S", "Durchführung einfacher technischer Berechnungen"],
+      ["S", "Sicherer Umgang mit einem CAD-Systemen"],
+      ["K", "CAD-Systemen"],
+      ["K", "Catia V5"],
+      ["K", "Creo"],
+      ["K", "SAP"],
+      ["S", "Technisches Verständnis und sicherer Umgang mit technischen Zeichnungen und Stücklisten"],
+      ["K", "Normen"],
+      ["K", "Qualitätsstandards"],
+      ["S", "Strukturierte, sorgfältige und selbstständige Arbeitsweise"],
+      ["S", "Teamfähigkeit sowie gute Kommunikationsfähigkeit"],
+      ["K", "MS-Office-Kenntnisse"]
     ]
   },
+
   "29_lagermitarbeiter": {
-    "skip_lines": [
-      1,
-      2,
-      3
-    ],
+    "skip_lines": [1, 2, 3],
     "spans": [
-      "Einlagerung der Fertigwaren",
-      "Umlagerungen zur Optimierung der Lagerbestände",
-      "Umlagerung von Waren zur Optimierung der Lagerbestände",
-      "Verpackung der Fertigwaren",
-      "Verpackung von Fertigwaren",
-      "Pflege und Wartung von Batterien und Gabelstaplern",
-      "Pflege und Wartung von Batterien",
-      "Reinigungstätigkeiten",
-      "sorgfältigen Arbeitsweise",
-      "Kommunikations- und Teamfähigkeit",
-      "Körperliche Fitness",
-      "Belastbarkeit"
+      ["S", "Übernahme und fachgerechte Einlagerung der Fertigwaren aus den Produktionsanlagen"],
+      ["S", "Umlagerungen zur Optimierung der Lagerbestände"],
+      ["S", "Verpackung der Fertigwaren"],
+      ["S", "Pflege und Wartung von Batterien sowie Gabelstaplern"],
+      ["S", "sorgfältigen Arbeitsweise"],
+      ["S", "Übernahme und Einlagerung der Fertigwaren der Produktionsanlagen"],
+      ["S", "Eigenständige Umlagerung von Waren zur Optimierung der Lagerbestände"],
+      ["S", "Verpackung von Fertigwaren"],
+      ["S", "Pflege und Wartung von Batterien und Gabelstaplern"],
+      ["S", "Reinigungstätigkeiten"],
+      ["S", "Hohes Maß an Kommunikations- und Teamfähigkeit"],
+      ["S", "Körperliche Fitness und ein hohes Maß an Belastbarkeit"]
     ]
   },
+
   "30_technischer-projektleiter-elektro": {
-    "skip_lines": [
-      1
-    ],
+    "skip_lines": [1],
     "spans": [
-      "Technische Abwicklung von Kundenverträgen",
-      "technische Koordination",
-      "Spezifikation und Auslegung der Elektro- und Leittechnik",
-      "Erstellung von Ausschreibungsunterlagen",
-      "technischer Dokumentation",
-      "Projektmanagement",
-      "Engineering",
-      "Montage- oder Inbetriebnahmetätigkeiten",
-      "Kraftwerks-, Dampfturbinen- oder Energietechnik",
-      "Englischkenntnisse",
-      "Deutschkenntnisse",
-      "Kommunikations-, Koordinations- und Schnittstellenkompetenz"
+      ["S", "Technische Abwicklung von Kundenverträgen für elektrische und leittechnische Systeme"],
+      ["S", "Verantwortung für die technische Koordination von Generatoren, Transformatoren sowie Mittel- und Hochspannungsschaltanlagen"],
+      ["K", "Mittel- und Hochspannungsschaltanlagen"],
+      ["S", "Spezifikation und Auslegung der Elektro- und Leittechnik"],
+      ["K", "Elektro- und Leittechnik"],
+      ["S", "Erstellung von Ausschreibungsunterlagen, Anfragespezifikationen und auftragsbegleitender technischer Dokumentation"],
+      ["S", "Teilnahme an technischen Kundengesprächen sowie Koordination und Klärung projektspezifischer Fragestellungen"],
+      ["S", "Technische Begleitung und Abnahme des verantworteten Lieferumfangs"],
+      ["K", "Projektmanagement"],
+      ["K", "Engineering"],
+      ["K", "Montage- oder Inbetriebnahmetätigkeiten"],
+      ["K", "Kraftwerks-, Dampfturbinen- oder Energietechnik"],
+      ["K", "Englischkenntnisse"],
+      ["K", "Deutschkenntnisse"],
+      ["S", "ausgeprägte Kommunikations-, Koordinations- und Schnittstellenkompetenz"]
     ]
   }
 }
