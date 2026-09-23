@@ -144,7 +144,9 @@ def main():
               "test": {l: {k: v for k, v in test[l].items() if k != "report"} for l in layers},
               "test_unseen": {l: {"f1": test_unseen[l]["f1"]} for l in layers}}
     (out_dir / f"{cfg['name']}_seed{args.seed}.json").write_text(json.dumps(result, indent=2))
-
+    if args.smoke:
+        print("Smoke-Lauf: Ergebnisse werden nicht in all_runs.csv geschrieben.")
+        return
     csv_path = out_dir / "all_runs.csv"
     row = {"name": cfg["name"], "model": cfg["model"], "decoder": cfg.get("decoder", "crf"),
            "layers": "+".join(layers), "strategy": cfg.get("strategy", "first"),
