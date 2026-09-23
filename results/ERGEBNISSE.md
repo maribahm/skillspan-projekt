@@ -93,12 +93,12 @@ Das stützt die Multi-Task-Entscheidung des Papers.
 ### Nebenbefund: Knowledge ist deutlich leichter als Skill
 
 Knowledge-F1 liegt durchgängig ~13 Punkte über Skill-F1. Erklärung liegt in der
-Spanstruktur des Testsets:
+Spanstruktur des englischen Testsets:
 
 | Layer | Ø Spanlänge | Ein-Token-Spans |
 |---|---|---|
-| SKILL | 6,6 Tokens | 8 % |
-| KNOWLEDGE | 1,4 Tokens | 73 % |
+| SKILL | 3,9 Tokens | 18 % |
+| KNOWLEDGE | 1,8 Tokens | 54 % |
 
 Knowledge-Spans sind meist feste Einzelbegriffe (`Python`, `SAP`, `HGB`), Skill-Spans
 lange Tätigkeitsphrasen. Bei strikter Span-Metrik, die exakte Grenzen verlangt, ist ein
@@ -230,5 +230,5 @@ Produktion, Lager, Sicherheit, Customer Service, Technisches Produktdesign.
 - IAA-Berechnung: `scripts/iaa.py`; Zusammenführung: `scripts/merge_einigung.py`
 - Deutsches Testset (final) im Pipeline-Format: `data/processed_de/test.jsonl`
 - Configs in `configs/`, Trainingsskript `scripts/train.py`
-- Alle Läufe mit `epochs: 12`; frühere Läufe mit abweichendem Budget sind in
-  `results/NOTES.md` vermerkt
+- Alle Läufe mit `epochs: 12`, außer bert_skill mit Seed 3477689 (20 Epochen,
+  Vergleichslauf, siehe Bericht Abschnitt 5.3)
