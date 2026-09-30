@@ -1,6 +1,24 @@
 # Skill Extraction from Job Postings
 Written in German for better understanding
 
+## Bericht
+
+Der vollständige Bericht liegt als `Portfolio_MaribNigina_IE.pdf` im
+Hauptverzeichnis. Er ist auf Englisch verfasst, dieser README auf Deutsch.
+
+Wo die Kapitel im Code stehen:
+
+| Kapitel | im Repository |
+|---|---|
+| 3 – Methode | `src/` (Subword-Alignment, CRF, Multi-Task) |
+| 4 – Daten | `data/`, `DATEN.md`, `scripts/prepare_data.py` |
+| 4.3 – Deutsches Testset | `data/raw_de/`, `data/annotation/` |
+| 5 – Implementierung | `scripts/train.py`, `configs/` |
+| 6 – Ergebnisse | `results/all_runs.csv`, `results/ERGEBNISSE.md` |
+| 7 – Fehleranalyse | `scripts/fehleranalyse.py`, `scripts/lockerer_f1.py`, `fehleranalyse/` |
+
+Alle Zahlen aus Kapitel 6 lassen sich aus `results/all_runs.csv` nachrechnen.
+
 Re-Implementierung von **SkillSpan** (Zhang et al., NAACL 2022) mit eigenen Ablationen und
 einem Zero-Shot-Transfer auf ein selbst annotiertes deutsches Testset.
 
