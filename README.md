@@ -1,4 +1,5 @@
 # Skill Extraction from Job Postings
+Written in German for better understanding
 
 Re-Implementierung von **SkillSpan** (Zhang et al., NAACL 2022) mit eigenen Ablationen und
 einem Zero-Shot-Transfer auf ein selbst annotiertes deutsches Testset.
